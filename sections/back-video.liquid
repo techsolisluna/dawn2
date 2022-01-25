@@ -1,0 +1,191 @@
+{{ 'section-back-video.css' | asset_url | stylesheet_tag }}
+
+{% if section.settings.idvimeo %}
+    {% if section.settings.button_link == blank and section.settings.button_label == blank and section.settings.text == blank and section.settings.title == blank %}
+        <div class="backVideo1">
+            <div class="vimeo-wrapper">
+                <iframe src="https://player.vimeo.com/video/{{ section.settings.idvimeo }}?background=1"
+                        frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            <div class="overlay" style="opacity: 0.{{ section.settings.overlay_opacity }}"><p></p></div>
+        </div>
+    {% else %}
+        <div class="backVideo">
+            <div class="vimeo-wrapper">
+                <iframe src="https://player.vimeo.com/video/{{ section.settings.idvimeo }}?background=1"
+                        frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            <div class="overlay" style="opacity: 0.{{ section.settings.overlay_opacity }}"><p></p></div>
+            <div class="vimeoBoxInfo" style="align-self: {{ section.settings.vertical_align }}; background-color: {{ section.settings.color_videoback }};">
+                {% if section.settings.title != blank %}
+                    <h1 class="vimeoBoxInfoTitle {{ section.settings.heading_size }}" style="color: {{ section.settings.color_text }}">
+                        {{ section.settings.title | escape }}
+                    </h1>
+                {% endif %}
+
+                {%- style -%}
+                    .backVideo .imageBoxInfoDescription p {
+                        color: {{ section.settings.color_text }}!important;
+                    }
+                {%- endstyle -%}
+
+                {% if section.settings.text != blank %}
+                    <div class="imageBoxInfoDescription" id="{{ section.id }}" style="color: {{ section.settings.color_text }}">
+                        {{ section.settings.text }}
+                    </div>
+                {% endif %}
+
+                {% if section.settings.button_link != blank and section.settings.button_label != blank %}
+                    <a href="{{ section.settings.button_link }}" class="vimeoBoxInfoBtn" style="color: {{ section.settings.color_btn_text }}; background: {{ section.settings.color_btn_bg }}">
+                        {{ section.settings.button_label | escape }}
+                    </a>
+                {% endif %}
+            </div>
+        </div>
+    {% endif %}
+{% endif %}
+
+{% schema %}
+{
+    "name": "Vimeo Background Video",
+    "tag": "section",
+    "settings": [
+    {
+        "type": "text",
+        "id": "idvimeo",
+        "label": "ID Vimeo",
+        "default": "184761032"
+    },
+    {
+        "type": "range",
+        "id": "overlay_opacity",
+        "label": {
+            "en": "Overlay opacity"
+        },
+        "min": 0,
+        "max": 99,
+        "step": 1,
+        "unit": "%",
+        "default": 0
+    },
+    {
+        "type": "color",
+        "id": "color_videoback",
+        "label": {
+            "en": "Background color mobile"
+        },
+        "default": "#000"
+    },{
+        "type": "header",
+        "content": {
+            "en": "Text"
+        }
+    },
+    {
+        "type": "text",
+        "id": "title",
+        "label": {
+            "en": "Heading"
+        },
+        "default": "Video Slide"
+    },
+    {
+        "type": "select",
+        "id": "heading_size",
+        "options": [
+          {
+            "value": "h2",
+            "label": "Pequeno"
+          },
+          {
+            "value": "h1",
+            "label": "Médio"
+          },
+          {
+            "value": "h0",
+            "label": "Grande"
+          },
+          {
+            "value": "back-font",
+            "label": "Original"
+          }
+        ],
+        "default": "back-font",
+        "label": "Tamanho da fonte do título"
+    },
+    {
+        "type": "richtext",
+        "id": "text",
+        "label": {
+            "en": "Description"
+        },
+        "default": "<p>Descrição.</p>"
+    },
+    {
+        "type": "color",
+        "id": "color_text",
+        "label": {
+            "en": "Text color"
+        },
+        "default": "#ffffff"
+    },
+    {
+        "type": "text",
+        "id": "button_label",
+        "label": {
+            "en": "Button label"
+        },
+        "default": "Saiba Mais"
+    },
+    {
+        "type": "url",
+        "id": "button_link",
+        "label": {
+            "en": "Button link"
+        },
+        "default": "/"
+    },
+    {
+        "type": "color",
+        "id": "color_btn_bg",
+        "label": {
+            "en": "Background button color"
+        },
+        "default": "#ffffff"
+    },
+    {
+        "type": "color",
+        "id": "color_btn_text",
+        "label": {
+            "en": "Button text color"
+        },
+        "default": "#000000"
+    },
+    {
+        "type": "select",
+        "id": "vertical_align",
+        "options": [
+          {
+            "value": "flex-start",
+            "label": "Top"
+          },
+          {
+            "value": "center",
+            "label": "Center"
+          },
+          {
+            "value": "flex-end",
+            "label": "Bottom"
+          }
+        ],
+        "default": "flex-end",
+        "label": "Vertical align"
+    }
+    ],
+    "presets": [
+        {
+        "name": "Vimeo Background Video"
+        }
+    ]
+}
+{% endschema %}

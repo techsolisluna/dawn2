@@ -1,5 +1,22 @@
 {
   "sections": {
+    "16337573606282280d": {
+      "type": "back-video",
+      "settings": {
+        "idvimeo": "641950689",
+        "overlay_opacity": 0,
+        "color_videoback": "#016fb9",
+        "title": "",
+        "heading_size": "h0",
+        "text": "",
+        "color_text": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "color_btn_bg": "#ffffff",
+        "color_btn_text": "#000000",
+        "vertical_align": "center"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "settings": {
@@ -96,6 +113,7 @@
     }
   },
   "order": [
+    "16337573606282280d",
     "image_banner",
     "rich_text",
     "featured_products",

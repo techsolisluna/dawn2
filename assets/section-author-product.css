@@ -1,0 +1,70 @@
+@media screen and (min-width: 1280px) {
+    .padding1{
+        padding: 5rem 20rem;
+        margin-top: 10rem;
+    }
+}
+
+@media screen and (min-width: 750px) and (max-width: 1279px) {
+    .padding1{
+        padding: 5rem 0;
+        margin-top: 3rem;
+    }
+
+    .justifydiv{
+        justify-content: space-evenly;
+    }
+
+    .authorphoto{
+        max-width: 45% !important;
+        padding: 0;
+    }
+
+    .authordesc{
+        max-width: 35% !important;
+        padding: 0;
+    }
+}
+
+.author-link{
+    text-decoration: none;
+}
+
+.author-link h2{
+    transition: filter 0.1s;
+}
+
+.author-link:hover h2{
+    filter: opacity(0.81);
+}
+
+.author-link .h3{
+    color: rgba(var(--color-link), var(--alpha-link));
+}
+
+.author-link:hover .h3{
+    color: rgb(var(--color-link));
+}
+
+.picture-author-on-product{
+    border-radius: 15px;
+}
+
+@media screen and (max-width: 450px) {
+    
+}
+
+.picture-author-on-product{
+    max-width: 100%;
+} 
+
+.leiamais{
+    color: rgb(var(--color-base-accent-1));
+    text-decoration: none;
+
+    transition: filter 0.1s;
+}
+
+.leiamais:hover{
+    filter: brightness(0.75);
+}

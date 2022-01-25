@@ -51,12 +51,18 @@
         "share"
       ]
     },
+    "author-product": {
+      "type": "author-product",
+      "settings": {
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations"
     }
   },
   "order": [
     "main",
+    "author-product",
     "product-recommendations"
   ]
 }

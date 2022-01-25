@@ -1,0 +1,180 @@
+.backVideo{
+    position: relative;
+    overflow: hidden;
+    height: calc(100vh - 165px);
+    min-height: 500px;
+    max-height: 800px;
+    display: flex;
+    padding: 100px 20px 80px;
+    justify-content: center;
+}
+.backVideo1{
+    position: relative;
+    overflow: hidden;
+    height: calc(100vh - 165px);
+    min-height: 500px;
+    max-height: 800px;
+    display: flex;
+    padding: 100px 20px 80px;
+    justify-content: center;
+}
+.vimeo-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+}
+.vimeo-wrapper iframe {
+    width: 100vw;
+    height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+    min-height: 100vh;
+    min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+    position: absolute;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: #000;
+}
+.vimeoBoxInfo {
+    z-index: 2;
+    text-align: center;
+}
+.vimeoBoxInfoBtn {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    width: auto;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    padding: 8px 15px;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    white-space: normal;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.vimeoBoxInfoTitle {
+    color: #FFF;
+}
+.imageBoxInfoDescription {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.imageBoxInfoDescription p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.back-font{
+    font-size: 30px;
+}
+@media screen and (min-width: 767px) {
+    .vimeoBoxInfo {
+        background: transparent !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    .backVideo {
+        display: flex;
+        flex-direction: column;
+    }
+    .backVideo1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .overlay{
+        display: none;
+    }
+    .vimeo-wrapper {
+        z-index: 2;
+    }
+    .backVideo {
+        max-height: 500px;
+        position: relative;
+        padding: 0;
+    }
+    .backVideo1 {
+        height: 300px;
+        min-height: 300px;
+        position: relative;
+        padding: 0;
+    }
+    .vimeo-wrapper {
+        position: relative;
+        min-height: 300px;
+    }
+    .vimeoBoxInfo {
+        padding: 30px 20px;
+        width: 100%;
+    }
+    .vimeo-wrapper iframe {
+        width: 100vw;
+        height: 56.25vw;
+        min-height: 100vh;
+        min-width: 0;
+        position: absolute;
+    }
+    .vimeoBoxInfoTitle {
+        margin: 0 0 10px;
+    }
+    .imageBoxInfoDescription p {
+        margin: 7px 0;
+    }
+    .vimeoBoxInfoBtn {
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 691px){
+    .backVideo .vimeo-wrapper iframe {
+        min-width: 127vw;
+    }
+    .backVideo1 .vimeo-wrapper iframe {
+        min-width: 100vw;
+    }
+}
+@media screen and (max-width: 545px){
+    .backVideo .vimeo-wrapper iframe {
+        min-width: 153vw;
+    }
+    .backVideo1 .vimeo-wrapper iframe {
+        min-width: 117vw;
+    }
+}
+@media screen and (max-width: 454px){
+    .backVideo .vimeo-wrapper iframe {
+        min-width: 192vw;
+    }
+    .backVideo1 .vimeo-wrapper iframe {
+        min-width: 147vw;
+    }
+}
+@media screen and (max-width: 360px){
+    .backVideo .vimeo-wrapper iframe {
+        min-width: 218vw;
+    }
+    .backVideo1 .vimeo-wrapper iframe {
+        min-width: 167vw;
+    }
+}
