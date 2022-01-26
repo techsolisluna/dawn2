@@ -7,12 +7,14 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text_style": "uppercase",
-            "text": "{{ product.vendor }}"
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
           "type": "custom_liquid",
@@ -28,36 +30,49 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
-          "type": "variant_picker"
+          "type": "variant_picker",
+          "settings": {
+          }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
-          "type": "buy_buttons"
+          "type": "buy_buttons",
+          "settings": {
+          }
         },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "share": {
-          "type": "share"
+          "type": "share",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
-        "subtitle",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
         "share"
-      ]
+      ],
+      "settings": {
+      }
     },
     "author-product": {
       "type": "author-product",
@@ -65,7 +80,9 @@
       }
     },
     "product-recommendations": {
-      "type": "product-recommendations"
+      "type": "product-recommendations",
+      "settings": {
+      }
     }
   },
   "order": [
