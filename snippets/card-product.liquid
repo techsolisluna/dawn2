@@ -132,8 +132,10 @@
                 <span class="visually-hidden">{{ card_product.metafields.reviews.rating_count }} {{ "accessibility.total_reviews" | t }}</span>
               </p>
             {%- endif -%}
-            
-            {% render 'price', product: card_product, price_class: '' %}
+
+            {%- if show_price -%}
+              {% render 'price', product: card_product, price_class: '' %}
+            {%- endif -%} 
           </div>
         </div>     
         <div class="card__badge {{ settings.badge_position }}">
@@ -179,7 +181,9 @@
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
               <div class="caption-with-letter-spacing light">{{ 'products.product.vendor' | t }}</div>
             {%- endif -%}
-            {% render 'price' %}
+            {%- if show_price -%}
+              {% render 'price' %}
+            {%- endif -%}
           </div>
         </div>
       </div>
