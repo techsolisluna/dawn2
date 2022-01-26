@@ -1,0 +1,146 @@
+{
+  "sections": {
+    "1635541925dc256e9a": {
+      "type": "image-banner",
+      "blocks": {
+        "1635541925dc256e9a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1635541925dc256e9a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1635541925dc256e9a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1635541925dc256e9a-0",
+        "1635541925dc256e9a-1",
+        "1635541925dc256e9a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-collection-authors",
+      "settings": {
+      }
+    },
+    "1628041869846d3221": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "1628041869846d3221-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1628041869846d3221-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1628041869846d3221-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "1628041869846d3221-0",
+        "1628041869846d3221-1",
+        "1628041869846d3221-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1635541932056f24ed": {
+      "type": "image-banner",
+      "blocks": {
+        "1635541932056f24ed-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1635541932056f24ed-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1635541932056f24ed-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1635541932056f24ed-0",
+        "1635541932056f24ed-1",
+        "1635541932056f24ed-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "1635541925dc256e9a",
+    "main",
+    "1628041869846d3221",
+    "1635541932056f24ed"
+  ]
+}
