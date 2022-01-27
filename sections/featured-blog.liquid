@@ -49,11 +49,69 @@
           class="blog__posts articles-wrapper grid grid--peek grid--2-col-tablet grid--4-col-desktop slider {% if posts_displayed > 2 %}slider--tablet{% else %}slider--mobile{% endif %}"
           role="list"
         >
-          {%- for article in section.settings.blog.articles limit: section.settings.post_limit -%}
-            <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
-              {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
-            </li>
-          {%- endfor -%}
+          {%- if section.settings.show_related -%}
+            {% assign prodtitle = product.title | downcase %}
+            {% assign postcount = 0 %}
+            {%- for article in section.settings.blog.articles -%}
+              {%- if postcount < section.settings.post_limit -%}
+                {%- for tag in article.tags -%}
+                  {%- if tag == prodtitle -%}
+                    <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                      {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                    </li>
+                    {% assign postcount = postcount | plus: 1 %}
+
+                    {%- if postcount == 1 -%}
+                      {% assign firsttitle = article.title %}
+                    {%- elsif postcount == 2 -%}
+                      {% assign secondtitle = article.title %}
+                    {%- endif -%}
+
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endif -%}
+            {%- endfor -%}
+            {%- if postcount == 0 -%}
+              {%- for article in section.settings.blog.articles limit: section.settings.post_limit -%} 
+                <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                  {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                </li>
+              {%- endfor -%}
+            {%- elsif postcount < section.settings.post_limit -%}
+              {% assign postrest = section.settings.post_limit | minus: postcount %}
+
+              {%- if postcount == 1 -%}
+                {%- for article in section.settings.blog.articles -%} 
+                  {%- if postrest > 0 -%}
+                    {%- if article.title != firsttitle -%}
+                      <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                        {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                      </li>
+                      {% assign postrest = postrest | minus: 1 %}
+                    {%- endif -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- elsif postcount == 2 -%}
+                {%- for article in section.settings.blog.articles -%} 
+                  {%- if postrest > 0 -%} 
+                    {%- if article.title != firsttitle and secondtitle -%}
+                      <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                        {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+                      </li>
+                      {% assign postrest = postrest | minus: 1 %}
+                    {%- endif -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endif -%}
+
+            {%- endif -%}
+          {%- else -%}
+            {%- for article in section.settings.blog.articles limit: section.settings.post_limit -%} 
+              <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="blog__post grid__item article slider__slide slider__slide--full-width">
+                {% render 'article-card', blog: section.settings.blog, article: article, media_aspect_ratio: 1.66, show_image: section.settings.show_image, show_date: section.settings.show_date, show_author: section.settings.show_author, show_excerpt: true %}
+              </li>
+            {%- endfor -%}
+          {%- endif -%}
         </ul>
         {%- if posts_exceed_limit -%}
           <div class="slider-buttons no-js-hidden{% if section.settings.post_limit < 3 %} medium-hide{% endif %}{% if section.settings.post_limit < 2 %} small-hide{% endif %}">
@@ -161,6 +219,12 @@
       "id": "show_date",
       "default": true,
       "label": "t:sections.featured-blog.settings.show_date.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_related",
+      "default": true,
+      "label": "Exibir posts relacionados ao produto"
     },
     {
       "type": "checkbox",
