@@ -56,7 +56,8 @@
                 card_product: block.settings.product,
                 media_aspect_ratio: 'adapt',
                 show_secondary_image: block.settings.second_image,
-                extend_height: true
+                extend_height: true,
+                show_vendor: block.settings.show_vendor
               %}
             {%- when 'collection' -%}
               {% render 'card-collection',
@@ -280,6 +281,12 @@
           "id": "second_image",
           "default": false,
           "label": "t:sections.collage.blocks.product.settings.second_image.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_vendor",
+          "default": true,
+          "label": "Exibir fabricante"
         }
       ]
     },
