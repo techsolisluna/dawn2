@@ -24,24 +24,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
+            "heading_size": "large"
           }
+        },
+        "text": {
+          "type": "text"
         },
         "button": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": ""
           }
         }
       },
       "block_order": [
         "heading",
+        "text",
         "button"
       ],
       "settings": {
@@ -94,7 +95,7 @@
         "padding_bottom": 52
       }
     },
-    "featured_products": {
+    "featured_collection": {
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
@@ -114,13 +115,8 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "video": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
+        "collection-0": {
+          "type": "collection"
         },
         "product": {
           "type": "product",
@@ -129,40 +125,23 @@
             "second_image": false
           }
         },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
+        "collection-1": {
+          "type": "collection"
         }
       },
       "block_order": [
-        "video",
+        "collection-0",
         "product",
-        "collection"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
+        "collection-1"
+      ]
     },
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "heading": ""
       }
     },
-    "multi_column": {
+    "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column1": {
@@ -199,17 +178,11 @@
         "column3"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "title": "",
+        "image_width": "third",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": ""
       }
     }
   },
@@ -217,9 +190,9 @@
     "16337573606282280d",
     "image_banner",
     "rich_text",
-    "featured_products",
+    "featured_collection",
     "collage",
     "video",
-    "multi_column"
+    "multicolumn"
   ]
 }
