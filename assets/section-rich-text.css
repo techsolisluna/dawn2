@@ -56,3 +56,7 @@
 .rich-text__blocks > * + a {
   margin-top: 3rem;
 }
+
+.text-leftalign p{
+  text-align: left !important;
+}
