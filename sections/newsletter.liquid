@@ -28,7 +28,7 @@
         {%- when 'email_form' -%}
           <div {{ block.shopify_attributes }}>
             {% form 'customer', class: 'newsletter-form' %}
-              <input type="hidden" name="contact[tags]" value="newsletter">
+              <input type="hidden" name="contact[tags]" value="{{ block.settings.tag }}">
               <div class="newsletter-form__field-wrapper">
                 <div class="field">
                   <input
@@ -171,7 +171,15 @@
     {
       "type": "email_form",
       "name": "t:sections.newsletter.blocks.email_form.name",
-      "limit": 1
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "tag",
+          "default": "newsletter",
+          "label": "Tag form"
+        }
+      ]
     },
     {
       "type": "@app"

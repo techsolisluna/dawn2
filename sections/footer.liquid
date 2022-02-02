@@ -103,7 +103,7 @@
               <h2 class="footer-block__heading">{{ section.settings.newsletter_heading | escape }}</h2>
             {%- endif -%}
             {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
-              <input type="hidden" name="contact[tags]" value="newsletter">
+              <input type="hidden" name="contact[tags]" value="{{ section.settings.tag }}">
               <div class="newsletter-form__field-wrapper">
                 <div class="field">
                   <input
@@ -558,6 +558,12 @@
       "id": "payment_enable",
       "default": true,
       "label": "t:sections.footer.settings.payment_enable.label"
+    },
+    {
+      "type": "text",
+      "id": "tag",
+      "default": "newsletter",
+      "label": "Tag form"
     },
     {
       "type": "header",
