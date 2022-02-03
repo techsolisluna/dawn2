@@ -93,9 +93,13 @@
   {%- endfor -%}
 
   <div class="article-template__back element-margin-top center">
-    <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
+    <a href="{% if section.settings.link_url == blank %}{{ blog.url }}{% else %}{{ section.settings.link_url }}{% endif %}" class="article-template__link link animate-arrow">
       <span class="icon-wrap">{% render 'icon-arrow' %}</span>
-      {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
+      {% if section.settings.link_text == blank %}
+        {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
+      {% else %}
+        {{ section.settings.link_text }}
+      {% endif %}
     </a>
   </div>
   {%- if blog.comments_enabled? -%}
@@ -291,6 +295,18 @@
   "name": "t:sections.main-article.name",
   "tag": "section",
   "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "link_text",
+      "label": "Texto Back link"
+    },
+    {
+      "type": "url",
+      "id": "link_url",
+      "label": "Url Back link"
+    }
+  ],
   "blocks": [
     {
       "type": "@app"
