@@ -290,7 +290,7 @@
         "heading": "Blog posts",
         "blog": "solisblogluna",
         "post_limit": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "show_image": true,
         "show_date": true,
         "show_related": true,
@@ -363,7 +363,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
