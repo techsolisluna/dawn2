@@ -1,0 +1,148 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+        "link_text": "Voltar",
+        "link_url": "\/"
+      }
+    },
+    "16361491867e1acddf": {
+      "type": "image-with-text",
+      "blocks": {
+        "fa8286f8-7fe4-4b48-b62c-664899b5822c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ebook gratuito<\/p>",
+            "text_style": "uppercase"
+          }
+        },
+        "16361491867e1acddf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quem eu sou no mundo",
+            "text_style": "body"
+          }
+        },
+        "16361491867e1acddf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Este livro é composto por textos selecionados de alunos de escolas públicas baianas que se inscreveram e concorreram no Concurso Quem eu sou no mundo da I Festa Literária Internacional Viva Livro – Literatura como Acolhimento –, evento realizado virtualmente, de 24 a 27 de março de 2021, coordenado pela Solisluna Editora e o Instituto Emília.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16361491867e1acddf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download gratuito",
+            "button_link": "https:\/\/festavivalivro.org"
+          }
+        }
+      },
+      "block_order": [
+        "fa8286f8-7fe4-4b48-b62c-664899b5822c",
+        "16361491867e1acddf-0",
+        "16361491867e1acddf-1",
+        "16361491867e1acddf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/QuemEuSouNoMundo.png",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "image_first"
+      }
+    },
+    "1636147710e7a217d8": {
+      "type": "image-banner",
+      "blocks": {
+        "1636147710e7a217d8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1636147710e7a217d8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1636147710e7a217d8-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1636147710e7a217d8-0",
+        "1636147710e7a217d8-1",
+        "1636147710e7a217d8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_02.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16361491867e1acddf",
+    "1636147710e7a217d8"
+  ]
+}

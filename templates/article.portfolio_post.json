@@ -1,52 +1,48 @@
 {
   "sections": {
-    "cart-items": {
-      "type": "main-cart-items",
-      "settings": {
-        "show_vendor": true
-      }
-    },
-    "cart-footer": {
-      "type": "main-cart-footer",
+    "main": {
+      "type": "main-article",
       "blocks": {
-        "subtotal": {
-          "type": "subtotal",
+        "featured_image": {
+          "type": "featured_image",
           "settings": {
+            "image_height": "adapt"
           }
         },
-        "buttons": {
-          "type": "buttons",
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        },
+        "content": {
+          "type": "content",
           "settings": {
           }
         }
       },
       "block_order": [
-        "subtotal",
-        "buttons"
+        "featured_image",
+        "title",
+        "share",
+        "content"
       ],
       "settings": {
-        "show_cart_note": true
+        "link_text": "Voltar",
+        "link_url": "\/"
       }
     },
-    "featured-products": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Livros em destauqe",
-        "collection": "all",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
-    "1636230617fe35f81c": {
+    "1636150139c39c5190": {
       "type": "image-banner",
       "blocks": {
-        "1636230617fe35f81c-0": {
+        "1636150139c39c5190-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
@@ -54,14 +50,14 @@
             "heading_size": "medium"
           }
         },
-        "1636230617fe35f81c-1": {
+        "1636150139c39c5190-1": {
           "type": "text",
           "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
-        "1636230617fe35f81c-2": {
+        "1636150139c39c5190-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -75,12 +71,12 @@
         }
       },
       "block_order": [
-        "1636230617fe35f81c-0",
-        "1636230617fe35f81c-1",
-        "1636230617fe35f81c-2"
+        "1636150139c39c5190-0",
+        "1636150139c39c5190-1",
+        "1636150139c39c5190-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
@@ -94,10 +90,7 @@
     }
   },
   "order": [
-    "cart-items",
-    "cart-footer",
-    "featured-products",
-    "1636230617fe35f81c"
+    "main",
+    "1636150139c39c5190"
   ]
 }
-

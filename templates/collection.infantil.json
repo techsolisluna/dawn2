@@ -1,0 +1,300 @@
+{
+  "sections": {
+    "16358208545452b044": {
+      "type": "image-banner",
+      "blocks": {
+        "16358208545452b044-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Livros para a infância",
+            "heading_size": "large"
+          }
+        },
+        "16358208545452b044-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16358208545452b044-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16358208545452b044-0",
+        "16358208545452b044-1",
+        "16358208545452b044-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "1632427807e1182f26": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1632427807e1182f26-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Livros para a infância",
+            "heading_size": "h0"
+          }
+        },
+        "1632427807e1182f26-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nossos livros são feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes. São publicações de conteúdos artísticos e literários, com temas sensíveis e instigantes, proporcionando o hábito da leitura e o exercício da curiosidade nas crianças e jovens de todas as idades; dos mais novos que estão começando a ler aos adolescentes em busca de novas aventuras. <\/p>",
+            "left": false
+          }
+        },
+        "1632427807e1182f26-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1632427807e1182f26-0",
+        "1632427807e1182f26-1",
+        "1632427807e1182f26-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "163242760284aa9491": {
+      "type": "image-banner",
+      "blocks": {
+        "163242760284aa9491-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "163242760284aa9491-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "163242760284aa9491-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163242760284aa9491-0",
+        "163242760284aa9491-1",
+        "163242760284aa9491-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_title": false,
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_price": false,
+        "show_rating": false,
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "show_count": true,
+        "collapse_on_larger_devices": false,
+        "author_list": false
+      }
+    },
+    "1632427810ca3691b1": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1632427810ca3691b1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "text_style": "body"
+          }
+        },
+        "1632427810ca3691b1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nossos livros são feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes. São publicações de conteúdos artísticos e literários, com temas sensíveis e instigantes, proporcionando o hábito da leitura e o exercício da curiosidade nas crianças e jovens de todas as idades; dos mais novos que estão começando a ler aos adolescentes em busca de novas aventuras. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1632427810ca3691b1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632427810ca3691b1-0",
+        "1632427810ca3691b1-1",
+        "1632427810ca3691b1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8925_preview.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "image_first"
+      }
+    },
+    "1632618163374bc241": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "1632618163374bc241-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1632618163374bc241-1": {
+          "type": "product",
+          "settings": {
+            "product": "que-bicho-doido",
+            "second_image": true,
+            "image_padding": true,
+            "secondary_background": false,
+            "show_vendor": true
+          }
+        }
+      },
+      "block_order": [
+        "1632618163374bc241-0",
+        "1632618163374bc241-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "1634945791c33b8dce": {
+      "type": "image-banner",
+      "blocks": {
+        "1634945791c33b8dce-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1634945791c33b8dce-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1634945791c33b8dce-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1634945791c33b8dce-0",
+        "1634945791c33b8dce-1",
+        "1634945791c33b8dce-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/02_Melhor.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "16358208545452b044",
+    "1632427807e1182f26",
+    "163242760284aa9491",
+    "banner",
+    "product-grid",
+    "1632427810ca3691b1",
+    "1632618163374bc241",
+    "1634945791c33b8dce"
+  ]
+}

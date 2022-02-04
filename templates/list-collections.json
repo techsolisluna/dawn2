@@ -2,12 +2,55 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
-        "image_ratio": "square"
+        "title": "Coleções",
+        "sort": "alphabetical",
+        "image_ratio": "adapt",
+        "color_scheme": "accent-1",
+        "image_padding": false
+      }
+    },
+    "163616736313c5d997": {
+      "type": "collection-list",
+      "blocks": {
+        "163616736313c5d997-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "infantil"
+          }
+        },
+        "163616736313c5d997-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cultura-afrobrasileira"
+          }
+        },
+        "163616736313c5d997-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "literatura"
+          }
+        }
+      },
+      "block_order": [
+        "163616736313c5d997-0",
+        "163616736313c5d997-1",
+        "163616736313c5d997-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_ratio": "square",
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "163616736313c5d997"
   ]
 }
+

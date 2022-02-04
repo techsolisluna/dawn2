@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "1636147206b07c66fd": {
+      "type": "image-banner",
+      "blocks": {
+        "1636147206b07c66fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Juvenil",
+            "heading_size": "large"
+          }
+        },
+        "1636147206b07c66fd-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1636147206b07c66fd-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1636147206b07c66fd-0",
+        "1636147206b07c66fd-1",
+        "1636147206b07c66fd-2"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/capa_02.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_price": true,
+        "show_rating": false,
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "show_count": false,
+        "collapse_on_larger_devices": false,
+        "author_list": false
+      }
+    }
+  },
+  "order": [
+    "1636147206b07c66fd",
+    "banner",
+    "product-grid"
+  ]
+}

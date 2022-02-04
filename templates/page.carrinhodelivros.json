@@ -1,0 +1,508 @@
+{
+  "sections": {
+    "1636031442942a8815": {
+      "type": "image-banner",
+      "blocks": {
+        "1636031442942a8815-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1636031442942a8815-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1636031442942a8815-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1636031442942a8815-0",
+        "1636031442942a8815-1",
+        "1636031442942a8815-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false
+      }
+    },
+    "163467767085ebbfa0": {
+      "type": "rich-text",
+      "blocks": {
+        "163467767085ebbfa0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A nossa intenção é formar leitores e oferecer livros de qualidade superior para todas as pessoas em todos os lugares do Brasil.",
+            "heading_size": "h1"
+          }
+        },
+        "163467767085ebbfa0-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "163467767085ebbfa0-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163467767085ebbfa0-0",
+        "163467767085ebbfa0-1",
+        "163467767085ebbfa0-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "163467672240492ce2": {
+      "type": "image-banner",
+      "blocks": {
+        "163467672240492ce2-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "163467672240492ce2-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "163467672240492ce2-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163467672240492ce2-0",
+        "163467672240492ce2-1",
+        "163467672240492ce2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20170812_132707529_b.jpg",
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1634677803fd0d6aed": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634677803fd0d6aed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Como surgiu?",
+            "text_style": "body"
+          }
+        },
+        "1634677803fd0d6aed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A ideia do Carrinho de Livros nasceu na <strong>Solisluna Design Editora<\/strong> no final de 2014 a partir da necessidade de levar os livros gerados na editora para mais lugares e pessoas.<\/p><p>Inicialmente fomos para vários lugares em Salvador e região metropolitana e depois para o Recôncavo Baiano, na cidade histórica de Cachoeira.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1634677803fd0d6aed-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634677803fd0d6aed-0",
+        "1634677803fd0d6aed-1",
+        "1634677803fd0d6aed-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5f051625c84aef294b80abe3_carrinho-faroldabarra-byelaine.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "schema_color": false,
+        "color_back": "#d1dde6",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "image_first"
+      }
+    },
+    "163467599486fa2207": {
+      "type": "image-with-text",
+      "blocks": {
+        "163467599486fa2207-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prêmio IPL  Retratos da Leitura 2017",
+            "text_style": "body"
+          }
+        },
+        "163467599486fa2207-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O <strong>Carrinho de Livros Solisluna <\/strong>recebeu o importante prêmio promovido pelo IPL (Instituto Pró-Livro) para projetos que contribuem com a formação de leitores no Brasil. O IPL une as três maiores entidades representativas do livro no país. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "163467599486fa2207-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Leia",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163467599486fa2207-0",
+        "163467599486fa2207-1",
+        "163467599486fa2207-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/carrinho_premio.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "text_first"
+      }
+    },
+    "1634673250c134bf7c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634673250c134bf7c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bons livros no caminho de todas e todos",
+            "text_style": "body"
+          }
+        },
+        "1634673250c134bf7c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O Carrinho de Livros já circulou por praças, praias, escolas em diversos bairros e regiões da cidade. Espaços públicos ou privados<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1634673250c134bf7c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634673250c134bf7c-0",
+        "1634673250c134bf7c-1",
+        "1634673250c134bf7c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_5687.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "image_first"
+      }
+    },
+    "16346798122107d039": {
+      "type": "image-with-text",
+      "blocks": {
+        "16346798122107d039-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Livro é pop!",
+            "text_style": "body"
+          }
+        },
+        "16346798122107d039-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Livros em meio a uma multidão?  Inusitado?! Não para o Ca(r)rinho! <br\/>Os livros precisam estar no caminho das pessoas, no dia-a-dia de cada um.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16346798122107d039-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16346798122107d039-0",
+        "16346798122107d039-1",
+        "16346798122107d039-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/carrinhodelivros_0272f469-3547-417f-aa0b-7050495b3a3d.gif",
+        "product_img": false,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "layout": "text_first"
+      }
+    },
+    "1634684593dafa7a50": {
+      "type": "rich-text",
+      "blocks": {
+        "1634684593dafa7a50-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"É preciso que a leitura seja um ato de amor\"",
+            "heading_size": "h2"
+          }
+        },
+        "1634684593dafa7a50-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8086559a-0d21-4ac7-ac61-dcd89df703cc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Paulo Freire<\/strong><\/p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "1634684593dafa7a50-0",
+        "1634684593dafa7a50-2",
+        "8086559a-0d21-4ac7-ac61-dcd89df703cc"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "16346798219733e568": {
+      "type": "image-banner",
+      "blocks": {
+        "16346798219733e568-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16346798219733e568-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16346798219733e568-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16346798219733e568-0",
+        "16346798219733e568-1",
+        "16346798219733e568-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_20170812_132343807_b_1.jpg",
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1634677675f0ed04c7": {
+      "type": "newsletter",
+      "blocks": {
+        "1634677675f0ed04c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "O Carrinho de Livros perto de você!"
+          }
+        },
+        "f9856c03-1466-4c94-baad-3659f0ad5953": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634677675f0ed04c7-0",
+        "f9856c03-1466-4c94-baad-3659f0ad5953"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
+    "1634674674cb030e3c": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3903.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "163554597235f78704": {
+      "type": "image-banner",
+      "blocks": {
+        "163554597235f78704-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "163554597235f78704-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "163554597235f78704-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163554597235f78704-0",
+        "163554597235f78704-1",
+        "163554597235f78704-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "1636031442942a8815",
+    "main",
+    "163467767085ebbfa0",
+    "163467672240492ce2",
+    "1634677803fd0d6aed",
+    "163467599486fa2207",
+    "1634673250c134bf7c",
+    "16346798122107d039",
+    "1634684593dafa7a50",
+    "16346798219733e568",
+    "1634677675f0ed04c7",
+    "1634674674cb030e3c",
+    "163554597235f78704"
+  ]
+}
