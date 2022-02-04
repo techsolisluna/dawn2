@@ -38,12 +38,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Textura_Oxalufa_site.png",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-start",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -81,7 +79,6 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": true,
         "show_collection_image": false
       }
@@ -92,8 +89,6 @@
         "products_per_page": 12,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -110,8 +105,7 @@
         "16347377538d42acb4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Edsoleda",
-            "text_style": "body"
+            "heading": "Edsoleda"
           }
         },
         "16347377538d42acb4-1": {
@@ -128,26 +122,23 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/edsoleda_1.jpg",
-        "product_img": false,
         "height": "small",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "radial-gradient(rgba(255, 255, 255, 1), rgba(120, 196, 245, 1) 100%)",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "16347377887f406d0b": {
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/Capas_Colecao_2020.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -167,8 +158,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Preparamos três opções para você escolher!<\/p>",
-            "left": false
+            "text": "<p>Preparamos três opções para você escolher!<\/p>"
           }
         },
         "1634739736bb3da097-2": {
@@ -201,9 +191,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/borboletas03-001_pq.png",
             "title": "UMA HISTÓRIA",
-            "text": "<p>Para quem prefere completar a coleção aos poucos.<\/p><p><\/p><p><strong>R$59,90 <\/strong><\/p>",
-            "button_label": "Escolher",
-            "button_link": "#ProductGridContainer"
+            "text": "<p>Para quem prefere completar a coleção aos poucos.<\/p><p><\/p><p><strong>R$59,90 <\/strong><\/p>"
           }
         },
         "1634739830ff475eea-1": {
@@ -212,9 +200,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/borboletas03-002_pq.png",
             "title": "KIT TRÊS HISTÓRIAS",
-            "text": "<p>Adquira três livros da coleção<br\/>Lendas Africanas dos Orixás.<\/p><p>De R$179,70 por<strong> R$134,70<\/strong><\/p>",
-            "button_label": "Escolher",
-            "button_link": "#ProductGridContainer"
+            "text": "<p>Adquira três livros da coleção<br\/>Lendas Africanas dos Orixás.<\/p><p>De R$179,70 por<strong> R$134,70<\/strong><\/p>"
           }
         },
         "1634739830ff475eea-2": {
@@ -222,9 +208,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
             "title": "COLEÇÃO COMPLETA",
-            "text": "<p>Os 10 livros da coleção Lendas Africanas<br\/>+ brinde surpresa<br\/><br\/><em>De R$599<\/em> <br\/>por R$397<\/p>",
-            "button_label": "Comprar",
-            "button_link": "https:\/\/seguro.solisluna.com.br\/r\/FA37NDVLW2,E39H908LJ0,HR18F6J1DX,OYNR89IB9H,GAL428GFI5,NDG9H3CYKM,45WYS4RJ39,9HEOOXSQWD"
+            "text": "<p>Os 10 livros da coleção Lendas Africanas<br\/>+ brinde surpresa<br\/><br\/><em>De R$599<\/em> <br\/>por R$397<\/p>"
           }
         }
       },
@@ -249,12 +233,10 @@
       "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/galerialogopng_black_banner.png",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -298,12 +280,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Oxumare_20_faixa_screen.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -391,8 +371,6 @@
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
       }

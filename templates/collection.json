@@ -3,7 +3,6 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": true,
         "show_collection_description": true,
         "show_collection_image": false
       }
@@ -14,8 +13,6 @@
         "products_per_page": 16,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -32,4 +29,3 @@
     "product-grid"
   ]
 }
-

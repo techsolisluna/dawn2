@@ -37,12 +37,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo.jpg",
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "show_text_box": false,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -51,7 +49,6 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
         "show_collection_image": false
       }
@@ -62,8 +59,6 @@
         "products_per_page": 12,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -112,12 +107,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_Oxumare_b.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -130,8 +123,7 @@
         "1635598675d65b2091-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "text_style": "body"
+            "heading": "Image with text"
           }
         },
         "1635598675d65b2091-1": {
@@ -155,14 +147,13 @@
         "1635598675d65b2091-2"
       ],
       "settings": {
-        "product_img": false,
         "height": "adapt",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "1634754900e8970d80": {
@@ -203,12 +194,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo.jpg",
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true

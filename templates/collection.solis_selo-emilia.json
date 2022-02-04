@@ -36,12 +36,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_02.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": false,
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -61,8 +59,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text",
-            "text_style": "body"
+            "heading": "Image with text"
           }
         },
         "1636305427ae379b7e-1": {
@@ -88,14 +85,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/marcas.png",
-        "product_img": false,
         "height": "large",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "163623246502d067a6": {
@@ -104,8 +100,7 @@
         "163623246502d067a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>",
-            "left": true
+            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>"
           }
         },
         "163623246502d067a6-0": {
@@ -138,7 +133,6 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
         "show_collection_image": false
       }
@@ -154,8 +148,6 @@
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
         "show_rating": false
       }
@@ -166,8 +158,6 @@
         "products_per_page": 12,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -249,12 +239,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_02.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": false,
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
         "show_text_below": false

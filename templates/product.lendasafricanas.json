@@ -17,12 +17,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Textura_Oxalufa_site.png",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": false,
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -90,9 +88,9 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Características",
+            "icon": "ruler",
             "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
-            "page": "",
-            "icon": "ruler"
+            "page": ""
           }
         },
         "description": {
@@ -105,9 +103,9 @@
           "disabled": true,
           "settings": {
             "heading": "Versão digital",
+            "icon": "check_mark",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": ""
           }
         },
         "share": {
@@ -177,8 +175,7 @@
         "1632621267a9cdb8f8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Comece a ler",
-            "text_style": "body"
+            "heading": "Comece a ler"
           }
         },
         "1632621267a9cdb8f8-1": {
@@ -203,14 +200,13 @@
       ],
       "settings": {
         "image": "{{ product.metafields.my_fields.picture_on_hand.value }}",
-        "product_img": true,
         "height": "small",
+        "layout": "image_first",
         "color_scheme": "background-2",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "16326202476377d29f": {
@@ -251,12 +247,10 @@
       ],
       "settings": {
         "image": "{{ product.metafields.my_fields.banner.value }}",
-        "image_height": "medium",
-        "product_banner": true,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -272,8 +266,6 @@
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
         "show_rating": false
       }
@@ -282,12 +274,10 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/Capas_Colecao_2020.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -307,8 +297,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Conheça a coleção completa<\/p>",
-            "left": false
+            "text": "<p>Conheça a coleção completa<\/p>"
           }
         },
         "1634783332ed46e0fa-2": {
@@ -368,12 +357,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/verniz-oxalufa.png",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": false,
         "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -389,7 +376,6 @@
         "show_date": true,
         "show_related": true,
         "show_author": false,
-        "soft_background": true,
         "show_view_all": false
       }
     },
@@ -399,8 +385,6 @@
         "heading": "Outros livros que você também pode gostar",
         "image_ratio": "adapt",
         "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
         "show_rating": false
       }

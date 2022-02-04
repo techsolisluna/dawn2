@@ -37,12 +37,10 @@
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/capa_02.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": false,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -51,7 +49,6 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
         "show_collection_image": false
       }
@@ -62,8 +59,6 @@
         "products_per_page": 16,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
