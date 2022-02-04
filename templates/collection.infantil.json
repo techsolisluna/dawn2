@@ -14,7 +14,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "16358208545452b044-2": {
@@ -38,10 +39,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
@@ -80,7 +85,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "163242760284aa9491": {
@@ -98,7 +105,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "163242760284aa9491-2": {
@@ -123,9 +131,13 @@
         "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -134,7 +146,8 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "product-grid": {
@@ -150,6 +163,8 @@
         "enable_sorting": false,
         "show_count": true,
         "collapse_on_larger_devices": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "author_list": false
       }
     },
@@ -160,7 +175,8 @@
         "1632427810ca3691b1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Image with text",
+            "heading_size": "h1"
           }
         },
         "1632427810ca3691b1-1": {
@@ -185,13 +201,21 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_8925_preview.jpg",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
-        "color_text": "#000000"
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1632618163374bc241": {
@@ -222,7 +246,10 @@
       "settings": {
         "heading": "Multimedia collage",
         "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634945791c33b8dce": {
@@ -240,7 +267,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1634945791c33b8dce-2": {
@@ -265,9 +293,13 @@
         "image": "shopify:\/\/shop_images\/02_Melhor.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
