@@ -42,12 +42,12 @@
 
   .banner--medium.banner--mobile-bottom:not(.banner--adapt) .banner__media,
   .banner--medium.banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt) > .banner__media {
-    height: 34rem;
+    height: 24rem;
   }
 
   .banner--large.banner--mobile-bottom:not(.banner--adapt) .banner__media,
   .banner--large.banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt) > .banner__media {
-    height: 39rem;
+    height: 34rem;
   }
 
   .banner--small:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {
@@ -55,11 +55,11 @@
   }
 
   .banner--medium:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {
-    min-height: 34rem;
+    min-height: 24rem;
   }
 
   .banner--large:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {
-    min-height: 39rem;
+    min-height: 34rem;
   }
 }
 
@@ -69,15 +69,15 @@
   }
 
   .banner--small:not(.banner--adapt) {
-    min-height: 12rem;
+    min-height: 11rem;
   }
 
   .banner--medium:not(.banner--adapt) {
-    min-height: 56rem;
+    min-height: 31rem;
   }
 
   .banner--large:not(.banner--adapt) {
-    min-height: 72rem;
+    min-height: 60rem;
   }
 
   .banner__content.banner__content--top-left {
