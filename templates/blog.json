@@ -35,7 +35,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1635546329416ecc63": {
@@ -45,7 +47,8 @@
         "1635546329416ecc63-0": {
           "type": "heading",
           "settings": {
-            "heading": "Especialistas em projetos de alta complexidade"
+            "heading": "Especialistas em projetos de alta complexidade",
+            "heading_size": "h1"
           }
         },
         "1635546329416ecc63-1": {
@@ -70,13 +73,21 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/edsoelda_5-001_51dc3abe-3d75-457b-93a2-bac530650c31.png",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#0067ac",
         "gradient_back": "",
-        "color_text": "#ffe400"
+        "color_text": "#ffe400",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -86,7 +97,9 @@
         "show_image": true,
         "image_height": "adapt",
         "show_date": false,
-        "show_author": false
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1635546295ae0e58ef": {
@@ -104,7 +117,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1635546295ae0e58ef-2": {
@@ -128,10 +142,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
