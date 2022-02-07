@@ -77,12 +77,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true

@@ -14,7 +14,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1635820484d173bb23-2": {
@@ -37,13 +38,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_01.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
@@ -62,8 +65,7 @@
         "163581983464965c20-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left": false
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "163581983464965c20-2": {
@@ -82,15 +84,18 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "product-grid": {
@@ -99,8 +104,6 @@
         "products_per_page": 16,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -108,6 +111,8 @@
         "enable_sorting": false,
         "show_count": false,
         "collapse_on_larger_devices": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "author_list": false
       }
     },
@@ -125,7 +130,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1636169512505a7356-2": {
@@ -148,13 +154,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }

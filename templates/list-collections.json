@@ -6,9 +6,7 @@
       "settings": {
         "title": "Coleções",
         "sort": "alphabetical",
-        "image_ratio": "adapt",
-        "color_scheme": "accent-1",
-        "image_padding": false
+        "image_ratio": "adapt"
       }
     },
     "163616736313c5d997": {
@@ -43,7 +41,6 @@
         "image_ratio": "square",
         "color_scheme": "accent-1",
         "swipe_on_mobile": false,
-        "image_padding": false,
         "show_view_all": false
       }
     }
@@ -53,4 +50,3 @@
     "163616736313c5d997"
   ]
 }
-

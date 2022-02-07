@@ -38,12 +38,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -63,8 +61,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left": false
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "16347613382e251593-2": {
@@ -99,8 +96,7 @@
         "163606406040c32a48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Atenção no design e nas artes gráficas",
-            "text_style": "body"
+            "heading": "Atenção no design e nas artes gráficas"
           }
         },
         "163606406040c32a48-1": {
@@ -126,14 +122,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/5be0be8a6bff6278ef8b29fa_13707626_1216316771721389_7728690323196855965_n.jpg",
-        "product_img": false,
         "height": "adapt",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#000000",
         "gradient_back": "",
-        "color_text": "#ffffff",
-        "layout": "image_first"
+        "color_text": "#ffffff"
       }
     },
     "1636064642e6d007b2": {
@@ -148,8 +143,7 @@
         "16360646291a3707f8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Publicações institucionais",
-            "text_style": "body"
+            "heading": "Publicações institucionais"
           }
         },
         "16360646291a3707f8-1": {
@@ -166,14 +160,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/5f009654169298152932aeee_Plantas-Medicinais.jpg",
-        "product_img": false,
         "height": "adapt",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#f3eedd",
         "gradient_back": "",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "16360808900d59ac2c": {
@@ -214,12 +207,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/5be425bab64f09d312c14806_Gravura_barcos.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -264,12 +255,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -288,8 +277,7 @@
         "163475817845dfb954-0": {
           "type": "heading",
           "settings": {
-            "heading": "Solisluna Editora",
-            "text_style": "body"
+            "heading": "Solisluna Editora"
           }
         },
         "163475817845dfb954-1": {
@@ -316,14 +304,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/4945762727_f42883e16d_o_grande_92c63d24-b346-49dd-adc5-ea3cb3df2040.jpg",
-        "product_img": false,
         "height": "adapt",
+        "layout": "image_first",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#d1dde6",
         "gradient_back": "",
-        "color_text": "#000000",
-        "layout": "image_first"
+        "color_text": "#000000"
       }
     },
     "163475921765f646f0": {
@@ -332,8 +319,7 @@
         "a80513c3-b551-438c-901b-1f94c9558894": {
           "type": "text",
           "settings": {
-            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>",
-            "left": true
+            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>"
           }
         },
         "163475921765f646f0-0": {
@@ -391,12 +377,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": false,
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -408,8 +392,7 @@
         "163606552717adfdda-0": {
           "type": "heading",
           "settings": {
-            "heading": "Presença nacional e internacional",
-            "text_style": "body"
+            "heading": "Presença nacional e internacional"
           }
         },
         "163606552717adfdda-1": {
@@ -435,14 +418,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Solisluna-EmbaixadaDaIndia.jpg",
-        "product_img": false,
         "height": "adapt",
+        "layout": "text_first",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#e03f03",
         "gradient_back": "",
-        "color_text": "#ffffff",
-        "layout": "text_first"
+        "color_text": "#ffffff"
       }
     },
     "1634764271d599620a": {
@@ -483,12 +465,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -507,8 +487,7 @@
         "16347634646ded7396-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>",
-            "left": false
+            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>"
           }
         },
         "16347634646ded7396-2": {
@@ -539,9 +518,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14468768_1277144488971950_5980506223533247554_o.jpg",
             "title": "Valéria Pergentino",
-            "text": "<p>Nossa incansável editora. <em>G<\/em>osta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>Nossa incansável editora. <em>G<\/em>osta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>"
           }
         },
         "1634759716c25d2926-2": {
@@ -549,9 +526,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/94257323_3223095451043110_3793037772609028096_n.jpg",
             "title": "Enéas Guerra",
-            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>"
           }
         }
       },
@@ -578,9 +553,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>"
           }
         },
         "163606552460228c2a-0": {
@@ -588,9 +561,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. <br\/>Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. <br\/>Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>"
           }
         },
         "163606552460228c2a-2": {
@@ -598,9 +569,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
             "title": "Vinicius Maciel",
-            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>"
           }
         }
       },
@@ -664,12 +633,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
         "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "show_text_box": true,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": true

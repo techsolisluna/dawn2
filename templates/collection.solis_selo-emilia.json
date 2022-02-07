@@ -13,7 +13,8 @@
         "163621534324110d9f-1": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "",
+            "text_style": "body"
           }
         },
         "163621534324110d9f-2": {
@@ -36,13 +37,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_02.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
@@ -50,7 +53,10 @@
     "16363227896cc19ea0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>"
+        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1636305427ae379b7e": {
@@ -62,7 +68,7 @@
           "disabled": true,
           "settings": {
             "heading": "Image with text",
-            "text_style": "body"
+            "heading_size": "h1"
           }
         },
         "1636305427ae379b7e-1": {
@@ -90,12 +96,19 @@
         "image": "shopify:\/\/shop_images\/marcas.png",
         "product_img": false,
         "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
         "color_text": "#000000",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163623246502d067a6": {
@@ -104,8 +117,7 @@
         "163623246502d067a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>",
-            "left": true
+            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>"
           }
         },
         "163623246502d067a6-0": {
@@ -132,15 +144,18 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "1641660934aba29122": {
@@ -150,14 +165,15 @@
         "title": "",
         "collection": "livros-em-parceria-com-o-selo-emilia",
         "products_to_show": 12,
+        "color_scheme": "background-1",
         "show_view_all": true,
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
-        "show_rating": false
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -166,8 +182,6 @@
         "products_per_page": 12,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -175,6 +189,8 @@
         "enable_sorting": false,
         "show_count": false,
         "collapse_on_larger_devices": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "author_list": false
       }
     },
@@ -208,7 +224,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1636215496e6c0ddce": {
@@ -226,7 +244,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1636215496e6c0ddce-2": {
@@ -249,13 +268,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_02.jpg",
-        "image_height": "medium",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }

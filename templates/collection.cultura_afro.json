@@ -14,7 +14,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": ""
+            "text": "",
+            "text_style": "body"
           }
         },
         "16347552980e04f349-2": {
@@ -37,23 +38,26 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo.jpg",
-        "image_height": "small",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_title": false,
         "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "product-grid": {
@@ -62,8 +66,6 @@
         "products_per_page": 12,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
@@ -71,6 +73,8 @@
         "enable_sorting": false,
         "show_count": true,
         "collapse_on_larger_devices": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "author_list": false
       }
     },
@@ -89,7 +93,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1634755202fc07ba2b-2": {
@@ -112,13 +117,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_Oxumare_b.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -131,7 +138,7 @@
           "type": "heading",
           "settings": {
             "heading": "Image with text",
-            "text_style": "body"
+            "heading_size": "h1"
           }
         },
         "1635598675d65b2091-1": {
@@ -157,12 +164,19 @@
       "settings": {
         "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
         "color_text": "#000000",
-        "layout": "image_first"
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634754900e8970d80": {
@@ -180,7 +194,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1634754900e8970d80-2": {
@@ -203,13 +218,15 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
