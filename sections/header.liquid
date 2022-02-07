@@ -67,12 +67,12 @@
 </style>
 
 {%- style -%}
-  .section-header {
+  .section-header1 {
     margin-bottom: {{ section.settings.margin_bottom | times: 0.75 | round: 0 }}px;
   }
 
   @media screen and (min-width: 750px) {
-    .section-header {
+    .section-header1 {
       margin-bottom: {{ section.settings.margin_bottom }}px;
     }
   }
@@ -661,7 +661,7 @@
 {% schema %}
 {
   "name": "t:sections.header.name",
-  "class": "section-header",
+  "class": "section-header1",
   "settings": [
     {
       "type": "select",
