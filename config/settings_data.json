@@ -2,16 +2,21 @@
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#e03f03",
+    "gradient_accent_1": "linear-gradient(37deg, rgba(255, 145, 66, 1), rgba(251, 102, 58, 1) 24%, rgba(240, 57, 72, 1) 49%, rgba(243, 35, 79, 1) 90%)",
     "colors_accent_2": "#334FB4",
-    "colors_text": "#121212",
-    "colors_outline_button_labels": "#121212",
+    "colors_text": "#181600",
+    "colors_outline_button_labels": "#0067ac",
     "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
-    "type_body_font": "assistant_n4",
+    "colors_background_2": "#e9cdd0",
+    "type_header_font": "serif",
+    "type_body_font": "sans-serif",
     "page_width": 1600,
     "card_text_alignment": "center",
-    "card_border_thickness": 1,
+    "card_color_scheme": "background-1",
+    "card_border_thickness": 0,
+    "text_boxes_radius": 10,
+    "text_boxes_shadow_opacity": 0,
+    "predictive_search_show_vendor": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -58,8 +63,8 @@
           "footer-1": {
             "type": "text",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Solisluna é o encontro do sol com a lua",
+              "subtext": "<p>A <strong>Solisluna<\/strong> realiza projetos e ações que sensibilizam e levam à reflexão sobre diferentes realidades e modos de ver esse mesmo mundo. Somos comprometidos com o coletivo e com as questões importantes da nossa sociedade: cultura, inteligência e sensibilidades.<\/p>"
             }
           }
         },
@@ -69,7 +74,7 @@
         ],
         "settings": {
           "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
           "enable_country_selector": true,
