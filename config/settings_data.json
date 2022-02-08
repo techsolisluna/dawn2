@@ -17,6 +17,8 @@
     "text_boxes_radius": 10,
     "text_boxes_shadow_opacity": 0,
     "predictive_search_show_vendor": true,
+    "favicon": "shopify:\/\/shop_images\/favicon_32.png",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
