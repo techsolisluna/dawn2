@@ -83,7 +83,7 @@
         <div class="card__content">
           <div class="card__information">
             <h3 class="card__heading">
-              <a href="{{ card_product.url | default: '#' }}" class="full-unstyled-link">
+              <a href="{{ card_product.url }}" class="full-unstyled-link">
                 {{ card_product.title | escape }}
               </a>
             </h3>
@@ -104,7 +104,7 @@
       <div class="card__content">
         <div class="card__information">
           <h3 class="card__heading{% if card_product.featured_media or settings.card_style == 'standard' %} h5{% endif %}">
-            <a href="{{ card_product.url | default: '#' }}" class="full-unstyled-link">
+            <a href="{{ card_product.url }}" class="full-unstyled-link">
               {{ card_product.title | escape }}
             </a>
           </h3>
@@ -171,7 +171,7 @@
         <div class="card__content">
           <div class="card__information">
             <h3 class="card__heading">
-              <a href="#" class="full-unstyled-link">
+              <a role="link" aria-disabled="true" class="full-unstyled-link">
                 {{ 'onboarding.product_title' | t }}
               </a>
             </h3>
@@ -181,7 +181,7 @@
       <div class="card__content">
         <div class="card__information">
           <h3 class="card__heading{% if settings.card_style == 'standard' %} h5{% endif %}">
-            <a href="#" class="full-unstyled-link">
+            <a role="link" aria-disabled="true" class="full-unstyled-link">
               {{ 'onboarding.product_title' | t }}
             </a>
           </h3>
