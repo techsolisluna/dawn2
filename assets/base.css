@@ -1057,6 +1057,23 @@ summary::-webkit-details-marker {
   }
 }
 
+@media screen and (max-width: 989px) {
+  .grid--1-col-tablet-down .grid__item {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .slider--tablet.grid--peek {
+    margin: 0;
+    width: 100%;
+  }
+
+  .slider--tablet.grid--peek .grid__item {
+    box-sizing: content-box;
+    margin: 0;
+  }
+}
+
 @media screen and (min-width: 990px) {
   .collection-list--5-items .grid__item {
     width: calc(20% - 1rem * 4 / 5) !important;
@@ -1112,7 +1129,6 @@ summary::-webkit-details-marker {
   }
 
   .grid--peek .grid__item {
-    width: calc(50% - var(--grid-mobile-horizontal-spacing) - 3rem);
     min-width: 35%;
   }
 
@@ -1122,6 +1138,20 @@ summary::-webkit-details-marker {
 
   .grid--peek.slider .grid__item:last-of-type {
     margin-right: 1.5rem;
+  }
+
+  .grid--2-col-tablet-down .grid__item {
+    width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
+  }
+
+  .slider--tablet.grid--peek.grid--2-col-tablet-down .grid__item,
+  .grid--peek .grid__item {
+    width: calc(50% - var(--grid-mobile-horizontal-spacing) - 3rem);
+  }
+
+  .slider--tablet.grid--peek.grid--1-col-tablet-down .grid__item,
+  .slider--mobile.grid--peek.grid--1-col-tablet-down .grid__item  {
+    width: calc(100% - var(--grid-mobile-horizontal-spacing) - 3rem);
   }
 }
 
@@ -1134,7 +1164,8 @@ summary::-webkit-details-marker {
     width: calc(33.33% - var(--grid-desktop-horizontal-spacing) - 3rem);
   }
 
-  .slider--tablet.grid--peek.grid--2-col-tablet .grid__item {
+  .slider--tablet.grid--peek.grid--2-col-tablet .grid__item,
+  .slider--tablet.grid--peek.grid--2-col-tablet-down .grid__item {
     width: calc(50% - var(--grid-desktop-horizontal-spacing) - 3rem);
   }
 
@@ -1145,17 +1176,13 @@ summary::-webkit-details-marker {
   .slider--tablet.grid--peek .grid__item:last-of-type {
     margin-right: 1.5rem;
   }
-}
 
-@media screen and (max-width: 989px) {
-  .slider--tablet.grid--peek {
-    margin: 0;
-    width: 100%;
+  .grid--2-col-tablet-down .grid__item {
+    width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 
-  .slider--tablet.grid--peek .grid__item {
-    box-sizing: content-box;
-    margin: 0;
+  .grid--1-col-tablet-down.grid--peek .grid__item {
+    width: calc(100% - var(--grid-desktop-horizontal-spacing) - 3rem);
   }
 }
 
