@@ -15,7 +15,7 @@
         "163616736313c5d997-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "infantil"
+            "collection": "livros_para_criancas"
           }
         },
         "163616736313c5d997-1": {
@@ -40,8 +40,8 @@
         "title": "",
         "image_ratio": "square",
         "color_scheme": "accent-1",
-        "swipe_on_mobile": false,
-        "show_view_all": false
+        "show_view_all": false,
+        "swipe_on_mobile": false
       }
     }
   },
