@@ -301,11 +301,20 @@
     "1634603513b9058cec": {
       "type": "image-with-text",
       "blocks": {
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
+          "type": "caption",
+          "settings": {
+            "caption": "lançamento",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "3894e2b2-bd2f-41e7-ac58-dc8466475269": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>lançamento<\/p>",
-            "text_style": "uppercase"
+            "text_style": "subtitle"
           }
         },
         "1634603513b9058cec-0": {
@@ -324,6 +333,7 @@
         }
       },
       "block_order": [
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
         "3894e2b2-bd2f-41e7-ac58-dc8466475269",
         "1634603513b9058cec-0",
         "1634603513b9058cec-1"
