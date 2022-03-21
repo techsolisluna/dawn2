@@ -134,7 +134,8 @@
 }
 
 .card__heading {
-  margin-top: 0;
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
 
 .card__heading:last-child {
