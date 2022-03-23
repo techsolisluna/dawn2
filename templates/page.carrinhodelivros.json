@@ -74,7 +74,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
           }
         },
         "163467767085ebbfa0-2": {
@@ -373,7 +374,8 @@
         "8086559a-0d21-4ac7-ac61-dcd89df703cc": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Paulo Freire<\/strong><\/p>"
+            "text": "<p><strong>Paulo Freire<\/strong><\/p>",
+            "left": false
           }
         }
       },
@@ -447,7 +449,8 @@
         "1634677675f0ed04c7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O Carrinho de Livros perto de você!"
+            "heading": "O Carrinho de Livros perto de você!",
+            "heading_size": "h1"
           }
         },
         "f9856c03-1466-4c94-baad-3659f0ad5953": {
