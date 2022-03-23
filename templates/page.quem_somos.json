@@ -15,7 +15,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "163476346775d6733a-2": {
@@ -39,10 +40,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -61,7 +66,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
           }
         },
         "16347613382e251593-2": {
@@ -81,13 +87,17 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": false
+        "show_title": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163606406040c32a48": {
@@ -96,7 +106,8 @@
         "163606406040c32a48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Atenção no design e nas artes gráficas"
+            "heading": "Atenção no design e nas artes gráficas",
+            "heading_size": "h1"
           }
         },
         "163606406040c32a48-1": {
@@ -122,19 +133,30 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/5be0be8a6bff6278ef8b29fa_13707626_1216316771721389_7728690323196855965_n.jpg",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#000000",
         "gradient_back": "",
-        "color_text": "#ffffff"
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1636064642e6d007b2": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Bale_corte_2048x.jpg\" alt=\"\"\/><\/div>"
+        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Bale_corte_2048x.jpg\" alt=\"\"\/><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16360646291a3707f8": {
@@ -143,7 +165,8 @@
         "16360646291a3707f8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Publicações institucionais"
+            "heading": "Publicações institucionais",
+            "heading_size": "h1"
           }
         },
         "16360646291a3707f8-1": {
@@ -160,13 +183,21 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/5f009654169298152932aeee_Plantas-Medicinais.jpg",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#f3eedd",
         "gradient_back": "",
-        "color_text": "#000000"
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16360808900d59ac2c": {
@@ -184,7 +215,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "16360808900d59ac2c-2": {
@@ -209,9 +241,13 @@
         "image": "shopify:\/\/shop_images\/5be425bab64f09d312c14806_Gravura_barcos.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -232,7 +268,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1636063485b71f9273-2": {
@@ -257,9 +294,13 @@
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -277,7 +318,8 @@
         "163475817845dfb954-0": {
           "type": "heading",
           "settings": {
-            "heading": "Solisluna Editora"
+            "heading": "Solisluna Editora",
+            "heading_size": "h1"
           }
         },
         "163475817845dfb954-1": {
@@ -304,13 +346,21 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/4945762727_f42883e16d_o_grande_92c63d24-b346-49dd-adc5-ea3cb3df2040.jpg",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#d1dde6",
         "gradient_back": "",
-        "color_text": "#000000"
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163475921765f646f0": {
@@ -319,7 +369,8 @@
         "a80513c3-b551-438c-901b-1f94c9558894": {
           "type": "text",
           "settings": {
-            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>"
+            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>",
+            "left": false
           }
         },
         "163475921765f646f0-0": {
@@ -337,7 +388,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1636067174fb6194a5": {
@@ -354,7 +407,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1636067174fb6194a5-2": {
@@ -379,9 +433,13 @@
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -392,7 +450,8 @@
         "163606552717adfdda-0": {
           "type": "heading",
           "settings": {
-            "heading": "Presença nacional e internacional"
+            "heading": "Presença nacional e internacional",
+            "heading_size": "h1"
           }
         },
         "163606552717adfdda-1": {
@@ -418,13 +477,21 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Solisluna-EmbaixadaDaIndia.jpg",
+        "product_img": false,
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
         "color_back": "#e03f03",
         "gradient_back": "",
-        "color_text": "#ffffff"
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634764271d599620a": {
@@ -442,7 +509,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1634764271d599620a-2": {
@@ -467,9 +535,13 @@
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -487,7 +559,8 @@
         "16347634646ded7396-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>"
+            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>",
+            "left": false
           }
         },
         "16347634646ded7396-2": {
@@ -507,7 +580,9 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1634759716c25d2926": {
@@ -518,7 +593,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14468768_1277144488971950_5980506223533247554_o.jpg",
             "title": "Valéria Pergentino",
-            "text": "<p>Nossa incansável editora. <em>G<\/em>osta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>"
+            "text": "<p>Nossa incansável editora. <em>G<\/em>osta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "1634759716c25d2926-2": {
@@ -526,7 +603,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/94257323_3223095451043110_3793037772609028096_n.jpg",
             "title": "Enéas Guerra",
-            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>"
+            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -536,13 +615,19 @@
       ],
       "settings": {
         "title": "",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163606552460228c2a": {
@@ -553,7 +638,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>"
+            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "163606552460228c2a-0": {
@@ -561,7 +648,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. <br\/>Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>"
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. <br\/>Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "163606552460228c2a-2": {
@@ -569,7 +658,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
             "title": "Vinicius Maciel",
-            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>"
+            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -580,19 +671,28 @@
       ],
       "settings": {
         "title": "",
+        "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1636066013aff0b06c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/LuaCospeEstrelas_copy.jpg?\" alt=\"\"\/><\/div>"
+        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/LuaCospeEstrelas_copy.jpg?\" alt=\"\"\/><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1634773574e886a147": {
@@ -610,7 +710,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1634773574e886a147-2": {
@@ -635,9 +736,13 @@
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -648,7 +753,8 @@
         "16347736748d35dfda-0": {
           "type": "heading",
           "settings": {
-            "heading": "Conversa boa não tem hora para acabar"
+            "heading": "Conversa boa não tem hora para acabar",
+            "heading_size": "h1"
           }
         },
         "16347736748d35dfda-1": {
@@ -671,7 +777,9 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
