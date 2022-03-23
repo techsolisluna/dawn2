@@ -187,7 +187,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -308,11 +308,12 @@
     "163475817845dfb954": {
       "type": "image-with-text",
       "blocks": {
-        "c9a0c11b-eafe-44e3-8cea-a307e13b5044": {
-          "type": "text",
+        "782b7533-e51e-476c-845c-1b7396663399": {
+          "type": "caption",
           "settings": {
-            "text": "<p>Selo Editorial<\/p>",
-            "text_style": "uppercase"
+            "caption": "Selo Editorial",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
           }
         },
         "163475817845dfb954-0": {
@@ -339,7 +340,7 @@
         }
       },
       "block_order": [
-        "c9a0c11b-eafe-44e3-8cea-a307e13b5044",
+        "782b7533-e51e-476c-845c-1b7396663399",
         "163475817845dfb954-0",
         "163475817845dfb954-1",
         "163475817845dfb954-2"
@@ -350,7 +351,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -370,7 +371,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>",
-            "left": false
+            "left": true
           }
         },
         "163475921765f646f0-0": {
@@ -390,7 +391,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 80
       }
     },
     "1636067174fb6194a5": {
@@ -438,7 +439,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -481,7 +482,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -534,7 +535,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -618,7 +619,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -735,7 +736,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
