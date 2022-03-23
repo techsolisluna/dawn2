@@ -43,11 +43,12 @@
     "16361491867e1acddf": {
       "type": "image-with-text",
       "blocks": {
-        "fa8286f8-7fe4-4b48-b62c-664899b5822c": {
-          "type": "text",
+        "1377ffb0-2101-4cb0-990b-49ca7e6b0d4e": {
+          "type": "caption",
           "settings": {
-            "text": "<p>Ebook gratuito<\/p>",
-            "text_style": "uppercase"
+            "caption": "Ebook gratuito",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
           }
         },
         "16361491867e1acddf-0": {
@@ -73,7 +74,7 @@
         }
       },
       "block_order": [
-        "fa8286f8-7fe4-4b48-b62c-664899b5822c",
+        "1377ffb0-2101-4cb0-990b-49ca7e6b0d4e",
         "16361491867e1acddf-0",
         "16361491867e1acddf-1",
         "16361491867e1acddf-2"
@@ -94,7 +95,7 @@
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 80
       }
     },
     "1636147710e7a217d8": {
