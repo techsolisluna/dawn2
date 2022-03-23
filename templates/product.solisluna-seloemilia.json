@@ -202,7 +202,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
@@ -301,7 +301,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.<\/p>",
-            "left": false
+            "left": true
           }
         },
         "1642348095014ff909-0": {
@@ -388,11 +388,11 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Blog posts",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "blog": "solisblogluna",
         "post_limit": 3,
         "columns_desktop": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "show_image": true,
         "show_date": true,
         "show_related": true,
@@ -406,7 +406,7 @@
       "type": "product-recommendations",
       "settings": {
         "heading": "Outros livros que você também pode gostar",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "background-1",
