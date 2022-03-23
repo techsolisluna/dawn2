@@ -15,7 +15,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1635541925dc256e9a-2": {
@@ -39,10 +40,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -59,7 +64,8 @@
         "1628041869846d3221-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails"
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
           }
         },
         "1628041869846d3221-1": {
@@ -71,6 +77,7 @@
         "1628041869846d3221-2": {
           "type": "email_form",
           "settings": {
+            "tag": "newsletter"
           }
         }
       },
@@ -81,7 +88,9 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1635541932056f24ed": {
@@ -99,7 +108,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
         "1635541932056f24ed-2": {
@@ -123,10 +133,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
+        "product_banner": false,
         "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
