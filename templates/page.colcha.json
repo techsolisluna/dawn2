@@ -39,7 +39,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -206,7 +206,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -234,7 +234,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
           }
         },
         "16378168257bd598a3-2": {
@@ -298,7 +299,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
