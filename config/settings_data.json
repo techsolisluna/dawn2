@@ -32,6 +32,7 @@
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/logo_horizontal_13.png",
     "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#feffef",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
