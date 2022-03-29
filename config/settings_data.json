@@ -30,6 +30,9 @@
     "predictive_search_show_price": true,
     "favicon": "shopify:\/\/shop_images\/favicon_32.png",
     "currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_horizontal_13.png",
+    "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#fefff1",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
