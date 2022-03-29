@@ -424,6 +424,9 @@
     "checkout": {
       "contact": {
         "company_label": "CPF\/CNPJ"
+      },
+      "field_errors": {
+        "address_company_blank": "Por favor, insira o CPF ou CNPJ"
       }
     }
   }
