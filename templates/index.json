@@ -2,6 +2,7 @@
   "sections": {
     "16337573606282280d": {
       "type": "back-video",
+      "disabled": true,
       "settings": {
         "idvimeo": "641950689",
         "overlay_opacity": 0,
@@ -37,6 +38,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -63,6 +65,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -377,6 +380,7 @@
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
