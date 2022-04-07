@@ -23,6 +23,7 @@
     "text_boxes_radius": 0,
     "text_boxes_shadow_opacity": 0,
     "media_border_thickness": 0,
+    "badge_position": "bottom left",
     "social_facebook_link": "https:\/\/facebook.com\/solislunaeditora",
     "social_instagram_link": "http:\/\/instagram.com\/solislunaeditora",
     "social_youtube_link": "https:\/\/www.youtube.com\/solisluna",
@@ -39,7 +40,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Welcome to our store",
               "color_scheme": "background-1",
