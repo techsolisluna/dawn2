@@ -104,9 +104,9 @@
         "show_rating": false,
         "enable_quick_add": false,
         "enable_filtering": false,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": false,
-        "collapse_on_larger_devices": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
@@ -183,18 +183,16 @@
         },
         "1634739736bb3da097-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Preparamos três opções para você escolher!<\/p>",
+            "text": "<p>Compre a coleção completa com um desconto especial <strong>de R$599 por R$477<\/strong><\/p>",
             "left": false
           }
         },
         "1634739736bb3da097-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Comprar coleção completa",
+            "button_link": "https:\/\/bit.ly\/LendasAfricanas",
             "button_style_secondary": false
           }
         }
@@ -213,7 +211,6 @@
     },
     "1634739830ff475eea": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1634739830ff475eea-0": {
           "type": "column",
@@ -242,9 +239,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
             "title": "COLEÇÃO COMPLETA",
-            "text": "<p>Os 10 livros da coleção Lendas Africanas<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
+            "text": "<p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
             "link_label": "Comprar coleção completa",
-            "link": "https:\/\/seguro.solisluna.com.br\/r\/6QUEYHK4NZ,H04Z4LDISQ,FA37NDVLW2,E39H908LJ0,HR18F6J1DX,OYNR89IB9H,GAL428GFI5,NDG9H3CYKM,45WYS4RJ39,9HEOOXSQWD?promocode=A99XMADAE"
+            "link": "https:\/\/bit.ly\/LendasAfricanas"
           }
         }
       },
@@ -257,10 +254,10 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -286,23 +283,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "1648612175a7c674c8": {
-      "type": "apps",
-      "blocks": {
-        "90b3b988-ac66-40cf-8b2e-77d9aab199b1": {
-          "type": "shopify:\/\/apps\/unlimited-bundles-discounts\/blocks\/embed\/d33d0f48-dee0-42a0-b156-2a5dce91814a",
-          "settings": {
-            "embed_bundle_uuid": "506acb55-a61f-4f48-bf0c-483ddbf685fe"
-          }
-        }
-      },
-      "block_order": [
-        "90b3b988-ac66-40cf-8b2e-77d9aab199b1"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "1634737536adeb690b": {
@@ -432,44 +412,6 @@
         "padding_bottom": 36
       }
     },
-    "16347516896a3e17d0": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Obras de arte",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "164226249204fd40e4": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "Comprar coleção",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16422625063bd5d67a": {
       "type": "newsletter",
       "disabled": true,
@@ -517,11 +459,8 @@
     "1634739736bb3da097",
     "1634739830ff475eea",
     "1634745647da6184da",
-    "1648612175a7c674c8",
     "1634737536adeb690b",
     "1634738264ffaa058f",
-    "16347516896a3e17d0",
-    "164226249204fd40e4",
     "16422625063bd5d67a"
   ]
 }
