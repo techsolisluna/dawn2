@@ -2,10 +2,11 @@
   "sections": {
     "1649960670c6a05ac2": {
       "type": "back-video",
+      "disabled": true,
       "settings": {
         "idvimeo": "641950689",
         "overlay_opacity": 0,
-        "color_videoback": "#000",
+        "color_videoback": "#000000",
         "title": "",
         "heading_size": "back-font",
         "text": "",
