@@ -222,8 +222,6 @@
     </script>
   </head>
 
-  <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/3e1f71bd-442b-4143-bedd-724980d94c1f-loader.js" ></script>
-
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
@@ -276,5 +274,8 @@
     {% comment %}{% capture yampi_snippet_content %}{% include 'YampiSnippet' %}{% endcapture %} {% unless yampi_snippet_content contains 'Liquid error' %} {% include 'YampiSnippet' %} {% endunless %}{% endcomment %}
     <!-- Não remova. Checkout Yampi. -->
     {% include 'revy-bundle-script' %}
+
+    <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/3e1f71bd-442b-4143-bedd-724980d94c1f-loader.js" ></script>
+    
   </body>
 </html>
