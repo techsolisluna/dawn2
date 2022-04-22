@@ -9,7 +9,6 @@
         "show_rating": true,
         "enable_filtering": true,
         "enable_sorting": false,
-        "collapse_on_larger_devices": true,
         "article_show_date": true,
         "article_show_author": false
       }
