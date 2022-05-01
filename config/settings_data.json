@@ -45,10 +45,20 @@
               "color_scheme": "accent-1",
               "link": "shopify:\/\/collections\/feira-do-livro-da-unesp-2022"
             }
+          },
+          "c8a7fcbd-2928-40ae-aac8-d89b26a797f0": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "c8a7fcbd-2928-40ae-aac8-d89b26a797f0"
         ],
         "settings": {
         }
