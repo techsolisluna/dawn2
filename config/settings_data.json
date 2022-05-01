@@ -40,11 +40,10 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-2",
-              "link": ""
+              "text": "Feira do Livro da UNESP 🎉  Livros com 50% de desconto!",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections\/feira-do-livro-da-unesp-2022"
             }
           }
         },
