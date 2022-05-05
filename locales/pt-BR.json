@@ -282,7 +282,7 @@
     "collection_template": {
       "title": "Coleção",
       "empty": "Nenhum produto encontrado",
-      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo</a>"
+      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo<\/a>"
     },
     "video": {
       "load_video": "Carregar vídeo: {{ description }}"
@@ -433,7 +433,8 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "CPF\/CNPJ"
+        "company_label": "CPF\/CNPJ",
+        "optional_company_label": "CPF\/CNPJ"
       },
       "field_errors": {
         "address_company_blank": "Por favor, insira o CPF ou CNPJ"
