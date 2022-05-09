@@ -387,6 +387,16 @@ h5,
   word-break: break-word;
 }
 
+.hxl {
+  font-size: calc(var(--font-heading-scale) * 5rem);
+}
+
+@media only screen and (min-width: 750px) {
+  .hxl {
+    font-size: calc(var(--font-heading-scale) * 6.2rem);
+  }
+}
+
 .h0 {
   font-size: calc(var(--font-heading-scale) * 4rem);
 }
@@ -551,6 +561,10 @@ table:not([class]) th {
   .large-up-hide {
     display: none !important;
   }
+}
+
+.left {
+  text-align: left;
 }
 
 .center {
@@ -1430,6 +1444,11 @@ button.shopify-payment-button__button--unbranded {
   position: absolute;
   height: 100%;
   display: flex;
+  align-items: center;
+}
+
+.button.loading > .loading-overlay__spinner .spinner {
+  width: fit-content;
 }
 
 .button.loading > .loading-overlay__spinner .path {
@@ -2356,6 +2375,7 @@ input[type='checkbox'] {
 .header__icon--cart .icon {
   height: 4.4rem;
   width: 4.4rem;
+  padding: 0;
 }
 
 .header__icon--cart {
