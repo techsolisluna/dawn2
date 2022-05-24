@@ -123,6 +123,7 @@
           }
         },
         "1634585146a137c59c-2": {
+          "disabled": true,
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
