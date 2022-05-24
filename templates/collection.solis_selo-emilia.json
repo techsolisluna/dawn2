@@ -117,14 +117,14 @@
         "163623246502d067a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A <strong>Solisluna Editora</strong> e o <strong>Selo Emília</strong> do <a href=\"https://emilia.org.br/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https://emilia.org.br/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília</a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.</p>",
+            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>",
             "left": true
           }
         },
         "163623246502d067a6-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Conheça os livros publicados em parceria</p>",
+            "heading": "<p>Conheça os livros publicados em parceria<\/p>",
             "heading_size": "h1"
           }
         },
@@ -200,7 +200,6 @@
         "enable_filtering": false,
         "enable_sorting": false,
         "show_count": false,
-        "collapse_on_larger_devices": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,

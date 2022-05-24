@@ -58,7 +58,7 @@
         "1632427807e1182f26-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Livros para a infância</p>",
+            "heading": "<p>Livros para a infância<\/p>",
             "heading_size": "h0"
           }
         },
@@ -162,7 +162,6 @@
         "enable_filtering": false,
         "enable_sorting": false,
         "show_count": true,
-        "collapse_on_larger_devices": false,
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
