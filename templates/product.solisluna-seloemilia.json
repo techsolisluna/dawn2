@@ -300,14 +300,14 @@
         "1642348095014ff909-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.<\/p>",
+            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.</p>",
             "left": true
           }
         },
         "1642348095014ff909-0": {
           "type": "heading",
           "settings": {
-            "heading": "Conheça a coleção completa",
+            "heading": "<p>Conheça a coleção completa</p>",
             "heading_size": "h2"
           }
         },

@@ -66,7 +66,7 @@
         "163467767085ebbfa0-0": {
           "type": "heading",
           "settings": {
-            "heading": "A nossa intenção é formar leitores e oferecer livros de qualidade superior para todas as pessoas em todos os lugares do Brasil.",
+            "heading": "<p>A nossa intenção é formar leitores e oferecer livros de qualidade superior para todas as pessoas em todos os lugares do Brasil.</p>",
             "heading_size": "h1"
           }
         },
@@ -358,7 +358,7 @@
         "1634684593dafa7a50-0": {
           "type": "heading",
           "settings": {
-            "heading": "\"É preciso que a leitura seja um ato de amor\"",
+            "heading": "<p>\"É preciso que a leitura seja um ato de amor\"</p>",
             "heading_size": "h2"
           }
         },
