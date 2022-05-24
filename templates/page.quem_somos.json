@@ -58,7 +58,7 @@
         "16347613382e251593-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Desde 1993 lança luz à boas histórias em belos livros</p>",
+            "heading": "<p>Desde 1993 lança luz à boas histórias em belos livros<\/p>",
             "heading_size": "h0"
           }
         },
@@ -370,7 +370,7 @@
         "a80513c3-b551-438c-901b-1f94c9558894": {
           "type": "text",
           "settings": {
-            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.</p><p></p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.</strong></p>",
+            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>",
             "left": true
           }
         },
@@ -378,7 +378,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>No calor do dia ou na noite fria, um bom livro é o melhor amigo</p>",
+            "heading": "<p>No calor do dia ou na noite fria, um bom livro é o melhor amigo<\/p>",
             "heading_size": "h0"
           }
         }
@@ -553,14 +553,14 @@
         "16347634646ded7396-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Solislúnicos</p>",
+            "heading": "<p>Solislúnicos<\/p>",
             "heading_size": "h0"
           }
         },
         "16347634646ded7396-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.</p>",
+            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>",
             "left": false
           }
         },

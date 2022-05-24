@@ -58,7 +58,7 @@
         "163581983464965c20-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
+            "heading": "<p>Talk about your brand<\/p>",
             "heading_size": "h1"
           }
         },
@@ -110,7 +110,6 @@
         "enable_filtering": false,
         "enable_sorting": false,
         "show_count": false,
-        "collapse_on_larger_devices": false,
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
