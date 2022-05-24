@@ -235,7 +235,7 @@
 
 .banner__content {
   padding: 0;
-  display: flex;
+  display: flex !important;
   position: relative;
   width: 100%;
   align-items: center;
