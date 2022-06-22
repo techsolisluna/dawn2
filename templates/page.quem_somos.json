@@ -76,7 +76,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -86,6 +89,8 @@
         "16347613382e251593-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
@@ -388,6 +393,8 @@
         "163475921765f646f0-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -570,7 +577,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -580,6 +590,8 @@
         "16347634646ded7396-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
@@ -649,7 +661,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. <br\/>Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
             "link_label": "",
             "link": ""
           }
