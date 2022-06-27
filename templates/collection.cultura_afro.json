@@ -64,70 +64,75 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 12,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": false,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": true,
-        "collapse_on_larger_devices": false,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
       }
     },
-    "1634755202fc07ba2b": {
-      "type": "image-banner",
+    "165630413166c79ce2": {
+      "type": "slideshow",
       "blocks": {
-        "1634755202fc07ba2b-0": {
-          "type": "heading",
-          "disabled": true,
+        "1656304131a0e57893-0": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
+            "image": "shopify:\/\/shop_images\/Banner_Oxumare_b.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         },
-        "1634755202fc07ba2b-1": {
-          "type": "text",
-          "disabled": true,
+        "1656304131a0e57893-1": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "1634755202fc07ba2b-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/Banner_Site_goya.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "1634755202fc07ba2b-0",
-        "1634755202fc07ba2b-1",
-        "1634755202fc07ba2b-2"
+        "1656304131a0e57893-0",
+        "1656304131a0e57893-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_Oxumare_b.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "1635598675d65b2091": {
@@ -236,7 +241,7 @@
     "16347552980e04f349",
     "banner",
     "product-grid",
-    "1634755202fc07ba2b",
+    "165630413166c79ce2",
     "1635598675d65b2091",
     "1634754900e8970d80"
   ]
