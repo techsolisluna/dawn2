@@ -1,13 +1,13 @@
 {{ 'section-main-collection-authors.css' | asset_url | stylesheet_tag }}
 
-<div class="autorespage">
+{% comment %}<div class="autorespage">
   <div class="autoresnav">
     <div style="margin-bottom:2.5em; text-align: center;">
       <span class="h3 autorestitulo">{{ page.title }}</span>
       <a href="/pages/ilustradores" class="ilustralink"><span>> ilustradores</span></a>
     </div>
   </div>
-
+{% endcomment %}
   <div class="autoresdiv">
     {% for collection in collections %}
       {% if collection.template_suffix == 'autor' and collection.metafields.autor.autor != 'ilustrador' %}
