@@ -64,6 +64,7 @@
         },
         "165629014224f12da1-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "left": false
