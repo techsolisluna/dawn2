@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Parceria com o Selo Emília",
-            "heading_size": "h2"
+            "heading_size": "h0"
           }
         },
         "163621534324110d9f-1": {
@@ -134,7 +134,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -144,6 +147,8 @@
         "163623246502d067a6-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -181,6 +186,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -197,13 +203,65 @@
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": false,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
+      }
+    },
+    "1656287947e32d56b3": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1656287947a4c56a88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "kit Educadores",
+            "heading_size": "h1"
+          }
+        },
+        "1656287947a4c56a88-1": {
+          "type": "text",
+          "settings": {
+            "text": "Preparamos um kit",
+            "text_style": "subtitle"
+          }
+        },
+        "1656287947a4c56a88-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1656287947a4c56a88-0",
+        "1656287947a4c56a88-1",
+        "1656287947a4c56a88-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9656.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "16416608404e02ca88": {
@@ -303,6 +361,7 @@
     "banner",
     "1641660934aba29122",
     "product-grid",
+    "1656287947e32d56b3",
     "16416608404e02ca88",
     "1636215496e6c0ddce"
   ]
