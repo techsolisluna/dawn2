@@ -52,6 +52,49 @@
         "show_text_below": true
       }
     },
+    "1656290142e326fe59": {
+      "type": "rich-text",
+      "blocks": {
+        "165629014224f12da1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Autores<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "165629014224f12da1-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "left": false
+          }
+        },
+        "4067c68c-aada-497b-bb32-02224c1e5ea1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ir para ilustradores",
+            "button_link": "shopify:\/\/pages\/ilustradores",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165629014224f12da1-0",
+        "165629014224f12da1-1",
+        "4067c68c-aada-497b-bb32-02224c1e5ea1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-collection-authors",
       "settings": {
@@ -148,6 +191,7 @@
   },
   "order": [
     "1635541925dc256e9a",
+    "1656290142e326fe59",
     "main",
     "1628041869846d3221",
     "1635541932056f24ed"
