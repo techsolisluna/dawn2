@@ -1,5 +1,5 @@
 {{ 'section-main-collection-authors.css' | asset_url | stylesheet_tag }}
-
+{%comment%}
 <div class="autorespage">
   <div class="autoresnav">
     <div style="margin-bottom:2.5em; text-align: center;">
@@ -7,6 +7,7 @@
       <a href="/pages/autores" class="ilustralink"><span>> autores</span></a>
     </div>
   </div>
+{% endcomment %}
 
   <div class="autoresdiv">
     {% for collection in collections %}
