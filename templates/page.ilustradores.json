@@ -52,6 +52,41 @@
         "show_text_below": true
       }
     },
+    "165629036472ab8a28": {
+      "type": "rich-text",
+      "blocks": {
+        "1656290364115513bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ilustradores<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "1656290364115513bf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ir para Autores",
+            "button_link": "shopify:\/\/pages\/autores",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1656290364115513bf-0",
+        "1656290364115513bf-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-collection-illustrators",
       "settings": {
@@ -148,6 +183,7 @@
   },
   "order": [
     "163606840412853179",
+    "165629036472ab8a28",
     "main",
     "1628041869846d3221",
     "163606829520c9aef9"
