@@ -163,7 +163,8 @@ window.affiliateryConfig = {
     let refValidTill = parseInt(new Date().valueOf() / 1000) + refCodeMaxAge
     setRefCode(partnerRefCode, refValidTill)
     try {
-      window.localStorage.setItem(`affiliatery-partner-code`, string + `;created-at=${new Date().valueOf()}`);
+      let refInfo = `affiliatery-partner-code=${partnerRefCode};max-age=2592000;path=/`;
+      window.localStorage.setItem(`affiliatery-partner-code`,refInfo + `;created-at=${new Date().valueOf()}`);
     } catch (e) {
       console.log(e)
     }
