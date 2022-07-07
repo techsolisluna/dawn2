@@ -164,7 +164,7 @@ window.affiliateryConfig = {
     setRefCode(partnerRefCode, refValidTill)
     try {
       let refInfo = `affiliatery-partner-code=${partnerRefCode};max-age=2592000;path=/`;
-      window.localStorage.setItem(`affiliatery-partner-code`,refInfo + `;created-at=${new Date().valueOf()}`);
+      window.localStorage.setItem(`affiliatery-partner-code`, refInfo + `;created-at=${new Date().valueOf()}`);
     } catch (e) {
       console.log(e)
     }
@@ -213,6 +213,21 @@ window.affiliateryConfig = {
     });
   }
 
+  async function processCart() {
+    try {
+      if (partnerRefCode) {
+        fetch(`/cart/update.js`, {
+          method: 'POST', headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({attributes: {"__aff_ref": partnerRefCode}})
+        });
+      }
+    } catch (e) {
+      console.log(e)
+    }
+
+  }
+
+  processCart()
   // if (partnerRefCode)
   await cartMapping()
 
