@@ -147,6 +147,7 @@
     },
     "163165417377a19cbd": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
@@ -271,10 +272,10 @@
         "16326202476377d29f-2"
       ],
       "settings": {
-        "image": "{{ product.metafields.my_fields.banner.value }}",
+        "image": "shopify:\/\/shop_images\/selo-da-terra_2.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": true,
+        "image_height": "small",
+        "product_banner": false,
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
