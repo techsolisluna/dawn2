@@ -175,7 +175,7 @@
         "16574526282a822f46-1": {
           "type": "text",
           "settings": {
-            "text": "<p>O conteúdo foi atualizado pelo autor, esta nova edição valoriza o<\/p>",
+            "text": "<p>Esta nova edição valoriza a importância desta obra. Com uma revisão criteriosa na tradução e no design do livro, o conteúdo também atualizado e ampliado pelo autor.<\/p>",
             "text_style": "subtitle"
           }
         }
@@ -206,55 +206,6 @@
     "author-product": {
       "type": "author-product",
       "settings": {
-      }
-    },
-    "1632621267a9cdb8f8": {
-      "type": "image-with-text",
-      "blocks": {
-        "1632621267a9cdb8f8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Comece a ler",
-            "heading_size": "h1"
-          }
-        },
-        "1632621267a9cdb8f8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "1632621267a9cdb8f8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ler agora",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1632621267a9cdb8f8-0",
-        "1632621267a9cdb8f8-1",
-        "1632621267a9cdb8f8-2"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.my_fields.picture_on_hand.value }}",
-        "product_img": true,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "163616771967b30d2e": {
@@ -335,6 +286,55 @@
         "padding_bottom": 52
       }
     },
+    "1657483578762bca5f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16574835781b2ed36a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uma obra fundamental para todos que constroem com o material mais abudante do planeta.",
+            "heading_size": "h2"
+          }
+        },
+        "16574835781b2ed36a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adquira na pré-venda para comprar com desconto e faça parte da lista de apoiadores da edição na página de agradecimentos desta obra. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "16574835781b2ed36a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar agora",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16574835781b2ed36a-0",
+        "16574835781b2ed36a-1",
+        "16574835781b2ed36a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mockup-Capa-Manual-de-construcao_2.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165748394455d11185": {
       "type": "image-banner",
       "blocks": {
@@ -386,57 +386,9 @@
         "show_text_below": true
       }
     },
-    "1657483578762bca5f": {
-      "type": "image-with-text",
-      "blocks": {
-        "16574835781b2ed36a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Uma obra fundamental para todos que constroem com o material mais abudante do planeta.",
-            "heading_size": "h2"
-          }
-        },
-        "16574835781b2ed36a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Adquira na pré-venda para comprar com desconto e faça parte da lista de apoiadores da edição na página de agradecimentos desta obra. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "16574835781b2ed36a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar agora",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16574835781b2ed36a-0",
-        "16574835781b2ed36a-1",
-        "16574835781b2ed36a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Mockup-Capa-Manual-de-construcao_2.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1631654167122d4539": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h2",
@@ -455,6 +407,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Outros livros que você também pode gostar",
         "heading_size": "h2",
@@ -478,6 +431,59 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "1657485423b5a550bd": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657485423908e8dd5-1": {
+          "type": "column",
+          "settings": {
+            "title": "Lista de apoiadores",
+            "text": "<p>Ao comprar durante o período de pré-venda o seu nome estará presente na lista das pessoas que apoiaram a edição. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1657485423908e8dd5-2": {
+          "type": "column",
+          "settings": {
+            "title": "Preço especial",
+            "text": "<p>O valor vendido na pré-venda é diferente do preço de capa que será comercializado nas livrarias<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1657485423908e8dd5-0": {
+          "type": "column",
+          "settings": {
+            "title": "Apoio à publicação",
+            "text": "<p>Você está apoiando a publicação de uma obra fundamental para a arquitetura e construção com terra no Brasil. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657485423908e8dd5-1",
+        "1657485423908e8dd5-2",
+        "1657485423908e8dd5-0"
+      ],
+      "settings": {
+        "title": "Três motivos para comprar o livro na pré-venda",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Comprar agora",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1635821821b4bc362b": {
@@ -531,6 +537,54 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "16574853081c143cd3": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657485308407c6459-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1657485308407c6459-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1657485308407c6459-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657485308407c6459-0",
+        "1657485308407c6459-1",
+        "1657485308407c6459-2"
+      ],
+      "settings": {
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -539,15 +593,16 @@
     "163165417377a19cbd",
     "1657452628c3c07f30",
     "author-product",
-    "1632621267a9cdb8f8",
     "163616771967b30d2e",
     "16326202476377d29f",
     "1657391171cbb9a3f7",
-    "165748394455d11185",
     "1657483578762bca5f",
+    "165748394455d11185",
     "1631654167122d4539",
     "product-recommendations",
     "163366161336322e5e",
-    "1635821821b4bc362b"
+    "1657485423b5a550bd",
+    "1635821821b4bc362b",
+    "16574853081c143cd3"
   ]
 }
