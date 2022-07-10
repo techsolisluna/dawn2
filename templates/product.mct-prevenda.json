@@ -292,14 +292,14 @@
         "16573911717e5831c1-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>Compromisso com a Terra<\/p>",
+            "heading_size": "h0"
           }
         },
         "16573911717e5831c1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>O livro <strong>{{ product.title }}<\/strong> tem o selo da <\/p>",
             "left": false
           }
         },
