@@ -175,8 +175,8 @@
         "16574526282a822f46-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>O conteúdo foi atualizado pelo autor, esta nova edição valoriza o<\/p>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -277,41 +277,6 @@
     },
     "16326202476377d29f": {
       "type": "image-banner",
-      "blocks": {
-        "16326202476377d29f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Leia antes de comprar {{ product.title }}.",
-            "heading_size": "large"
-          }
-        },
-        "16326202476377d29f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16326202476377d29f-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Começar a ler",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16326202476377d29f-0",
-        "16326202476377d29f-1",
-        "16326202476377d29f-2"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/selo-da-terra_2.jpg",
         "image_overlay_opacity": 0,
@@ -340,16 +305,16 @@
         "16573911717e5831c1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>O livro <strong>{{ product.title }}<\/strong> tem o selo da <\/p>",
+            "text": "<p>Em parceria com a plataforma mapadaterra.org nasce o <strong>Selo da Terra<\/strong> com a intenção clara de contribuir diretamente com a edição,  divulgação e promoção de publicações e conteúdos de alta qualidade sobre formas mais sustentáveis de viver e habitar o  planeta Terra. <\/p><p><\/p><p>O livro <strong>Manual de Construção com Terra<\/strong> é a primeira publicação do <strong>Selo da Terra<\/strong>.<\/p>",
             "left": false
           }
         },
         "16573911717e5831c1-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Saiba mais",
             "button_link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -368,6 +333,106 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "165748394455d11185": {
+      "type": "image-banner",
+      "blocks": {
+        "16574839442fc49d19-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Habitar é a sua forma de impactar no ambiente",
+            "heading_size": "h1"
+          }
+        },
+        "16574839442fc49d19-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16574839442fc49d19-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16574839442fc49d19-0",
+        "16574839442fc49d19-1",
+        "16574839442fc49d19-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/25439032_1251540258309738_7828514366730317203_o.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1657483578762bca5f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16574835781b2ed36a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uma obra fundamental para todos que constroem com o material mais abudante do planeta.",
+            "heading_size": "h2"
+          }
+        },
+        "16574835781b2ed36a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Adquira na pré-venda para comprar com desconto e faça parte da lista de apoiadores da edição na página de agradecimentos desta obra. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "16574835781b2ed36a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar agora",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16574835781b2ed36a-0",
+        "16574835781b2ed36a-1",
+        "16574835781b2ed36a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mockup-Capa-Manual-de-construcao_2.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1631654167122d4539": {
@@ -478,6 +543,8 @@
     "163616771967b30d2e",
     "16326202476377d29f",
     "1657391171cbb9a3f7",
+    "165748394455d11185",
+    "1657483578762bca5f",
     "1631654167122d4539",
     "product-recommendations",
     "163366161336322e5e",
