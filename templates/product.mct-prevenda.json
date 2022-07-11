@@ -226,6 +226,56 @@
         "vertical_align": "flex-end"
       }
     },
+    "16575475898d094743": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657547589355f24ab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Parceria com o mapadaterra",
+            "heading_size": "h2"
+          }
+        },
+        "1657547589355f24ab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A publicação deste livro é realizada em parceria com o mapadaterra.org uma plataforma online colaborativa que mapeia em todo o mundo construções com materiais naturais, especialmente a terra.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "1657547589355f24ab-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657547589355f24ab-0",
+        "1657547589355f24ab-1",
+        "1657547589355f24ab-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-01-30-at-21.34.47.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#a52902",
+        "gradient_back": "",
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16326202476377d29f": {
       "type": "image-banner",
       "settings": {
@@ -673,56 +723,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "16575475898d094743": {
-      "type": "image-with-text",
-      "blocks": {
-        "1657547589355f24ab-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Parceria com o mapadaterra",
-            "heading_size": "h2"
-          }
-        },
-        "1657547589355f24ab-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A publicação deste livro é realizada em parceria com o mapadaterra.org uma plataforma online colaborativa que mapeia em todo o mundo construções com materiais naturais, especialmente a terra.<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "1657547589355f24ab-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657547589355f24ab-0",
-        "1657547589355f24ab-1",
-        "1657547589355f24ab-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen-Shot-2022-01-30-at-21.34.47.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#a52902",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -732,6 +732,7 @@
     "1657452628c3c07f30",
     "author-product",
     "163616771967b30d2e",
+    "16575475898d094743",
     "16326202476377d29f",
     "1657391171cbb9a3f7",
     "1657483578762bca5f",
@@ -743,7 +744,6 @@
     "16574873469b681efd",
     "1657547027898b42e6",
     "16575471456da1ff3b",
-    "1635821821b4bc362b",
-    "16575475898d094743"
+    "1635821821b4bc362b"
   ]
 }
