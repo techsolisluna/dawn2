@@ -494,7 +494,7 @@
           "settings": {
             "heading": "Por que comprar na pré-venda?",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p>Por alguns motivos, como por exemplo: ao comprar durante o período de pré-venda o seu nome estará presente na lista das pessoas que apoiaram a edição; Você vai comprar o livro por um valor menor que o preço de capa quando ele chegar nas livrarias; Você vai receber o seu exemplar em primeira mão; Você estará apoiando diretamente uma edição revisada e ampliada, feita com capricho para durar por muito tempo; você acredita que a arquitetura e construção com terra precisa ser difundida no Brasil e a disponibilidade deste livro é fundamental para isto. Entre outros motivos 🧱<\/p>",
             "page": ""
           }
         },
@@ -573,7 +573,7 @@
         "16575470271d8e9852-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Ficou alguma dúvida?<\/p>",
+            "heading": "<p>Ainda ficou alguma dúvida?<\/p>",
             "heading_size": "h1"
           }
         },
