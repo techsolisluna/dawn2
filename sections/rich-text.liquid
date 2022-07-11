@@ -19,21 +19,29 @@
 {%- endstyle -%}
 
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
-  <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
+  <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding"
+    {% if section.settings.schema_color == false %}{% if section.settings.gradient_back != blank %}style="background: {{ section.settings.gradient_back }};"{% else %}style="background: {{ section.settings.color_back }};"{% endif %}{% endif %}
+  >
     <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
       <div class="rich-text__blocks {{ section.settings.content_alignment }}">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+              <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}
+                {% if section.settings.schema_color == false %}style="color: {{ section.settings.color_text }};"{% endif %}
+              >
                 {{ block.settings.heading | replace: 'p>', 'span>' }}
               </h2>
             {%- when 'caption' -%}
-              <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
+              <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}
+               {% if section.settings.schema_color == false %}style="color: {{ section.settings.color_text }};"{% endif %}
+              >
                 {{ block.settings.caption | escape }}
               </p>
             {%- when 'text' -%}
-              <div class="rich-text__text rte{% if block.settings.left %} text-leftalign {% endif %}" {{ block.shopify_attributes }}>
+              <div class="rich-text__text rte{% if block.settings.left %} text-leftalign {% endif %}" {{ block.shopify_attributes }}
+                {% if section.settings.schema_color == false %}style="color: {{ section.settings.color_text }};"{% endif %}
+              >
                 {{ block.settings.text }}
               </div>
             {%- when 'button' -%}
@@ -126,6 +134,33 @@
       ],
       "default": "background-1",
       "label": "t:sections.all.colors.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "schema_color",
+      "default": true,
+      "label": "Utilizar cores do esquema de cores"
+    },
+    {
+      "type": "color",
+      "id": "color_back",
+      "label": "Background color",
+      "default": "#ffffff"
+    },
+    {
+      "id": "gradient_back",
+      "type": "color_background",
+      "label": "Background gradient"
+    },
+    {
+      "type": "color",
+      "id": "color_text",
+      "label": "Text color",
+      "default": "#000000"
+    },
+    {
+      "type": "header",
+      "content": "Mobile layout"
     },
     {
       "type": "checkbox",
