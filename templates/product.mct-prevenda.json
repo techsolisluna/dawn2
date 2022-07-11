@@ -476,9 +476,9 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "Comprar agora",
-        "button_link": "",
+        "button_link": "https:\/\/solisluna.com.br",
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -557,6 +557,41 @@
         "padding_bottom": 36
       }
     },
+    "165754682013ab7d15": {
+      "type": "newsletter",
+      "blocks": {
+        "1657546820a28ab231-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "1657546820a28ab231-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1657546820a28ab231-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "1657546820a28ab231-0",
+        "1657546820a28ab231-1",
+        "1657546820a28ab231-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1635821821b4bc362b": {
       "type": "image-banner",
       "blocks": {
@@ -608,15 +643,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "1657488680f639052b": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cl5ftyge73084461qs4ne1eteot\"><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -635,7 +661,7 @@
     "163366161336322e5e",
     "1657485423b5a550bd",
     "16574873469b681efd",
-    "1635821821b4bc362b",
-    "1657488680f639052b"
+    "165754682013ab7d15",
+    "1635821821b4bc362b"
   ]
 }
