@@ -260,7 +260,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen-Shot-2022-01-30-at-21.34.47.jpg",
         "product_img": false,
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
