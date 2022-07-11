@@ -525,6 +525,15 @@
             "page": ""
           }
         },
+        "fbe504a8-ac34-4de0-813e-7660386f14af": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quais são as formas de pagamento aceitas?",
+            "icon": "star",
+            "row_content": "<p>Aceitamos cartão de crédito, PIX e boleto.<\/p>",
+            "page": ""
+          }
+        },
         "2a6fe391-fe79-44a5-af3e-23c21fe7aa33": {
           "type": "collapsible_row",
           "settings": {
@@ -540,6 +549,7 @@
         "1657487345c2e33f31-0",
         "1657487345c2e33f31-1",
         "1657487345c2e33f31-2",
+        "fbe504a8-ac34-4de0-813e-7660386f14af",
         "2a6fe391-fe79-44a5-af3e-23c21fe7aa33"
       ],
       "settings": {
@@ -553,6 +563,61 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657547027898b42e6": {
+      "type": "rich-text",
+      "blocks": {
+        "16575470271d8e9852-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ficou alguma dúvida?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16575470271d8e9852-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Envie uma mensagem para o chat (ícone no canto inferior direito) ou um email para loja@solisluna.com.br e te responderemos assim que possível. <\/p>",
+            "left": false
+          }
+        },
+        "16575470271d8e9852-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16575470271d8e9852-0",
+        "16575470271d8e9852-1",
+        "16575470271d8e9852-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16575471456da1ff3b": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -626,6 +691,8 @@
     "163366161336322e5e",
     "1657485423b5a550bd",
     "16574873469b681efd",
+    "1657547027898b42e6",
+    "16575471456da1ff3b",
     "1635821821b4bc362b"
   ]
 }
