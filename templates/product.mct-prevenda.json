@@ -278,6 +278,7 @@
     },
     "16326202476377d29f": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/selo-da-terra_2.jpg",
         "image_overlay_opacity": 0,
@@ -293,25 +294,77 @@
         "show_text_below": true
       }
     },
+    "16575534452c01a018": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657553445ee20523c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Compromisso com o Planeta Terra",
+            "heading_size": "h1"
+          }
+        },
+        "1657553445ee20523c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Em parceria com a plataforma mapadaterra.org nasce o <strong>Selo da Terra<\/strong> com a intenção clara de contribuir diretamente com a edição,  divulgação e promoção de publicações e conteúdos de alta qualidade sobre formas mais sustentáveis de viver e habitar o  planeta Terra.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1657553445ee20523c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657553445ee20523c-0",
+        "1657553445ee20523c-1",
+        "1657553445ee20523c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/selo-da-terra-2.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1657391171cbb9a3f7": {
       "type": "rich-text",
       "blocks": {
         "16573911717e5831c1-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Compromisso com a Terra<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>O livro <strong>Manual de Construção com Terra<\/strong> é a primeira publicação do <strong>Selo da Terra<\/strong>.<\/p>",
+            "heading_size": "h2"
           }
         },
         "16573911717e5831c1-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Em parceria com a plataforma mapadaterra.org nasce o <strong>Selo da Terra<\/strong> com a intenção clara de contribuir diretamente com a edição,  divulgação e promoção de publicações e conteúdos de alta qualidade sobre formas mais sustentáveis de viver e habitar o  planeta Terra. <\/p><p><\/p><p>O livro <strong>Manual de Construção com Terra<\/strong> é a primeira publicação do <strong>Selo da Terra<\/strong>.<\/p>",
+            "text": "",
             "left": false
           }
         },
         "16573911717e5831c1-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Saiba mais",
             "button_link": "",
@@ -734,6 +787,7 @@
     "163616771967b30d2e",
     "16575475898d094743",
     "16326202476377d29f",
+    "16575534452c01a018",
     "1657391171cbb9a3f7",
     "1657483578762bca5f",
     "165748394455d11185",
