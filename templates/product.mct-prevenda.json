@@ -384,6 +384,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -709,6 +713,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-2",
+        "schema_color": false,
+        "color_back": "#f07e00",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
