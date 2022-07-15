@@ -3,32 +3,206 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_title": true,
-        "show_collection_description": true,
+        "show_collection_title": false,
+        "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "background-1"
+        "color_scheme": "background-2"
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": false,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": false,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
+      }
+    },
+    "1657913273c30ed810": {
+      "type": "image-banner",
+      "blocks": {
+        "1657913273decc6d3d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1657913273decc6d3d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1657913273decc6d3d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657913273decc6d3d-0",
+        "1657913273decc6d3d-1",
+        "1657913273decc6d3d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/selo-da-terra-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16579135203374ec6f": {
+      "type": "rich-text",
+      "blocks": {
+        "1657913520b97b74bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1657913520b97b74bf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "1657913520b97b74bf-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657913520b97b74bf-0",
+        "1657913520b97b74bf-1",
+        "1657913520b97b74bf-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "schema_color": false,
+        "color_back": "#e46600",
+        "gradient_back": "linear-gradient(333deg, rgba(226, 43, 43, 1) 1%, rgba(188, 63, 5, 1) 84%)",
+        "color_text": "#ffffff",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16579133468a0cbe2c": {
+      "type": "featured-product",
+      "blocks": {
+        "165791334600cba810-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165791334600cba810-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "165791334600cba810-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165791334600cba810-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "165791334600cba810-5": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "165791334600cba810-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "165791334600cba810-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        }
+      },
+      "block_order": [
+        "165791334600cba810-0",
+        "165791334600cba810-1",
+        "165791334600cba810-2",
+        "165791334600cba810-3",
+        "165791334600cba810-5",
+        "165791334600cba810-6",
+        "165791334600cba810-7"
+      ],
+      "settings": {
+        "product": "manual-de-construcao-com-terra",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1657913273c30ed810",
+    "16579135203374ec6f",
+    "16579133468a0cbe2c"
   ]
 }
