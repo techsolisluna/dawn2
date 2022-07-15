@@ -93,10 +93,10 @@
             </h3>
           </div>
           <div class="card__badge {{ settings.badge_position }}">
-            {%- if card_product.metafields.my_fields.lancamento == true -%}
-              <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Lançamento</span>
-            {%- elsif card_product.metafields.my_fields.prevenda == true -%}
+            {%- if card_product.metafields.my_fields.prevenda == true -%}
               <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Pré-venda</span>
+            {%- elsif card_product.metafields.my_fields.lancamento == true -%}
+              <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Lançamento</span> 
             {%- elsif card_product.available == false -%}
               <span id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}">{{ 'products.product.sold_out' | t }}</span>
             {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
@@ -215,10 +215,10 @@
           </div>
         {%- endif -%}
         <div class="card__badge {{ settings.badge_position }}">
-          {%- if card_product.metafields.my_fields.lancamento == true -%}
-            <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Lançamento</span>
-          {%- elsif card_product.metafields.my_fields.prevenda == true -%}
+          {%- if card_product.metafields.my_fields.prevenda == true -%}
             <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Pré-venda</span>
+          {%- elsif card_product.metafields.my_fields.lancamento == true -%}
+            <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Lançamento</span>
           {%- elsif card_product.available == false -%}
             <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}">{{ 'products.product.sold_out' | t }}</span>
           {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
