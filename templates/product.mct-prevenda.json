@@ -414,7 +414,7 @@
           "type": "button",
           "settings": {
             "button_label": "Comprar agora",
-            "button_link": ""
+            "button_link": "https:\/\/solisluna.com.br\/cart\/40009871491153:1?channel=buy_button"
           }
         }
       },
@@ -610,7 +610,7 @@
           "settings": {
             "heading": "Quando vou receber o livro?",
             "icon": "star",
-            "row_content": "<p>A previsão de entrega dos exemplares adquiridos durante a pré-venda é a partir do dia 20 de agosto de 2022.<\/p>",
+            "row_content": "<p>A previsão de entrega dos exemplares adquiridos durante a pré-venda é a partir do dia 1º de setembro de 2022.<\/p>",
             "page": ""
           }
         },
