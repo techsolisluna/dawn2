@@ -123,7 +123,7 @@
         "color_scheme": "accent-1",
         "schema_color": false,
         "color_back": "#e46600",
-        "gradient_back": "linear-gradient(333deg, rgba(226, 43, 43, 1) 1%, rgba(188, 63, 5, 1) 84%)",
+        "gradient_back": "linear-gradient(161deg, rgba(226, 43, 43, 1) 1%, rgba(220, 96, 12, 1) 84%)",
         "color_text": "#ffffff",
         "full_width": true,
         "padding_top": 40,
