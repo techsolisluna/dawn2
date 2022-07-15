@@ -147,13 +147,6 @@
             "heading_size": "h1"
           }
         },
-        "165791334600cba810-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "165791334600cba810-3": {
           "type": "price",
           "settings": {
@@ -171,8 +164,16 @@
             "show_dynamic_checkout": false
           }
         },
+        "165791334600cba810-2": {
+          "type": "text",
+          "settings": {
+            "text": "Previsão de entrega: 1\/9",
+            "text_style": "uppercase"
+          }
+        },
         "165791334600cba810-7": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Compartilhar"
           }
@@ -181,10 +182,10 @@
       "block_order": [
         "165791334600cba810-0",
         "165791334600cba810-1",
-        "165791334600cba810-2",
         "165791334600cba810-3",
         "165791334600cba810-5",
         "165791334600cba810-6",
+        "165791334600cba810-2",
         "165791334600cba810-7"
       ],
       "settings": {
@@ -196,6 +197,58 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165791378456aeb9b0": {
+      "type": "image-banner",
+      "blocks": {
+        "165791378469c44e25-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "165791378469c44e25-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "165791378469c44e25-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165791378469c44e25-0",
+        "165791378469c44e25-1",
+        "165791378469c44e25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -203,6 +256,7 @@
     "product-grid",
     "1657913273c30ed810",
     "16579135203374ec6f",
-    "16579133468a0cbe2c"
+    "16579133468a0cbe2c",
+    "165791378456aeb9b0"
   ]
 }
