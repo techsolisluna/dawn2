@@ -92,6 +92,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -396,6 +400,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 80
@@ -593,6 +601,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -620,16 +632,60 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "56063cfd-29f4-4d8a-849c-7d5e9f0da763": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
+            "title": "Kin Guerra",
+            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8a605bc9-35e7-4e40-ad9b-8ff0acceed33": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
+            "title": "Elaine Quirelli",
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c0d7f472-bf10-4025-81ee-6a8436fd9156": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9805_1.jpg",
+            "title": "Mirian de Souza",
+            "text": "<p>Resposável pelo administrativo e financeiro da Solisluna. Serena, confiante e atenta aos detalhes, busca a todo momento aperfeiçoar os processos. Pratica o Yoga diariamente. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93009c48-b3c8-4f90-a4fc-ece6dddde88a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
+            "title": "Vinicius Maciel",
+            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1634759716c25d2926-1",
-        "1634759716c25d2926-2"
+        "1634759716c25d2926-2",
+        "56063cfd-29f4-4d8a-849c-7d5e9f0da763",
+        "8a605bc9-35e7-4e40-ad9b-8ff0acceed33",
+        "c0d7f472-bf10-4025-81ee-6a8436fd9156",
+        "93009c48-b3c8-4f90-a4fc-ece6dddde88a"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "half",
         "image_ratio": "circle",
         "columns_desktop": 2,
         "column_alignment": "center",
@@ -645,6 +701,7 @@
     },
     "163606552460228c2a": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "163606552460228c2a-1": {
           "type": "column",
