@@ -130,6 +130,81 @@
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
+    "1658272623802c6559": {
+      "type": "featured-product",
+      "blocks": {
+        "1658272623e1d2134d-2": {
+          "type": "text",
+          "settings": {
+            "text": "PRÉ-VENDA",
+            "text_style": "subtitle"
+          }
+        },
+        "1658272623e1d2134d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1658272623e1d2134d-0": {
+          "type": "text",
+          "settings": {
+            "text": "Autor: {{ section.settings.product.vendor }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1658272623e1d2134d-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1658272623e1d2134d-4": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1658272623e1d2134d-5": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "1658272623e1d2134d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "1658272623e1d2134d-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1658272623e1d2134d-2",
+        "1658272623e1d2134d-1",
+        "1658272623e1d2134d-0",
+        "1658272623e1d2134d-3",
+        "1658272623e1d2134d-4",
+        "1658272623e1d2134d-5",
+        "1658272623e1d2134d-6",
+        "1658272623e1d2134d-7"
+      ],
+      "settings": {
+        "product": "manual-de-construcao-com-terra",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "163458532453df37e6": {
       "type": "featured-collection",
       "settings": {
@@ -889,6 +964,7 @@
   "order": [
     "1649960670c6a05ac2",
     "1658153573113a06df",
+    "1658272623802c6559",
     "163458532453df37e6",
     "featured_products",
     "image_banner",
