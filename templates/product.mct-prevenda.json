@@ -173,14 +173,15 @@
         "16574526282a822f46-0": {
           "type": "heading",
           "settings": {
-            "heading": "Edição revisada e ampliada",
+            "heading": "Edição ampliada, atualizada e revisada",
             "heading_size": "h0"
           }
         },
         "16574526282a822f46-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Esta nova edição valoriza a importância desta obra. Com uma revisão criteriosa na tradução e no design do livro, o conteúdo também atualizado e ampliado pelo autor.<\/p>",
+            "text": "<p>Esta edição atualizada valoriza ainda mais importância desta obra. Com uma revisão técnica criteriosa e no design do livro, o conteúdo também atualizado e ampliado pelo autor.<\/p>",
             "text_style": "subtitle"
           }
         }
