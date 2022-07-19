@@ -162,6 +162,11 @@
         "include_margins": true
       }
     },
+    "author-product": {
+      "type": "author-product",
+      "settings": {
+      }
+    },
     "1657452628c3c07f30": {
       "type": "image-with-text",
       "blocks": {
@@ -201,11 +206,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 32,
         "padding_bottom": 36
-      }
-    },
-    "author-product": {
-      "type": "author-product",
-      "settings": {
       }
     },
     "163616771967b30d2e": {
@@ -792,8 +792,8 @@
     "main",
     "16336611696633b6c2",
     "163165417377a19cbd",
-    "1657452628c3c07f30",
     "author-product",
+    "1657452628c3c07f30",
     "163616771967b30d2e",
     "16575475898d094743",
     "16326202476377d29f",
