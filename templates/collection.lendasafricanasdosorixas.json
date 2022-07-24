@@ -68,7 +68,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -77,7 +80,13 @@
         "16347382609e8a367c-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -192,8 +201,11 @@
           "type": "button",
           "settings": {
             "button_label": "Comprar coleção completa",
-            "button_link": "https:\/\/bit.ly\/LendasAfricanas",
-            "button_style_secondary": false
+            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -203,7 +215,13 @@
         "1634739736bb3da097-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -241,7 +259,7 @@
             "title": "COLEÇÃO COMPLETA",
             "text": "<p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
             "link_label": "Comprar coleção completa",
-            "link": "https:\/\/bit.ly\/LendasAfricanas"
+            "link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
           }
         }
       },
