@@ -183,6 +183,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "6809fb38-2498-403d-a8da-e622a05f2ad2": {
+          "type": "text",
+          "settings": {
+            "text": "Previsão de envio: {{ section.settings.product.metafields.my_fields.prevenda_data.value }}",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -193,7 +200,8 @@
         "1658272623e1d2134d-4",
         "1658272623e1d2134d-5",
         "1658272623e1d2134d-6",
-        "1658272623e1d2134d-7"
+        "1658272623e1d2134d-7",
+        "6809fb38-2498-403d-a8da-e622a05f2ad2"
       ],
       "settings": {
         "product": "manual-de-construcao-com-terra",
