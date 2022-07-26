@@ -1,64 +1,82 @@
 {
   "sections": {
+    "1658800276a02a89af": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_22.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16588003715fb66d15": {
+      "type": "rich-text",
+      "blocks": {
+        "16588003713ad3e8e4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>arte com identidade<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "16588003713ad3e8e4-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "left": true
+          }
+        },
+        "16588003713ad3e8e4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16588003713ad3e8e4-0",
+        "16588003713ad3e8e4-1",
+        "16588003713ad3e8e4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "1656305508cafe6d6e": {
-      "type": "image-with-text",
-      "blocks": {
-        "1656305508ea2411df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "1656305508ea2411df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1656305508ea2411df-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1656305508ea2411df-0",
-        "1656305508ea2411df-1",
-        "1656305508ea2411df-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/galerialogopng_black_banner.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "165630580916e4a434": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "",
         "color_scheme": "background-1",
@@ -69,7 +87,7 @@
     "16563058205c7fb21a": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Artistas em destaque",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -106,7 +124,7 @@
         "16563060323f6b14f5-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": ""
           }
         },
         "16563060323f6b14f5-2": {
@@ -122,7 +140,7 @@
         "16563060323f6b14f5-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -130,8 +148,9 @@
     }
   },
   "order": [
+    "1658800276a02a89af",
+    "16588003715fb66d15",
     "main",
-    "1656305508cafe6d6e",
     "165630580916e4a434",
     "16563058205c7fb21a",
     "1656306032260ceedf"
