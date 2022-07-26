@@ -35,8 +35,43 @@
         "share"
       ],
       "settings": {
-        "link_text": "",
+        "link_text": "Voltar",
         "link_url": ""
+      }
+    },
+    "165879908073401e41": {
+      "type": "newsletter",
+      "blocks": {
+        "1658799080e8942340-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Não perca nenhuma novidade",
+            "heading_size": "h1"
+          }
+        },
+        "1658799080e8942340-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Assina a nossa newsletter e fique por dentro de todos os lançamentos.<\/p>"
+          }
+        },
+        "1658799080e8942340-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "1658799080e8942340-0",
+        "1658799080e8942340-1",
+        "1658799080e8942340-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "16493007942e10726b": {
@@ -60,6 +95,7 @@
   },
   "order": [
     "main",
+    "165879908073401e41",
     "16493007942e10726b"
   ]
 }
