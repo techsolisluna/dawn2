@@ -84,6 +84,99 @@
         "padding_bottom": 52
       }
     },
+    "1658800897a2975d76": {
+      "type": "collection-list",
+      "blocks": {
+        "1658800897e243a6f4-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "edsoleda-santos"
+          }
+        },
+        "1658800897e243a6f4-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eneas-guerra"
+          }
+        },
+        "1658800897e243a6f4-2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658800897e243a6f4-0",
+        "1658800897e243a6f4-1",
+        "1658800897e243a6f4-2"
+      ],
+      "settings": {
+        "title": "Artistas em destaque",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658802021b834784d": {
+      "type": "image-banner",
+      "blocks": {
+        "1658802021be6a02cc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1658802021be6a02cc-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1658802021be6a02cc-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1658802021be6a02cc-0",
+        "1658802021be6a02cc-1",
+        "1658802021be6a02cc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Oxumare_20_faixa_screen.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1656306032260ceedf": {
       "type": "newsletter",
       "blocks": {
@@ -118,46 +211,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1658800897a2975d76": {
-      "type": "collection-list",
-      "blocks": {
-        "1658800897e243a6f4-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "edsoleda-santos"
-          }
-        },
-        "1658800897e243a6f4-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "1658800897e243a6f4-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "1658800897e243a6f4-0",
-        "1658800897e243a6f4-1",
-        "1658800897e243a6f4-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -165,7 +218,8 @@
     "16588003715fb66d15",
     "main",
     "165630580916e4a434",
-    "1656306032260ceedf",
-    "1658800897a2975d76"
+    "1658800897a2975d76",
+    "1658802021b834784d",
+    "1656306032260ceedf"
   ]
 }
