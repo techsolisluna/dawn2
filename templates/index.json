@@ -2,6 +2,7 @@
   "sections": {
     "1649960670c6a05ac2": {
       "type": "back-video",
+      "disabled": true,
       "settings": {
         "idvimeo": "641950689",
         "overlay_opacity": 0,
@@ -15,6 +16,201 @@
         "color_btn_bg": "#ffffff",
         "color_btn_text": "#000000",
         "vertical_align": "flex-end"
+      }
+    },
+    "1658153573113a06df": {
+      "type": "slideshow",
+      "blocks": {
+        "165815357365d8068c-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "0887b021-6811-4dc4-aa1b-693e85e765ad": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
+            "heading": "Coleção de livros Lendas Africanas dos Orixás",
+            "heading_size": "h1",
+            "subheading": "Escritos e Ilustrados por Edsoleda Santos",
+            "button_label": "Saiba mais",
+            "link": "shopify:\/\/collections\/lendas-africanas",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "165815357365d8068c-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9656.jpg",
+            "heading": "Livros para educadores e formadores de leitores",
+            "heading_size": "h1",
+            "subheading": "Conheça a coleção de livros Selo Emília & Solisluna",
+            "button_label": "Saiba mais",
+            "link": "shopify:\/\/collections\/livros-em-parceria-com-o-selo-emilia",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-11_at_13.34.48.jpg",
+            "heading": "Solisluna presente nas feiras e eventos literários",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Leia mais",
+            "link": "shopify:\/\/blogs\/solisblogluna\/vida-longa-a-feira-do-livro-cores-e-literatura-ocupam-a-praca",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c9de2b56-7c7b-46bf-9af1-77ee9712281d": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165815357365d8068c-0",
+        "0887b021-6811-4dc4-aa1b-693e85e765ad",
+        "165815357365d8068c-1",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
+        "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slides sobre os livros da Solisluna"
+      }
+    },
+    "1658272623802c6559": {
+      "type": "featured-product",
+      "blocks": {
+        "1658272623e1d2134d-2": {
+          "type": "text",
+          "settings": {
+            "text": "PRÉ-VENDA",
+            "text_style": "subtitle"
+          }
+        },
+        "1658272623e1d2134d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1658272623e1d2134d-0": {
+          "type": "text",
+          "settings": {
+            "text": "Autor: {{ section.settings.product.vendor }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1658272623e1d2134d-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1658272623e1d2134d-4": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1658272623e1d2134d-5": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "1658272623e1d2134d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "1658272623e1d2134d-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "6809fb38-2498-403d-a8da-e622a05f2ad2": {
+          "type": "text",
+          "settings": {
+            "text": "Previsão de envio: {{ section.settings.product.metafields.my_fields.prevenda_data.value }}",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1658272623e1d2134d-2",
+        "1658272623e1d2134d-1",
+        "1658272623e1d2134d-0",
+        "1658272623e1d2134d-3",
+        "1658272623e1d2134d-4",
+        "1658272623e1d2134d-5",
+        "1658272623e1d2134d-6",
+        "1658272623e1d2134d-7",
+        "6809fb38-2498-403d-a8da-e622a05f2ad2"
+      ],
+      "settings": {
+        "product": "manual-de-construcao-com-terra",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163458532453df37e6": {
@@ -144,6 +340,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "inverse",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -289,6 +489,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -767,6 +971,8 @@
   },
   "order": [
     "1649960670c6a05ac2",
+    "1658153573113a06df",
+    "1658272623802c6559",
     "163458532453df37e6",
     "featured_products",
     "image_banner",

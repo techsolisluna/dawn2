@@ -31,7 +31,7 @@ window.affiliateryConfig = {
         refCode: partnerRefCode,
         clientUniqueId: window.affiliateryConfig.clientId
       }
-      userUniqueId = (await (await fetch(`${affiliateryConfig.apiUrl}/api/event`, {
+      userUniqueId = (await (await fetch(`${affiliateryConfig.apiUrl}/api/aevt`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

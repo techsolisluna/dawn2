@@ -31,7 +31,13 @@
         "1628348619e8ba8675-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
@@ -45,12 +51,13 @@
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": false,
-        "show_price": true,
+        "show_price": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": false,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": true,
-        "collapse_on_larger_devices": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
@@ -59,6 +66,7 @@
     },
     "1634606871b1b641d5": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h2",
