@@ -146,6 +146,10 @@
                         </li>
                       {%- endfor -%}
                     </ul>
+
+                    {%- if item.product.metafields.my_fields.prevenda == true -%}
+                      <span id="NoMediaStandardBadge-{{ section_id }}-{{ item.product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Pré-venda</span>
+                    {%- endif -%}
                   </td>
 
                   <td class="cart-item__totals right medium-hide large-up-hide">
