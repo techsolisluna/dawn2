@@ -75,6 +75,7 @@
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
+          "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 8,
           "padding_bottom": 8
@@ -128,7 +129,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "12922273544756209166": {
+        "type": "shopify:\/\/apps\/myalice-helpdesk-chatbot\/blocks\/default\/8566679e-ecdb-4234-94bd-5fdb3f7a7dbe",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
