@@ -133,7 +133,7 @@
     "blocks": {
       "12922273544756209166": {
         "type": "shopify:\/\/apps\/myalice-helpdesk-chatbot\/blocks\/default\/8566679e-ecdb-4234-94bd-5fdb3f7a7dbe",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
