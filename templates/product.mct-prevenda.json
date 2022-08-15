@@ -121,6 +121,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "stacked",
         "media_size": "large",
         "mobile_thumbnails": "hide",
@@ -545,6 +546,7 @@
     },
     "1657485423b5a550bd": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1657485423908e8dd5-1": {
           "type": "column",
