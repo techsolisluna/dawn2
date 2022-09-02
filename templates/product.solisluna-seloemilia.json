@@ -253,58 +253,6 @@
         "vertical_align": "flex-end"
       }
     },
-    "16326202476377d29f": {
-      "type": "image-banner",
-      "blocks": {
-        "16326202476377d29f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Leia antes de comprar {{ product.title }}.",
-            "heading_size": "large"
-          }
-        },
-        "16326202476377d29f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16326202476377d29f-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Começar a ler",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16326202476377d29f-0",
-        "16326202476377d29f-1",
-        "16326202476377d29f-2"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.my_fields.banner.value }}",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": true,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "163366161336322e5e": {
       "type": "custom-liquid",
       "settings": {
@@ -359,6 +307,58 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "16326202476377d29f": {
+      "type": "image-banner",
+      "blocks": {
+        "16326202476377d29f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Leia antes de comprar {{ product.title }}.",
+            "heading_size": "large"
+          }
+        },
+        "16326202476377d29f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16326202476377d29f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Começar a ler",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16326202476377d29f-0",
+        "16326202476377d29f-1",
+        "16326202476377d29f-2"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.my_fields.banner.value }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": true,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1635821821b4bc362b": {
@@ -457,9 +457,9 @@
     "author-product",
     "1632621267a9cdb8f8",
     "163616771967b30d2e",
-    "16326202476377d29f",
     "163366161336322e5e",
     "164234809519219ba2",
+    "16326202476377d29f",
     "1635821821b4bc362b",
     "1631654167122d4539",
     "product-recommendations"
