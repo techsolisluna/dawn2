@@ -226,10 +226,10 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
-        "schema_color": true,
-        "color_back": "#ffffff",
+        "schema_color": false,
+        "color_back": "{{ product.metafields.custom.cor.value }}",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "{{ product.metafields.custom.text_cor.value }}",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
