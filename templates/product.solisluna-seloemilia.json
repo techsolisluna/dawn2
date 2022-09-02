@@ -121,6 +121,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "stacked",
         "media_size": "large",
         "mobile_thumbnails": "hide",
@@ -187,7 +188,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ler agora",
-            "button_link": ""
+            "button_link": "{{ product.metafields.custom.first_pages.value }}"
           }
         }
       },
@@ -316,7 +317,10 @@
           "settings": {
             "button_label": "Ver coleção",
             "button_link": "shopify:\/\/collections\/livros-em-parceria-com-o-selo-emilia",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -326,7 +330,13 @@
         "1642348095014ff909-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
