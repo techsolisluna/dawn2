@@ -121,6 +121,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "stacked",
         "media_size": "large",
         "mobile_thumbnails": "hide",
@@ -133,11 +134,12 @@
     "premios": {
       "type": "premios",
       "settings": {
-        "title": "Prêmios",
+        "title": "Prêmios e reconhecimentos",
         "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "square",
-        "column_alignment": "center",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
