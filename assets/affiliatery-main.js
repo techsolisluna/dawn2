@@ -112,6 +112,7 @@ window.affiliateryConfig = {
     try {
       let query = new URLSearchParams(params).toString();
       let url = `https://${window.location.hostname}/discount/${code}?redirect=${location.pathname}${query ? `?${query}` : ''}`;
+      url = encodeURI(url);
       window.location.href = url
     } catch (e) {
       console.error("Error", e);
@@ -158,7 +159,7 @@ window.affiliateryConfig = {
   let queryJson = queryStringToJSON(location.search.slice(1))
   let partnerRefCode = queryJson.ref || queryJson.ref_cca;
   if (partnerRefCode) {
-
+    partnerRefCode = decodeURIComponent(partnerRefCode)
     let refCodeMaxAge = parseInt('2592000')
     let refValidTill = parseInt(new Date().valueOf() / 1000) + refCodeMaxAge
     setRefCode(partnerRefCode, refValidTill)
@@ -216,6 +217,11 @@ window.affiliateryConfig = {
   async function processCart() {
     try {
       if (partnerRefCode) {
+        if(["utm_source","gclid","fbclid"].some(x=>partnerRefCode.includes(x))){
+          if(!partnerRefCode.includes("ref")){
+            return
+          }
+        }
         fetch(`/cart/update.js`, {
           method: 'POST', headers: {'Content-Type': 'application/json'},
           body: JSON.stringify({attributes: {"__aff_ref": partnerRefCode}})
