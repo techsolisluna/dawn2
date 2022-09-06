@@ -33,15 +33,107 @@
       "disabled": true,
       "settings": {
         "title": "Livros em destauqe",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "all",
         "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1662473041e0f96a7b": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "166247304176c926fb-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Como meu pedido será enviado?",
+            "icon": "leaf",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "166247304176c926fb-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual o prazo de envio? E de entrega?",
+            "icon": "plant",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "166247304176c926fb-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quem produz os livros?",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "166247304176c926fb-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Posso falar com um representante?",
+            "icon": "chat_bubble",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "a7eeff46-179e-42ac-a2e1-233031eb5030": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual a política de descontos?",
+            "icon": "price_tag",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "9752e7ba-a0a1-4b0e-ba31-11c6a6227a0e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ficou outra dúvida?",
+            "icon": "question_mark",
+            "row_content": "<p>Sem problemas! Estamos aqui para te atender.<\/p><p>Você pode entrar em contato clicando no balão do chat ou <a href=\"\/pages\/fale-conosco\" target=\"_blank\" title=\"Fale conosco\">formulário de contato.<\/a><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "166247304176c926fb-0",
+        "166247304176c926fb-1",
+        "166247304176c926fb-2",
+        "166247304176c926fb-3",
+        "a7eeff46-179e-42ac-a2e1-233031eb5030",
+        "9752e7ba-a0a1-4b0e-ba31-11c6a6227a0e"
+      ],
+      "settings": {
+        "caption": "Para não ficar nenhuma dúvida",
+        "heading": "Perguntas frequentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -103,6 +195,7 @@
     "cart-items",
     "cart-footer",
     "featured-products",
+    "1662473041e0f96a7b",
     "1636230617fe35f81c"
   ]
 }
