@@ -152,7 +152,6 @@
     },
     "16336611696633b6c2": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -199,6 +198,7 @@
         },
         "1632621267a9cdb8f8-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}<\/strong><\/p>",
             "text_style": "body"
@@ -276,6 +276,7 @@
         },
         "16326202476377d29f-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Começar a ler",
             "button_link_1": "",
@@ -308,6 +309,7 @@
     },
     "16624694455604944e": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1662469445056e69ac-0": {
           "type": "heading",
