@@ -600,6 +600,7 @@
     },
     "16574873469b681efd": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "1657487345c2e33f31-3": {
           "type": "collapsible_row",
@@ -692,7 +693,7 @@
         "16575470271d8e9852-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Envie uma mensagem para o chat (ícone no canto inferior direito) ou um email para loja@solisluna.com.br e te responderemos assim que possível. <\/p>",
+            "text": "<p>Envie uma mensagem para o chat (ícone no canto inferior direito) ou um email para suporte@solisluna.com.br e te responderemos assim que possível. <\/p>",
             "left": false
           }
         },
