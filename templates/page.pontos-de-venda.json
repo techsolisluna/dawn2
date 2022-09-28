@@ -1,9 +1,57 @@
 {
   "sections": {
+    "16643789031a18886c": {
+      "type": "rich-text",
+      "blocks": {
+        "1664378903bada78b1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pontos de venda e distribuição<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1664378903bada78b1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Você encontra os livros da Solisluna Editora em muitos lugares. <\/strong><br\/>Nesta página listamos os pontos de venda e parceiros que comercializam os livros da Solisluna. <br\/>Caso você busque um livro em específico, aconselhamos que confira a disponibilidade dele diretamente com a livraria de sua preferência.<\/p>",
+            "left": false
+          }
+        },
+        "1664378903bada78b1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664378903bada78b1-0",
+        "1664378903bada78b1-1",
+        "1664378903bada78b1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -72,6 +120,7 @@
     }
   },
   "order": [
+    "16643789031a18886c",
     "main",
     "1659755087d5917cf5"
   ]
