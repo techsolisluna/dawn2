@@ -327,7 +327,10 @@
             "show_social": true,
             "enable_country_selector": false,
             "enable_language_selector": false,
-            "margin_top": 48
+            "margin_top": 48,
+            "payment_enable": true,
+            "padding_top": 36,
+            "padding_bottom": 36
           }
         },
         "main-password-header": {

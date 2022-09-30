@@ -1721,6 +1721,50 @@
               "content": "Para mostrar una calificación, agrega una aplicación de calificación de productos [Más información](https:\/\/help.shopify.com\/manual\/online-store\/themes\/theme-structure\/page-types#product-rating-block)"
             }
           }
+        },
+        "complementary_products": {
+          "name": "Productos complementarios",
+          "settings": {
+            "paragraph": {
+              "content": "Para seleccionar productos complementarios, agrega la aplicación Search & Discovery. [Más información](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+            },
+            "heading": {
+              "label": "Encabezado"
+            },
+            "make_collapsible_row": {
+              "label": "Mostrar como una fila plegable"
+            },
+            "icon": {
+              "info": "Visible cuando se muestra la fila plegable."
+            },
+            "product_list_limit": {
+              "label": "Número máximo de productos para mostrar"
+            },
+            "products_per_page": {
+              "label": "Cantidad de productos por página"
+            },
+            "pagination_style": {
+              "label": "Estilo de paginación",
+              "options": {
+                "option_1": "Puntos",
+                "option_2": "Contador",
+                "option_3": "Números"
+              }
+            },
+            "product_card": {
+              "heading": "Tarjeta de producto"
+            },
+            "image_ratio": {
+              "label": "Relación de aspecto de imagen",
+              "options": {
+                "option_1": "Retrato",
+                "option_2": "Cuadrado"
+              }
+            },
+            "enable_quick_add": {
+              "label": "Activar botón de agregado rápido"
+            }
+          }
         }
       },
       "settings": {
@@ -1743,7 +1787,7 @@
             "label": "Apilado"
           },
           "options__2": {
-            "label": "2 columnas"
+            "label": "Dos columnas"
           },
           "options__3": {
             "label": "Miniaturas"
@@ -1768,7 +1812,7 @@
         "mobile_thumbnails": {
           "label": "Diseño para móviles",
           "options__1": {
-            "label": "2 columnas"
+            "label": "Dos columnas"
           },
           "options__2": {
             "label": "Mostrar miniaturas"
