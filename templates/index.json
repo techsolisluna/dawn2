@@ -50,24 +50,6 @@
         "show_text_below": true
       }
     },
-    "1649960670c6a05ac2": {
-      "type": "back-video",
-      "disabled": true,
-      "settings": {
-        "idvimeo": "641950689",
-        "overlay_opacity": 0,
-        "color_videoback": "#000000",
-        "title": "",
-        "heading_size": "back-font",
-        "text": "",
-        "color_text": "#ffffff",
-        "button_label": "",
-        "button_link": "",
-        "color_btn_bg": "#ffffff",
-        "color_btn_text": "#000000",
-        "vertical_align": "flex-end"
-      }
-    },
     "1658153573113a06df": {
       "type": "slideshow",
       "disabled": true,
@@ -179,6 +161,24 @@
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slides sobre os livros da Solisluna"
+      }
+    },
+    "1649960670c6a05ac2": {
+      "type": "back-video",
+      "disabled": true,
+      "settings": {
+        "idvimeo": "641950689",
+        "overlay_opacity": 0,
+        "color_videoback": "#000000",
+        "title": "",
+        "heading_size": "back-font",
+        "text": "",
+        "color_text": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "color_btn_bg": "#ffffff",
+        "color_btn_text": "#000000",
+        "vertical_align": "flex-end"
       }
     },
     "163458532453df37e6": {
@@ -1024,8 +1024,8 @@
   },
   "order": [
     "16646565291b77dfde",
-    "1649960670c6a05ac2",
     "1658153573113a06df",
+    "1649960670c6a05ac2",
     "163458532453df37e6",
     "1658272623802c6559",
     "featured_products",
