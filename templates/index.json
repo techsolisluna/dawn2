@@ -181,6 +181,33 @@
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
+    "163458532453df37e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lançamentos",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lancamentos",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1658272623802c6559": {
       "type": "featured-product",
       "disabled": true,
@@ -262,33 +289,6 @@
         "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1026,8 +1026,8 @@
     "16646565291b77dfde",
     "1649960670c6a05ac2",
     "1658153573113a06df",
-    "1658272623802c6559",
     "163458532453df37e6",
+    "1658272623802c6559",
     "featured_products",
     "image_banner",
     "1634585146a137c59c",
