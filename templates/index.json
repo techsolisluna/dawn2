@@ -2,6 +2,7 @@
   "sections": {
     "16646565291b77dfde": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16646565288839c435-0": {
           "type": "heading",
@@ -12,6 +13,7 @@
         },
         "16646565288839c435-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Promoção válida até 2\/10 às 23:59",
             "text_style": "caption-with-letter-spacing"
@@ -52,7 +54,6 @@
     },
     "1658153573113a06df": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
