@@ -280,7 +280,7 @@
     },
     "variant_pills": {
       "name": "子類藥丸",
-      "paragraph": "子類藥丸是顯示商品子類選項的一種方式。[瞭解詳情](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "子類藥丸是顯示商品子類選項的一種方式。[瞭解詳情](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "輸入"
@@ -1726,7 +1726,7 @@
           "name": "配套商品",
           "settings": {
             "paragraph": {
-              "content": "若要選取配套商品，請新增 Search & Discovery 應用程式。[瞭解詳情](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)"
+              "content": "若要選取配套商品，請新增 Search & Discovery 應用程式。[瞭解詳情](https:\/\/help.shopify.com\/manual\/online-store\/search-and-discovery\/product-recommendations)"
             },
             "heading": {
               "label": "標題"

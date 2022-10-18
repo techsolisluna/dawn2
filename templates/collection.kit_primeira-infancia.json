@@ -1,0 +1,615 @@
+{
+  "sections": {
+    "73968644-3970-4204-a93c-f1c2c4d68ceb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-0",
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-1",
+        "template--14761738764369__73968644-3970-4204-a93c-f1c2c4d68ceb-1666126624954ddac2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0155_3276642e-62a6-4eed-bfb4-2934bb3dbf29.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "54fc2b24-caca-4230-b950-6eefc0dfc159": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>{{ collection.title }}<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-0",
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-1",
+        "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bd2d106f-0334-47f2-aed2-d5f448e41cf9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Livros para bebês e crianças de até 5 anos",
+            "heading_size": "h0"
+          }
+        },
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-0",
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-1",
+        "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Livros-Infantis.gif",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 5,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_price": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "show_count": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "author_list": false
+      }
+    },
+    "e41d315d-8e16-4029-9364-d889178b14de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Que bicho doido",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-0",
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-1",
+        "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BichoDoido_03.webp",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f1b25fd8-77db-4683-95d2-2e2e260cc28a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-0",
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-1",
+        "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mockup_Martim-03.webp",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c6e2a63e-1982-4383-9949-77f21e5b347f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>A biblioteca Lisensibilizam<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0",
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1",
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1baa030e-9970-44cb-9083-013a5bfe200c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-0",
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-1",
+        "template--14761738764369__1baa030e-9970-44cb-9083-013a5bfe200c-166612543838d9c03c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0149.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "2e72e534-3315-4482-9671-d8a769f40a5f": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-0",
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-1",
+        "template--14761738764369__2e72e534-3315-4482-9671-d8a769f40a5f-1666126703c6ac1dbe-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "ab562fb1-6364-49e3-9d1f-4ade10397692": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-0",
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-1",
+        "template--14761738764369__ab562fb1-6364-49e3-9d1f-4ade10397692-1666127666aa9c3cf6-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#95b0d7",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "39d8158a-5c02-4752-b5ad-fe7a2a45b118": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-0",
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-1",
+        "template--14761738764369__dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0-1666127665e9b7c1cd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Paginas8_9.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "73968644-3970-4204-a93c-f1c2c4d68ceb",
+    "54fc2b24-caca-4230-b950-6eefc0dfc159",
+    "bd2d106f-0334-47f2-aed2-d5f448e41cf9",
+    "banner",
+    "product-grid",
+    "e41d315d-8e16-4029-9364-d889178b14de",
+    "f1b25fd8-77db-4683-95d2-2e2e260cc28a",
+    "c6e2a63e-1982-4383-9949-77f21e5b347f",
+    "1baa030e-9970-44cb-9083-013a5bfe200c",
+    "2e72e534-3315-4482-9671-d8a769f40a5f",
+    "ab562fb1-6364-49e3-9d1f-4ade10397692",
+    "39d8158a-5c02-4752-b5ad-fe7a2a45b118",
+    "dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0"
+  ]
+}

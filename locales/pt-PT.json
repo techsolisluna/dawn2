@@ -286,7 +286,7 @@
     "collection_template": {
       "title": "Coleção",
       "empty": "Nenhum produto encontrado",
-      "use_fewer_filters_html": "Utilizar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo</a>"
+      "use_fewer_filters_html": "Utilizar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo<\/a>"
     },
     "video": {
       "load_video": "Carregar vídeo: {{ description }}"
