@@ -1,21 +1,55 @@
 {
   "sections": {
-    "1649960670c6a05ac2": {
-      "type": "back-video",
+    "16646565291b77dfde": {
+      "type": "image-banner",
       "disabled": true,
+      "blocks": {
+        "16646565288839c435-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Todos os livros com 13% de desconto",
+            "heading_size": "h0"
+          }
+        },
+        "16646565288839c435-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Promoção válida até 2\/10 às 23:59",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "16646565288839c435-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16646565288839c435-0",
+        "16646565288839c435-1",
+        "16646565288839c435-2"
+      ],
       "settings": {
-        "idvimeo": "641950689",
-        "overlay_opacity": 0,
-        "color_videoback": "#000000",
-        "title": "",
-        "heading_size": "back-font",
-        "text": "",
-        "color_text": "#ffffff",
-        "button_label": "",
-        "button_link": "",
-        "color_btn_bg": "#ffffff",
-        "color_btn_text": "#000000",
-        "vertical_align": "flex-end"
+        "image": "shopify:\/\/shop_images\/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1658153573113a06df": {
@@ -130,6 +164,51 @@
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
+    "1649960670c6a05ac2": {
+      "type": "back-video",
+      "disabled": true,
+      "settings": {
+        "idvimeo": "641950689",
+        "overlay_opacity": 0,
+        "color_videoback": "#000000",
+        "title": "",
+        "heading_size": "back-font",
+        "text": "",
+        "color_text": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "color_btn_bg": "#ffffff",
+        "color_btn_text": "#000000",
+        "vertical_align": "flex-end"
+      }
+    },
+    "163458532453df37e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lançamentos",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lancamentos",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1658272623802c6559": {
       "type": "featured-product",
       "disabled": true,
@@ -211,33 +290,6 @@
         "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -972,10 +1024,11 @@
     }
   },
   "order": [
-    "1649960670c6a05ac2",
+    "16646565291b77dfde",
     "1658153573113a06df",
-    "1658272623802c6559",
+    "1649960670c6a05ac2",
     "163458532453df37e6",
+    "1658272623802c6559",
     "featured_products",
     "image_banner",
     "1634585146a137c59c",
