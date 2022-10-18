@@ -279,7 +279,7 @@
     "collection_template": {
       "title": "Kollektion",
       "empty": "Der blev ikke fundet nogen produkter",
-      "use_fewer_filters_html": "Brug færre filtre, eller <a class=\"{{ class }}\" href=\"{{ link }}\">fjern alle</a>"
+      "use_fewer_filters_html": "Brug færre filtre, eller <a class=\"{{ class }}\" href=\"{{ link }}\">fjern alle<\/a>"
     },
     "video": {
       "load_video": "Indlæs video: {{ description }}"
