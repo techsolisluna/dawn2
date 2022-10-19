@@ -59,13 +59,13 @@
           "type": "heading",
           "settings": {
             "heading": "<p>{{ collection.title }}<\/p>",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>livros feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes.<\/p>",
             "left": false
           }
         },
@@ -186,8 +186,8 @@
         "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Que bicho doido",
-            "heading_size": "h1"
+            "heading": "",
+            "heading_size": "h2"
           }
         },
         "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-1": {
@@ -288,7 +288,7 @@
         "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>A biblioteca Lisensibilizam<\/p>",
+            "heading": "<p>Livros lúdicos e divertidos que contribuem para aprendizados dos bebês e crianças na primeira infância<\/p>",
             "heading_size": "h1"
           }
         },
