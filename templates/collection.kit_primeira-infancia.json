@@ -233,6 +233,7 @@
       "blocks": {
         "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h2"
@@ -240,10 +241,9 @@
         },
         "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Livros lúdicos e divertidos que estimulam o olhar e o falar nos bebês.<\/p>",
+            "text_style": "subtitle"
           }
         },
         "template--14761738764369__e41d315d-8e16-4029-9364-d889178b14de-1666127665344f46c8-2": {
@@ -293,7 +293,7 @@
         "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Riquíssimas ilustrações e histórias envolventes. Livros que dialogam com representatividade e<\/p>",
+            "text": "<p><strong>Afeto, acolhimento, carinho, cuidado, atenção. <\/strong>Tudo que as crianças e os bebês merecem<\/p>",
             "text_style": "subtitle"
           }
         },
@@ -330,10 +330,57 @@
         "padding_bottom": 36
       }
     },
+    "1100f892-e648-405c-8b66-1f5f69047e51": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Um presente muito especial<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-0",
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-1",
+        "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "8b9bca46-faa9-43e1-860a-a127e70fec61": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\"><h1>Qual o valor do kit?<\/h1>\n<h2><s>De R$ 229,60<\/s><br> *por R$ 115 + frete<\/h2>\n\n<div>",
+        "custom_liquid": "<div style=\"text-align: center;\"><h1>Qual o valor do kit?<\/h1>\n<h2><s>De R$ 254,50<\/s><br> *por R$ 197 + frete<\/h2>\n<small>Mais de 20% de desconto!<\/small>\n\n<div>",
         "color_scheme": "accent-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -442,7 +489,7 @@
         "ade07523-3965-4e91-87c4-18179aa78800": {
           "type": "caption",
           "settings": {
-            "caption": "*Oferta não acumulativa com outras promoções. Promoção válida enquanto houver estoque e disponibilidade dos títulos. Como forma de pagamento, aceitamos as principais bandeiras de cartão de crédito, boleto e PIX.",
+            "caption": "*Oferta não acumulativa com outras promoções. Promoção por tempo limitado, válida enquanto houver estoque e disponibilidade dos títulos. Como forma de pagamento, aceitamos as principais bandeiras de cartão de crédito, boleto e PIX.",
             "text_style": "subtitle",
             "text_size": "small"
           }
@@ -465,6 +512,67 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "39d8158a-5c02-4752-b5ad-fe7a2a45b118": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "O que vem no kit?",
+            "icon": "heart",
+            "row_content": "<p>Cinco livros infantis, que são eles: Que Bicho Doido, Martim Barulim, Ernesto - o leão faminto, A lagarta que sonhava voar, Margarida Bem-me-quer<\/p>",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual a idade recomendada para estes livros?",
+            "icon": "heart",
+            "row_content": "<p>Recomendamos desde a gestação - sim, há estudos que ler para o bebê ainda na barriga tem efeitos positivos em seu desenvolvimento - até a primeiríssima infância, cerca de 3 a 4 anos de idade. <br\/><br\/>Mas estes livros não atingem outros públicos, inclusive os adultos que apreciam a arte dos livros para crianças, narrativas lúdicas, livros ilustrados e os temas abordados.  <\/p><p><strong>São livros especiais, feitos com muito carinho que, de tamanha beleza, garantem sorrisos e risadas em crianças de 0 a 100 anos.<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2",
+        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Perguntas frequentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1baa030e-9970-44cb-9083-013a5bfe200c": {
@@ -618,68 +726,6 @@
         "padding_bottom": 52
       }
     },
-    "39d8158a-5c02-4752-b5ad-fe7a2a45b118": {
-      "type": "collapsible-content",
-      "disabled": true,
-      "blocks": {
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-0",
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-1",
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2",
-        "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0": {
       "type": "image-banner",
       "blocks": {
@@ -742,13 +788,14 @@
     "c6e2a63e-1982-4383-9949-77f21e5b347f",
     "e41d315d-8e16-4029-9364-d889178b14de",
     "f1b25fd8-77db-4683-95d2-2e2e260cc28a",
+    "1100f892-e648-405c-8b66-1f5f69047e51",
     "8b9bca46-faa9-43e1-860a-a127e70fec61",
     "28f1e7be-15d0-4171-81e3-4bdb1a829d7c",
     "317ae0ea-62cf-4af4-b109-a91d09d413a5",
+    "39d8158a-5c02-4752-b5ad-fe7a2a45b118",
     "1baa030e-9970-44cb-9083-013a5bfe200c",
     "2e72e534-3315-4482-9671-d8a769f40a5f",
     "ab562fb1-6364-49e3-9d1f-4ade10397692",
-    "39d8158a-5c02-4752-b5ad-fe7a2a45b118",
     "dcfdd1fb-3b17-4854-aa01-ecc8f877b9d0"
   ]
 }
