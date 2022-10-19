@@ -342,6 +342,7 @@
         },
         "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "left": false
@@ -349,6 +350,7 @@
         },
         "template--14761738764369__1100f892-e648-405c-8b66-1f5f69047e51-1666185869c419c66c-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -380,7 +382,7 @@
     "8b9bca46-faa9-43e1-860a-a127e70fec61": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\"><h1>Qual o valor do kit?<\/h1>\n<h2><s>De R$ 254,50<\/s><br> *por R$ 197 + frete<\/h2>\n<small>Mais de 20% de desconto!<\/small>\n\n<div>",
+        "custom_liquid": "<div style=\"text-align: center;\"><h1>Qual o valor do kit?<\/h1>\n<h2><s>De R$ 254,50<\/s><br> *por R$ 195,97 + frete<\/h2>\n<small>Mais de 20% de desconto!<\/small>\n\n<div>",
         "color_scheme": "accent-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -538,14 +540,15 @@
         "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quais os prazos de envio e entrega?",
+            "icon": "heart",
+            "row_content": "<p>Os pedidos são preparados e despachados em 1 dia, soma-se então o prazo de entrega da transportadora ou Correios.<\/p>",
             "page": ""
           }
         },
         "template--14761738764369__39d8158a-5c02-4752-b5ad-fe7a2a45b118-1666126705ac1540c1-3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
