@@ -54,8 +54,8 @@
               {%- for order in customer.orders -%}
 
                 {%- liquid 
-                   assign ano = order.created_at | slice: 0, 4
-                 %}
+                    assign ano = order.created_at | slice: 0, 4
+                  %}
 
                 <tr role="row">
                   <td id="RowOrder" role="cell" headers="ColumnOrder" data-label="{{ 'customer.orders.order_number' | t }}">
