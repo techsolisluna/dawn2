@@ -65,7 +65,7 @@
         "template--14761738764369__54fc2b24-caca-4230-b950-6eefc0dfc159-1666125438e6fc4e09-1": {
           "type": "text",
           "settings": {
-            "text": "<p>livros feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes.<\/p>",
+            "text": "<p>livros feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes para estimular o aprendizado na fase mais importante para formação do indivíduo.<\/p>",
             "left": false
           }
         },
@@ -328,6 +328,91 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "8b9bca46-faa9-43e1-860a-a127e70fec61": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: center;\"><h1>Qual o valor do kit?<\/h1>\n<h2><s>De R$ 229,60<\/s><br> *por R$ 115 + frete<\/h2>\n\n<div>",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "28f1e7be-15d0-4171-81e3-4bdb1a829d7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Qual o valor?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Cerca de 15% de desconto para um KIT com 5 livros de excelência.  <\/p>",
+            "left": false
+          }
+        },
+        "11555c47-5e5d-4578-a25f-003229affa10": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPRAR AGORA",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "c51f3a7f-f1d0-41be-8133-e0f477816330": {
+          "type": "caption",
+          "settings": {
+            "caption": "*Oferta não acumulativa com outras promoções. Promoção válida enquanto houver estoque e disponibilidade dos títulos. Como forma de pagamento, aceitamos as principais bandeiras de cartão de crédito, boleto e PIX.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        },
+        "ed18b8ab-f2f3-4df6-8529-fe3c0f2bdb49": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-0",
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-1",
+        "11555c47-5e5d-4578-a25f-003229affa10",
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-2",
+        "c51f3a7f-f1d0-41be-8133-e0f477816330",
+        "ed18b8ab-f2f3-4df6-8529-fe3c0f2bdb49"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1baa030e-9970-44cb-9083-013a5bfe200c": {
@@ -605,6 +690,8 @@
     "c6e2a63e-1982-4383-9949-77f21e5b347f",
     "e41d315d-8e16-4029-9364-d889178b14de",
     "f1b25fd8-77db-4683-95d2-2e2e260cc28a",
+    "8b9bca46-faa9-43e1-860a-a127e70fec61",
+    "28f1e7be-15d0-4171-81e3-4bdb1a829d7c",
     "1baa030e-9970-44cb-9083-013a5bfe200c",
     "2e72e534-3315-4482-9671-d8a769f40a5f",
     "ab562fb1-6364-49e3-9d1f-4ade10397692",
