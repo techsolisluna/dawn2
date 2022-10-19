@@ -106,21 +106,21 @@
         "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Livros para bebês e crianças de até 5 anos",
+            "heading": "Livros para bebês e crianças na primeira infância",
             "heading_size": "h0"
           }
         },
         "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Preparamos um kit com 5 livros da Solisluna para as crianças mais novas que ainda estão descobrindo o mundo ao seu redor. <\/p>",
             "text_style": "body"
           }
         },
         "template--14761738764369__bd2d106f-0334-47f2-aed2-d5f448e41cf9-1666125438290296c1-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Comprar",
             "button_link": ""
           }
         }
@@ -180,6 +180,54 @@
         "author_list": false
       }
     },
+    "c6e2a63e-1982-4383-9949-77f21e5b347f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Livros lúdicos e divertidos que contribuem para aprendizados dos bebês e crianças na primeira infância<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar kit completo",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0",
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1",
+        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e41d315d-8e16-4029-9364-d889178b14de": {
       "type": "image-with-text",
       "blocks": {
@@ -236,17 +284,17 @@
       "blocks": {
         "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "",
+            "heading_size": "h2"
           }
         },
         "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Riquíssimas ilustrações e histórias envolventes. Livros que dialogam com representatividade e<\/p>",
+            "text_style": "subtitle"
           }
         },
         "template--14761738764369__f1b25fd8-77db-4683-95d2-2e2e260cc28a-1666127665344f46c8-2": {
@@ -280,55 +328,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "c6e2a63e-1982-4383-9949-77f21e5b347f": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Livros lúdicos e divertidos que contribuem para aprendizados dos bebês e crianças na primeira infância<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left": false
-          }
-        },
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-0",
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-1",
-        "template--14761738764369__c6e2a63e-1982-4383-9949-77f21e5b347f-1666127666aa9c3cf6-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "1baa030e-9970-44cb-9083-013a5bfe200c": {
@@ -603,9 +602,9 @@
     "bd2d106f-0334-47f2-aed2-d5f448e41cf9",
     "banner",
     "product-grid",
+    "c6e2a63e-1982-4383-9949-77f21e5b347f",
     "e41d315d-8e16-4029-9364-d889178b14de",
     "f1b25fd8-77db-4683-95d2-2e2e260cc28a",
-    "c6e2a63e-1982-4383-9949-77f21e5b347f",
     "1baa030e-9970-44cb-9083-013a5bfe200c",
     "2e72e534-3315-4482-9671-d8a769f40a5f",
     "ab562fb1-6364-49e3-9d1f-4ade10397692",
