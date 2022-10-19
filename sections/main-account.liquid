@@ -53,9 +53,11 @@
             <tbody role="rowgroup">
               {%- for order in customer.orders -%}
 
-                {%- liquid 
-                    assign ano = order.created_at | slice: 0, 4
-                  %}
+                {% liquid 
+                   assign ano = order.created_at | slice: 0, 4 
+                   assign ano_atual = "now" | date: "%Y"
+                   assign final = " de " | append: ano_atual
+                 %}
 
                 <tr role="row">
                   <td id="RowOrder" role="cell" headers="ColumnOrder" data-label="{{ 'customer.orders.order_number' | t }}">
@@ -64,8 +66,8 @@
                     </a>
                   </td>
                   <td headers="RowOrder ColumnDate" role="cell" data-label="{{ 'customer.orders.date' | t }}">
-                    {% if ano == '2022' %}
-                      {{ order.created_at | time_tag: format: 'date' | remove: " de 2022" }}
+                    {% if ano == ano_atual %}
+                      {{ order.created_at | time_tag: format: 'date' | remove: final }}
                     {% else %}
                       {{ order.created_at | time_tag: format: 'date' }}
                     {% endif %}
