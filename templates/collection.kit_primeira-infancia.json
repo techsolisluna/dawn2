@@ -391,58 +391,20 @@
     "28f1e7be-15d0-4171-81e3-4bdb1a829d7c": {
       "type": "rich-text",
       "blocks": {
-        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>Qual o valor?<\/p>",
-            "heading_size": "h1"
-          }
-        },
         "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-2": {
           "type": "button",
           "settings": {
             "button_label": "COMPRAR AGORA",
-            "button_link": "",
+            "button_link": "https:\/\/solisluna.com.br\/cart\/39368169390161:1,22811516743:1,32699312275537:1,12627938705489:1,22811486407:1?discount=MPEWEEK202284248&utm_source=site&utm_medium=main-button&utm_campaign=lp",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "11555c47-5e5d-4578-a25f-003229affa10": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        },
-        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p><\/p><p><\/p><p><\/p><p><\/p>",
-            "left": false
-          }
-        },
-        "c51f3a7f-f1d0-41be-8133-e0f477816330": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "*Oferta não acumulativa com outras promoções. Promoção válida enquanto houver estoque e disponibilidade dos títulos. Como forma de pagamento, aceitamos as principais bandeiras de cartão de crédito, boleto e PIX.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
         }
       },
       "block_order": [
-        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-0",
-        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-2",
-        "11555c47-5e5d-4578-a25f-003229affa10",
-        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-1",
-        "c51f3a7f-f1d0-41be-8133-e0f477816330"
+        "template--14761738764369__28f1e7be-15d0-4171-81e3-4bdb1a829d7c-1666185869c419c66c-2"
       ],
       "settings": {
         "desktop_content_position": "center",
