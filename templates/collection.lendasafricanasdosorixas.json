@@ -52,6 +52,16 @@
         "show_text_below": true
       }
     },
+    "f44ef27a-ed5a-4552-bb95-8c2113f2db98": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div><h1>Lendas<br\/>Africanas<br\/> dos Orixás\n<\/h1><div style=\"border-top:1px solid lightgray; max-width: 50px\"> <\/div><h2 style=\"font-style:italic\">Edsoleda Santos<\/h2><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16347382609e8a367c": {
       "type": "rich-text",
       "blocks": {
@@ -80,7 +90,7 @@
         "16347382609e8a367c-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
+        "desktop_content_position": "left",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": true,
@@ -101,8 +111,36 @@
         "color_scheme": "background-1"
       }
     },
+    "90bd8da8-20c9-4ddb-8c0b-58fb3886a3c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lendas-africanas",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
@@ -424,6 +462,7 @@
         "product": "ewa-e-iroko",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -469,8 +508,10 @@
   },
   "order": [
     "16355369390c8756e7",
+    "f44ef27a-ed5a-4552-bb95-8c2113f2db98",
     "16347382609e8a367c",
     "banner",
+    "90bd8da8-20c9-4ddb-8c0b-58fb3886a3c4",
     "product-grid",
     "16347377538d42acb4",
     "16347377887f406d0b",
