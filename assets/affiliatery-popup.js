@@ -36,6 +36,7 @@ let styles = `/* The Modal (background) */
   /*padding: 20px;*/
   /*border: 1px solid #888;*/
   width: max-content; /* Could be more or less, depending on screen size */
+  position: relative;
 }
 
 /* The Close Button */
@@ -44,8 +45,10 @@ let styles = `/* The Modal (background) */
   float: right;
   font-size: 28px;
   font-weight: bold;
-  margin-right: 20px;
-  margin-top: -20px;
+  position: absolute;
+  right: 7px;
+  top: 3px;
+  z-index: 4;
 }
 
 .close:hover,
