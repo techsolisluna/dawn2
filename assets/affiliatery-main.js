@@ -1,5 +1,5 @@
 window.affiliateryConfig = {
-  apiUrl: "https://affiliatery-api.staqlab.com/affiliatery",
+  apiUrl: "https://affiliatery-app-api.staqlab.com/affiliatery",
   clientId: "4EF6494ZRDALFF28YA3TKRCE",
   autoApplyDiscount: false
 };
@@ -190,7 +190,7 @@ window.affiliateryConfig = {
       clientUniqueId: window.affiliateryConfig.clientId,
       userUniqueId: userUniqueId
     };
-    const url = "https://affiliatery-api.staqlab.com/affiliatery/api/cart-mapping";
+    const url = "https://affiliatery-app-api.staqlab.com/affiliatery/api/cart-mapping";
     if (cartResponse && cartResponse.token) {
       mapping['cartToken'] = cartResponse.token;
     }
