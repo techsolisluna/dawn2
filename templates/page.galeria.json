@@ -22,6 +22,7 @@
       "blocks": {
         "16588003713ad3e8e4-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>arte com identidade<\/p>",
             "heading_size": "h0"
@@ -63,23 +64,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "a7ae950d-7bb2-445b-b27f-7474683d31ba": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Frame_37_61b4da47-0693-4943-bd10-6fb0317bc5f6.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "main": {
@@ -142,6 +126,23 @@
         "padding_bottom": 36
       }
     },
+    "a7ae950d-7bb2-445b-b27f-7474683d31ba": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_37_61b4da47-0693-4943-bd10-6fb0317bc5f6.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1658802021b834784d": {
       "type": "image-banner",
       "blocks": {
@@ -200,8 +201,8 @@
         "16563060323f6b14f5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading": "Inscreva-se em nossa newsletter",
+            "heading_size": "h2"
           }
         },
         "16563060323f6b14f5-1": {
@@ -233,10 +234,10 @@
   "order": [
     "1658800276a02a89af",
     "16588003715fb66d15",
-    "a7ae950d-7bb2-445b-b27f-7474683d31ba",
     "main",
     "165630580916e4a434",
     "1658800897a2975d76",
+    "a7ae950d-7bb2-445b-b27f-7474683d31ba",
     "1658802021b834784d",
     "1656306032260ceedf"
   ]
