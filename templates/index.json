@@ -313,7 +313,7 @@
         "color_videoback": "#000000",
         "title": "",
         "heading_size": "back-font",
-        "text": "",
+        "text": "<p><\/p>",
         "color_text": "#ffffff",
         "button_label": "",
         "button_link": "",
@@ -327,7 +327,7 @@
       "settings": {
         "title": "Lançamentos",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "lancamentos",
@@ -360,7 +360,7 @@
         "collection": "frontpage",
         "products_to_show": 10,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
@@ -688,7 +688,7 @@
       "settings": {
         "title": "Patrimônio cultural imaterial",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "historia-e-memoria",
@@ -1003,7 +1003,7 @@
         "1635821185a894c04f-1": {
           "type": "paragraph",
           "settings": {
-            "text": ""
+            "text": "<p><\/p>"
           }
         },
         "1635821185a894c04f-2": {
