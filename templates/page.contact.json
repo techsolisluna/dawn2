@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 36,
@@ -22,6 +21,7 @@
     },
     "9374b402-f1d3-4595-9db0-58bd547cdd1f": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14510717141073__9374b402-f1d3-4595-9db0-58bd547cdd1f-1670018643e062990e-0": {
           "type": "heading",
@@ -110,8 +110,17 @@
         "d2441ca6-f1a6-4082-a0b1-18a5220f2859": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Enviar currículo",
+            "heading": "Vagas: trabalhe conosco",
             "icon": "lightning_bolt",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "9fafd7a9-b1d7-4fef-9bd2-ef746d7d4c0a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Portfólio de Arte & Ilustração",
+            "icon": "star",
             "row_content": "",
             "page": ""
           }
@@ -122,13 +131,14 @@
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-3",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-2",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-1",
-        "d2441ca6-f1a6-4082-a0b1-18a5220f2859"
+        "d2441ca6-f1a6-4082-a0b1-18a5220f2859",
+        "9fafd7a9-b1d7-4fef-9bd2-ef746d7d4c0a"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Como podemos te ajudar?",
         "heading_size": "h1",
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
