@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 28,
@@ -73,6 +72,7 @@
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
           "type": "heading",
@@ -121,6 +121,7 @@
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<iframe title=\"Contact Form\" src=\"https:\/\/plugins.crisp.chat\/urn:crisp.im:contact-form:0\/contact\/375e37e3-0081-4a82-b743-e698f84fabcd\" referrerpolicy=\"origin\" sandbox=\"allow-forms allow-popups allow-scripts\" width=\"100%\" height=\"600px\" frameborder=\"0\"><\/iframe>",
         "color_scheme": "background-1",
