@@ -91,18 +91,10 @@
         },
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Fornecedores",
             "icon": "box",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Enviar original",
-            "icon": "plant",
             "row_content": "",
             "page": ""
           }
@@ -130,7 +122,6 @@
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-0",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-3",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-2",
-        "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-1",
         "d2441ca6-f1a6-4082-a0b1-18a5220f2859",
         "9fafd7a9-b1d7-4fef-9bd2-ef746d7d4c0a"
       ],
