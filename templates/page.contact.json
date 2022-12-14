@@ -106,13 +106,23 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "d2441ca6-f1a6-4082-a0b1-18a5220f2859": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Enviar currículo",
+            "icon": "lightning_bolt",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-0",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-3",
         "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-2",
-        "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-1"
+        "template--14510717141073__e2d17617-75b9-48b8-8b26-9d5dadf95b27-16700185657b1d377f-1",
+        "d2441ca6-f1a6-4082-a0b1-18a5220f2859"
       ],
       "settings": {
         "caption": "",
