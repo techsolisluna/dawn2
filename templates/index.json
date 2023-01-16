@@ -685,6 +685,7 @@
     },
     "1635597573bd71be81": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Patrimônio cultural imaterial",
         "heading_size": "h2",
@@ -871,6 +872,7 @@
     },
     "16346078358d4cca17": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Projetos especiais que a Solisluna desenvolve",
         "heading_size": "h2",
