@@ -53,58 +53,6 @@
         "show_text_below": true
       }
     },
-    "16646565291b77dfde": {
-      "type": "image-banner",
-      "blocks": {
-        "16646565288839c435-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Todos os livros com 13% de desconto",
-            "heading_size": "h0"
-          }
-        },
-        "16646565288839c435-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Promoção válida até 2\/10 às 23:59",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "16646565288839c435-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16646565288839c435-0",
-        "16646565288839c435-1",
-        "16646565288839c435-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/96F19F54-DB7C-47C6-B13C-72B3AEEB84BD_1_105_c.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1658272623802c6559": {
       "type": "featured-product",
       "disabled": true,
@@ -193,7 +141,6 @@
     },
     "1658153573113a06df": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
@@ -215,6 +162,7 @@
         },
         "0887b021-6811-4dc4-aa1b-693e85e765ad": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
             "heading": "Coleção de livros Lendas Africanas dos Orixás",
@@ -299,7 +247,7 @@
         "slide_height": "large",
         "slider_visual": "counter",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 7,
         "show_text_below": true,
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
@@ -349,6 +297,58 @@
         "padding_bottom": 36
       }
     },
+    "16646565291b77dfde": {
+      "type": "image-banner",
+      "blocks": {
+        "16646565288839c435-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Todos os livros com 13% de desconto",
+            "heading_size": "h0"
+          }
+        },
+        "16646565288839c435-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Promoção válida até 2\/10 às 23:59",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "16646565288839c435-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16646565288839c435-0",
+        "16646565288839c435-1",
+        "16646565288839c435-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/96F19F54-DB7C-47C6-B13C-72B3AEEB84BD_1_105_c.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -378,6 +378,7 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "button": {
           "type": "buttons",
@@ -412,6 +413,7 @@
     },
     "1634585146a137c59c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1634585146a137c59c-0": {
           "type": "heading",
@@ -978,11 +980,11 @@
   },
   "order": [
     "16356273289b2f4479",
-    "16646565291b77dfde",
     "1658272623802c6559",
     "1658153573113a06df",
     "1649960670c6a05ac2",
     "163458532453df37e6",
+    "16646565291b77dfde",
     "featured_products",
     "image_banner",
     "1634585146a137c59c",
