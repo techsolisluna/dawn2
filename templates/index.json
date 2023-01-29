@@ -141,6 +141,7 @@
     },
     "1658153573113a06df": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
@@ -181,6 +182,7 @@
         },
         "165815357365d8068c-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9656.jpg",
             "heading": "Livros para educadores e formadores de leitores",
@@ -199,6 +201,7 @@
         },
         "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-11_at_13.34.48.jpg",
             "heading": "Solisluna presente nas feiras e eventos literários",
