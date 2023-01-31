@@ -15,28 +15,19 @@
         "16597550878347ea89-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Assistente administrativo [estágio]",
-            "icon": "ruler",
-            "row_content": "",
-            "page": "trabalhe-conosco"
-          }
-        },
-        "16597550878347ea89-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Assistente comercial",
+            "heading": "[estágio] Assistente administrativo e comercial",
             "icon": "star",
             "row_content": "",
-            "page": ""
+            "page": "vaga-de-estagio-assistente-administrativo-e-financeiro"
           }
         },
         "16597550878347ea89-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Assistente editorial",
+            "heading": "Trabalhe conosco",
             "icon": "clipboard",
             "row_content": "",
-            "page": ""
+            "page": "trabalhe-conosco"
           }
         },
         "16597550878347ea89-3": {
@@ -52,7 +43,6 @@
       },
       "block_order": [
         "16597550878347ea89-0",
-        "16597550878347ea89-1",
         "16597550878347ea89-2",
         "16597550878347ea89-3"
       ],
