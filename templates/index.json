@@ -543,7 +543,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7772.jpg",
-        "product_img": true,
+        "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
