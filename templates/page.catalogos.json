@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -72,19 +72,18 @@
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Fale conosco<\/p>",
+            "heading": "<p>Catálogos de Livros <\/p>",
             "heading_size": "h0"
           }
         },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir ou pelo chat no canto inferior direito.<\/p>",
+            "text": "<p>Escolha qual a opção você prefere<\/p>",
             "left": false
           }
         },
@@ -128,12 +127,58 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "634ebf75-237b-4501-962d-7e5e9cdffdb8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17779919814935__634ebf75-237b-4501-962d-7e5e9cdffdb8-1675364029b047ee92-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/capa-catalogo.png",
+            "title": "Livros para Crianças e Jovens",
+            "text": "",
+            "link_label": "VISUALIZAR",
+            "link": "https:\/\/materiais.solisluna.com.br\/catalogo-de-livros-criancas-e-jovens"
+          }
+        },
+        "template--17779919814935__634ebf75-237b-4501-962d-7e5e9cdffdb8-1675364029b047ee92-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Captura_de_Tela_2023-02-02_as_15.09.22.png",
+            "title": "Livros para Adultos",
+            "text": "",
+            "link_label": "VISUALIZAR",
+            "link": "https:\/\/solisluna.com.br"
+          }
+        }
+      },
+      "block_order": [
+        "template--17779919814935__634ebf75-237b-4501-962d-7e5e9cdffdb8-1675364029b047ee92-0",
+        "template--17779919814935__634ebf75-237b-4501-962d-7e5e9cdffdb8-1675364029b047ee92-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "1659755087d5917cf5",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53"
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "634ebf75-237b-4501-962d-7e5e9cdffdb8"
   ]
 }
