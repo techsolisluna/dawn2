@@ -144,12 +144,11 @@
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-Nostalgia-do-Vazio_3_ec2e2682-8e69-43b9-a6d9-5c885006be4d.png",
-            "heading": "a leitura como espaço de pertencimento dos adolescentes",
+            "image": "shopify:\/\/shop_images\/banner_transbordos2.png",
+            "heading": "Uma viagem sem freios",
             "heading_size": "h2",
-            "subheading": "",
+            "subheading": "a Berlim, Amsterdam e Alpha Centauri",
             "button_label": "Conheça",
             "link": "shopify:\/\/products\/a-nostalgia-do-vazio",
             "button_style_secondary": true,
