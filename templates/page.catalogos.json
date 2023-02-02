@@ -193,8 +193,8 @@
         "template--17779919814935__3fc20c4d-8b23-4e4a-a8b9-af6f0744bab7-1675364474029ee08c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Fazer download",
+            "button_link": "https:\/\/materiais.solisluna.com.br\/catalogos-de-livros"
           }
         }
       },
@@ -224,6 +224,7 @@
     },
     "70c725ca-ff92-4baf-b60f-a4f0cf7e96bd": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--17779919814935__70c725ca-ff92-4baf-b60f-a4f0cf7e96bd-16753679471486fc9e-0": {
           "type": "heading",
@@ -265,7 +266,7 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
