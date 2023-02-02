@@ -18,13 +18,6 @@
             "heading_size": "h0"
           }
         },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Escolha qual a opção você prefere<\/p>",
-            "left": false
-          }
-        },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2": {
           "type": "button",
           "disabled": true,
@@ -40,7 +33,6 @@
       },
       "block_order": [
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
       ],
       "settings": {
