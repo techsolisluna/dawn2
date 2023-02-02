@@ -144,6 +144,7 @@
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/banner_transbordos2.png",
             "heading": "Uma viagem sem freios",
@@ -646,15 +647,22 @@
         "1634603513b9058cec-0": {
           "type": "heading",
           "settings": {
-            "heading": "Percurso histórico de uma região sertaneja",
+            "heading": "A memória do bosque",
             "heading_size": "h1"
           }
         },
         "1634603513b9058cec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Este livro traça a trajetória histórica da <strong>Chapada Diamantina <\/strong>desde a época de seus primeiros habitantes, os indígenas, até os dias atuais. Busca-se construir um amplo panorama da região, reunindo e integrando pedaços de sua saga, dispersos em inúmeras fontes. <\/p><p><a href=\"\/products\/chapada-lavras-e-diamantes-percurso-historico-de-uma-regiao-sertaneja\" target=\"_blank\" title=\"Chapada, Lavras e Diamantes: percurso histórico de uma região sertaneja\">Saiba mais<\/a><\/p>",
+            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
             "text_style": "body"
+          }
+        },
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conheça",
+            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
           }
         }
       },
@@ -662,10 +670,11 @@
         "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
         "3894e2b2-bd2f-41e7-ac58-dc8466475269",
         "1634603513b9058cec-0",
-        "1634603513b9058cec-1"
+        "1634603513b9058cec-1",
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7373_1.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -673,9 +682,9 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "schema_color": false,
-        "color_back": "#df610d",
+        "color_back": "#b6efbc",
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
