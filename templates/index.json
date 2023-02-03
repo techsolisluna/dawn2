@@ -296,59 +296,6 @@
         "padding_bottom": 36
       }
     },
-    "16646565291b77dfde": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "16646565288839c435-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Todos os livros com 13% de desconto",
-            "heading_size": "h0"
-          }
-        },
-        "16646565288839c435-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Promoção válida até 2\/10 às 23:59",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "16646565288839c435-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16646565288839c435-0",
-        "16646565288839c435-1",
-        "16646565288839c435-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/96F19F54-DB7C-47C6-B13C-72B3AEEB84BD_1_105_c.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -458,6 +405,73 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "1634603513b9058cec": {
+      "type": "image-with-text",
+      "blocks": {
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
+          "type": "caption",
+          "settings": {
+            "caption": "lançamento",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "3894e2b2-bd2f-41e7-ac58-dc8466475269": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>lançamento<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "1634603513b9058cec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A memória do bosque",
+            "heading_size": "h1"
+          }
+        },
+        "1634603513b9058cec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conheça",
+            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
+          }
+        }
+      },
+      "block_order": [
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
+        "3894e2b2-bd2f-41e7-ac58-dc8466475269",
+        "1634603513b9058cec-0",
+        "1634603513b9058cec-1",
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "schema_color": false,
+        "color_back": "#e6ffe8",
+        "gradient_back": "",
+        "color_text": "#353535",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1635001812716d45d4": {
@@ -623,73 +637,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "1634603513b9058cec": {
-      "type": "image-with-text",
-      "blocks": {
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
-          "type": "caption",
-          "settings": {
-            "caption": "lançamento",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "3894e2b2-bd2f-41e7-ac58-dc8466475269": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>lançamento<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "1634603513b9058cec-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "A memória do bosque",
-            "heading_size": "h1"
-          }
-        },
-        "1634603513b9058cec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
-          "type": "button",
-          "settings": {
-            "button_label": "Conheça",
-            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
-          }
-        }
-      },
-      "block_order": [
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
-        "3894e2b2-bd2f-41e7-ac58-dc8466475269",
-        "1634603513b9058cec-0",
-        "1634603513b9058cec-1",
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "schema_color": false,
-        "color_back": "#e6ffe8",
-        "gradient_back": "",
-        "color_text": "#353535",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1635597573bd71be81": {
@@ -991,15 +938,14 @@
     "1658153573113a06df",
     "1649960670c6a05ac2",
     "163458532453df37e6",
-    "16646565291b77dfde",
     "featured_products",
     "image_banner",
     "1634585146a137c59c",
+    "1634603513b9058cec",
     "1635001812716d45d4",
     "163259099574ea68ac",
     "1635818678cc429f25",
     "163553109489ee12a3",
-    "1634603513b9058cec",
     "1635597573bd71be81",
     "163478366489eccf57",
     "1634611538203a7608",
