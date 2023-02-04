@@ -142,6 +142,24 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_vaporzinho.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "165815357365d8068c-0": {
           "type": "slide",
           "settings": {
@@ -162,6 +180,7 @@
         },
         "0887b021-6811-4dc4-aa1b-693e85e765ad": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/banner_manual.png",
             "heading": "O livro mais completo sobre construção com terra  disponível no Brasil",
@@ -180,6 +199,7 @@
         },
         "165815357365d8068c-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9656.jpg",
             "heading": "Parceria Selo Emília & Solisluna",
@@ -193,25 +213,6 @@
             "text_alignment": "right",
             "image_overlay_opacity": 30,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-11_at_13.34.48.jpg",
-            "heading": "Solisluna presente nas feiras e eventos literários",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Leia mais",
-            "link": "shopify:\/\/blogs\/solisblogluna\/vida-longa-a-feira-do-livro-cores-e-literatura-ocupam-a-praca",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 60,
-            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -235,10 +236,10 @@
         }
       },
       "block_order": [
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-0",
         "0887b021-6811-4dc4-aa1b-693e85e765ad",
         "165815357365d8068c-1",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
       ],
       "settings": {
