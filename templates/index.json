@@ -147,7 +147,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/banner_vaporzinho.png",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -162,6 +162,7 @@
         },
         "165815357365d8068c-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/banner_transbordos2.png",
             "heading": "Uma viagem sem freios",
@@ -218,6 +219,7 @@
         },
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
             "heading": "Livros para crianças e jovens",
@@ -248,7 +250,7 @@
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 7,
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
