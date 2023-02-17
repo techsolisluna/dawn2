@@ -413,8 +413,8 @@
         "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Comprar",
+            "button_link": "shopify:\/\/products\/migrantes"
           }
         }
       },
