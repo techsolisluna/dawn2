@@ -326,89 +326,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "button": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Design",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "Editora",
-            "button_link_2": "shopify:\/\/collections\/all",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_Migrantes_1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "1634585146a137c59c": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1634585146a137c59c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>MIGRANTES por Issa Watanabe<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1634585146a137c59c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Migrantes, refugiados, deslocados, bombardeios, violência, guerra, fome, medo, êxodo, campos, meninos, meninas, órfãos, barcos, resgates, afogados, fronteiras, apátridas, ilegais, desaparecidas, crise humanitária, pacto mundial sobre migração, direitos humanos... <strong>Silêncio.<\/strong><\/p><p><\/p><p><strong>Edição em parceria<br\/><\/strong>Livros da Raposa Vermelha, Solisluna & Selo Emília<\/p>",
-            "left": false
-          }
-        },
-        "1634585146a137c59c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/migrantes",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1634585146a137c59c-0",
-        "1634585146a137c59c-1",
-        "1634585146a137c59c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1634603513b9058cec": {
       "type": "image-with-text",
       "blocks": {
@@ -474,6 +391,89 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "f3888e99-b61a-4eaf-95d5-7ee076bca84b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Migrantes por Issa Watanabe",
+            "heading_size": "h2"
+          }
+        },
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Migrantes, refugiados, deslocados, bombardeios, violência, guerra, fome, medo, êxodo, campos, meninos, meninas, órfãos, barcos, resgates, afogados, fronteiras, apátridas, ilegais, desaparecidas, crise humanitária, pacto mundial sobre migração, direitos humanos... <strong>Silêncio.<\/strong><\/p><p><\/p><p><strong>Edição em parceria <\/strong>Livros da Raposa Vermelha, Solisluna & Selo Emília<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-0",
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-1",
+        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Migrantes_f96ea2c2-b690-4cca-8d9e-1a292d6f2d44.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Design",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "Editora",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/migrantes_issa-watanabe_divulgacao2_fc5d179c-3fe5-4a53-af85-a8d6d3420096.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "1635001812716d45d4": {
@@ -941,9 +941,9 @@
     "1649960670c6a05ac2",
     "featured_products",
     "163458532453df37e6",
-    "image_banner",
-    "1634585146a137c59c",
     "1634603513b9058cec",
+    "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
+    "image_banner",
     "1635001812716d45d4",
     "163259099574ea68ac",
     "1635818678cc429f25",
