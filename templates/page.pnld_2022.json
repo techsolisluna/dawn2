@@ -3,137 +3,62 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "1659755087d5917cf5": {
-      "type": "collapsible-content",
-      "disabled": true,
+    "9fe2cdff-2a92-4805-b54d-944f9dfa9f59": {
+      "type": "multicolumn",
       "blocks": {
-        "16597550878347ea89-0": {
-          "type": "collapsible_row",
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-0": {
+          "type": "column",
           "settings": {
-            "heading": "Suporte com o pedido",
-            "icon": "box",
-            "row_content": "<p>sasa<\/p>",
-            "page": ""
+            "image": "shopify:\/\/shop_images\/Que-bicho-doido-PNDL.png",
+            "title": "",
+            "text": "<p><strong>Texto e ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p> <\/p><p> <\/p><p><strong>CÓDIGO 0715 P22 02 01 000 000<\/strong><\/p><p><\/p>",
+            "link_label": "SAIBA MAIS",
+            "link": ""
           }
         },
-        "16597550878347ea89-1": {
-          "type": "collapsible_row",
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1": {
+          "type": "column",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16597550878347ea89-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16597550878347ea89-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "image": "shopify:\/\/shop_images\/A-uniao-faz-a-colcha-PNDL.png",
+            "title": "",
+            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO 0716 P22 02 03 000 000<\/strong><\/p><p><\/p>",
+            "link_label": "SAIBA MAIS",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "16597550878347ea89-0",
-        "16597550878347ea89-1",
-        "16597550878347ea89-2",
-        "16597550878347ea89-3"
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-0",
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}"
       ],
       "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
+        "title": "",
         "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "14a6b1f6-71fb-409d-88f6-723d403d3118": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Fale conosco<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir ou pelo chat no canto inferior direito.<\/p>",
-            "left": false
-          }
-        },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<iframe title=\"Contact Form\" src=\"https:\/\/plugins.crisp.chat\/urn:crisp.im:contact-form:0\/contact\/375e37e3-0081-4a82-b743-e698f84fabcd\" referrerpolicy=\"origin\" sandbox=\"allow-forms allow-popups allow-scripts\" width=\"100%\" height=\"600px\" frameborder=\"0\"><\/iframe>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "1659755087d5917cf5",
-    "14a6b1f6-71fb-409d-88f6-723d403d3118",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53"
+    "9fe2cdff-2a92-4805-b54d-944f9dfa9f59"
   ]
 }
