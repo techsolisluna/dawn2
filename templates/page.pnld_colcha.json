@@ -65,8 +65,8 @@
           "settings": {
             "title": "",
             "text": "<p><strong>CÓDIGO DA COLEÇÃO<\/strong><\/p><p>0716 P22 02 03 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Pré-escola<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio de crianças pequenas<\/p>",
-            "link_label": "TRECHO DA OBRA",
-            "link": "https:\/\/hubs.ly\/Q01GGZWC0"
+            "link_label": "",
+            "link": ""
           }
         },
         "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1": {
@@ -74,6 +74,24 @@
           "settings": {
             "title": "",
             "text": "<p><strong>TEMAS<\/strong><\/p><p>Profissões urbanas e rurais<\/p><p> <\/p><p><strong>GÊNERO LITERÁRIO<\/strong><\/p><p>Poema<\/p><p> <\/p><p><strong>FORMATO<\/strong><\/p><p>20,5cm x 27,5cm | 36 páginas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "TRECHO DA OBRA",
+            "link": "https:\/\/hubs.ly\/Q01GGZWC0"
+          }
+        },
+        "8c9a9138-eaec-4115-8087-f8734f4a254e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
             "link_label": "MANUAL DO PROFESSOR",
             "link": "https:\/\/hubs.ly\/Q01GH4rX0"
           }
@@ -81,11 +99,15 @@
       },
       "block_order": [
         "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-0",
-        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1"
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1",
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9",
+        "8c9a9138-eaec-4115-8087-f8734f4a254e"
       ],
       "custom_css": [
         ".multicolumn {margin: 2rem auto 5rem;}",
-        ".multicolumn div {background: #f7d8b2; width: 90%;}"
+        ".multicolumn div {background: #f7d8b2; width: 90%;}",
+        ".link span {display: none;}",
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0;}"
       ],
       "settings": {
         "title": "",
