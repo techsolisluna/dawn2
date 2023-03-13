@@ -64,18 +64,18 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>CÓDIGO DA COLEÇÃO<\/strong><\/p><p>0716 P22 02 03 000 000<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>CÓDIGO DA COLEÇÃO<\/strong><\/p><p>0716 P22 02 03 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Pré-escola<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio de crianças pequenas<\/p>",
+            "link_label": "TRECHO DA OBRA",
+            "link": "https:\/\/hubs.ly\/Q01GGZWC0"
           }
         },
         "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>TEMAS<\/strong><\/p><p>Profissões urbanas e rurais<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>TEMAS<\/strong><\/p><p>Profissões urbanas e rurais<\/p><p> <\/p><p><strong>GÊNERO LITERÁRIO<\/strong><\/p><p>Poema<\/p><p> <\/p><p><strong>FORMATO<\/strong><\/p><p>20,5cm x 27,5cm | 36 páginas<\/p>",
+            "link_label": "MANUAL DO PROFESSOR",
+            "link": "https:\/\/hubs.ly\/Q01GH4rX0"
           }
         }
       },
