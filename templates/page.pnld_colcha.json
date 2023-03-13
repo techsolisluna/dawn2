@@ -37,12 +37,12 @@
         "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1"
       ],
       "custom_css": [
-        ".title {font-weight: 600; background: #f7d8b2; padding: 1rem; font-size: 1.7rem;}",
-        "a {text-decoration: none;}"
+        "\/*.title {font-weight: 600; background: #f7d8b2; padding: 1rem; font-size: 1.7rem;}",
+        "*\/a {text-decoration: none;}"
       ],
       "settings": {
         "title": "PNLD 2022 - EDUCAÇÃO INFANTIL",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
         "columns_desktop": 2,
