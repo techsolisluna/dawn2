@@ -42,7 +42,7 @@
       "custom_css": [
         ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 88%; background: #eba834; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 88%; background: #E03F03; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0; display: block;}"
       ],
       "settings": {
         "title": "",
