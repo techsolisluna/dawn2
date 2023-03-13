@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "strong {color: black; font-size: 1.7rem;}"
+      ],
       "settings": {
         "show_title": false,
         "padding_top": 28,
@@ -37,7 +40,9 @@
         "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1"
       ],
       "custom_css": [
-        ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}"
+        ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}",
+        ".link span {display: none;}",
+        ".link {color: white; font-weight: 600; width: 80%; background: #eba834; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0;}"
       ],
       "settings": {
         "title": "",
