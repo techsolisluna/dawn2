@@ -19,7 +19,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Que-bicho-doido-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto e ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p> <\/p><p> <\/p><p><strong>CÓDIGO 0715 P22 02 01 000 000<\/strong><\/p><p><\/p>",
+            "text": "<p><strong>Texto e ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p> <\/p><p> <\/p><p><strong>CÓDIGO 0715 PP22 02 01 000 000<\/strong><\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
             "link": ""
           }
@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/A-uniao-faz-a-colcha-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO 0716 P22 02 03 000 000<\/strong><\/p><p><\/p>",
+            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO 0716 PP22 02 03 000 000<\/strong><\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
             "link": ""
           }
@@ -42,7 +42,7 @@
       "custom_css": [
         ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 88%; background: #E03F03; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 88%; background: #e03f03; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0; display: block;}"
       ],
       "settings": {
         "title": "",
