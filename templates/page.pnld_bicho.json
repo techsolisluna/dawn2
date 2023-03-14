@@ -107,7 +107,7 @@
         ".multicolumn {margin: 2rem auto 5rem;}",
         ".multicolumn {background: #f7d8b2; width: 90%;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 90%; background: #faa957; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 90%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0; display: block;}"
       ],
       "settings": {
         "title": "",
