@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c949b8b6-2559-4093-b9f5-b3279c92b1a8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A-uniao-faz-a-colcha-PNDL.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h1><strong>A união faz a colcha<\/strong><\/h1><p><\/p><p><strong>Texto<\/strong>  <a href=\"https:\/\/solisluna.com.br\/collections\/antonio-miranda\" target=\"_blank\" title=\"Antonio Miranda\">Antonio Miranda<\/a> e <a href=\"https:\/\/solisluna.com.br\/collections\/eneas-guerra\" target=\"_blank\" title=\"Enéas Guerra\">Enéas Guerra<\/a><\/p><p><strong>Ilustrações<\/strong> <a href=\"https:\/\/solisluna.com.br\/collections\/eneas-guerra\" target=\"_blank\" title=\"Enéas Guerra\">Enéas Guerra<\/a><\/p><p> <\/p><p>E os retalhos, de onde vêm? Vêm de lugares e de pessoas diferentes. Cada uma com seu jeito de vestir; cada costura, com seu jeito de unir; cada cor, com sua maneira de colorir. Desfilam harmonia numa colcha de retalhos, cobrindo, com um manto de alegria, os diferentes que fazem do seu dia a dia o bem viver de uma cidade.<\/p><p> <br\/>O livro A união faz a colcha propõe uma brincadeira em formato de pergunta: <em>de onde vieram estes retalhos? Da sapatilha da bailarina, do pijama da menina, da faixa do padre, do paletó do compadre<\/em>... E assim começa uma divertida procura pelos donos dos retalhos, um grupo diverso de pessoas com profissões, gêneros, jeitos e aparências diferentes.<\/p><p><br\/>Ao decorrer da leitura, a criança acompanha a formação de uma colcha de retalhos que vem de lugares e pessoas diferentes, uma mistura linda, rica e colorida.<\/p><p> <\/p><p>Um dos diferenciais da publicação é que ele acompanha uma música autoral, que pode ser acessada com um QR Code, no final do livro.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-0",
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1"
+      ],
+      "custom_css": [
+        "\/*.title {font-weight: 600; background: #f7d8b2; padding: 1rem; font-size: 1.7rem;}",
+        "*\/a {text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "PNLD 2022 - EDUCAÇÃO INFANTIL",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>CÓDIGO DA COLEÇÃO<\/strong><\/p><p>0716 P22 02 03 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Pré-escola<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio de crianças pequenas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>TEMAS<\/strong><\/p><p>Profissões urbanas e rurais<\/p><p> <\/p><p><strong>GÊNERO LITERÁRIO<\/strong><\/p><p>Poema<\/p><p> <\/p><p><strong>FORMATO<\/strong><\/p><p>20,5cm x 27,5cm | 36 páginas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "TRECHO DA OBRA",
+            "link": "https:\/\/hubs.ly\/Q01GGZWC0"
+          }
+        },
+        "8c9a9138-eaec-4115-8087-f8734f4a254e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "MANUAL DO PROFESSOR",
+            "link": "https:\/\/hubs.ly\/Q01GH4rX0"
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-0",
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1",
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9",
+        "8c9a9138-eaec-4115-8087-f8734f4a254e"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: 2rem auto 5rem;}",
+        ".multicolumn {background: #f7d8b2; width: 90%;}",
+        ".link span {display: none;}",
+        ".link {color: white; font-weight: 600; width: 90%; background: #faa957; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0; display: block;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
+    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25"
+  ]
+}
