@@ -11,6 +11,54 @@
         "padding_bottom": 28
       }
     },
+    "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PNLD 2022 - Educação Infantil<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Conheça as obras da Solisluna Editora aprovadas no PNLD 2022 para a Educação Infantil<\/strong><\/p>",
+            "left": false
+          }
+        },
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0",
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-1",
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "9fe2cdff-2a92-4805-b54d-944f9dfa9f59": {
       "type": "multicolumn",
       "blocks": {
@@ -19,9 +67,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Que-bicho-doido-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto e ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p> <\/p><p> <\/p><p><strong>CÓDIGO 0715 PP22 02 01 000 000<\/strong><\/p><p><\/p>",
+            "text": "<p><strong>Texto e ilustrações<br\/><\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p>  <\/p><p><strong>CÓDIGO<br\/><\/strong>0715 PP22 02 01 000 000<\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
-            "link": ""
+            "link": "shopify:\/\/pages\/pnld-2022-que-bicho-doido"
           }
         },
         "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1": {
@@ -29,9 +77,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/A-uniao-faz-a-colcha-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO 0716 PP22 02 03 000 000<\/strong><\/p><p><\/p>",
+            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO<br\/><\/strong>0716 PP22 02 03 000 000<\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
-            "link": ""
+            "link": "shopify:\/\/pages\/pnld-2022-a-uniao-faz-a-colcha"
           }
         }
       },
@@ -42,7 +90,8 @@
       "custom_css": [
         ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 88%; background: #e03f03; text-align: center; border-radius: 10px; margin: 20px auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 5px; margin: 20px auto 0; padding: 0.5rem 0; display: block;}",
+        ".link:hover {background: #c13400;}"
       ],
       "settings": {
         "title": "",
@@ -64,6 +113,7 @@
   },
   "order": [
     "main",
+    "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c",
     "9fe2cdff-2a92-4805-b54d-944f9dfa9f59"
   ]
 }
