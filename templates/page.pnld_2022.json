@@ -25,7 +25,7 @@
         "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Conheça as obras da Solisluna Editora aprovadas no PNLD 2022 para a Educação Infantil<\/strong><\/p>",
+            "text": "<p>Conheça as obras da Solisluna Editora aprovadas no PNLD 2022 para a Educação Infantil<\/p>",
             "left": false
           }
         },
@@ -51,10 +51,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
+        "schema_color": false,
+        "color_back": "#e03f03",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "#ffffff",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
