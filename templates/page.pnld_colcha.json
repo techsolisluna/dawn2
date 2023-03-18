@@ -176,6 +176,7 @@
         },
         "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -185,6 +186,7 @@
         },
         "8c9a9138-eaec-4115-8087-f8734f4a254e": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -245,10 +247,10 @@
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Obras aprovadas",
+            "button_link_1": "shopify:\/\/pages\/pnld-2022",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -266,7 +268,7 @@
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
