@@ -112,7 +112,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>CÓDIGO DA COLEÇÃO<\/strong><\/p><p>0715 PP22 02 01 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Creche I<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio dos bebês<\/p>",
+            "text": "<p><strong>CÓDIGO DA OBRA<\/strong><\/p><p>0715 PP22 02 01 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Creche I<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio dos bebês<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -155,7 +155,8 @@
         ".multicolumn {margin: 2rem auto 5rem;}",
         ".multicolumn {background: #f7d8b2; width: 90%;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.5rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.5rem 0; display: block;}",
+        ".link:hover {background: #c13400;}"
       ],
       "settings": {
         "title": "",
