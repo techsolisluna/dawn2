@@ -105,6 +105,54 @@
         "padding_bottom": 36
       }
     },
+    "6073b81d-8ce7-421c-8765-583807cee691": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Faça o download<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Trecho da obra",
+            "button_link": "https:\/\/link.solisluna.com.br\/pnld22_trecho_auniaofazacolcha",
+            "button_style_secondary": false,
+            "button_label_2": "Manual do Professor",
+            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/0716P220203000000_MDP_PDF.pdf?v=1679181134",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-0",
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-1",
+        "template--18207618138391__6073b81d-8ce7-421c-8765-583807cee691-167918007254ce44ae-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25": {
       "type": "multicolumn",
       "blocks": {
@@ -231,6 +279,7 @@
     "main",
     "b11f30ab-ac60-4d31-aad1-a5a6346b2e39",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
+    "6073b81d-8ce7-421c-8765-583807cee691",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
     "19a13e34-38c7-4def-9ba5-ab075c482e78"
   ]
