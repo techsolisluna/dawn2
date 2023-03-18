@@ -9,6 +9,54 @@
         "padding_bottom": 28
       }
     },
+    "8caddc07-d2dc-48b5-9b18-06aa925306ef": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PNLD 2022 - EDUCAÇÃO INFANTIL<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Todas as obras",
+            "button_link": "shopify:\/\/pages\/pnld-2022",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-0",
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-1",
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8": {
       "type": "multicolumn",
       "blocks": {
@@ -41,7 +89,7 @@
         "*\/a {text-decoration: none;}"
       ],
       "settings": {
-        "title": "PNLD 2022 - EDUCAÇÃO INFANTIL",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -234,6 +282,7 @@
   },
   "order": [
     "main",
+    "8caddc07-d2dc-48b5-9b18-06aa925306ef",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
