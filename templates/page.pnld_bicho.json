@@ -93,7 +93,7 @@
             "title": "",
             "text": "",
             "link_label": "MANUAL DO PROFESSOR",
-            "link": "https:\/\/hubs.ly\/Q01GH4lF0"
+            "link": "https:\/\/link.solisluna.com.br\/A3Mezd"
           }
         }
       },
@@ -125,11 +125,118 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "502d0db3-67f2-49a8-977e-2584a4ff2dfd": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-0",
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-1",
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Captura_de_Tela_2021-09-25_as_17.43.06.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "8325b38b-a2a2-4cee-9a37-7cd8e582e759": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-0",
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-1",
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
-    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25"
+    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
+    "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
+    "8325b38b-a2a2-4cee-9a37-7cd8e582e759"
   ]
 }
