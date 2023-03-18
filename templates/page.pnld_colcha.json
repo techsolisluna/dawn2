@@ -9,6 +9,54 @@
         "padding_bottom": 28
       }
     },
+    "b11f30ab-ac60-4d31-aad1-a5a6346b2e39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18207618138391__b11f30ab-ac60-4d31-aad1-a5a6346b2e39-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PNLD 2022 - EDUCAÇÃO INFANTIL<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "1dab0c4d-543b-4242-b926-77c443e1bcbf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Todas as obras",
+            "button_link": "shopify:\/\/pages\/pnld-2022",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "template--18207618138391__b11f30ab-ac60-4d31-aad1-a5a6346b2e39-167918007254ce44ae-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>PNLD 2022 - EDUCAÇÃO INFANTIL<\/p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__b11f30ab-ac60-4d31-aad1-a5a6346b2e39-167918007254ce44ae-0",
+        "1dab0c4d-543b-4242-b926-77c443e1bcbf",
+        "template--18207618138391__b11f30ab-ac60-4d31-aad1-a5a6346b2e39-167918007254ce44ae-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8": {
       "type": "multicolumn",
       "blocks": {
@@ -41,7 +89,7 @@
         "*\/a {text-decoration: none;}"
       ],
       "settings": {
-        "title": "PNLD 2022 - EDUCAÇÃO INFANTIL",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -107,7 +155,7 @@
         ".multicolumn {margin: 2rem auto 5rem;}",
         ".multicolumn {background: #f7d8b2; width: 90%;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 90%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.5rem 0; display: block;}"
       ],
       "settings": {
         "title": "",
@@ -129,6 +177,7 @@
   },
   "order": [
     "main",
+    "b11f30ab-ac60-4d31-aad1-a5a6346b2e39",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25"
   ]
