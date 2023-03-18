@@ -105,6 +105,54 @@
         "padding_bottom": 36
       }
     },
+    "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Faça o download<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Trecho da obra",
+            "button_link": "https:\/\/link.solisluna.com.br\/pnld22_trecho_quebichodoido",
+            "button_style_secondary": false,
+            "button_label_2": "Manual do Professor",
+            "button_link_2": "https:\/\/link.solisluna.com.br\/pnld22_mdp_quebichodoido",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-0",
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-1",
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25": {
       "type": "multicolumn",
       "blocks": {
@@ -128,6 +176,7 @@
         },
         "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -137,6 +186,7 @@
         },
         "8c9a9138-eaec-4115-8087-f8734f4a254e": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -285,6 +335,7 @@
     "main",
     "8caddc07-d2dc-48b5-9b18-06aa925306ef",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
+    "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
     "8325b38b-a2a2-4cee-9a37-7cd8e582e759"
