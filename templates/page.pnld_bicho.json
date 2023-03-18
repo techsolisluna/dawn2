@@ -84,7 +84,7 @@
             "title": "",
             "text": "",
             "link_label": "TRECHO DA OBRA",
-            "link": "https:\/\/hubs.ly\/Q01GG-Fl0"
+            "link": "https:\/\/link.solisluna.com.br\/pnld22_trecho_quebichodoido"
           }
         },
         "8c9a9138-eaec-4115-8087-f8734f4a254e": {
@@ -107,7 +107,7 @@
         ".multicolumn {margin: 2rem auto 5rem;}",
         ".multicolumn {background: #f7d8b2; width: 90%;}",
         ".link span {display: none;}",
-        ".link {color: white; font-weight: 600; width: 90%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.2rem 0; display: block;}"
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.5rem 0; display: block;}"
       ],
       "settings": {
         "title": "",
