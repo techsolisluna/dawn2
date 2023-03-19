@@ -164,6 +164,7 @@
         },
         "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/banner_vaporzinho.png",
             "heading": "",
@@ -203,7 +204,6 @@
         },
         "165815357365d8068c-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9656.jpg",
             "heading": "Parceria Selo Emília & Solisluna",
@@ -251,7 +251,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 7,
