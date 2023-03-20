@@ -123,7 +123,8 @@
             "title": "",
             "text": "<p><strong>Texto e ilustrações<br\/><\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p>TEMA Livro de imagens<\/p><p>  <\/p><p><strong>CÓDIGO<br\/><\/strong>0715 P22 02 01 000 000<\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
-            "link": "shopify:\/\/pages\/pnld-2022-que-bicho-doido"
+            "link": "shopify:\/\/pages\/pnld-2022-que-bicho-doido",
+            "image_link": true
           }
         },
         "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1": {
@@ -133,7 +134,8 @@
             "title": "",
             "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>TEMA Poema<\/p><p> <\/p><p><strong>CÓDIGO<br\/><\/strong>0716 P22 02 03 000 000<\/p>",
             "link_label": "SAIBA MAIS",
-            "link": "shopify:\/\/pages\/pnld-2022-a-uniao-faz-a-colcha"
+            "link": "shopify:\/\/pages\/pnld-2022-a-uniao-faz-a-colcha",
+            "image_link": true
           }
         }
       },
