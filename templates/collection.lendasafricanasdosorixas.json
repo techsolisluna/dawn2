@@ -2,6 +2,7 @@
   "sections": {
     "16355369390c8756e7": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16355369390c8756e7-0": {
           "type": "heading",
@@ -52,6 +53,65 @@
         "show_text_below": true
       }
     },
+    "e65542e2-1ef0-4e3e-a640-d78e3252b271": {
+      "type": "image-with-text",
+      "blocks": {
+        "d102b807-4466-488a-ab56-de99323b1d58": {
+          "type": "caption",
+          "settings": {
+            "caption": "Coleção de livros",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lendas Africanas dos Orixás",
+            "heading_size": "h0"
+          }
+        },
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>por Edsoleda Santos<\/h1>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d102b807-4466-488a-ab56-de99323b1d58",
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-0",
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-1",
+        "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f44ef27a-ed5a-4552-bb95-8c2113f2db98": {
       "type": "custom-liquid",
       "disabled": true,
@@ -62,11 +122,70 @@
         "padding_bottom": 52
       }
     },
+    "c4ed7cca-25a4-4716-b62f-e735ead28a9e": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-0": {
+          "type": "column",
+          "settings": {
+            "title": "Coleção de livros",
+            "text": "<h1>Lendas <br\/>Africanas<br\/>dos Orixás<\/h1><h2>por Edsoleda Santos<\/h2>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-0",
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-1",
+        "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16347382609e8a367c": {
       "type": "rich-text",
       "blocks": {
         "16347382609e8a367c-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Lendas Africanas dos Orixás<\/p>",
             "heading_size": "h0"
@@ -83,14 +202,22 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "76293a60-a669-478e-93c0-6dbf430524a7": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Os livros da coleção de Lendas Africanas dos Orixás, ilustradas pela artista Edsoleda Santos, contam histórias dos Deuses africanos e seus mundos sagrados. <\/strong>As lendas são fabulosas e encantadoras, ilustradas com magníficas obras de arte em aquarela. A artista expõe com primor as sutilezas e belezas do universo visual, energético e iconográfico dos Orixás.<\/h2>",
+            "left": false
+          }
         }
       },
       "block_order": [
         "16347382609e8a367c-0",
-        "16347382609e8a367c-2"
+        "16347382609e8a367c-2",
+        "76293a60-a669-478e-93c0-6dbf430524a7"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": true,
@@ -104,9 +231,10 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_title": false,
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -128,14 +256,14 @@
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "product-grid": {
@@ -163,10 +291,18 @@
     "16347377538d42acb4": {
       "type": "image-with-text",
       "blocks": {
+        "ed7c8ea4-1d23-490a-adc6-0f4d685ad9ca": {
+          "type": "caption",
+          "settings": {
+            "caption": "Autora",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "16347377538d42acb4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Edsoleda",
+            "heading": "Edsoleda Santos",
             "heading_size": "h1"
           }
         },
@@ -179,6 +315,7 @@
         }
       },
       "block_order": [
+        "ed7c8ea4-1d23-490a-adc6-0f4d685ad9ca",
         "16347377538d42acb4-0",
         "16347377538d42acb4-1"
       ],
@@ -203,6 +340,7 @@
     },
     "16347377887f406d0b": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Capas_Colecao_2020.jpg",
         "image_overlay_opacity": 0,
@@ -220,6 +358,7 @@
     },
     "1634739736bb3da097": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1634739736bb3da097-0": {
           "type": "heading",
@@ -267,6 +406,7 @@
     },
     "1634739830ff475eea": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1634739830ff475eea-0": {
           "type": "column",
@@ -276,7 +416,8 @@
             "title": "UMA HISTÓRIA",
             "text": "<p>Para quem prefere completar a coleção aos poucos.<\/p><p><\/p><p><strong>R$59,90 <\/strong><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "1634739830ff475eea-1": {
@@ -287,17 +428,19 @@
             "title": "KIT TRÊS HISTÓRIAS",
             "text": "<p>Adquira três livros da coleção<br\/>Lendas Africanas dos Orixás.<\/p><p>De R$179,70 por<strong> R$134,70<\/strong><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "1634739830ff475eea-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
-            "title": "COLEÇÃO COMPLETA",
-            "text": "<p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
+            "title": "",
+            "text": "<p>COLEÇÃO COMPLETA<\/p><p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
             "link_label": "Comprar coleção completa",
-            "link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
+            "link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas",
+            "image_link": false
           }
         }
       },
@@ -336,6 +479,116 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "460a3fc6-1809-4474-b8dc-9bb420fb269c": {
+      "type": "image-with-text",
+      "blocks": {
+        "083d9930-455b-4cce-909f-7c12b9dbabbe": {
+          "type": "caption",
+          "settings": {
+            "caption": "KIT PROMO",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "COLEÇÃO COMPLETA",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><\/p><h3>de R$599<\/h3><h2><strong>por R$497<\/strong><\/h2>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPRAR",
+            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
+          }
+        }
+      },
+      "block_order": [
+        "083d9930-455b-4cce-909f-7c12b9dbabbe",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "59d2da0f-288a-4151-806d-0415288ad560": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0",
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1",
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0326-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -393,82 +646,6 @@
         "show_text_below": true
       }
     },
-    "1634738264ffaa058f": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "1634738264ffaa058f-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1634738264ffaa058f-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1634738264ffaa058f-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1634738264ffaa058f-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1634738264ffaa058f-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1634738264ffaa058f-5": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "1634738264ffaa058f-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "1634738264ffaa058f-7": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Compartilhar"
-          }
-        }
-      },
-      "block_order": [
-        "1634738264ffaa058f-0",
-        "1634738264ffaa058f-1",
-        "1634738264ffaa058f-2",
-        "1634738264ffaa058f-3",
-        "1634738264ffaa058f-4",
-        "1634738264ffaa058f-5",
-        "1634738264ffaa058f-6",
-        "1634738264ffaa058f-7"
-      ],
-      "settings": {
-        "product": "ewa-e-iroko",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16422625063bd5d67a": {
       "type": "newsletter",
       "disabled": true,
@@ -508,7 +685,9 @@
   },
   "order": [
     "16355369390c8756e7",
+    "e65542e2-1ef0-4e3e-a640-d78e3252b271",
     "f44ef27a-ed5a-4552-bb95-8c2113f2db98",
+    "c4ed7cca-25a4-4716-b62f-e735ead28a9e",
     "16347382609e8a367c",
     "banner",
     "90bd8da8-20c9-4ddb-8c0b-58fb3886a3c4",
@@ -518,8 +697,9 @@
     "1634739736bb3da097",
     "1634739830ff475eea",
     "1634745647da6184da",
+    "460a3fc6-1809-4474-b8dc-9bb420fb269c",
+    "59d2da0f-288a-4151-806d-0415288ad560",
     "1634737536adeb690b",
-    "1634738264ffaa058f",
     "16422625063bd5d67a"
   ]
 }
