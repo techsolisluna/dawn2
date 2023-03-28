@@ -79,10 +79,9 @@
         },
         "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Comprar coleção completa",
+            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
           }
         }
       },
