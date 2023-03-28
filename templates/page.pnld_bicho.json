@@ -67,7 +67,8 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1": {
@@ -76,7 +77,8 @@
             "title": "",
             "text": "<h1><strong>Que bicho doido!<\/strong><\/h1><p><\/p><p><strong>Texto e Ilustrações:<\/strong> <a href=\"https:\/\/solisluna.com.br\/collections\/eneas-guerra\" target=\"_blank\" title=\"Enéas Guerra\">Enéas Guerra<br\/><\/a><strong>Código da obra: <\/strong>0715 P22 02 01 000 000<\/p><p><br\/><\/p><p>De um mesmo contorno aparecem bichos que existem e também bichos doidos inventados, em uma forma lúdica e divertida. Os sons dos grunhidos, uivos, urros, guinchos, roncos, inspiram a criança a inventar seu próprio bicho doido!<br\/><br\/>O autor, a partir da forma repetida de uma máscara, experimenta grafismos e cores que multiplicam esses bichos, bichos doidos, bichos reais, bichos bem brasileiros e bichos imaginários. Trabalha variações de um mesmo \"tema\" e, ao mesmo tempo, improvisa e empresta vozes a cada criatura.<br\/><br\/>São onomatopeias retiradas do vocabulário comum das brincadeiras familiares de <em>au-au, miau, quiquiqui<\/em>, das histórias em quadrinhos (<em>grrrr<\/em>) e outros sons inventados - <em>iau iau iau, cronf cronf, ugli ugli ugli<\/em> de uma maneira bastante livre e engraçada.<br\/><\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         }
       },
@@ -162,16 +164,18 @@
             "title": "",
             "text": "<p><strong>CÓDIGO DA OBRA<\/strong><\/p><p>0715 P22 02 01 000 000<\/p><p> <\/p><p><strong>CATEGORIA<\/strong><\/p><p>Creche I<\/p><p> <\/p><p><strong>ESPECIFICAÇÃO DE USO DA OBRA<\/strong><\/p><p>Para manuseio dos bebês<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>TEMAS<\/strong><\/p><p>Animais da fauna local, nacional e mundial<\/p><p> <\/p><p><strong>GÊNERO LITERÁRIO<\/strong><\/p><p>Livro de imagens<\/p><p> <\/p><p><strong>FORMATO<\/strong><\/p><p>20,5cm x 27,5cm | 32 páginas<\/p>",
+            "text": "<p><strong>TEMA<\/strong><\/p><p>Animais da fauna local, nacional e mundial<\/p><p> <\/p><p><strong>GÊNERO LITERÁRIO<\/strong><\/p><p>Livro de imagens<\/p><p> <\/p><p><strong>FORMATO<\/strong><\/p><p>20,5cm x 27,5cm | 32 páginas<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
@@ -181,7 +185,8 @@
             "title": "",
             "text": "",
             "link_label": "TRECHO DA OBRA",
-            "link": "https:\/\/link.solisluna.com.br\/pnld22_trecho_quebichodoido"
+            "link": "https:\/\/link.solisluna.com.br\/pnld22_trecho_quebichodoido",
+            "image_link": false
           }
         },
         "8c9a9138-eaec-4115-8087-f8734f4a254e": {
@@ -191,7 +196,8 @@
             "title": "",
             "text": "",
             "link_label": "MANUAL DO PROFESSOR",
-            "link": "https:\/\/link.solisluna.com.br\/pnld22_mdp_quebichodoido"
+            "link": "https:\/\/link.solisluna.com.br\/pnld22_mdp_quebichodoido",
+            "image_link": false
           }
         }
       },
