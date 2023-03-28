@@ -2,7 +2,6 @@
   "sections": {
     "16355369390c8756e7": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "16355369390c8756e7-0": {
           "type": "heading",
@@ -41,9 +40,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Textura_Oxalufa_site.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
