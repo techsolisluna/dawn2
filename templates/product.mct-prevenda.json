@@ -409,6 +409,7 @@
         },
         "16574835781b2ed36a-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Adquira na pré-venda com desconto e faça parte da lista de apoiadores na página de agradecimentos desta nova edição, revisada e ampliada.<\/p>",
             "text_style": "subtitle"
@@ -433,7 +434,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -554,7 +555,8 @@
             "title": "Lista de apoiadores",
             "text": "<p>Ao comprar durante o período de pré-venda o seu nome estará presente na lista das pessoas que apoiaram a edição. <\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "1657485423908e8dd5-2": {
@@ -563,7 +565,8 @@
             "title": "Preço especial",
             "text": "<p>O valor vendido na pré-venda é diferente do preço de capa que será comercializado nas livrarias<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "1657485423908e8dd5-0": {
@@ -572,7 +575,8 @@
             "title": "Apoio à publicação",
             "text": "<p>Você está apoiando a publicação de uma obra fundamental para a arquitetura e construção com terra no Brasil. <\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         }
       },
