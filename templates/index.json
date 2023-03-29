@@ -443,7 +443,7 @@
         "gradient_back": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
-        "contain_image": false,
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
