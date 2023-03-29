@@ -393,6 +393,7 @@
         "gradient_back": "",
         "color_text": "#353535",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -442,6 +443,7 @@
         "gradient_back": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -577,6 +579,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -884,6 +887,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -942,6 +946,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
