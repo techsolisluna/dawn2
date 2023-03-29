@@ -190,12 +190,12 @@
             "subheading": "por Edsoleda Santos",
             "button_label": "Conheça",
             "link": "shopify:\/\/collections\/lendas-africanas",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "image_link": false,
             "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 20,
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
