@@ -16,7 +16,7 @@
 {%- endstyle -%}
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
-  <div class="collapsible-content collapsible-{{ section.settings.layout }}-layout isolate{% if section.settings.layout == 'section' %} page-width{% elsif section.settings.layout == 'none' %} content-container content-container--full-width{% endif %}">
+  <div class="collapsible-content collapsible-{{ section.settings.layout }}-layout isolate{% if section.settings.layout == 'section' %} page-width{% elsif section.settings.layout == 'none' %} content-container content-container--full-width{% endif %}" {% if section.settings.custom_background %}style="background-color: {{ section.settings.background_color }};"{% endif %}>
     <div class="collapsible-content__wrapper section-{{ section.id }}-padding{% if section.settings.layout == 'section' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}">
       <div class="{% if section.settings.image == blank %}collapsible-content-wrapper-narrow{% else %}page-width{% endif %}">
         <div class="collapsible-content__header" style="text-align: {{ section.settings.heading_alignment }};">
@@ -202,6 +202,18 @@
       "default": "background-2",
       "label": "t:sections.collapsible_content.settings.container_color_scheme.label",
       "info": "t:sections.collapsible_content.settings.container_color_scheme.info"
+    },
+    {
+      "type": "checkbox",
+      "id": "custom_background",
+      "default": false,
+      "label": "Usar cor de fundo personalizada"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "default": "#000",
+      "label": "Cor de fundo personalizada"
     },
     {
       "type": "checkbox",
