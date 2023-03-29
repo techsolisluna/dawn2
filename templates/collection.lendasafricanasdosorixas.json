@@ -92,7 +92,7 @@
         "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_0013.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -503,7 +503,7 @@
         "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><\/p><h3>de R$599<\/h3><h2><strong>por R$477<\/strong><\/h2>",
+            "text": "<p>Os <strong>10 livros<\/strong> da coleção Lendas Africanas dos Orixás<br\/><\/p><h3>de R$599<\/h3><h2><strong>por R$477<\/strong><\/h2>",
             "text_style": "subtitle"
           }
         },
@@ -651,7 +651,7 @@
         "16422625066d7286e3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "",
             "heading_size": "h1"
           }
         },
