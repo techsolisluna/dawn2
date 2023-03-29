@@ -311,23 +311,6 @@
         "padding_bottom": 36
       }
     },
-    "1634782448b69a90a1": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Capas_Colecao_2020.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1634783332ed46e0fa": {
       "type": "rich-text",
       "blocks": {
@@ -340,9 +323,8 @@
         },
         "1634783332ed46e0fa-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Conheça a coleção completa<\/p>",
+            "text": "<p>10 livros com histórias dos orixás<\/p>",
             "left": false
           }
         },
@@ -374,6 +356,23 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "1634782448b69a90a1": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0138-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1634782537e16e342e": {
@@ -505,8 +504,8 @@
     "1632621267a9cdb8f8",
     "16326202476377d29f",
     "16347826496184114c",
-    "1634782448b69a90a1",
     "1634783332ed46e0fa",
+    "1634782448b69a90a1",
     "1634782537e16e342e",
     "1631654167122d4539",
     "product-recommendations",
