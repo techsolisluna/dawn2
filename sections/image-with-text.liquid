@@ -14,6 +14,16 @@
   }
 {%- endstyle -%}
 
+{% if section.settings.contain_image %}
+  <style>
+    @media (min-width: 750px) and (max-width: 1095px) {
+      .image-with-text__media img {
+        object-fit: contain !important;
+      }
+    }
+  </style>
+{% endif %}
+
 {% if section.settings.product_img %}
   {% if product.metafields.my_fields.picture_on_hand.value != blank %}
     <div class="image-with-text image-with-text--{{ section.settings.content_layout }} page-width isolate{% if settings.text_boxes_border_thickness > 0 and settings.text_boxes_border_opacity > 0 and settings.media_border_thickness > 0 and settings.media_border_opacity > 0 %} collapse-borders{% endif %}{% unless section.settings.color_scheme == 'background-1' and settings.media_border_thickness > 0 and settings.text_boxes_shadow_opacity == 0 and settings.text_boxes_border_thickness == 0 or settings.text_boxes_border_opacity == 0 %} collapse-corners{% endunless %} section-{{ section.id }}-padding">
@@ -288,7 +298,14 @@
         ],
         "default": "left",
         "label": "t:sections.image-with-text.settings.mobile_content_alignment.label"
-      }, {
+      }, 
+      {
+        "type": "checkbox",
+        "id": "contain_image",
+        "label": "Deixar imagem sem corte no Tablet",
+        "default": false
+      },
+      {
         "type": "header",
         "content": "t:sections.all.padding.section_padding_heading"
       }, {
