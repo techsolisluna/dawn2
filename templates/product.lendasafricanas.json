@@ -18,9 +18,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Textura_Oxalufa_site.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -136,6 +136,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "stacked",
         "media_size": "large",
         "mobile_thumbnails": "hide",
@@ -303,6 +304,7 @@
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -349,7 +351,10 @@
           "settings": {
             "button_label": "Conheça a coleção completa",
             "button_link": "shopify:\/\/collections\/lendas-africanas",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -359,7 +364,13 @@
         "1634783332ed46e0fa-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
