@@ -286,6 +286,64 @@
         "author_list": false
       }
     },
+    "460a3fc6-1809-4474-b8dc-9bb420fb269c": {
+      "type": "image-with-text",
+      "blocks": {
+        "083d9930-455b-4cce-909f-7c12b9dbabbe": {
+          "type": "caption",
+          "settings": {
+            "caption": "KIT PROMO",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "COLEÇÃO COMPLETA",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Os <strong>10 livros<\/strong> da coleção Lendas Africanas dos Orixás<br\/><\/p><h3>de R$599<\/h3><h2><strong>por R$477<\/strong><\/h2>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPRAR",
+            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
+          }
+        }
+      },
+      "block_order": [
+        "083d9930-455b-4cce-909f-7c12b9dbabbe",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1",
+        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16347377538d42acb4": {
       "type": "image-with-text",
       "blocks": {
@@ -480,64 +538,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "460a3fc6-1809-4474-b8dc-9bb420fb269c": {
-      "type": "image-with-text",
-      "blocks": {
-        "083d9930-455b-4cce-909f-7c12b9dbabbe": {
-          "type": "caption",
-          "settings": {
-            "caption": "KIT PROMO",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "COLEÇÃO COMPLETA",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Os <strong>10 livros<\/strong> da coleção Lendas Africanas dos Orixás<br\/><\/p><h3>de R$599<\/h3><h2><strong>por R$477<\/strong><\/h2>",
-            "text_style": "subtitle"
-          }
-        },
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "COMPRAR",
-            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas"
-          }
-        }
-      },
-      "block_order": [
-        "083d9930-455b-4cce-909f-7c12b9dbabbe",
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-0",
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-1",
-        "template--14510717010001__460a3fc6-1809-4474-b8dc-9bb420fb269c-16800323050d1b4fa4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "8d709ade-cbab-468b-adb0-89d68ab2003a": {
@@ -805,12 +805,12 @@
     "banner",
     "90bd8da8-20c9-4ddb-8c0b-58fb3886a3c4",
     "product-grid",
+    "460a3fc6-1809-4474-b8dc-9bb420fb269c",
     "16347377538d42acb4",
     "16347377887f406d0b",
     "1634739736bb3da097",
     "1634739830ff475eea",
     "1634745647da6184da",
-    "460a3fc6-1809-4474-b8dc-9bb420fb269c",
     "8d709ade-cbab-468b-adb0-89d68ab2003a",
     "1634737536adeb690b",
     "59d2da0f-288a-4151-806d-0415288ad560",
