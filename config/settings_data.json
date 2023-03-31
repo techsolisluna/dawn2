@@ -147,7 +147,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "12793297677437526120": {
+        "type": "shopify:\/\/apps\/content-translation\/blocks\/custom_translations\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
