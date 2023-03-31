@@ -34,7 +34,10 @@
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/logo_horizontal_13.png",
     "checkout_logo_size": "large",
-    "checkout_sidebar_background_color": "#fefff1",
+    "checkout_sidebar_background_color": "#fefff2",
+    "checkout_accent_color": "#0067ac",
+    "checkout_button_color": "#e03f03",
+    "checkout_error_color": "#e79300",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
