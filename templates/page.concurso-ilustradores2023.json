@@ -2,89 +2,86 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "1659755087d5917cf5": {
-      "type": "collapsible-content",
-      "disabled": true,
+    "51992072-2fcf-457b-89d6-fee7a06f70f3": {
+      "type": "image-banner",
       "blocks": {
-        "16597550878347ea89-0": {
-          "type": "collapsible_row",
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-0": {
+          "type": "heading",
           "settings": {
-            "heading": "Suporte com o pedido",
-            "icon": "box",
-            "row_content": "<p>sasa<\/p>",
-            "page": ""
+            "heading": "concurso de ilustração",
+            "heading_size": "h2"
           }
         },
-        "16597550878347ea89-1": {
-          "type": "collapsible_row",
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
-        "16597550878347ea89-2": {
-          "type": "collapsible_row",
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16597550878347ea89-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "16597550878347ea89-0",
-        "16597550878347ea89-1",
-        "16597550878347ea89-2",
-        "16597550878347ea89-3"
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-0",
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-1",
+        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2"
       ],
       "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
+        "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
+        "c9843289-4652-41c2-8f42-952c8f4d14ca": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>concurso de ilustração<\/p>",
+            "heading_size": "h2"
+          }
+        },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Fale conosco<\/p>",
+            "heading": "<p>O ENCONTRO<br\/>DO SOL COM A LUA<\/p>",
             "heading_size": "h0"
           }
         },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir ou pelo chat no canto inferior direito.<\/p>",
+            "text": "<p><em>\"Diz uma antiga  lenda que o Sol e a Lua sempre foram apaixonados um pelo outro, mas nunca podiam ficar juntos, pois a Lua só nascia após o pôr do Sol. Sendo assim , Deus na sua bondade infinita criou o eclipse como prova que não existe no mundo um amor impossível…\"<\/em><\/p>",
             "left": false
           }
         },
@@ -102,6 +99,7 @@
         }
       },
       "block_order": [
+        "c9843289-4652-41c2-8f42-952c8f4d14ca",
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0",
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
@@ -119,21 +117,544 @@
         "padding_bottom": 52
       }
     },
+    "57eb5f1c-bb04-4234-9c92-e92da1c56d5c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18513312088343__57eb5f1c-bb04-4234-9c92-e92da1c56d5c-168089894145d423eb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes. O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.<\/p><p>A união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p>",
+            "left": true
+          }
+        },
+        "template--18513312088343__57eb5f1c-bb04-4234-9c92-e92da1c56d5c-168089894145d423eb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__57eb5f1c-bb04-4234-9c92-e92da1c56d5c-168089894145d423eb-1",
+        "template--18513312088343__57eb5f1c-bb04-4234-9c92-e92da1c56d5c-168089894145d423eb-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "<iframe title=\"Contact Form\" src=\"https:\/\/plugins.crisp.chat\/urn:crisp.im:contact-form:0\/contact\/375e37e3-0081-4a82-b743-e698f84fabcd\" referrerpolicy=\"origin\" sandbox=\"allow-forms allow-popups allow-scripts\" width=\"100%\" height=\"600px\" frameborder=\"0\"><\/iframe>",
+        "custom_liquid": "<div style=\"text-align:center;padding:0 10em;\"><h1>palavras-chave<\/h1><h2>céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h2><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.",
+            "heading_size": "h2"
+          }
+        },
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0",
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1",
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "ade101c1-5733-4895-9840-42745503d6b8": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "3f560f85-ae6b-4439-94b7-64ec6c4b0a5e": {
+          "type": "caption",
+          "settings": {
+            "caption": "inscrições abertas",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscrições de 22\/4 até 17\/5",
+            "heading_size": "h2"
+          }
+        },
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "INSCREVER-SE",
+            "button_link": "https:\/\/airtable.com\/shrfxBYsvx2ovmCS7"
+          }
+        }
+      },
+      "block_order": [
+        "3f560f85-ae6b-4439-94b7-64ec6c4b0a5e",
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-0",
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-1",
+        "template--18513312088343__ade101c1-5733-4895-9840-42745503d6b8-1680897642e0c769f4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LuaCospeEstrelas_copy.jpg",
+        "product_img": false,
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d9ed6347-effe-4eeb-9145-3aa3d2a74178": {
+      "type": "rich-text",
+      "blocks": {
+        "6d676ab1-cc0e-44b8-8aa2-9d79d52e3342": {
+          "type": "caption",
+          "settings": {
+            "caption": "inscrições abertas",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Inscrições de 22\/4 até 17\/5<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "INSCREVER-SE",
+            "button_link": "https:\/\/airtable.com\/shrfxBYsvx2ovmCS7",
+            "button_style_secondary": false,
+            "button_label_2": "SAIBA MAIS",
+            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "6d676ab1-cc0e-44b8-8aa2-9d79d52e3342",
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-0",
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-1",
+        "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "68e26973-2e84-47ac-a4ff-884bc5652ee4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Termos e condições<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os termos e condições deste concurso <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf?v=1680900903\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf?v=1680900903\">aqui neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo chat ou email <a href=\"mailto:concurso_solelua@solisluna.com.br\" target=\"_blank\" title=\"mailto:concurso_solelua@solisluna.com.br\">concurso_solelua@solisluna.com.br<\/a><\/p>",
+            "left": false
+          }
+        },
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "1fc06efa-fa39-4231-af9c-0b808e66fbfe": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-0",
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-1",
+        "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-2",
+        "1fc06efa-fa39-4231-af9c-0b808e66fbfe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#fcd80d",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1659755087d5917cf5": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16597550878347ea89-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "QUEM PODE PARTICIPAR",
+            "icon": "ruler",
+            "row_content": "<p>Ilustradores brasileiros ou estrangeiros maiores de 21 anos.<\/p>",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "COMO PARTICIPAR",
+            "icon": "question_mark",
+            "row_content": "<p>1. Cada participante poderá enviar 1 (uma) ilustração.<\/p><p>2. Cada participante deverá ilustrar de forma livre e em qualquer técnica um desenho inspirado no tema \"O encontro do Sol com a Lua\" <\/p><p>3. O formato a ser enviado deve ser um único arquivo digital em JPG, PNG ou PDF em alta definição.<\/p><p>4. A ilustração deve ser original e inédita e não pode ter sido publicada em nenhum meio impresso ou digital.<\/p><p>5. A criação deve ser inspirada no tema do concurso, mas o artista é livre para fazer a sua própria leitura do tema proposto.<\/p>",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PRAZOS",
+            "icon": "clipboard",
+            "row_content": "<p><strong>Envio das ilustrações<br\/><\/strong>de 7 de abril  a 7 de maio de 2023<\/p><p><strong>Avaliação<br\/><\/strong>de 7 de maio a 7 de junho<\/p><p><strong>Resultado<\/strong><br\/>A partir do dia 10 de junho os ilustradores vencedores e selecionados serão notificados por e-mail.<\/p><p>Em seguida será lançada a publicação digital no site da Solisluna<\/p>",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JÚRI E SELEÇÃO",
+            "icon": "eye",
+            "row_content": "<p>O júri será composto de cinco pessoas - duas pessoas da equipe da Solisluna e três ilustradores profissionais convidados. O júri selecionará no máximo trinta ilustrações, entre os quais serão indicados um vencedor, segundo colocado e terceiro colocado e doze menções honrosas.<\/p><p>Todos os selecionados terão suas obras disponibilizadas para visitação em exposição física em local a ser definido pela editora e uma exposição virtual além de uma publicação física e digital.<\/p><p>A exposição será aberta ao público com visitação gratuita e será uma das ações comemorativas aos 30 anos da Solisluna.<\/p>",
+            "page": ""
+          }
+        },
+        "76d773ee-b316-4c77-80cb-4747b6456f9d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PRÊMIOS",
+            "icon": "star",
+            "row_content": "<p><strong>Primeiro lugar<br\/><\/strong>R$1.500,00 +<strong> <\/strong>vale-presente no valor de 500,00 para ser usado na loja da Solisluna<\/p><p><strong>Segundo lugar<br\/><\/strong>R$1.000,00 + vale-presente  no valor de 500,00 para ser usado na loja da Solisluna <\/p><p><strong>Terceiro lugar<br\/><\/strong>R$500,00 + vale-presente  no valor de 500,00 para ser usado na loja da Solisluna<\/p><p><strong>Menção honrosa<br\/><\/strong>12 ilustradores selecionados para fazer parte da publicação \"O encontro do Sol e da Lua\", edição comemorativa aos 30 anos da Solisluna.<\/p>",
+            "page": ""
+          }
+        },
+        "70366813-68cd-4743-96f1-17399c5623e4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TERMOS E CONDIÇÕES",
+            "icon": "check_mark",
+            "row_content": "<p>Para participar do presente concurso, é necessário que o trabalho submetido seja uma criação original do autor. Ao se inscrever no concurso, o participante garante que a obra apresentada é de sua autoria e que não há violação de direitos autorais de terceiros. Toda a responsabilidade pela autenticidade da obra e pela garantia de que não há violação de direitos autorais de terceiros é do ilustrador.<\/p><p>O autor concorda que seu nome ou pseudônimo estará sempre associado à obra em qualquer veiculação ou reprodução da mesma.<\/p><p>Os ilustradores selecionados autorizam a inclusão de seus trabalhos na <strong>Exposição O encontro do sol e da lua<\/strong>, no catálogo e também em peças gráficas impressas e digitais para fins promocionais da Mostra.<\/p><p>Os ilustradores selecionados nas categorias de premiação poderão ter suas ilustrações disponibilizadas para vendas em fine art na Galeria Solisluna. Sobre a vendas dos prints, os ilustradores receberão 30% de pagamentos de royalties sobre as obras vendidas.<\/p><p>Os ilustradores vencedores e selecionados serão convidados para uma reunião com a equipe da Solisluna para possibilidades de colaboração em futuras publicações.<\/p><p>No momento que o ilustrador submete os trabalhos neste concurso ele está em total concordância com as presentes regras.<\/p><p>Se você tiver alguma dúvida, escreva para <strong>concurso_solelua@solisluna.com.br<\/strong><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16597550878347ea89-0",
+        "16597550878347ea89-1",
+        "16597550878347ea89-2",
+        "16597550878347ea89-3",
+        "76d773ee-b316-4c77-80cb-4747b6456f9d",
+        "70366813-68cd-4743-96f1-17399c5623e4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": true,
+        "background_color": "#fcd80d",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "12f523cd-93d8-4eba-990a-8bb61cb5844f": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-0",
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-1",
+        "template--18513312088343__12f523cd-93d8-4eba-990a-8bb61cb5844f-168089900615893e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "3ece0261-22d6-470e-a78e-4349f726418d": {
+      "type": "image-with-text",
+      "blocks": {
+        "4f9d5c0f-d7e5-41eb-ba47-e96812991671": {
+          "type": "caption",
+          "settings": {
+            "caption": "realização",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A <strong>Solisluna Design e Editora<\/strong>, que em 2023 celebra 30 anos de atividades, é uma empresa especializada em design gráfico e editorial. Nestes anos tem realizado projetos de livros e exposições de caráter histórico, antropológico, empresarial e institucional. Tem se caracterizado também por difundir literatura de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, livros de arte e infanto juvenil.<\/p><p>A Solisluna publica livros e realiza projetos que sensibilizam e levam à reflexão sobre diferentes realidades e modos diversos de ver o mundo. Somos comprometidos com o coletivo e com questões importantes de nossa sociedade: cultura, inteligência e sensibilidades.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "4f9d5c0f-d7e5-41eb-ba47-e96812991671",
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-0",
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-1",
+        "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logo_vertical_151.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "center",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6bbaf85f-b2fe-4a61-a770-98b239c97235": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-0",
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-1",
+        "template--18513312088343__6bbaf85f-b2fe-4a61-a770-98b239c97235-168089900615893e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "main",
-    "1659755087d5917cf5",
+    "51992072-2fcf-457b-89d6-fee7a06f70f3",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53"
+    "57eb5f1c-bb04-4234-9c92-e92da1c56d5c",
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0",
+    "ade101c1-5733-4895-9840-42745503d6b8",
+    "d9ed6347-effe-4eeb-9145-3aa3d2a74178",
+    "68e26973-2e84-47ac-a4ff-884bc5652ee4",
+    "1659755087d5917cf5",
+    "12f523cd-93d8-4eba-990a-8bb61cb5844f",
+    "3ece0261-22d6-470e-a78e-4349f726418d",
+    "6bbaf85f-b2fe-4a61-a770-98b239c97235"
   ]
 }
