@@ -24,7 +24,7 @@
           "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2": {
@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -119,6 +119,7 @@
     },
     "57eb5f1c-bb04-4234-9c92-e92da1c56d5c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18513312088343__57eb5f1c-bb04-4234-9c92-e92da1c56d5c-168089894145d423eb-1": {
           "type": "text",
@@ -149,21 +150,21 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#ffffff",
+        "color_back": "#ae0707",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "#ffffff",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 56
       }
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align:center;padding:0 10em;\"><h1>palavras-chave<\/h1><h2>céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h2><\/div>",
+        "custom_liquid": "<div style=\"padding:4em 12em;background-color:#AE0707;color:white;margin:0 !important;\"><p>O sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes. O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><h2 style=\"color:white;\">palavras-chave<\/h2><h3 style=\"color:white;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div>",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0": {
@@ -299,6 +300,7 @@
         },
         "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "left": false
@@ -331,8 +333,60 @@
         "gradient_back": "",
         "color_text": "#000000",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 80,
+        "padding_bottom": 92
+      }
+    },
+    "08652e69-432b-4017-a561-ff091ec7214d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0",
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1",
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "68e26973-2e84-47ac-a4ff-884bc5652ee4": {
@@ -651,6 +705,7 @@
     "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0",
     "ade101c1-5733-4895-9840-42745503d6b8",
     "d9ed6347-effe-4eeb-9145-3aa3d2a74178",
+    "08652e69-432b-4017-a561-ff091ec7214d",
     "68e26973-2e84-47ac-a4ff-884bc5652ee4",
     "1659755087d5917cf5",
     "12f523cd-93d8-4eba-990a-8bb61cb5844f",
