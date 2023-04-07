@@ -108,10 +108,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
+        "schema_color": false,
+        "color_back": "#ae0707",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "#ffffff",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
