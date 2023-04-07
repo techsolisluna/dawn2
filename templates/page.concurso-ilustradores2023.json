@@ -167,58 +167,6 @@
         "padding_bottom": 0
       }
     },
-    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.",
-            "heading_size": "h2"
-          }
-        },
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "subtitle"
-          }
-        },
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0",
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1",
-        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "ade101c1-5733-4895-9840-42745503d6b8": {
       "type": "image-with-text",
       "disabled": true,
@@ -280,6 +228,58 @@
         "padding_bottom": 36
       }
     },
+    "08652e69-432b-4017-a561-ff091ec7214d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0",
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1",
+        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "d9ed6347-effe-4eeb-9145-3aa3d2a74178": {
       "type": "rich-text",
       "blocks": {
@@ -337,26 +337,26 @@
         "padding_bottom": 92
       }
     },
-    "08652e69-432b-4017-a561-ff091ec7214d": {
+    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0": {
       "type": "image-banner",
       "blocks": {
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0": {
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.",
+            "heading_size": "h2"
           }
         },
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1": {
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1": {
           "type": "text",
           "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2": {
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
@@ -370,23 +370,23 @@
         }
       },
       "block_order": [
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-0",
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-1",
-        "template--18513312088343__08652e69-432b-4017-a561-ff091ec7214d-168089900615893e18-2"
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-0",
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-1",
+        "template--18513312088343__49e1a2cf-b896-469e-b6c2-cbb0cd47cde0-168089900615893e18-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo.jpg",
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "68e26973-2e84-47ac-a4ff-884bc5652ee4": {
@@ -702,10 +702,10 @@
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
     "57eb5f1c-bb04-4234-9c92-e92da1c56d5c",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
-    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0",
     "ade101c1-5733-4895-9840-42745503d6b8",
-    "d9ed6347-effe-4eeb-9145-3aa3d2a74178",
     "08652e69-432b-4017-a561-ff091ec7214d",
+    "d9ed6347-effe-4eeb-9145-3aa3d2a74178",
+    "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0",
     "68e26973-2e84-47ac-a4ff-884bc5652ee4",
     "1659755087d5917cf5",
     "12f523cd-93d8-4eba-990a-8bb61cb5844f",
