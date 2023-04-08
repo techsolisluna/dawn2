@@ -47,7 +47,7 @@
         "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Concurso-Logo-Horizontal.jpg",
+        "image": "shopify:\/\/shop_images\/ConcursoSolis_LOGOB.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
@@ -64,7 +64,7 @@
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"background-color:white;color:black;margin:4em 0 !important;\"><p style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\">O sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\"><h2 style=\"color:black;\">palavras-chave<\/h2><h3 style=\"color:black;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>",
+        "custom_liquid": "<div style=\"background-color:white;color:black;margin:4em 2em !important;\"><p style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\">O sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\"><h2 style=\"color:black;\">palavras-chave<\/h2><h3 style=\"color:black;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -585,7 +585,7 @@
         "template--18513312088343__3ece0261-22d6-470e-a78e-4349f726418d-1680897642e0c769f4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Solisluna30anos_41dc95e0-6b83-40e7-aa01-67be3bdf83e4.jpg",
+        "image": "shopify:\/\/shop_images\/Solisluna30anosB.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
