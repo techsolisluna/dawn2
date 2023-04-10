@@ -224,18 +224,18 @@
     "1656287947e32d56b3": {
       "type": "image-banner",
       "blocks": {
+        "e8dcddb2-b829-478b-a3c8-1c5426f7658f": {
+          "type": "text",
+          "settings": {
+            "text": "COLEÇÃO",
+            "text_style": "subtitle"
+          }
+        },
         "1656287947a4c56a88-0": {
           "type": "heading",
           "settings": {
-            "heading": "kit Educadores",
+            "heading": "Ensaios para Educadores",
             "heading_size": "h1"
-          }
-        },
-        "1656287947a4c56a88-1": {
-          "type": "text",
-          "settings": {
-            "text": "Preparamos um kit",
-            "text_style": "subtitle"
           }
         },
         "1656287947a4c56a88-2": {
@@ -251,9 +251,12 @@
         }
       },
       "block_order": [
+        "e8dcddb2-b829-478b-a3c8-1c5426f7658f",
         "1656287947a4c56a88-0",
-        "1656287947a4c56a88-1",
         "1656287947a4c56a88-2"
+      ],
+      "custom_css": [
+        "h2 {color:black;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
@@ -263,11 +266,11 @@
         "adapt_height_first_image": true,
         "desktop_content_position": "top-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "16416608404e02ca88": {
