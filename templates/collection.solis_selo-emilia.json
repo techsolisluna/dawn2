@@ -241,10 +241,10 @@
         "1656287947a4c56a88-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
+            "button_label_1": "COMPRAR",
+            "button_link_1": "shopify:\/\/products\/kit-livros-para-educadores",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -256,7 +256,9 @@
         "1656287947a4c56a88-2"
       ],
       "custom_css": [
-        "h2 {color:black;}"
+        "h2 {color: black;}",
+        "p {color: black;}",
+        ".subtitle {color:gray;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
