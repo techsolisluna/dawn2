@@ -65,10 +65,11 @@
         },
         "ac5d2265-3446-44b4-9455-7d569c8114a4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Características",
             "icon": "ruler",
-            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
+            "content": "<p>&lcub;%if {{ product.metafields.facts.isbn.value }}%&rcub;ISBN: &lcub;%endif%&rcub;<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
             "page": ""
           }
         },
@@ -234,6 +235,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
