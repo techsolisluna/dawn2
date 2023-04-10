@@ -217,7 +217,7 @@
         "1632621267a9cdb8f8-2"
       ],
       "settings": {
-        "image": "{{ product.metafields.my_fields.picture_on_hand.value }}",
+        "image": "{{ product.metafields.custom.amostra.value.capa.value }}",
         "product_img": true,
         "height": "adapt",
         "desktop_image_width": "medium",
