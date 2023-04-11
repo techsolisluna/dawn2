@@ -1,57 +1,5 @@
 {
   "sections": {
-    "ea56cee9-4e74-491e-b889-9b9adf71592f": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-0",
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-1",
-        "template--18513312088343__ea56cee9-4e74-491e-b889-9b9adf71592f-16811759963b3d04db-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -61,63 +9,10 @@
         "padding_bottom": 28
       }
     },
-    "51992072-2fcf-457b-89d6-fee7a06f70f3": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "concurso de ilustração",
-            "heading_size": "h2"
-          }
-        },
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-0",
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-1",
-        "template--18513312088343__51992072-2fcf-457b-89d6-fee7a06f70f3-168089900615893e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Concurso-Logo-Horizontal.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"background-color:black;color:white;margin:0 !important;\"><p style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/ConcursoSolis_LOGOB.webp?v=1681176234\" alt=\"Logo Concurso Ilustração Encontro do Sol com a Lua\" style=\"width: 100%;margin-bottom:5em;\" \/>\n<\/br>\nO sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\"><h2 style=\"color:black;\">palavras-chave<\/h2><h3 style=\"color:black;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>",
+        "custom_liquid": "<div style=\"background-color:black;color:white;margin:0 !important;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/ConcursoSolis_LOGOB.webp?v=1681176234\" alt=\"Logo Concurso Ilustração Encontro do Sol com a Lua\" style=\"width: 100%;margin-bottom:1em;\" \/><p style=\"max-width:720px;padding:1.3em;margin-left:auto;margin-right:auto;vertical-align:center;\">\n<\/br>\nO sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;padding:1.3em\"><h2 style=\"color:white;\">palavras-chave<\/h2><h3 style=\"color:white;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>\n\n\n<style>\nsticky-header{background-color:black;\n.header__icon{\ncolor:white;}}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -126,47 +21,16 @@
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
       "blocks": {
-        "c9843289-4652-41c2-8f42-952c8f4d14ca": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>concurso de ilustração<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>O ENCONTRO<br\/>DO SOL COM A LUA<\/p>",
-            "heading_size": "h0"
-          }
-        },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
           "type": "text",
           "settings": {
             "text": "<p><em>\"Diz uma antiga lenda que o Sol e a Lua sempre foram apaixonados um pelo outro, mas nunca podiam ficar juntos, pois a Lua só nascia após o pôr do Sol. Sendo assim, Deus na sua bondade infinita criou o eclipse como prova que não existe no mundo um amor impossível…\"<\/em><\/p>",
             "left": false
           }
-        },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "c9843289-4652-41c2-8f42-952c8f4d14ca",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
+        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -177,7 +41,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
@@ -355,7 +219,7 @@
         "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os termos e condições deste concurso <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" target=\"_blank\" title=\"Regulamento Concurso de Ilustração Encontro do Sol com a Lua\">aqui neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo chat ou email <a href=\"mailto:concurso_solelua@solisluna.com.br\" target=\"_blank\" title=\"mailto:concurso_solelua@solisluna.com.br\">concurso_solelua@solisluna.com.br<\/a><\/p>",
+            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" target=\"_blank\" title=\"Regulamento Concurso de Ilustração Encontro do Sol com a Lua\"> termos e condições deste concurso neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo formulário<\/p>",
             "left": false
           }
         },
@@ -590,7 +454,7 @@
         "color_back": "#ffffff",
         "gradient_back": "",
         "color_text": "#000000",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -655,7 +519,7 @@
           "type": "heading",
           "settings": {
             "heading": "Fique informada(o)",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--18513312088343__0e72c4a3-ceaa-4a1f-80df-e1bb7bc8c7d8-168117583249017bb7-1": {
@@ -677,7 +541,7 @@
         "template--18513312088343__0e72c4a3-ceaa-4a1f-80df-e1bb7bc8c7d8-168117583249017bb7-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -685,9 +549,7 @@
     }
   },
   "order": [
-    "ea56cee9-4e74-491e-b889-9b9adf71592f",
     "main",
-    "51992072-2fcf-457b-89d6-fee7a06f70f3",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
     "08652e69-432b-4017-a561-ff091ec7214d",
