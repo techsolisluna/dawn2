@@ -162,6 +162,25 @@
             "text_alignment_mobile": "center"
           }
         },
+        "0887b021-6811-4dc4-aa1b-693e85e765ad": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0138-2.jpg",
+            "heading": "Coleção Lendas Africanas",
+            "heading_size": "h1",
+            "subheading": "por Edsoleda Santos",
+            "button_label": "Conheça",
+            "link": "shopify:\/\/collections\/lendas-africanas",
+            "button_style_secondary": false,
+            "image_link": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
           "type": "slide",
           "settings": {
@@ -178,25 +197,6 @@
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "0887b021-6811-4dc4-aa1b-693e85e765ad": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0138-2.jpg",
-            "heading": "Coleção Lendas Africanas",
-            "heading_size": "h1",
-            "subheading": "por Edsoleda Santos",
-            "button_label": "Conheça",
-            "link": "shopify:\/\/collections\/lendas-africanas",
-            "button_style_secondary": true,
-            "image_link": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 20,
-            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -243,8 +243,8 @@
       },
       "block_order": [
         "165815357365d8068c-0",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "0887b021-6811-4dc4-aa1b-693e85e765ad",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-1",
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
       ],
