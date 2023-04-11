@@ -403,6 +403,54 @@
         "padding_bottom": 36
       }
     },
+    "17a6a831-39d1-4120-8e41-9664410d84fd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Dúvidas? Entre em contato pelo formulário<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ficou alguma dúvida? Entre em contato pelo formulário a seguir<\/p>",
+            "left": false
+          }
+        },
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Entrar em contato",
+            "button_link": "shopify:\/\/pages\/fale-conosco",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-0",
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-1",
+        "template--18513312088343__17a6a831-39d1-4120-8e41-9664410d84fd-168117890298d46419-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#fbc541",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "12f523cd-93d8-4eba-990a-8bb61cb5844f": {
       "type": "image-banner",
       "blocks": {
@@ -614,6 +662,7 @@
     "49e1a2cf-b896-469e-b6c2-cbb0cd47cde0",
     "68e26973-2e84-47ac-a4ff-884bc5652ee4",
     "1659755087d5917cf5",
+    "17a6a831-39d1-4120-8e41-9664410d84fd",
     "12f523cd-93d8-4eba-990a-8bb61cb5844f",
     "3ece0261-22d6-470e-a78e-4349f726418d",
     "6bbaf85f-b2fe-4a61-a770-98b239c97235",
