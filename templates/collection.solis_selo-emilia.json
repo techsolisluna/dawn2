@@ -228,7 +228,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Promoção: coleção completa<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1": {
@@ -260,10 +260,10 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "schema_color": true,
+        "schema_color": false,
         "color_back": "#ffffff",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "#e03f03",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
