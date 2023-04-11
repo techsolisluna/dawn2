@@ -12,10 +12,66 @@
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"background-color:black;color:white;margin:0 !important;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/ConcursoSolis_LOGOB.webp?v=1681176234\" alt=\"Logo Concurso Ilustração Encontro do Sol com a Lua\" style=\"width: 100%;margin-bottom:1em;\" \/><p style=\"max-width:720px;padding:1.3em;margin-left:auto;margin-right:auto;vertical-align:center;\">\n<\/br>\nO sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;padding:1.3em\"><h2 style=\"color:white;\">palavras-chave<\/h2><h3 style=\"color:white;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>\n\n\n<style>\nsticky-header{background-color:black !important;}\n.header__icon{\ncolor:white !important;}\n<\/style>",
+        "custom_liquid": "<div style=\"background-color:black;color:white;margin:0 !important;\"><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/ConcursoSolis_LOGOB.webp\" alt=\"Logo Concurso Ilustração Encontro do Sol com a Lua\"style=\"width: 100%;max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;\" \/><\/div><p style=\"max-width:720px;padding:1.3em;margin-left:auto;margin-right:auto;vertical-align:center;\">\n<\/br>\nO sol e a lua juntos, significa a união de dois conceitos ou ideias diferentes.<br\/>O equilíbrio na diversidade. A união de energias opostas que se atraem e se completam. Segundo as tradições orientais, o Sol representa o princípio masculino, enquanto a Lua representa o princípio feminino.\n\nA união do sol e da lua é como yin e yang – o branco e o preto, a luz e a escuridão. Uma simbologia cheia de significados​​ em diferentes culturas e momentos históricos, representam a estabilidade emocional e o ciclo da vida, considerado uma sucessão entre o dia e a noite.<\/p><div style=\"max-width:720px;margin-left:auto;margin-right:auto;vertical-align:center;padding:1.3em\"><h2 style=\"color:white;\">palavras-chave<\/h2><h3 style=\"color:white;\">céu, universo, estrelas, sol, lua, ciclos da natureza, mitologia, astronomia , diversidade, diferenças, opostos, equilíbrio.<\/h3><\/div><\/div>\n\n\n<style>\nsticky-header{background-color:black !important;}\n.header__icon{\ncolor:white !important;}\n.header__inline-menu{display:none;}\n.header__heading-logo {background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Logo.png\");\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-0",
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-1",
+        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-2"
+      ],
+      "settings": {
+        "title": "livre interpretação do tema",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
@@ -219,7 +275,7 @@
         "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" target=\"_blank\" title=\"Regulamento Concurso de Ilustração Encontro do Sol com a Lua\"> termos e condições deste concurso neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo formulário<\/p>",
+            "text": "<p>Leia os itens a seguir ou, se preferir, <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\">você pode fazer o download do pdf com os<\/a><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" target=\"_blank\" title=\"Regulamento Concurso de Ilustração Encontro do Sol com a Lua\"> termos e condições deste concurso neste link<\/a>. <\/p>",
             "left": false
           }
         },
@@ -551,6 +607,7 @@
   "order": [
     "main",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
     "08652e69-432b-4017-a561-ff091ec7214d",
     "d9ed6347-effe-4eeb-9145-3aa3d2a74178",
