@@ -227,14 +227,14 @@
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Promoção: coleção completa<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>melhor preço: coleção completa<\/p>",
+            "heading_size": "h1"
           }
         },
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Garanta o melhor preço ao comprar a coleção completa com os 5 títulos da coleção Ensaios para Educadores da parceria editorial Selo Emília & Solisluna<\/p>",
+            "text": "<p>Garanta o melhor preço ao comprar a coleção completa com os 5 títulos da coleção <strong>Ensaios para Educadores<\/strong> da parceria editorial Selo Emília & Solisluna<\/p>",
             "left": false
           }
         },
