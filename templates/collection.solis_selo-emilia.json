@@ -221,6 +221,54 @@
         "author_list": false
       }
     },
+    "d870f608-81e9-4bc9-adb8-90fc8b53d36e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Promoção: coleção completa<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Garanta o melhor preço ao comprar a coleção completa com os 5 títulos da coleção Ensaios para Educadores da parceria editorial Selo Emília & Solisluna<\/p>",
+            "left": false
+          }
+        },
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-0",
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1",
+        "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7": {
       "type": "featured-product",
       "blocks": {
@@ -344,42 +392,6 @@
         "show_text_below": false
       }
     },
-    "16416608404e02ca88": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "1641660840d46c51f2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Inscreva-se em nossos emails",
-            "heading_size": "h1"
-          }
-        },
-        "1641660840d46c51f2-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Seja o primeiro a saber sobre novos lançamentos da parceria Solisluna & Selo Emília.<\/p>"
-          }
-        },
-        "1641660840d46c51f2-2": {
-          "type": "email_form",
-          "settings": {
-            "tag": "seloemilia"
-          }
-        }
-      },
-      "block_order": [
-        "1641660840d46c51f2-0",
-        "1641660840d46c51f2-1",
-        "1641660840d46c51f2-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1636215496e6c0ddce": {
       "type": "image-banner",
       "blocks": {
@@ -431,6 +443,41 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "16416608404e02ca88": {
+      "type": "newsletter",
+      "blocks": {
+        "1641660840d46c51f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossos emails",
+            "heading_size": "h1"
+          }
+        },
+        "1641660840d46c51f2-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Seja o primeiro a saber sobre novos lançamentos da parceria Solisluna & Selo Emília.<\/p>"
+          }
+        },
+        "1641660840d46c51f2-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "seloemilia"
+          }
+        }
+      },
+      "block_order": [
+        "1641660840d46c51f2-0",
+        "1641660840d46c51f2-1",
+        "1641660840d46c51f2-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -441,9 +488,10 @@
     "banner",
     "1641660934aba29122",
     "product-grid",
+    "d870f608-81e9-4bc9-adb8-90fc8b53d36e",
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
-    "16416608404e02ca88",
-    "1636215496e6c0ddce"
+    "1636215496e6c0ddce",
+    "16416608404e02ca88"
   ]
 }
