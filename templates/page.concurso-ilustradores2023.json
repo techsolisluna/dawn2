@@ -58,7 +58,7 @@
         "color_scheme": "background-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
@@ -274,7 +274,7 @@
             "button_link": "https:\/\/airtable.com\/shrfxBYsvx2ovmCS7",
             "button_style_secondary": false,
             "button_label_2": "SAIBA MAIS",
-            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf",
+            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf",
             "button_style_secondary_2": true
           }
         }
@@ -363,7 +363,7 @@
         "template--18513312088343__68e26973-2e84-47ac-a4ff-884bc5652ee4-168089894145d423eb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os termos e condições deste concurso <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf?v=1680900903\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/SOLISLUNA_30_ANOS_concursoilustradores.pdf?v=1680900903\">aqui neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo chat ou email <a href=\"mailto:concurso_solelua@solisluna.com.br\" target=\"_blank\" title=\"mailto:concurso_solelua@solisluna.com.br\">concurso_solelua@solisluna.com.br<\/a><\/p>",
+            "text": "<p>Leia os itens a seguir ou, se preferir, você pode fazer o download do pdf com os termos e condições deste concurso <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Regulamento_ConcursoSolELua2023.pdf\" target=\"_blank\" title=\"Regulamento Concurso de Ilustração Encontro do Sol com a Lua\">aqui neste link<\/a>. Caso tenha alguma dúvida, entre em contato pelo chat ou email <a href=\"mailto:concurso_solelua@solisluna.com.br\" target=\"_blank\" title=\"mailto:concurso_solelua@solisluna.com.br\">concurso_solelua@solisluna.com.br<\/a><\/p>",
             "left": false
           }
         },
