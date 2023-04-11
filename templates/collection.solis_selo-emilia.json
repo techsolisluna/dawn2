@@ -204,7 +204,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 12,
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -221,11 +221,78 @@
         "author_list": false
       }
     },
+    "faaa3300-3ebf-4284-92b6-4e7bad5abad7": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-0": {
+          "type": "text",
+          "settings": {
+            "text": "Edição Selo Emília & Solisluna",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-0",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-1",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-2",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-3",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-4",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-5",
+        "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-6"
+      ],
+      "settings": {
+        "product": "kit-livros-para-educadores",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1656287947e32d56b3": {
       "type": "image-banner",
       "blocks": {
         "e8dcddb2-b829-478b-a3c8-1c5426f7658f": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "COLEÇÃO",
             "text_style": "subtitle"
@@ -233,6 +300,7 @@
         },
         "1656287947a4c56a88-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Ensaios para Educadores",
             "heading_size": "h1"
@@ -240,6 +308,7 @@
         },
         "1656287947a4c56a88-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "COMPRAR",
             "button_link_1": "shopify:\/\/products\/kit-livros-para-educadores",
@@ -258,10 +327,10 @@
       "custom_css": [
         "h2 {color: black;}",
         "p {color: black;}",
-        ".subtitle {color:gray;}"
+        ".subtitle {color: gray;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
+        "image": "shopify:\/\/shop_images\/C_0723.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "product_banner": false,
@@ -372,6 +441,7 @@
     "banner",
     "1641660934aba29122",
     "product-grid",
+    "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
     "16416608404e02ca88",
     "1636215496e6c0ddce"
