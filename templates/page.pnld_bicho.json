@@ -234,10 +234,11 @@
     "b910ec60-de6f-4b9b-8b5c-fc535b385fca": {
       "type": "custom-liquid",
       "custom_css": [
-        "#btn-copy {background-color: #ffffff; border: none; color: #000000; cursor: pointer; font-size: 24px; padding: 8px; text-decoration: underline;}"
+        "#btn-copy {background-color: #ffffff; border: none; color: #000000; cursor: pointer; font-size: 24px; padding: 8px; text-decoration: underline;}",
+        ".button-pnld-code {margin-left:auto;margin-right:auto;}"
       ],
       "settings": {
-        "custom_liquid": "<button id=\"btn-copy\"> <i class=\"fas fa-copy\"><\/i>copiar código<\/button>\n\n<script>\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"Texto a ser copiado\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"Copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>\n<\/script>",
+        "custom_liquid": "<div style=\"button-pnld-code\"><button id=\"btn-copy\"> copiar código <i class=\"fas fa-copy\"><\/i><\/button><\/div>\n\n<script>\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"0715P220201000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"Copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
