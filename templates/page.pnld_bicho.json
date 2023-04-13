@@ -238,7 +238,7 @@
         ".button-pnld-code {margin-left: auto; margin-right: auto;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"button-pnld-code\"><button id=\"btn-copy\"> copiar código <i class=\"fas fa-copy\"><\/i><\/button><\/div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"0715P220201000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"Copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>\n<\/script>",
+        "custom_liquid": "<div class=\"button-pnld-code\"><button id=\"btn-copy\"> copiar código <i class=\"fas fa-copy\"><\/i><\/button><\/div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"0715P220201000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
