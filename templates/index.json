@@ -1073,8 +1073,8 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false,
+            "product": "roma-negra",
+            "second_image": true,
             "show_vendor": true
           }
         },
@@ -1091,8 +1091,8 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
+        "heading": "Roma Negra de Esteban Vivaldi",
+        "heading_size": "h0",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
