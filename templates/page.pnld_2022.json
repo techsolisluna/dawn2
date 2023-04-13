@@ -14,7 +14,6 @@
     },
     "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0": {
           "type": "heading",
@@ -52,65 +51,13 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "accent-1",
-        "schema_color": false,
+        "schema_color": true,
         "color_back": "#e03f03",
         "gradient_back": "",
         "color_text": "#ffffff",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "79b652c5-3244-45a8-9bb4-247e6089747e": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0",
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1",
-        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banner-PNDL-2022-I.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "9fe2cdff-2a92-4805-b54d-944f9dfa9f59": {
@@ -164,6 +111,58 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "79b652c5-3244-45a8-9bb4-247e6089747e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0",
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1",
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-PNDL-2022-I.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "9856ed00-92e9-422e-b1b5-646820db6b6a": {
@@ -269,8 +268,8 @@
   "order": [
     "main",
     "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c",
-    "79b652c5-3244-45a8-9bb4-247e6089747e",
     "9fe2cdff-2a92-4805-b54d-944f9dfa9f59",
+    "79b652c5-3244-45a8-9bb4-247e6089747e",
     "9856ed00-92e9-422e-b1b5-646820db6b6a",
     "e301b06e-d3c1-4e86-9a6f-c38a846d33f5",
     "57e5cc1d-6938-4f2d-845e-c72307bfddd5"
