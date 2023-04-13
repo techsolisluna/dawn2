@@ -230,6 +230,15 @@
         "padding_bottom": 36
       }
     },
+    "24426bb0-e66e-4acf-9175-c1792669450f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"button-pnld-code\"><p>0716 P22 02 03 000 000<\/p><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"><\/i><\/button><\/div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"0716P220203000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "19a13e34-38c7-4def-9ba5-ab075c482e78": {
       "type": "image-banner",
       "blocks": {
@@ -289,6 +298,7 @@
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
     "6073b81d-8ce7-421c-8765-583807cee691",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
+    "24426bb0-e66e-4acf-9175-c1792669450f",
     "19a13e34-38c7-4def-9ba5-ab075c482e78"
   ]
 }
