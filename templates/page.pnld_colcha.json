@@ -232,6 +232,10 @@
     },
     "24426bb0-e66e-4acf-9175-c1792669450f": {
       "type": "custom-liquid",
+      "custom_css": [
+        "#btn-copy {background-color: #007bc8; border: none; color: white; cursor: pointer; font-size: 20px; padding: 10px; border-radius: 5px;}",
+        ".button-pnld-code {text-align: center; margin-bottom: 3em;}"
+      ],
       "settings": {
         "custom_liquid": "<div class=\"button-pnld-code\"><p>0716 P22 02 03 000 000<\/p><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"><\/i><\/button><\/div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"0716P220203000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>",
         "color_scheme": "background-1",
