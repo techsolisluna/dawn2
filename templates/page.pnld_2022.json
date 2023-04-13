@@ -14,6 +14,7 @@
     },
     "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0": {
           "type": "heading",
@@ -62,7 +63,6 @@
     },
     "79b652c5-3244-45a8-9bb4-247e6089747e": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0": {
           "type": "heading",
