@@ -237,7 +237,7 @@
         "#btn-copy {background-color: #ffffff; border: none; color: #000000; cursor: pointer; font-size: 24px; padding: 8px; text-decoration: underline;}"
       ],
       "settings": {
-        "custom_liquid": "<button id=\"btn-copy\">copiar código<\/button>\n\n<script>\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"Texto a ser copiado\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"Copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>\n<\/script>",
+        "custom_liquid": "<button id=\"btn-copy\"> <i class=\"fas fa-copy\"><\/i>copiar código<\/button>\n\n<script>\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"Texto a ser copiado\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"Copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n<\/script>\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
