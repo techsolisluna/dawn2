@@ -231,6 +231,18 @@
         "padding_bottom": 36
       }
     },
+    "b910ec60-de6f-4b9b-8b5c-fc535b385fca": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "#btn-copy {background-color: #ffffff; border: none; color: #000000; cursor: pointer; font-size: 24px; padding: 8px; text-decoration:underline;}"
+      ],
+      "settings": {
+        "custom_liquid": "<button id=\"btn-copy\">copiar código<\/button>\n\n<script>\ndocument.getElementById(\"btn-copy\").addEventListener(\"click\", function() {\n  var contentToCopy = \"Texto a ser copiado\";\n  navigator.clipboard.writeText(contentToCopy)\n    .then(function() {\n      console.log(\"Conteúdo copiado para o clipboard\");\n    })\n    .catch(function() {\n      console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n    });\n});\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd": {
       "type": "image-banner",
       "blocks": {
@@ -342,6 +354,7 @@
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
     "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
+    "b910ec60-de6f-4b9b-8b5c-fc535b385fca",
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
     "8325b38b-a2a2-4cee-9a37-7cd8e582e759"
   ]
