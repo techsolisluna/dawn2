@@ -295,6 +295,74 @@
         "vertical_align": "flex-end"
       }
     },
+    "1634603513b9058cec": {
+      "type": "image-with-text",
+      "blocks": {
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
+          "type": "caption",
+          "settings": {
+            "caption": "lançamento",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "3894e2b2-bd2f-41e7-ac58-dc8466475269": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>lançamento<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "1634603513b9058cec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A memória do bosque",
+            "heading_size": "h0"
+          }
+        },
+        "1634603513b9058cec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conheça",
+            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
+          }
+        }
+      },
+      "block_order": [
+        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
+        "3894e2b2-bd2f-41e7-ac58-dc8466475269",
+        "1634603513b9058cec-0",
+        "1634603513b9058cec-1",
+        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "schema_color": false,
+        "color_back": "#e6ffe8",
+        "gradient_back": "",
+        "color_text": "#353535",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b": {
       "type": "image-with-text",
       "disabled": true,
@@ -476,72 +544,56 @@
         "padding_bottom": 36
       }
     },
-    "1634603513b9058cec": {
-      "type": "image-with-text",
+    "a73af47d-5372-4981-ba5d-60204be211da": {
+      "type": "image-banner",
       "blocks": {
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
-          "type": "caption",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
+          "type": "heading",
+          "disabled": true,
           "settings": {
-            "caption": "lançamento",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "heading": "Image banner",
+            "heading_size": "h1"
           }
         },
-        "3894e2b2-bd2f-41e7-ac58-dc8466475269": {
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>lançamento<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "1634603513b9058cec-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "A memória do bosque",
-            "heading_size": "h0"
-          }
-        },
-        "1634603513b9058cec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
+            "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
         },
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
-          "type": "button",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
+          "type": "buttons",
+          "disabled": true,
           "settings": {
-            "button_label": "Conheça",
-            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
-        "3894e2b2-bd2f-41e7-ac58-dc8466475269",
-        "1634603513b9058cec-0",
-        "1634603513b9058cec-1",
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "schema_color": false,
-        "color_back": "#e6ffe8",
-        "gradient_back": "",
-        "color_text": "#353535",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
@@ -604,58 +656,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "1635818678cc429f25": {
@@ -794,7 +794,7 @@
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -805,6 +805,56 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1634611538203a7608": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634611538203a7608-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Educadores têm lugar especial em nosso coração",
+            "heading_size": "h2"
+          }
+        },
+        "1634611538203a7608-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1634611538203a7608-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/sala-do-educador"
+          }
+        }
+      },
+      "block_order": [
+        "1634611538203a7608-0",
+        "1634611538203a7608-1",
+        "1634611538203a7608-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -861,63 +911,13 @@
         "show_text_below": false
       }
     },
-    "1634611538203a7608": {
-      "type": "image-with-text",
-      "blocks": {
-        "1634611538203a7608-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Educadores têm lugar especial em nosso coração",
-            "heading_size": "h2"
-          }
-        },
-        "1634611538203a7608-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "1634611538203a7608-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/sala-do-educador"
-          }
-        }
-      },
-      "block_order": [
-        "1634611538203a7608-0",
-        "1634611538203a7608-1",
-        "1634611538203a7608-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "36d521d2-508c-4612-8183-a54392f57723": {
       "type": "featured-product",
       "blocks": {
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "Selo Emília & Solisluna",
             "text_style": "uppercase"
           }
         },
@@ -932,17 +932,6 @@
           "settings": {
           }
         },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-4": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5": {
           "type": "buy_buttons",
           "settings": {
@@ -951,8 +940,15 @@
         },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "308534b2-96f8-4a8e-98d6-16f19dc68016": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
           }
         }
       },
@@ -960,10 +956,9 @@
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-1",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-3",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-4",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6"
+        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6",
+        "308534b2-96f8-4a8e-98d6-16f19dc68016"
       ],
       "settings": {
         "product": "kit-livros-para-educadores",
@@ -980,7 +975,7 @@
     "bd93f90f-6f61-4877-841b-d0290ef868d8": {
       "type": "featured-collection",
       "settings": {
-        "title": "Coleção Selo Emília e Solisluna",
+        "title": "Coleção Selo Emília & Solisluna",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -1124,22 +1119,23 @@
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
             "second_image": false,
             "show_vendor": true
           }
         },
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-2": {
-          "type": "collection",
+        "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f": {
+          "type": "image",
           "settings": {
-            "collection": ""
+            "image": "shopify:\/\/shop_images\/GIF___Quadrado.gif",
+            "image_padding": true
           }
         }
       },
       "block_order": [
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-0",
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-1",
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-2"
+        "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f"
       ],
       "settings": {
         "heading": "Multimedia collage",
@@ -1160,19 +1156,19 @@
     "1635001812716d45d4",
     "featured_products",
     "1649960670c6a05ac2",
+    "1634603513b9058cec",
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
     "image_banner",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
-    "1634603513b9058cec",
-    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
+    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1634584194146f2702",
     "1635597573bd71be81",
-    "163478366489eccf57",
     "1634611538203a7608",
+    "163478366489eccf57",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "16346078358d4cca17",
