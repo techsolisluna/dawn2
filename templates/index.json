@@ -90,7 +90,7 @@
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -116,7 +116,6 @@
         },
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
             "heading": "Livros para crianças e jovens",
@@ -142,7 +141,7 @@
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
       ],
       "custom_css": [
-        "a {text-decoration:none;}"
+        "a {text-decoration: none;}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -529,6 +528,33 @@
         "padding_bottom": 36
       }
     },
+    "1635597573bd71be81": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Patrimônio cultural imaterial",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "historia-e-memoria",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1635818678cc429f25": {
       "type": "rich-text",
       "blocks": {
@@ -653,33 +679,6 @@
         "padding_bottom": 36
       }
     },
-    "1635597573bd71be81": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Patrimônio cultural imaterial",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "historia-e-memoria",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
       "type": "featured-product",
       "blocks": {
@@ -780,11 +779,11 @@
         "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03.jpg",
+        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "product_banner": false,
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -1146,10 +1145,10 @@
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
     "image_banner",
     "163259099574ea68ac",
+    "1635597573bd71be81",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1634584194146f2702",
-    "1635597573bd71be81",
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
     "1634611538203a7608",
