@@ -397,7 +397,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
       "custom_css": [
-        "h2{font-family:sans-serif; font-weight:800}"
+        "h2 {font-family: sans-serif; font-weight: 800;}"
       ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
@@ -408,40 +408,6 @@
         "color_scheme": "inverse",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "button": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Design",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "Editora",
-            "button_link_2": "shopify:\/\/collections\/all",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/migrantes_issa-watanabe_divulgacao2_fc5d179c-3fe5-4a53-af85-a8d6d3420096.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
       }
     },
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b": {
@@ -485,13 +451,47 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#ffffff",
+        "color_back": "#e03f03",
         "gradient_back": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Design",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "Editora",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/migrantes_issa-watanabe_divulgacao2_fc5d179c-3fe5-4a53-af85-a8d6d3420096.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "163259099574ea68ac": {
@@ -541,120 +541,6 @@
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
         "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "subtitle"
-          }
-        },
-        "b0e2a082-9492-46a9-b845-ca482372f5b4": {
-          "type": "text",
-          "settings": {
-            "text": "ilustrações: {{ section.settings.product.metafields.autor.ilustrador.value }}",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-6": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-1",
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-0",
-        "b0e2a082-9492-46a9-b845-ca482372f5b4",
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-2",
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-5",
-        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-6"
-      ],
-      "settings": {
-        "product": "antonino-peregrino",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "image_zoom": "none",
-        "hide_variants": true,
-        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -808,6 +694,120 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "subtitle"
+          }
+        },
+        "b0e2a082-9492-46a9-b845-ca482372f5b4": {
+          "type": "text",
+          "settings": {
+            "text": "ilustrações: {{ section.settings.product.metafields.autor.ilustrador.value }}",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-1",
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-0",
+        "b0e2a082-9492-46a9-b845-ca482372f5b4",
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-2",
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-5",
+        "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-6"
+      ],
+      "settings": {
+        "product": "antonino-peregrino",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a73af47d-5372-4981-ba5d-60204be211da": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1634611538203a7608": {
@@ -1159,15 +1159,15 @@
     "1649960670c6a05ac2",
     "1634603513b9058cec",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
-    "image_banner",
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
+    "image_banner",
     "163259099574ea68ac",
-    "a73af47d-5372-4981-ba5d-60204be211da",
-    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1634584194146f2702",
     "1635597573bd71be81",
+    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
+    "a73af47d-5372-4981-ba5d-60204be211da",
     "1634611538203a7608",
     "163478366489eccf57",
     "36d521d2-508c-4612-8183-a54392f57723",
