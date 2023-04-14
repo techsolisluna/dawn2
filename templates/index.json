@@ -86,8 +86,8 @@
             "link": "shopify:\/\/products\/kit-livros-para-educadores",
             "button_style_secondary": false,
             "image_link": true,
-            "box_align": "top-left",
-            "show_text_box": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
@@ -142,7 +142,7 @@
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
       ],
       "custom_css": [
-        "h2 {color:black; }"
+        "a {text-decoration:none;}"
       ],
       "settings": {
         "layout": "full_bleed",
