@@ -1071,41 +1071,6 @@
         "show_text_below": true
       }
     },
-    "1635821185a894c04f": {
-      "type": "newsletter",
-      "blocks": {
-        "1635821185a894c04f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Inscreva-se em nossos emails",
-            "heading_size": "h1"
-          }
-        },
-        "1635821185a894c04f-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p><\/p>"
-          }
-        },
-        "1635821185a894c04f-2": {
-          "type": "email_form",
-          "settings": {
-            "tag": "newsletter"
-          }
-        }
-      },
-      "block_order": [
-        "1635821185a894c04f-0",
-        "1635821185a894c04f-1",
-        "1635821185a894c04f-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "ccd4fcd5-df05-4769-a8ea-556a1e127fa1": {
       "type": "collage",
       "blocks": {
@@ -1140,7 +1105,7 @@
         "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Coleção Lendas Africanas dos Orixás por Edsoleda",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -1148,6 +1113,41 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1635821185a894c04f": {
+      "type": "newsletter",
+      "blocks": {
+        "1635821185a894c04f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossos emails",
+            "heading_size": "h1"
+          }
+        },
+        "1635821185a894c04f-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p><\/p>"
+          }
+        },
+        "1635821185a894c04f-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "1635821185a894c04f-0",
+        "1635821185a894c04f-1",
+        "1635821185a894c04f-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -1175,7 +1175,7 @@
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "16346078358d4cca17",
     "1635967873ffcf8009",
-    "1635821185a894c04f",
-    "ccd4fcd5-df05-4769-a8ea-556a1e127fa1"
+    "ccd4fcd5-df05-4769-a8ea-556a1e127fa1",
+    "1635821185a894c04f"
   ]
 }
