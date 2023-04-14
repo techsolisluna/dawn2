@@ -1112,6 +1112,7 @@
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-0": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/IMG_0141.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
             "description": "Describe the video",
             "image_padding": false
