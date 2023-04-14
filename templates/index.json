@@ -55,7 +55,6 @@
     },
     "1658153573113a06df": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "165815357365d8068c-0": {
           "type": "slide",
@@ -99,15 +98,15 @@
         "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8076_2.jpg",
-            "heading": "a memória do bosque",
-            "heading_size": "h1",
-            "subheading": "Uma menina, uma princesa e um gato se cruzam nesta história no bosque.",
+            "image": "shopify:\/\/shop_images\/B_0723.jpg",
+            "heading": "Coleção Ensaios para educadores",
+            "heading_size": "h0",
+            "subheading": "",
             "button_label": "Ver mais",
             "link": "shopify:\/\/products\/a-memoria-do-bosque",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "image_link": false,
-            "box_align": "bottom-left",
+            "box_align": "top-left",
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -330,7 +329,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
       "custom_css": [
-        "h2 {font-family: sans-serif; font-weight: 800;}"
+
       ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
