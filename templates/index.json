@@ -396,6 +396,9 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1",
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
+      "custom_css": [
+        "h2{font-family:sans-serif; font-weight:800}"
+      ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
         "heading_size": "h0",
