@@ -282,7 +282,7 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
+            "cover_image": "shopify:\/\/shop_images\/IMG_0178-Edit_cc43fb76-9574-4d3e-ac81-4900968be496.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=fM7J4priGjU",
             "description": "Describe the video",
             "image_padding": false
@@ -299,7 +299,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0178-Edit.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
             "image_padding": false
           }
         }
