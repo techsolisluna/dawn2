@@ -299,7 +299,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0162-2.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_0178-Edit.jpg",
             "image_padding": false
           }
         }
@@ -679,6 +679,58 @@
         "padding_bottom": 36
       }
     },
+    "a73af47d-5372-4981-ba5d-60204be211da": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
       "type": "featured-product",
       "blocks": {
@@ -734,63 +786,11 @@
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "1634611538203a7608": {
@@ -1150,8 +1150,8 @@
     "163553109489ee12a3",
     "1635597573bd71be81",
     "1634584194146f2702",
-    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
+    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "1634611538203a7608",
     "163478366489eccf57",
     "36d521d2-508c-4612-8183-a54392f57723",
