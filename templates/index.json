@@ -534,8 +534,111 @@
         "padding_bottom": 36
       }
     },
+    "a73af47d-5372-4981-ba5d-60204be211da": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Antonino Peregrino",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Texto: Osvaldo Costa Martins<br\/>ilustrações: Luci Sacoleira<\/p><p>R$ 54,90<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/products\/antonino-peregrino"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-0",
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1",
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Antonino-Peregrino_1_865b31b1-c0b2-483c-ab2f-f701b1cf4d71.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14510716256337__6fd87f1b-32da-4d75-8bb7-7de3788ae2da-167664398308dcb9a3-1": {
           "type": "title",
@@ -594,58 +697,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "163478366489eccf57": {
@@ -1002,8 +1053,9 @@
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
-    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
+    "e98891a4-d0aa-4f21-8db7-5644aa90833f",
+    "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "163478366489eccf57",
     "1634611538203a7608",
     "36d521d2-508c-4612-8183-a54392f57723",
