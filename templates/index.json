@@ -528,41 +528,14 @@
         "padding_bottom": 36
       }
     },
-    "1635597573bd71be81": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Patrimônio cultural imaterial",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "historia-e-memoria",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1635818678cc429f25": {
       "type": "rich-text",
       "blocks": {
         "1635818678cc429f25-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>História e memória<\/p>",
-            "heading_size": "hxl"
+            "heading": "<p>Patrimônio cultural imaterial<\/p>",
+            "heading_size": "h0"
           }
         },
         "1635818678cc429f25-1": {
@@ -618,6 +591,33 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "1635597573bd71be81": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "História e memória",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "historia-e-memoria",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1634584194146f2702": {
@@ -1145,9 +1145,9 @@
     "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
     "image_banner",
     "163259099574ea68ac",
-    "1635597573bd71be81",
     "1635818678cc429f25",
     "163553109489ee12a3",
+    "1635597573bd71be81",
     "1634584194146f2702",
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
