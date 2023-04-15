@@ -282,7 +282,7 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_0178-Edit_cc43fb76-9574-4d3e-ac81-4900968be496.jpg",
+            "cover_image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
             "video_url": "https:\/\/www.youtube.com\/watch?v=fM7J4priGjU",
             "description": "Describe the video",
             "image_padding": false
@@ -299,7 +299,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0225-Edit_a8183bc0-ab5f-4a80-883b-a64ea384bc60.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_0162-2.jpg",
             "image_padding": false
           }
         }
@@ -317,10 +317,10 @@
         "heading_size": "h0",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "card_styles": "none",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
-        "padding_bottom": 40
+        "padding_bottom": 36
       }
     },
     "1634603513b9058cec": {
@@ -570,10 +570,10 @@
         "schema_color": false,
         "color_back": "#000000",
         "gradient_back": "",
-        "color_text": "#e6ffe8",
+        "color_text": "#ccd0d1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "163553109489ee12a3": {
@@ -679,58 +679,6 @@
         "padding_bottom": 36
       }
     },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
       "type": "featured-product",
       "blocks": {
@@ -786,9 +734,111 @@
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": true,
         "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a73af47d-5372-4981-ba5d-60204be211da": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
+        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1634611538203a7608": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634611538203a7608-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Educadores têm lugar especial em nosso coração",
+            "heading_size": "h2"
+          }
+        },
+        "1634611538203a7608-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1634611538203a7608-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/sala-do-educador"
+          }
+        }
+      },
+      "block_order": [
+        "1634611538203a7608-0",
+        "1634611538203a7608-1",
+        "1634611538203a7608-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -843,56 +893,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "1634611538203a7608": {
-      "type": "image-with-text",
-      "blocks": {
-        "1634611538203a7608-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Educadores têm lugar especial em nosso coração",
-            "heading_size": "h2"
-          }
-        },
-        "1634611538203a7608-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "1634611538203a7608-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/sala-do-educador"
-          }
-        }
-      },
-      "block_order": [
-        "1634611538203a7608-0",
-        "1634611538203a7608-1",
-        "1634611538203a7608-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "36d521d2-508c-4612-8183-a54392f57723": {
@@ -1150,10 +1150,10 @@
     "163553109489ee12a3",
     "1635597573bd71be81",
     "1634584194146f2702",
-    "a73af47d-5372-4981-ba5d-60204be211da",
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
-    "163478366489eccf57",
+    "a73af47d-5372-4981-ba5d-60204be211da",
     "1634611538203a7608",
+    "163478366489eccf57",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "ccd4fcd5-df05-4769-a8ea-556a1e127fa1",
