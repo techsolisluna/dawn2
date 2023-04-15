@@ -391,92 +391,6 @@
         "padding_bottom": 36
       }
     },
-    "f3888e99-b61a-4eaf-95d5-7ee076bca84b": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Migrantes por Issa Watanabe",
-            "heading_size": "h2"
-          }
-        },
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Migrantes, refugiados, deslocados, bombardeios, violência, guerra, fome, medo, êxodo, campos, meninos, meninas, órfãos, barcos, resgates, afogados, fronteiras, apátridas, ilegais, desaparecidas, crise humanitária, pacto mundial sobre migração, direitos humanos... <strong>Silêncio.<\/strong><\/p><p><\/p><p><strong>Edição em parceria <\/strong>Livros da Raposa Vermelha, Solisluna & Selo Emília<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar",
-            "button_link": "shopify:\/\/products\/migrantes"
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-0",
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-1",
-        "template--14510716256337__f3888e99-b61a-4eaf-95d5-7ee076bca84b-167664273405b400df-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Migrantes_f96ea2c2-b690-4cca-8d9e-1a292d6f2d44.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#000000",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "button": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Design",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "Editora",
-            "button_link_2": "shopify:\/\/collections\/all",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/migrantes_issa-watanabe_divulgacao2_fc5d179c-3fe5-4a53-af85-a8d6d3420096.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "163259099574ea68ac": {
       "type": "image-with-text",
       "disabled": true,
@@ -620,65 +534,6 @@
         "padding_bottom": 36
       }
     },
-    "1634584194146f2702": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "271a6584-8217-4e6b-a631-1d729fed836b": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Coletânea de poemas e contos<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "1634584194146f2702-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Quem eu sou no mundo",
-            "heading_size": "h1"
-          }
-        },
-        "1634584194146f2702-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Este livro é composto por textos selecionados de alunos de escolas públicas baianas que se inscreveram e concorreram no Concurso Quem eu sou no mundo da I Festa Literária Internacional Viva Livro – Literatura como Acolhimento –, evento realizado virtualmente, de 24 a 27 de março de 2021, coordenado pela Solisluna Editora e o Instituto Emília.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1634584194146f2702-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Download gratuito",
-            "button_link": "https:\/\/www.festavivalivro.org\/ebook-quem-eu-sou-no-mundo"
-          }
-        }
-      },
-      "block_order": [
-        "271a6584-8217-4e6b-a631-1d729fed836b",
-        "1634584194146f2702-0",
-        "1634584194146f2702-1",
-        "1634584194146f2702-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/QuemEuSouNoMundo.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da": {
       "type": "featured-product",
       "blocks": {
@@ -793,56 +648,6 @@
         "show_text_below": true
       }
     },
-    "1634611538203a7608": {
-      "type": "image-with-text",
-      "blocks": {
-        "1634611538203a7608-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Educadores têm lugar especial em nosso coração",
-            "heading_size": "h2"
-          }
-        },
-        "1634611538203a7608-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "1634611538203a7608-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/sala-do-educador"
-          }
-        }
-      },
-      "block_order": [
-        "1634611538203a7608-0",
-        "1634611538203a7608-1",
-        "1634611538203a7608-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "163478366489eccf57": {
       "type": "image-banner",
       "blocks": {
@@ -893,6 +698,56 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "1634611538203a7608": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634611538203a7608-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Educadores têm lugar especial em nosso coração",
+            "heading_size": "h2"
+          }
+        },
+        "1634611538203a7608-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "1634611538203a7608-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/sala-do-educador"
+          }
+        }
+      },
+      "block_order": [
+        "1634611538203a7608-0",
+        "1634611538203a7608-1",
+        "1634611538203a7608-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "36d521d2-508c-4612-8183-a54392f57723": {
@@ -1143,17 +998,14 @@
     "1649960670c6a05ac2",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "1634603513b9058cec",
-    "f3888e99-b61a-4eaf-95d5-7ee076bca84b",
-    "image_banner",
     "163259099574ea68ac",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
-    "1634584194146f2702",
     "6fd87f1b-32da-4d75-8bb7-7de3788ae2da",
     "a73af47d-5372-4981-ba5d-60204be211da",
-    "1634611538203a7608",
     "163478366489eccf57",
+    "1634611538203a7608",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "ccd4fcd5-df05-4769-a8ea-556a1e127fa1",
