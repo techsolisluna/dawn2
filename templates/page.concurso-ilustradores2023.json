@@ -24,28 +24,28 @@
         "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-0": {
           "type": "column",
           "settings": {
-            "title": "Prêmios e Menções Honrosas",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<h2>prêmios e menções honrosas para os 30 primeiros<\/h2>",
             "link_label": "",
             "link": "",
             "image_link": false
           }
         },
-        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-1": {
+        "158c5b31-7896-4989-95dd-bc1bd3e163be": {
           "type": "column",
           "settings": {
-            "title": "Exposição",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<h2>exposição em salvado no museu náutico, no  farol da barra<\/h2>",
             "link_label": "",
             "link": "",
             "image_link": false
           }
         },
-        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-2": {
+        "82ca2000-e86f-42cd-a86e-857860ee4c32": {
           "type": "column",
           "settings": {
-            "title": "Publicação",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "<h2>selecionado para publicação especial<\/h2>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -54,20 +54,20 @@
       },
       "block_order": [
         "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-0",
-        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-1",
-        "template--18513312088343__e9867767-2ffc-4a3f-a3a7-35ad7bb7cf6b-16811776827977158e-2"
+        "158c5b31-7896-4989-95dd-bc1bd3e163be",
+        "82ca2000-e86f-42cd-a86e-857860ee4c32"
       ],
       "settings": {
-        "title": "técnica e interpretação livres",
+        "title": "",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "portrait",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 88,
@@ -659,7 +659,7 @@
       "settings": {
         "idvimeo": "818378690",
         "overlay_opacity": 0,
-        "color_videoback": "#000",
+        "color_videoback": "#000000",
         "title": "Video Slide",
         "heading_size": "back-font",
         "text": "<p>Descrição.<\/p>",
