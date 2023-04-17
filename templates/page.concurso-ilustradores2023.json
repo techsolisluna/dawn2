@@ -653,6 +653,23 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "0a07fe01-12b1-4ad0-9b2c-b9726cef3849": {
+      "type": "back-video",
+      "settings": {
+        "idvimeo": "818378690",
+        "overlay_opacity": 0,
+        "color_videoback": "#000",
+        "title": "Video Slide",
+        "heading_size": "back-font",
+        "text": "<p>Descrição.<\/p>",
+        "color_text": "#ffffff",
+        "button_label": "Saiba Mais",
+        "button_link": "\/",
+        "color_btn_bg": "#ffffff",
+        "color_btn_text": "#000000",
+        "vertical_align": "flex-end"
+      }
     }
   },
   "order": [
@@ -669,6 +686,7 @@
     "12f523cd-93d8-4eba-990a-8bb61cb5844f",
     "3ece0261-22d6-470e-a78e-4349f726418d",
     "6bbaf85f-b2fe-4a61-a770-98b239c97235",
-    "0e72c4a3-ceaa-4a1f-80df-e1bb7bc8c7d8"
+    "0e72c4a3-ceaa-4a1f-80df-e1bb7bc8c7d8",
+    "0a07fe01-12b1-4ad0-9b2c-b9726cef3849"
   ]
 }
