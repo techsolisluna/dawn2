@@ -70,7 +70,7 @@
         "color_scheme": "inverse",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 92,
+        "padding_top": 88,
         "padding_bottom": 88
       }
     },
@@ -89,7 +89,7 @@
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1"
       ],
       "custom_css": [
-        "h2 {color:white;}"
+        "h2 {color: white;}"
       ],
       "settings": {
         "desktop_content_position": "center",
