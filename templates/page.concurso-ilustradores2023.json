@@ -89,16 +89,16 @@
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1"
       ],
       "custom_css": [
-        "h2 {color: white;}"
+        "h2 {color: black;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#ae0707",
+        "color_back": "#fbc541",
         "gradient_back": "",
-        "color_text": "#ffffff",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 52
@@ -204,7 +204,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "schema_color": false,
+        "schema_color": true,
         "color_back": "#fbc541",
         "gradient_back": "",
         "color_text": "#000000",
@@ -314,7 +314,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "schema_color": true,
+        "schema_color": false,
         "color_back": "#fbc541",
         "gradient_back": "",
         "color_text": "#000000",
@@ -397,7 +397,7 @@
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
-        "custom_background": false,
+        "custom_background": true,
         "background_color": "#fbc541",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
@@ -445,7 +445,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
-        "schema_color": true,
+        "schema_color": false,
         "color_back": "#fbc541",
         "gradient_back": "",
         "color_text": "#000000",
