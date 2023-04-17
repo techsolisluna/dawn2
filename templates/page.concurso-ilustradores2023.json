@@ -80,13 +80,16 @@
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Diz uma antiga lenda que o Sol e a Lua sempre foram apaixonados um pelo outro, mas nunca podiam ficar juntos, pois a Lua só nascia após o pôr do Sol. Sendo assim, Deus na sua bondade infinita criou o eclipse como prova que não existe no mundo um amor impossível…\"<\/em><\/p>",
+            "text": "<h2><em>\"Diz uma antiga lenda que o Sol e a Lua sempre foram apaixonados um pelo outro, mas nunca podiam ficar juntos, pois a Lua só nascia após o pôr do Sol. Sendo assim, Deus na sua bondade infinita criou o eclipse como prova que não existe no mundo um amor impossível…\"<\/em><\/h2>",
             "left": false
           }
         }
       },
       "block_order": [
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1"
+      ],
+      "custom_css": [
+        "h2 {color:white;}"
       ],
       "settings": {
         "desktop_content_position": "center",
