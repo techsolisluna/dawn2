@@ -162,7 +162,7 @@
         "6d676ab1-cc0e-44b8-8aa2-9d79d52e3342": {
           "type": "caption",
           "settings": {
-            "caption": "inscrições abertas",
+            "caption": "em breve abertura das inscrições",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -171,7 +171,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Inscrições de 5\/5 até 5\/6<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-1": {
@@ -185,7 +185,7 @@
         "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-2": {
           "type": "button",
           "settings": {
-            "button_label": "INSCREVER-SE",
+            "button_label": "LEMBRAR-ME",
             "button_link": "https:\/\/airtable.com\/shrfxBYsvx2ovmCS7",
             "button_style_secondary": false,
             "button_label_2": "SAIBA MAIS",
@@ -319,7 +319,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 92,
         "padding_bottom": 52
       }
     },
@@ -451,7 +451,7 @@
         "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 84
       }
     },
     "12f523cd-93d8-4eba-990a-8bb61cb5844f": {
