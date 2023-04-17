@@ -106,6 +106,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -340,6 +341,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -390,6 +392,7 @@
         "gradient_back": "radial-gradient(rgba(255, 255, 255, 1), rgba(120, 196, 245, 1) 100%)",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 100,
         "padding_bottom": 100
       }
@@ -579,13 +582,23 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "7ca54952-9398-499d-93a4-4950cc36aafd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-0",
         "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-1",
         "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-2",
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-3"
+        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-3",
+        "7ca54952-9398-499d-93a4-4950cc36aafd"
       ],
       "custom_css": [
         "div .collapsible-content {backgound-color: #fff3bf !important;}"
@@ -598,11 +611,135 @@
         "layout": "none",
         "color_scheme": "inverse",
         "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "ca335108-a50b-491a-83b6-b9dc23c7780d": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-1",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-2",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-3",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-4",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-5",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-6"
+      ],
+      "settings": {
+        "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "59d2da0f-288a-4151-806d-0415288ad560": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0",
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1",
+        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0326-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1634737536adeb690b": {
@@ -644,58 +781,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Oxumare_20_faixa_screen.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "59d2da0f-288a-4151-806d-0415288ad560": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0",
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1",
-        "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0326-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
@@ -791,6 +876,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -812,8 +898,9 @@
     "1634739830ff475eea",
     "1634745647da6184da",
     "8d709ade-cbab-468b-adb0-89d68ab2003a",
-    "1634737536adeb690b",
+    "ca335108-a50b-491a-83b6-b9dc23c7780d",
     "59d2da0f-288a-4151-806d-0415288ad560",
+    "1634737536adeb690b",
     "16422625063bd5d67a",
     "756b6347-4961-42df-a55a-10e828d42140"
   ]
