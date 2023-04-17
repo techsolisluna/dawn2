@@ -25,7 +25,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>Prêmios e Menções Honrosas <\/h2>",
+            "text": "<h2>Prêmios e destaques<\/h2>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -35,7 +35,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>Exposição em Salvador, Bahia, no Farol da Barra.<\/h2>",
+            "text": "<h2>Exposição em Salvador, Bahia, na galeria do Farol da Barra.<\/h2>",
             "link_label": "",
             "link": "",
             "image_link": false
