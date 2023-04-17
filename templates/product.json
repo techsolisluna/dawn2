@@ -445,52 +445,11 @@
         "padding_bottom": 36
       }
     },
-    "1662423722fdc050b4": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "16624237228fb5c9f9-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "16624237228fb5c9f9-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "livros_para_criancas"
-          }
-        },
-        "16624237228fb5c9f9-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "16624237228fb5c9f9-0",
-        "16624237228fb5c9f9-1",
-        "16624237228fb5c9f9-2"
-      ],
-      "settings": {
-        "title": "Coleções",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "163366161336322e5e": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/static.airtable.com\/js\/embed\/embed_snippet_v1.js\"><\/script><iframe class=\"airtable-embed airtable-dynamic-height\" src=\"https:\/\/airtable.com\/embed\/shr0eJjqdqPWb9c6v?backgroundColor=purple\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"449\" style=\"background: transparent; border: 1px solid #ccc;\"><\/iframe>",
+        "custom_liquid": "",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -562,7 +521,6 @@
     "1662423745bffef672",
     "1631654167122d4539",
     "product-recommendations",
-    "1662423722fdc050b4",
     "163366161336322e5e",
     "1635821821b4bc362b"
   ]
