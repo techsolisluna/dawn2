@@ -170,7 +170,7 @@
         "template--18513312088343__d9ed6347-effe-4eeb-9145-3aa3d2a74178-168089894145d423eb-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Inscrições de 29\/6 até 31\/7<\/p>",
+            "heading": "<p>Inscrições de <br\/>29\/6 até 31\/7<\/p>",
             "heading_size": "h0"
           }
         },
