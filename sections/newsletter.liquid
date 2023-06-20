@@ -16,7 +16,7 @@
 {%- endstyle -%}
 
 <div class="newsletter center {% if section.settings.full_width == false %}newsletter--narrow page-width{% endif %}">
-  <div class="newsletter__wrapper color-{{ section.settings.color_scheme }} gradient content-container isolate{% if section.settings.full_width %} content-container--full-width{% endif %} section-{{ section.id }}-padding">
+  <div class="newsletter__wrapper color-{{ section.settings.color_scheme }} gradient content-container isolate{% if section.settings.full_width %} content-container--full-width{% endif %} section-{{ section.id }}-padding" {% if section.settings.custom_background %}style="background: {{ section.settings.background_color }} !important;"{% endif %}>
     {%- for block in section.blocks -%}
       {%- case block.type -%}
         {%- when '@app' -%}
@@ -111,6 +111,18 @@
       "id": "full_width",
       "default": true,
       "label": "t:sections.newsletter.settings.full_width.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "custom_background",
+      "default": false,
+      "label": "Usar cor de fundo personalizada"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "default": "#000",
+      "label": "Cor de fundo personalizada"
     },
     {
       "type": "paragraph",
