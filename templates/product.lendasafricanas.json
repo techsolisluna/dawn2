@@ -228,6 +228,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -295,7 +296,7 @@
         "collection": "lendas-africanas",
         "products_to_show": 12,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
@@ -324,7 +325,7 @@
         "1634783332ed46e0fa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>10 livros com histórias dos orixás<\/p>",
+            "text": "<p>11 livros com histórias dos orixás<\/p>",
             "left": false
           }
         },
