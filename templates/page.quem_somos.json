@@ -155,6 +155,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -205,6 +206,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -369,6 +371,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -506,6 +509,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -618,9 +622,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/14468768_1277144488971950_5980506223533247554_o.jpg",
             "title": "Valéria Pergentino",
-            "text": "<p>Nossa incansável editora. <em>G<\/em>osta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>",
+            "text": "<p>Nossa incansável editora. Gosta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "1634759716c25d2926-2": {
@@ -630,7 +635,8 @@
             "title": "Enéas Guerra",
             "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "56063cfd-29f4-4d8a-849c-7d5e9f0da763": {
@@ -638,9 +644,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
+            "text": "<p>Fotógrafo formado em audiovisual, é o responsável pela linguagem digital da Solisluna. Regido pelo elemento fogo ele é movido pelos novos desafios, estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "8a605bc9-35e7-4e40-ad9b-8ff0acceed33": {
@@ -650,7 +657,8 @@
             "title": "Elaine Quirelli",
             "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "c0d7f472-bf10-4025-81ee-6a8436fd9156": {
@@ -660,7 +668,8 @@
             "title": "Mirian de Souza",
             "text": "<p>Resposável pelo administrativo e financeiro da Solisluna. Serena, confiante e atenta aos detalhes, busca a todo momento aperfeiçoar os processos. Pratica o Yoga diariamente. <\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "93009c48-b3c8-4f90-a4fc-ece6dddde88a": {
@@ -670,7 +679,8 @@
             "title": "Vinicius Maciel",
             "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         }
       },
@@ -710,7 +720,8 @@
             "title": "Kin Guerra",
             "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "163606552460228c2a-0": {
@@ -720,7 +731,8 @@
             "title": "Elaine Quirelli",
             "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         },
         "163606552460228c2a-2": {
@@ -730,7 +742,8 @@
             "title": "Vinicius Maciel",
             "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "image_link": false
           }
         }
       },
@@ -848,6 +861,8 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
         "padding_top": 40,
         "padding_bottom": 52
       }
