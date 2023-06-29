@@ -95,25 +95,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
-            "heading": "Coleção Ensaios para educadores",
-            "heading_size": "h1",
-            "subheading": "Parceria editorial Solisluna & Selo Emília",
-            "button_label": "",
-            "link": "shopify:\/\/products\/kit-livros-para-educadores",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
         "165815357365d8068c-1": {
           "type": "slide",
           "disabled": true,
@@ -152,14 +133,33 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
+            "heading": "Coleção Ensaios para educadores",
+            "heading_size": "h1",
+            "subheading": "Parceria editorial Solisluna & Selo Emília",
+            "button_label": "",
+            "link": "shopify:\/\/products\/kit-livros-para-educadores",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "6d3d95df-6142-4250-abe9-593f534cff97",
         "0887b021-6811-4dc4-aa1b-693e85e765ad",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-1",
-        "c9de2b56-7c7b-46bf-9af1-77ee9712281d"
+        "c9de2b56-7c7b-46bf-9af1-77ee9712281d",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9"
       ],
       "custom_css": [
         "a {text-decoration: none;}"
