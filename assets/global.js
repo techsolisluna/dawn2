@@ -1009,7 +1009,7 @@ customElements.define('product-recommendations', ProductRecommendations);
 
 var live_url = window.location.href;
 var result = live_url.includes('form_type=customer');
-var input_val = document.querySelector('#NewsletterForm--footer').value.length;
+var input_val = document.querySelector("div.field input[name='contact[email]']").value.length;
 if(result && input_val != 0){
     const add_ele = document.createElement("h3");
     add_ele.innerText = "Esse e-mail já está inscrito!";
