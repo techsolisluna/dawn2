@@ -1015,5 +1015,5 @@ if(result && input_val != 0){
     add_ele.innerText = "Esse e-mail já está inscrito!";
     document.querySelector('.newsletter-form__field-wrapper').appendChild(add_ele);
     add_ele.classList.add('newsletter_already_subscribe','newsletter-form__message','form__message');
-    document.querySelector(".newsletter_already_subscribe").focus();
+    window.scrollTo(0, document.body.scrollHeight);
 }
