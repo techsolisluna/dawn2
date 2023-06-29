@@ -143,14 +143,14 @@
             "subheading": "Parceria editorial Solisluna & Selo Emília",
             "button_label": "",
             "link": "shopify:\/\/products\/kit-livros-para-educadores",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "image_link": true,
             "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "left"
           }
         }
       },
