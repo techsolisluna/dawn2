@@ -28,6 +28,9 @@
         "featured_image",
         "content"
       ],
+      "custom_css": [
+        ".article-template__back:last-child {display:none;}"
+      ],
       "settings": {
         "link_text": "Leia a newsletter completa",
         "link_url": "{{ article.metafields.custom.newsletter_relacionada.value }}"
