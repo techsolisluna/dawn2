@@ -137,18 +137,18 @@
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Colcha_costura_05.jpg",
+            "image": "shopify:\/\/shop_images\/Textura-A-uniao-faz-a-colcha_1.jpg",
             "heading": "Livros para crianças e jovens",
             "heading_size": "h0",
             "subheading": "",
-            "button_label": "Conheça o catálogo",
+            "button_label": "Conheça a coleção",
             "link": "shopify:\/\/collections\/livros_para_criancas",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "image_link": false,
             "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -994,7 +994,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
