@@ -70,6 +70,12 @@
           "settings": {
           }
         },
+        "2a5256c2-3015-4d3f-ab0b-f3dfd4cee25d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda == true %}Promoção de pré-venda até {{product.metafields.my_fields.prevenda_data}}{% endif %}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -126,6 +132,7 @@
         "subtitle",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "price",
+        "2a5256c2-3015-4d3f-ab0b-f3dfd4cee25d",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
