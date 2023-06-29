@@ -1016,5 +1016,5 @@ if(result && input_val != 0){
     document.querySelector('.newsletter-form__field-wrapper').appendChild(add_ele);
     add_ele.classList.add('newsletter_already_subscribe','newsletter-form__message','form__message');
     window.scrollTo(0, document.body.scrollHeight);
-    document.querySelector('.newsletter-form__field-wrapper').syle.justifyContent = "center";
+    document.querySelector('.newsletter-form__field-wrapper').setAttribute('style', 'justify-content: center !important');
 }
