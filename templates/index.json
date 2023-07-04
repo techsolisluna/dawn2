@@ -56,6 +56,27 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
+        "165815357365d8068c-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_92557f63-87a2-47c6-a7cd-677f4d741a32.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "https:\/\/concurso.solisluna.com.br",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "center"
+          }
+        },
         "6d3d95df-6142-4250-abe9-593f534cff97": {
           "type": "slide",
           "settings": {
@@ -73,7 +94,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         },
@@ -94,28 +115,7 @@
             "image_overlay_opacity": 20,
             "color_scheme": "accent-1",
             "custom_color": false,
-            "text_color": "#000",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "165815357365d8068c-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/banner_92557f63-87a2-47c6-a7cd-677f4d741a32.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "https:\/\/concurso.solisluna.com.br",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         },
@@ -136,7 +136,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         },
@@ -157,15 +157,15 @@
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "left"
           }
         }
       },
       "block_order": [
+        "165815357365d8068c-1",
         "6d3d95df-6142-4250-abe9-593f534cff97",
         "0887b021-6811-4dc4-aa1b-693e85e765ad",
-        "165815357365d8068c-1",
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d",
         "202cff2a-592d-4334-9c1c-e1f339cf33e9"
       ],
