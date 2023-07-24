@@ -37,9 +37,12 @@
         "content",
         "share"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "link_text": "Voltar",
-        "link_url": ""
+        "link_text": "Ver todos",
+        "link_url": "shopify:\/\/blogs\/saiu-na-midia"
       }
     },
     "21d79ccc-fd27-43b0-93e2-a9fc806fbf41": {
@@ -80,13 +83,40 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
+        "schema_color": false,
+        "color_back": "#fffbf2",
         "gradient_back": "",
         "color_text": "#000000",
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 52
+      }
+    },
+    "399e63a8-0031-48d7-9bb6-eceb37a1d22b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20043317084439__399e63a8-0031-48d7-9bb6-eceb37a1d22b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Conheça o livro<\/p>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--20043317084439__399e63a8-0031-48d7-9bb6-eceb37a1d22b-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "1fcd5996-7531-4b49-a5ca-7406e03e8926": {
@@ -286,6 +316,7 @@
   "order": [
     "main",
     "21d79ccc-fd27-43b0-93e2-a9fc806fbf41",
+    "399e63a8-0031-48d7-9bb6-eceb37a1d22b",
     "1fcd5996-7531-4b49-a5ca-7406e03e8926",
     "e1b0033c-d924-4d34-b996-79633debda03",
     "16587998858c99169d",
