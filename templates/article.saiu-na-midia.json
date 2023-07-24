@@ -11,6 +11,7 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "blog_show_date": true,
             "blog_show_author": false
@@ -18,11 +19,13 @@
         },
         "content": {
           "type": "content",
+          "disabled": true,
           "settings": {
           }
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Compartilhar"
           }
@@ -37,6 +40,53 @@
       "settings": {
         "link_text": "Voltar",
         "link_url": ""
+      }
+    },
+    "21d79ccc-fd27-43b0-93e2-a9fc806fbf41": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>{{ article.title }}<\/h1>",
+            "heading_size": "h0"
+          }
+        },
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Matéria por: {{ article.metafields.article.autor.value }}<br\/>Veículo: {{ article.metafields.custom.veiculo.value }}<\/p>",
+            "left": true
+          }
+        },
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Leia a matéria original",
+            "button_link": "{{ article.metafields.custom.url.value }}",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-heading-1",
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-text-1",
+        "template--20043317084439__21d79ccc-fd27-43b0-93e2-a9fc806fbf41-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "e1b0033c-d924-4d34-b996-79633debda03": {
@@ -141,7 +191,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -167,6 +217,7 @@
   },
   "order": [
     "main",
+    "21d79ccc-fd27-43b0-93e2-a9fc806fbf41",
     "e1b0033c-d924-4d34-b996-79633debda03",
     "16587998858c99169d",
     "165879908073401e41",
