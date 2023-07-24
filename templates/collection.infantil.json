@@ -65,7 +65,8 @@
         "1632427807e1182f26-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Nossos livros são feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes. São publicações de conteúdos artísticos e literários, com temas sensíveis e instigantes, proporcionando o hábito da leitura e o exercício da curiosidade nas crianças e jovens de todas as idades; dos mais novos que estão começando a ler aos adolescentes em busca de novas aventuras. <\/p>"
+            "text": "<p>Nossos livros são feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes. São publicações de conteúdos artísticos e literários, com temas sensíveis e instigantes, proporcionando o hábito da leitura e o exercício da curiosidade nas crianças e jovens de todas as idades; dos mais novos que estão começando a ler aos adolescentes em busca de novas aventuras. <\/p>",
+            "left": false
           }
         },
         "1632427807e1182f26-2": {
@@ -74,7 +75,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -84,7 +88,13 @@
         "1632427807e1182f26-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -145,6 +155,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
+        "show_collection_title": false,
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
@@ -154,14 +165,18 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 24,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_price": false,
         "show_rating": false,
-        "enable_filtering": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "vertical",
         "enable_sorting": false,
         "show_count": true,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
@@ -213,6 +228,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -244,8 +260,10 @@
       ],
       "settings": {
         "heading": "Multimedia collage",
+        "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
