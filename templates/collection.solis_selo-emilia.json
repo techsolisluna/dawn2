@@ -204,7 +204,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 12,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -261,9 +261,9 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#ffffff",
+        "color_back": "#e03f03",
         "gradient_back": "",
-        "color_text": "#e03f03",
+        "color_text": "#ffffff",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -475,6 +475,8 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
         "padding_top": 40,
         "padding_bottom": 52
       }
