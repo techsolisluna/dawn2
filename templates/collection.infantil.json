@@ -39,7 +39,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -49,6 +49,41 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "0fe10a08-587c-4d9d-b5f8-b8024e123a6e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14510717370449__0fe10a08-587c-4d9d-b5f8-b8024e123a6e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Apresentamos livros para crianças feitos com muito carinho, acabamento primoroso, riquíssimas ilustrações e histórias envolventes.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717370449__0fe10a08-587c-4d9d-b5f8-b8024e123a6e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As publicações da Solisluna Editora para crianças, transportam o leitor para um mundo de fantasia, mistérios e de muita imaginação.<\/p><p>São publicações de conteúdos artístico e literário, incentivando o hábito da leitura e o exercício da curiosidade nas crianças e jovens de todas as idades; dos mais novos que estão começando a ler aos adolescentes em busca de novas aventuras.<\/p><p>Com diferencial no design e nas ilustrações, os livros para crianças são de tal delicadeza e cuidado que encantam também os adultos que apreciam a arte gráfica e o lado lúdico da vida.<\/p>",
+            "left": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717370449__0fe10a08-587c-4d9d-b5f8-b8024e123a6e-heading-1",
+        "template--14510717370449__0fe10a08-587c-4d9d-b5f8-b8024e123a6e-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1632427807e1182f26": {
@@ -154,6 +189,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_title": false,
         "show_collection_description": true,
@@ -324,6 +360,7 @@
   },
   "order": [
     "16358208545452b044",
+    "0fe10a08-587c-4d9d-b5f8-b8024e123a6e",
     "1632427807e1182f26",
     "163242760284aa9491",
     "banner",
