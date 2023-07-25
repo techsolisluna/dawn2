@@ -131,7 +131,6 @@
     },
     "7115b3dc-9860-430c-b3e1-73de10b5bb89": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "d29f2935-1a86-40b7-935b-7f0c79ebed1b": {
           "type": "text",
@@ -193,7 +192,7 @@
         "color_back": "#ffffff",
         "gradient_back": "",
         "color_text": "#000000",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
