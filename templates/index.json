@@ -305,7 +305,6 @@
     },
     "a09f9338-a08f-4bde-b6dd-d7488004035e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "ec81a64f-ab7a-406c-8937-91ba969760ec": {
           "type": "caption",
@@ -325,7 +324,7 @@
         "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Além da premiação, os artistas vencedores e selecionados terão a oportunidade de colaborar com futuras publicações da Solisluna. <\/p><p><strong>Inscrições abertas até 3 de agosto.<\/strong><\/p><p>Participe!<\/p>",
             "text_style": "body"
           }
         },
