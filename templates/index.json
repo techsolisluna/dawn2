@@ -131,7 +131,6 @@
     },
     "7115b3dc-9860-430c-b3e1-73de10b5bb89": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "d29f2935-1a86-40b7-935b-7f0c79ebed1b": {
           "type": "text",
@@ -152,7 +151,7 @@
         "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>Oficina de escrita criativa 'Diário de Viagem' <br\/>com Sara Bertrand<\/strong><\/h2><h2><strong>7 e 8 de agosto<\/strong> <br\/>(segunda e terça-feira)<br\/><strong>das 18h30 às 21h30<\/strong><\/h2><h3><strong>Local<\/strong><br\/><a href=\"https:\/\/www.google.com\/maps\/place\/Casa+Rosa+Salvador\/@-13.0136362,-38.4919494,17z\/data=!4m15!1m8!3m7!1s0x716031675f95b37:0x8db04fea61950e72!2sCasa+Rosa+Salvador!8m2!3d-13.0136362!4d-38.4897607!10e5!16s%2Fg%2F11hjlss0gf!3m5!1s0x716031675f95b37:0x8db04fea61950e72!8m2!3d-13.0136362!4d-38.4897607!16s%2Fg%2F11hjlss0gf?hl=pt-BR&entry=ttu\" title=\"https:\/\/www.google.com\/maps\/place\/Casa+Rosa+Salvador\/@-13.0136362,-38.4919494,17z\/data=!4m15!1m8!3m7!1s0x716031675f95b37:0x8db04fea61950e72!2sCasa+Rosa+Salvador!8m2!3d-13.0136362!4d-38.4897607!10e5!16s%2Fg%2F11hjlss0gf!3m5!1s0x716031675f95b37:0x8db04fea61950e72!8m2!3d-13.0136362!4d-38.4897607!16s%2Fg%2F11hjlss0gf?hl=pt-BR&entry=ttu\">Casa Rosa<br\/>Praça Colombo, 106 - Rio Vermelho<br\/>Salvador, Bahia<\/a> <\/h3>",
+            "text": "<h3><strong>Oficina de escrita criativa 'Diário de Viagem' com Sara Bertrand<\/strong><\/h3><h2><strong>7 e 8 de agosto<\/strong> <br\/>(segunda e terça-feira)<br\/><strong>das 18h30 às 21h30<\/strong><\/h2><h3><strong>Local<\/strong><br\/><a href=\"https:\/\/www.google.com\/maps\/place\/Casa+Rosa+Salvador\/@-13.0136362,-38.4919494,17z\/data=!4m15!1m8!3m7!1s0x716031675f95b37:0x8db04fea61950e72!2sCasa+Rosa+Salvador!8m2!3d-13.0136362!4d-38.4897607!10e5!16s%2Fg%2F11hjlss0gf!3m5!1s0x716031675f95b37:0x8db04fea61950e72!8m2!3d-13.0136362!4d-38.4897607!16s%2Fg%2F11hjlss0gf?hl=pt-BR&entry=ttu\" title=\"https:\/\/www.google.com\/maps\/place\/Casa+Rosa+Salvador\/@-13.0136362,-38.4919494,17z\/data=!4m15!1m8!3m7!1s0x716031675f95b37:0x8db04fea61950e72!2sCasa+Rosa+Salvador!8m2!3d-13.0136362!4d-38.4897607!10e5!16s%2Fg%2F11hjlss0gf!3m5!1s0x716031675f95b37:0x8db04fea61950e72!8m2!3d-13.0136362!4d-38.4897607!16s%2Fg%2F11hjlss0gf?hl=pt-BR&entry=ttu\">Casa Rosa<br\/>Praça Colombo, 106 - Rio Vermelho<br\/>Salvador, Bahia<\/a> <\/h3>",
             "text_style": "body"
           }
         },
@@ -180,7 +179,7 @@
         "df9c8013-7df5-48f9-8611-f6cb985aecce"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIARIO_DE_VIAGEM.png",
+        "image": "shopify:\/\/shop_images\/DIARIO_DE_VIAGEM_6b578b63-80f8-44ba-a38a-1efb771fe6b0.png",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
