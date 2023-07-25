@@ -183,6 +183,66 @@
         "padding_bottom": 36
       }
     },
+    "7115b3dc-9860-430c-b3e1-73de10b5bb89": {
+      "type": "image-with-text",
+      "blocks": {
+        "d29f2935-1a86-40b7-935b-7f0c79ebed1b": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Diário de viagem<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Oficina de escrita criativa",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>7 e 8 de agosto<\/strong> (segunda e terça-feira)<br\/>das 18h30 às 21h30<\/p><h3><strong>Local<\/strong><br\/>Casa Rosa<br\/>Praça Colombo, 106 - Rio Vermelho<br\/>Salvador, Bahia <\/h3>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Inscreva-se",
+            "button_link": "https:\/\/materiais.solisluna.com.br\/oficina-diario-de-viagem"
+          }
+        }
+      },
+      "block_order": [
+        "d29f2935-1a86-40b7-935b-7f0c79ebed1b",
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-heading-1",
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-text-1",
+        "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DIARIO_DE_VIAGEM.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1635001812716d45d4": {
       "type": "image-banner",
       "blocks": {
@@ -959,6 +1019,7 @@
     "1658153573113a06df",
     "163458532453df37e6",
     "featured_products",
+    "7115b3dc-9860-430c-b3e1-73de10b5bb89",
     "1635001812716d45d4",
     "1649960670c6a05ac2",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
