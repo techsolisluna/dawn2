@@ -303,6 +303,65 @@
         "padding_bottom": 36
       }
     },
+    "a09f9338-a08f-4bde-b6dd-d7488004035e": {
+      "type": "image-with-text",
+      "blocks": {
+        "ec81a64f-ab7a-406c-8937-91ba969760ec": {
+          "type": "caption",
+          "settings": {
+            "caption": "ÚLTIMOS DIAS",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concurso de Ilustração Encontro do Sol com a Lua",
+            "heading_size": "h2"
+          }
+        },
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "https:\/\/concurso.solisluna.com.br"
+          }
+        }
+      },
+      "block_order": [
+        "ec81a64f-ab7a-406c-8937-91ba969760ec",
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-heading-1",
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1",
+        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EncontroDoSolComALua.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#e03f03",
+        "gradient_back": "",
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1635001812716d45d4": {
       "type": "image-banner",
       "blocks": {
@@ -1081,6 +1140,7 @@
     "featured_products",
     "54c01bc4-d453-47ee-8376-eef46f803eaf",
     "7115b3dc-9860-430c-b3e1-73de10b5bb89",
+    "a09f9338-a08f-4bde-b6dd-d7488004035e",
     "1635001812716d45d4",
     "1649960670c6a05ac2",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
