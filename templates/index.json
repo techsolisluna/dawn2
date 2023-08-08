@@ -185,6 +185,7 @@
     },
     "54c01bc4-d453-47ee-8376-eef46f803eaf": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-heading-1": {
           "type": "heading",
@@ -236,6 +237,7 @@
     },
     "7115b3dc-9860-430c-b3e1-73de10b5bb89": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "d29f2935-1a86-40b7-935b-7f0c79ebed1b": {
           "type": "text",
@@ -305,6 +307,7 @@
     },
     "a09f9338-a08f-4bde-b6dd-d7488004035e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "ec81a64f-ab7a-406c-8937-91ba969760ec": {
           "type": "caption",
