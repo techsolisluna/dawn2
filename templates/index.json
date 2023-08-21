@@ -90,16 +90,16 @@
         "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0723-2.jpg",
-            "heading": "Coleção Ensaios para educadores",
+            "image": "shopify:\/\/shop_images\/Banner-site-Uma-viagem.png",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Parceria editorial Solisluna & Selo Emília",
+            "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/kit-livros-para-educadores",
+            "link": "shopify:\/\/products\/uma-viagem-nos-direitos-das-criancas",
             "button_style_secondary": true,
             "image_link": true,
             "box_align": "middle-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
@@ -185,7 +185,6 @@
     },
     "54c01bc4-d453-47ee-8376-eef46f803eaf": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-heading-1": {
           "type": "heading",
@@ -220,6 +219,7 @@
         "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-text-1",
         "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CapaCatalogo_3fd5980a-db46-4b14-86e3-338ea487ecd2.jpg",
         "image_overlay_opacity": 0,
@@ -237,7 +237,6 @@
     },
     "7115b3dc-9860-430c-b3e1-73de10b5bb89": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "d29f2935-1a86-40b7-935b-7f0c79ebed1b": {
           "type": "text",
@@ -285,6 +284,7 @@
         "template--14510716256337__7115b3dc-9860-430c-b3e1-73de10b5bb89-button-1",
         "df9c8013-7df5-48f9-8611-f6cb985aecce"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/DIARIO_DE_VIAGEM_6b578b63-80f8-44ba-a38a-1efb771fe6b0.png",
         "product_img": false,
@@ -307,7 +307,6 @@
     },
     "a09f9338-a08f-4bde-b6dd-d7488004035e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "ec81a64f-ab7a-406c-8937-91ba969760ec": {
           "type": "caption",
@@ -345,6 +344,7 @@
         "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1",
         "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/EncontroDoSolComALua.png",
         "product_img": false,
@@ -551,7 +551,6 @@
     },
     "163259099574ea68ac": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "163259099574ea68ac-0": {
           "type": "heading",
@@ -580,6 +579,7 @@
         "163259099574ea68ac-1",
         "163259099574ea68ac-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7772.jpg",
         "product_img": false,
@@ -986,7 +986,6 @@
     },
     "ccd4fcd5-df05-4769-a8ea-556a1e127fa1": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-0": {
           "type": "video",
@@ -1018,6 +1017,7 @@
         "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-1",
         "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Coleção Lendas Africanas dos Orixás por Edsoleda",
         "heading_size": "h1",
