@@ -81,6 +81,18 @@
         "padding_bottom": 52
       }
     },
+    "html": {
+      "type": "custom-html",
+      "disabled": true,
+      "blocks": {
+        "html1": {
+          "type": "text"
+        }
+      },
+      "block_order": [
+        "html1"
+      ]
+    },
     "16587998858c99169d": {
       "type": "image-banner",
       "blocks": {
@@ -156,6 +168,7 @@
   "order": [
     "main",
     "165879908073401e41",
+    "html",
     "16587998858c99169d",
     "16493007942e10726b"
   ]
