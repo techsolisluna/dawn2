@@ -1,111 +1,89 @@
 {
   "sections": {
-    "1635546292f371e943": {
-      "type": "rich-text",
+    "d520eb48-d90c-4c0a-9913-ed01972207c5": {
+      "type": "newsletter",
       "blocks": {
-        "1635546292f371e943-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>Serviços editoriais<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "1635546292f371e943-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left": false
-          }
-        },
-        "1635546292f371e943-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1635546292f371e943-0",
-        "1635546292f371e943-1",
-        "1635546292f371e943-2"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1635546329416ecc63": {
-      "type": "image-with-text",
-      "blocks": {
-        "1635546329416ecc63-0": {
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Especialistas em projetos de alta complexidade",
+            "heading": "News da Solis",
             "heading_size": "h1"
           }
         },
-        "1635546329416ecc63-1": {
-          "type": "text",
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-paragraph-1": {
+          "type": "paragraph",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Uma vez por mês e direto na sua caixa de entrada, uma newsletter preparada com carinho, sempre repleta de conteúdos interessantes e novidades que estão saindo do forno.<\/p>"
           }
         },
-        "1635546329416ecc63-2": {
-          "type": "button",
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-email_form-1": {
+          "type": "email_form",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "tag": "newsletter"
           }
         }
       },
       "block_order": [
-        "1635546329416ecc63-0",
-        "1635546329416ecc63-1",
-        "1635546329416ecc63-2"
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-heading-1",
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-paragraph-1",
+        "template--20602834714903__d520eb48-d90c-4c0a-9913-ed01972207c5-email_form-1"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/edsoelda_5-001_51dc3abe-3d75-457b-93a2-bac530650c31.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#0067ac",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
       "type": "main-blog",
       "settings": {
         "layout": "collage",
-        "show_image": true,
+        "show_image": false,
         "image_height": "medium",
         "show_date": true,
         "show_author": false,
         "padding_top": 12,
         "padding_bottom": 48
+      }
+    },
+    "93144602-9da9-46af-8457-fb365ad26cda": {
+      "type": "newsletter",
+      "blocks": {
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossa newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Uma vez por mês e direto na sua caixa de entrada, uma newsletter preparada com carinho, sempre repleta de conteúdos interessantes e novidades que estão saindo do forno.<\/p>"
+          }
+        },
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-heading-1",
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-paragraph-1",
+        "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1635546295ae0e58ef": {
@@ -162,9 +140,9 @@
     }
   },
   "order": [
-    "1635546292f371e943",
-    "1635546329416ecc63",
+    "d520eb48-d90c-4c0a-9913-ed01972207c5",
     "main",
+    "93144602-9da9-46af-8457-fb365ad26cda",
     "1635546295ae0e58ef"
   ]
 }
