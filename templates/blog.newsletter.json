@@ -32,7 +32,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -62,7 +62,7 @@
         "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Uma vez por mês e direto na sua caixa de entrada, uma newsletter preparada com carinho, sempre repleta de conteúdos interessantes e novidades que estão saindo do forno.<\/p>"
+            "text": ""
           }
         },
         "template--20602834714903__93144602-9da9-46af-8457-fb365ad26cda-email_form-1": {
@@ -81,7 +81,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
