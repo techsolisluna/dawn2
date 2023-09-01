@@ -1,5 +1,32 @@
 {
   "sections": {
+    "78783ce8-d97d-4779-be21-9be7b7d810cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20728148689175__78783ce8-d97d-4779-be21-9be7b7d810cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Agenda<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20728148689175__78783ce8-d97d-4779-be21-9be7b7d810cd-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "3f8d89ae-86b5-4281-97be-34cf5cefad50": {
       "type": "image-with-text",
       "blocks": {
@@ -71,6 +98,7 @@
     }
   },
   "order": [
+    "78783ce8-d97d-4779-be21-9be7b7d810cd",
     "3f8d89ae-86b5-4281-97be-34cf5cefad50"
   ]
 }
