@@ -10,8 +10,16 @@
             "heading_size": "h1"
           }
         },
+        "d2ed9897-2901-4bda-9897-83fd1c4960d0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ metaobject.data.value }}<\/p><p>{{ metaobject.local.value }}<\/p>",
+            "text_style": "body"
+          }
+        },
         "4b5d6997-dc32-48b4-9288-be3e53d2bb76": {
           "type": "caption",
+          "disabled": true,
           "settings": {
             "caption": "{{ metaobject.local.value }}",
             "text_style": "caption-with-letter-spacing",
@@ -27,27 +35,22 @@
         },
         "template--20728148689175__3f8d89ae-86b5-4281-97be-34cf5cefad50-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
-          }
-        },
-        "d2ed9897-2901-4bda-9897-83fd1c4960d0": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
           }
         }
       },
       "block_order": [
         "template--20728148689175__3f8d89ae-86b5-4281-97be-34cf5cefad50-heading-1",
+        "d2ed9897-2901-4bda-9897-83fd1c4960d0",
         "4b5d6997-dc32-48b4-9288-be3e53d2bb76",
         "template--20728148689175__3f8d89ae-86b5-4281-97be-34cf5cefad50-text-1",
-        "template--20728148689175__3f8d89ae-86b5-4281-97be-34cf5cefad50-button-1",
-        "d2ed9897-2901-4bda-9897-83fd1c4960d0"
+        "template--20728148689175__3f8d89ae-86b5-4281-97be-34cf5cefad50-button-1"
       ],
       "settings": {
+        "image": "{{ metaobject.main_image.value }}",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
