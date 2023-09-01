@@ -1,10 +1,77 @@
 {
   "sections": {
+    "e74b7e05-23f1-42af-975f-f5e97b8d75f3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "{{ article.image }}",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "166938e7-8e1d-4747-abc6-b2a7d8c72d65": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>{{ article.metafields.custom.legenda_foto_principal.value }}<\/em><\/p>",
+            "left": false
+          }
+        },
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-heading-1",
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-text-1",
+        "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
         "featured_image": {
           "type": "featured_image",
+          "disabled": true,
           "settings": {
             "image_height": "medium"
           }
@@ -122,6 +189,8 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -146,6 +215,8 @@
     }
   },
   "order": [
+    "e74b7e05-23f1-42af-975f-f5e97b8d75f3",
+    "166938e7-8e1d-4747-abc6-b2a7d8c72d65",
     "main",
     "16587998858c99169d",
     "165879908073401e41",
