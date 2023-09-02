@@ -12,6 +12,7 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "blog_show_date": true,
             "blog_show_author": false
@@ -19,6 +20,7 @@
         },
         "content": {
           "type": "content",
+          "disabled": true,
           "settings": {
           }
         },
@@ -126,28 +128,45 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
-    "16493007942e10726b": {
-      "type": "featured-blog",
-      "disabled": true,
+    "4b94e271-a3a0-49c8-90be-47c4dead6d5a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20728366858519__4b94e271-a3a0-49c8-90be-47c4dead6d5a-column-1": {
+          "type": "column",
+          "repeater": "{{ article.metafields.custom.agenda.value }}",
+          "settings": {
+            "image": "{{ block.repeater.main_image.value }}",
+            "title": "{{ block.repeater.nome.value }}",
+            "text": "<p><strong>{{ block.repeater.data.value }}<\/strong><\/p><p><strong>{{ block.repeater.local.value }}<\/strong><\/p><p>{{ block.repeater.descricao | metafield_tag }}<\/p>",
+            "link_label": "Saiba mais",
+            "link": "{{ block.repeater.system.url }}",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20728366858519__4b94e271-a3a0-49c8-90be-47c4dead6d5a-column-1"
+      ],
       "settings": {
-        "heading": "Leia mais em nosso blog",
+        "title": "{{ article.title }}",
         "heading_size": "h1",
-        "blog": "solisblogluna",
-        "post_limit": 4,
+        "image_width": "third",
+        "image_ratio": "square",
         "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": true,
-        "show_related": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 40,
-        "padding_bottom": 60
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -155,6 +174,6 @@
     "main",
     "16587998858c99169d",
     "165879908073401e41",
-    "16493007942e10726b"
+    "4b94e271-a3a0-49c8-90be-47c4dead6d5a"
   ]
 }

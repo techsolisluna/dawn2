@@ -5,10 +5,9 @@
       "blocks": {
         "1635546292f371e943-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "<p>Serviços editoriais<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>Agenda <\/p>",
+            "heading_size": "h1"
           }
         },
         "1635546292f371e943-1": {
@@ -38,9 +37,13 @@
         "1635546292f371e943-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -92,6 +95,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -101,11 +105,11 @@
       "settings": {
         "layout": "collage",
         "show_image": true,
-        "image_height": "medium",
-        "show_date": true,
+        "image_height": "small",
+        "show_date": false,
         "show_author": false,
         "padding_top": 12,
-        "padding_bottom": 48
+        "padding_bottom": 52
       }
     },
     "1635546295ae0e58ef": {
