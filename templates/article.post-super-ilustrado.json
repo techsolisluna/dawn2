@@ -101,6 +101,9 @@
         "content",
         "share"
       ],
+      "custom_css": [
+        ".article-template__comment-wrapper {display:none;}"
+      ],
       "settings": {
         "link_text": "Voltar",
         "link_url": ""
