@@ -106,6 +106,42 @@
         "link_url": ""
       }
     },
+    "b87312c7-854c-42d0-9477-4d19b2c2f441": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20779231478039__b87312c7-854c-42d0-9477-4d19b2c2f441-column-1": {
+          "type": "column",
+          "repeater": "{{ article.metafields.custom.imagens_multicolumn.value }}",
+          "settings": {
+            "image": "{{ block.repeater.img.value }}",
+            "title": "",
+            "text": "<p><em>{{ block.repeater.legenda | metafield_tag }}<\/em><\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20779231478039__b87312c7-854c-42d0-9477-4d19b2c2f441-column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16587998858c99169d": {
       "type": "image-banner",
       "blocks": {
@@ -218,6 +254,7 @@
     "e74b7e05-23f1-42af-975f-f5e97b8d75f3",
     "166938e7-8e1d-4747-abc6-b2a7d8c72d65",
     "main",
+    "b87312c7-854c-42d0-9477-4d19b2c2f441",
     "16587998858c99169d",
     "165879908073401e41",
     "16493007942e10726b"
