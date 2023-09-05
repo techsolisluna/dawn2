@@ -49,9 +49,126 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "54513b11-3d96-4bfe-9677-97a2ea6725f4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>conheça mais sobre <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-heading-1",
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-text-1",
+        "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "15f61bef-fd46-4a9a-ab4b-1e33012ed94d": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-text-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-title-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-price-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-variant_picker-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-quantity_selector-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-buy_buttons-1",
+        "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-share-1"
+      ],
+      "settings": {
+        "product": "{{ metaobject.livro_relacionado.value }}",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "68272682-272b-4aaf-9402-bf71ba5e0d86"
+    "68272682-272b-4aaf-9402-bf71ba5e0d86",
+    "54513b11-3d96-4bfe-9677-97a2ea6725f4",
+    "15f61bef-fd46-4a9a-ab4b-1e33012ed94d"
   ]
 }
