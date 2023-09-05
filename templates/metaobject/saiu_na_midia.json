@@ -1,7 +1,57 @@
 {
   "sections": {
+    "68272682-272b-4aaf-9402-bf71ba5e0d86": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ metaobject.name.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "{{ metaobject.url.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-heading-1",
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-text-1",
+        "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-button-1"
+      ],
+      "settings": {
+        "image": "{{ metaobject.imagem_capa.value }}",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
   },
   "order": [
-
+    "68272682-272b-4aaf-9402-bf71ba5e0d86"
   ]
 }
