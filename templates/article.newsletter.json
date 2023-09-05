@@ -37,11 +37,32 @@
         "share"
       ],
       "custom_css": [
-        ".article-template__link {display:none;}"
+        ".article-template__link {display: none;}"
       ],
       "settings": {
         "link_text": "Voltar",
         "link_url": ""
+      }
+    },
+    "cbdba8aa-1915-4833-a860-7291d50be585": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".navegacao_newsletter {display: flex; justify-content: space-evenly;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"page-width navegacao_newsletter\">\n    {% if blog.next_article %}\n        <div class=\"article-template__back element-margin-top center\">\n            <a href=\"{{ blog.next_article }}\" class=\"article-template__link link animate-arrow\">\n            <span class=\"icon-wrap\">{% render 'icon-arrow' %}<\/span>\n            Próxima\n            <\/a>\n        <\/div>\n    {% endif %}\n\n    {% if blog.previous_article %}\n        <div class=\"article-template__back element-margin-top center\">\n            <a class=\"article-template__link link animate-arrow\" href=\"{{ blog.previous_article }}\">\n                Anterior\n                <span style=\"margin-left: 1rem;\">{% render 'icon-arrow' %}<\/span>\n            <\/a>\n        <\/div>\n    {% endif %}\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bc849792-f3ce-4e62-9d18-868487755e30": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "165879908073401e41": {
@@ -76,22 +97,29 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
     "html": {
       "type": "custom-html",
-      "disabled": true,
       "blocks": {
         "html1": {
-          "type": "text"
+          "type": "text",
+          "settings": {
+            "section_html": "<p>Cole aqui seu HTML<\/p>"
+          }
         }
       },
       "block_order": [
         "html1"
-      ]
+      ],
+      "disabled": true,
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     },
     "16587998858c99169d": {
       "type": "image-banner",
@@ -167,6 +195,8 @@
   },
   "order": [
     "main",
+    "cbdba8aa-1915-4833-a860-7291d50be585",
+    "bc849792-f3ce-4e62-9d18-868487755e30",
     "165879908073401e41",
     "html",
     "16587998858c99169d",
