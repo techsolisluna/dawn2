@@ -288,7 +288,7 @@
             "title": "{{ block.repeater.destaque.value }}",
             "text": "",
             "link_label": "{{ block.repeater.name.value }}",
-            "link": "{{ block.repeater.url.value }}",
+            "link": "{{ block.repeater.system.url }}",
             "image_link": false
           }
         }
