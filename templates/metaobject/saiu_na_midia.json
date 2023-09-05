@@ -13,7 +13,7 @@
         "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p>",
+            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p><p><\/p><p><a href=\"\/pages\/saiu_na_midia\/saiu-na-midia-ztzmakzn\" title=\"Roma Negra - Jornal Correio 22 de julho de 2023\">Leia a matéria original aqui<\/a><\/p>",
             "text_style": "body"
           }
         },
