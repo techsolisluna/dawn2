@@ -52,17 +52,17 @@
       "settings": {
         "custom_liquid": "<div class=\"page-width navegacao_newsletter\">\n    {% if blog.next_article %}\n        <div class=\"article-template__back element-margin-top center\">\n            <a href=\"{{ blog.next_article }}\" class=\"article-template__link link animate-arrow\">\n            <span class=\"icon-wrap\">{% render 'icon-arrow' %}<\/span>\n            Próxima\n            <\/a>\n        <\/div>\n    {% endif %}\n\n    {% if blog.previous_article %}\n        <div class=\"article-template__back element-margin-top center\">\n            <a class=\"article-template__link link animate-arrow\" href=\"{{ blog.previous_article }}\">\n                Anterior\n                <span style=\"margin-left: 1rem;\">{% render 'icon-arrow' %}<\/span>\n            <\/a>\n        <\/div>\n    {% endif %}\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "bc849792-f3ce-4e62-9d18-868487755e30": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<div class=\"page-width\">\n        <div class=\"article-template__back center\">\n            <a href=\"{{ blog.url }}\" class=\"article-template__link link animate-arrow\">\n       \n            Ver todas\n            <\/a>\n        <\/div>\n<\/div>",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 12,
+        "padding_bottom": 28
       }
     },
     "165879908073401e41": {
