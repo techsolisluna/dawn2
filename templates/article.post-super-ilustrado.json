@@ -181,6 +181,7 @@
         "template--20779231478039__7a28e5c3-cb8e-4225-8280-0500f82290d0-text-1",
         "template--20779231478039__7a28e5c3-cb8e-4225-8280-0500f82290d0-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "{{ article.image }}",
         "image_overlay_opacity": 0,
