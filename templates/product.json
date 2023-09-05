@@ -277,6 +277,42 @@
         "padding_bottom": 36
       }
     },
+    "41f56357-3bf1-4266-b3f0-f8445387fbcb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14510717272145__41f56357-3bf1-4266-b3f0-f8445387fbcb-column-1": {
+          "type": "column",
+          "repeater": "{{ product.metafields.custom.imprensa.value }}",
+          "settings": {
+            "image": "{{ block.repeater.imagem_capa.value }}",
+            "title": "{{ block.repeater.destaque.value }}",
+            "text": "",
+            "link_label": "{{ block.repeater.name.value }}",
+            "link": "{{ block.repeater.url.value }}",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510717272145__41f56357-3bf1-4266-b3f0-f8445387fbcb-column-1"
+      ],
+      "settings": {
+        "title": "Saiu na mídia",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16326202476377d29f": {
       "type": "image-banner",
       "blocks": {
@@ -331,7 +367,6 @@
     },
     "16624694455604944e": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1662469445056e69ac-0": {
           "type": "heading",
@@ -364,6 +399,7 @@
         "1662469445056e69ac-1",
         "1662469445056e69ac-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -536,6 +572,7 @@
     "1632621267a9cdb8f8",
     "163616771967b30d2e",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
+    "41f56357-3bf1-4266-b3f0-f8445387fbcb",
     "16326202476377d29f",
     "16624694455604944e",
     "1662423745bffef672",
