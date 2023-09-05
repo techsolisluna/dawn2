@@ -277,6 +277,15 @@
         "padding_bottom": 36
       }
     },
+    "3b80a4b1-8919-4fbf-931b-49628d0e9afa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if product.metafields.custom.imprensa %}<div class=\"page-width\"><h2 class=\"title h2\">Saiu na mídia<\/h2><\/div>{% endif %}",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "41f56357-3bf1-4266-b3f0-f8445387fbcb": {
       "type": "multicolumn",
       "blocks": {
@@ -309,7 +318,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -572,6 +581,7 @@
     "1632621267a9cdb8f8",
     "163616771967b30d2e",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
+    "3b80a4b1-8919-4fbf-931b-49628d0e9afa",
     "41f56357-3bf1-4266-b3f0-f8445387fbcb",
     "16326202476377d29f",
     "16624694455604944e",
