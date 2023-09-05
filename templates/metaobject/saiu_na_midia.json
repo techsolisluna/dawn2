@@ -56,7 +56,7 @@
         "template--20782270316823__54513b11-3d96-4bfe-9677-97a2ea6725f4-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>conheça mais sobre <\/p>",
+            "heading": "<p>{{ metaobject.destaque.value }}<\/p>",
             "heading_size": "h1"
           }
         },
