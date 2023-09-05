@@ -164,11 +164,64 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a82d5c29-9a84-4666-aca4-37b03a9e9c20": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-heading-1",
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-text-1",
+        "template--20782270316823__a82d5c29-9a84-4666-aca4-37b03a9e9c20-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/borda.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "68272682-272b-4aaf-9402-bf71ba5e0d86",
     "54513b11-3d96-4bfe-9677-97a2ea6725f4",
-    "15f61bef-fd46-4a9a-ab4b-1e33012ed94d"
+    "15f61bef-fd46-4a9a-ab4b-1e33012ed94d",
+    "a82d5c29-9a84-4666-aca4-37b03a9e9c20"
   ]
 }
