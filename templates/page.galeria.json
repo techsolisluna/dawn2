@@ -3,7 +3,7 @@
     "7b089977-277d-40e5-8798-e89afcedbbeb": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\n<\/style>",
+        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -114,15 +114,15 @@
     "f5674eaf-2895-424e-89f2-1af13bddcf91": {
       "type": "featured-collection",
       "settings": {
-        "title": "Destaques",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "galeria",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
@@ -149,6 +149,7 @@
         },
         "1658800897e243a6f4-1": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "eneas-guerra"
           }
@@ -166,15 +167,66 @@
         "1658800897e243a6f4-1",
         "1658800897e243a6f4-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Artista em destaque",
         "heading_size": "h0",
         "image_ratio": "square",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "color_scheme": "inverse",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ec0352ea-e476-4e8c-be00-c784256aca46": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Edsoleda Santos",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-heading-1",
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-text-1",
+        "template--14538402332753__ec0352ea-e476-4e8c-be00-c784256aca46-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Edsoleda_720x_b1b307a8-9301-463f-817b-a56b329a4ba7.webp",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -222,7 +274,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": true,
-        "color_back": "#ffffff",
+        "color_back": "#000000",
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
@@ -314,8 +366,8 @@
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
-        "custom_background": false,
-        "background_color": "#000",
+        "custom_background": true,
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -330,6 +382,7 @@
     "165630580916e4a434",
     "f5674eaf-2895-424e-89f2-1af13bddcf91",
     "1658800897a2975d76",
+    "ec0352ea-e476-4e8c-be00-c784256aca46",
     "8c37f3e6-67e4-41d9-bd1b-fa3997f3db62",
     "1658802021b834784d",
     "1656306032260ceedf"
