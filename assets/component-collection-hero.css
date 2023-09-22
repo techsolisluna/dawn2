@@ -150,3 +150,17 @@
     flex-shrink: 0;
   }
 } 
+
+.breadcrumb .deactive{
+  text-decoration: none !important;
+  transition: all .2s;
+  color: rgb(102, 102, 102);
+}
+
+.breadcrumb .deactive:visited{
+  color: rgb(102, 102, 102);
+}
+
+.breadcrumb .deactive:hover{
+  color: black;
+}
