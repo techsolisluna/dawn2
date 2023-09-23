@@ -68,7 +68,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Que-bicho-doido-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto e ilustrações<br\/><\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Creche I<\/strong><\/p><p><strong>TEMA<\/strong> Animais da fauna local, nacional e mundial<\/p><p><strong>CÓDIGO<br\/><\/strong>0715 P22 02 01 000 000<\/p><p><\/p>",
+            "text": "<p><strong>Texto e ilustrações<br\/><\/strong>Enéas Guerra<\/p><p>-<strong><br\/>Educação infantil - Creche I<\/strong><\/p><p>-<\/p><h3><strong>ACERVOS 09 e 13 <\/strong><\/h3><p>-<\/p><p><strong>TEMA<\/strong> Animais da fauna local, nacional e mundial<\/p><p>-<\/p><p><strong>CÓDIGO <\/strong>0715P220201000000<\/p><p><\/p>",
             "link_label": "SAIBA MAIS",
             "link": "shopify:\/\/pages\/pnld-2022-que-bicho-doido",
             "image_link": true
@@ -79,7 +79,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/A-uniao-faz-a-colcha-PNDL.png",
             "title": "",
-            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> <\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p><strong>TEMA<\/strong> Profissões urbanas e rurais<\/p><p><\/p><p>  <\/p><p><strong> <\/strong><\/p><p><\/p><p><strong>CÓDIGO<br\/><\/strong>0716 P22 02 03 000 000<\/p>",
+            "text": "<p><strong>Texto <\/strong>Antonio Miranda e Enéas Guerra<\/p><p><strong>Ilustrações <\/strong>Enéas Guerra<\/p><p> -<\/p><p><strong>Educação infantil - Pré-escola<\/strong><\/p><p>-<\/p><h3><strong>ACERVOS 04 e 23 <\/strong><\/h3><p>-<\/p><p><strong>TEMA<\/strong> Profissões urbanas e rurais<\/p><p>-<\/p><p> <\/p><p><strong> <\/strong><\/p><p><\/p><p><strong>CÓDIGO<br\/><\/strong>0716 P22 02 03 000 000<\/p>",
             "link_label": "SAIBA MAIS",
             "link": "shopify:\/\/pages\/pnld-2022-a-uniao-faz-a-colcha",
             "image_link": true
@@ -261,7 +261,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
