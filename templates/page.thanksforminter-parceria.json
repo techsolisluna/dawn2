@@ -22,7 +22,7 @@
         "template--21105230250263__f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Enquanto isso, conheça outros livros publicados pela parceria editorial Selo Emília & Solisluna<\/h2>",
+            "text": "<h2>Enquanto isso, conheça outros livros publicados pela parceria editorial <strong>Selo Emília <\/strong>&<strong> Solisluna<\/strong><\/h2>",
             "left": false
           }
         }
@@ -272,7 +272,7 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -313,7 +313,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
