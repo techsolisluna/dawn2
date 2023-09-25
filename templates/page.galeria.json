@@ -372,10 +372,10 @@
         "padding_bottom": 52
       }
     },
-    "2bb7447c-bc62-41e7-9dfc-fd2b8dcdd826": {
-      "type": "plyr-audio",
+    "45db5859-8f59-482a-bfed-9df993b8f345": {
+      "type": "plyr-video",
       "settings": {
-        "audio_url": "\/",
+        "video_url": "\/",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
@@ -395,6 +395,6 @@
     "8c37f3e6-67e4-41d9-bd1b-fa3997f3db62",
     "1658802021b834784d",
     "1656306032260ceedf",
-    "2bb7447c-bc62-41e7-9dfc-fd2b8dcdd826"
+    "45db5859-8f59-482a-bfed-9df993b8f345"
   ]
 }
