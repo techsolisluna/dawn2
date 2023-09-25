@@ -2,70 +2,157 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
-    "1659755087d5917cf5": {
-      "type": "collapsible-content",
+    "f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc": {
+      "type": "rich-text",
       "blocks": {
-        "16597550878347ea89-0": {
-          "type": "collapsible_row",
+        "template--21105230250263__f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc-heading-1": {
+          "type": "heading",
           "settings": {
-            "heading": "Suporte com o pedido",
-            "icon": "box",
-            "row_content": "<p>sasa<\/p>",
-            "page": ""
+            "heading": "<p><strong>Agradecemos pelo interesse neste título. <\/strong><br\/>Te avisaremos em primeira mão assim que o livro estiver disponível.<\/p>",
+            "heading_size": "h1"
           }
         },
-        "16597550878347ea89-1": {
-          "type": "collapsible_row",
+        "template--21105230250263__f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc-text-1": {
+          "type": "text",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16597550878347ea89-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16597550878347ea89-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "text": "<h2>Enquanto isso, conheça outros livros publicados pela parceria editorial Selo Emília & Solisluna<\/h2>",
+            "left": false
           }
         }
       },
       "block_order": [
-        "16597550878347ea89-0",
-        "16597550878347ea89-1",
-        "16597550878347ea89-2",
-        "16597550878347ea89-3"
+        "template--21105230250263__f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc-heading-1",
+        "template--21105230250263__f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc-text-1"
       ],
-      "disabled": true,
       "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6d601197-b109-4979-b9a8-107d92995c68": {
+      "type": "featured-product",
+      "blocks": {
+        "fb2fb73e-697f-43e9-a094-2ac5b725d2a5": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>\n<span class=\"badge\" style=\"background-color: #08AB08;border-color: #08AB08;color:white;\">Lançamento<\/span><\/div>"
+          }
+        },
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        }
+      },
+      "block_order": [
+        "fb2fb73e-697f-43e9-a094-2ac5b725d2a5",
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-title-1",
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-price-1",
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-variant_picker-1",
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-buy_buttons-1",
+        "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-share-1"
+      ],
+      "settings": {
+        "product": "uma-viagem-nos-direitos-das-criancas",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8ecb2ce2-37ee-4c64-a5a0-1f94772cdb49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Ensaios para pensar a leitura",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0864095f-4b71-42d2-a8df-984b95b42306": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Livros ilustrados",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "livros-ilustrados-selo-emilia-solisluna",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -128,12 +215,137 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1659755087d5917cf5": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16597550878347ea89-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Suporte com o pedido",
+            "icon": "box",
+            "row_content": "<p>sasa<\/p>",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16597550878347ea89-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16597550878347ea89-0",
+        "16597550878347ea89-1",
+        "16597550878347ea89-2",
+        "16597550878347ea89-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d54a861a-99dd-4878-99cd-4ea97b44e026": {
+      "type": "newsletter",
+      "blocks": {
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assine a nossa newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter,selo-emilia"
+          }
+        }
+      },
+      "block_order": [
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-heading-1",
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-paragraph-1",
+        "template--21105230250263__d54a861a-99dd-4878-99cd-4ea97b44e026-email_form-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "04e1e82e-0a55-44f7-8a77-b1ede2b724ee": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CapaCatalogo_filete.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
-    "1659755087d5917cf5",
+    "f3d3fc6e-364f-4c52-8eaf-9a455ff5aacc",
+    "6d601197-b109-4979-b9a8-107d92995c68",
+    "8ecb2ce2-37ee-4c64-a5a0-1f94772cdb49",
+    "0864095f-4b71-42d2-a8df-984b95b42306",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53"
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "1659755087d5917cf5",
+    "d54a861a-99dd-4878-99cd-4ea97b44e026",
+    "04e1e82e-0a55-44f7-8a77-b1ede2b724ee"
   ]
 }
