@@ -1,0 +1,66 @@
+{%- style -%}
+    .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+        padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+    }
+
+    @media screen and (min-width: 750px) {
+        .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top }}px;
+        padding-bottom: {{ section.settings.padding_bottom }}px;
+        }
+    }
+{%- endstyle -%}
+
+<div class="{% unless section.settings.full_width %} page-width{% endunless %} section-{{ section.id }}-padding">
+    <audio id="player" controls style="margin: auto;">
+        <source src="{{ section.settings.audio_url }}" type="audio/mp3" />
+    </audio>
+</div>
+
+{% schema %}
+    {
+      "name": "Plyr Audio",
+      "tag": "section",
+      "class": "section",
+      "settings": [
+        {
+            "type": "url",
+            "id": "audio_url",
+            "label": "URL do aúdio MP3",
+            "default": "/"
+        },
+        {
+            "type": "checkbox",
+            "id": "full_width",
+            "default": false,
+            "label": "t:sections.rich-text.settings.full_width.label"
+        },
+        {
+          "type": "range",
+          "id": "padding_top",
+          "min": 0,
+          "max": 100,
+          "step": 4,
+          "unit": "px",
+          "label": "t:sections.all.padding.padding_top",
+          "default": 40
+        },
+        {
+          "type": "range",
+          "id": "padding_bottom",
+          "min": 0,
+          "max": 100,
+          "step": 4,
+          "unit": "px",
+          "label": "t:sections.all.padding.padding_bottom",
+          "default": 52
+        }
+      ],
+      "presets": [
+        {
+          "name": "Plyr Audio"
+        }
+      ]
+    }
+{% endschema %}
