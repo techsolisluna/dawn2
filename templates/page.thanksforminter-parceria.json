@@ -318,6 +318,73 @@
         "padding_bottom": 52
       }
     },
+    "fbf5b6c0-50a8-4951-ac75-6eb47f44a595": {
+      "type": "custom-html",
+      "blocks": {
+        "template--21105230250263__fbf5b6c0-50a8-4951-ac75-6eb47f44a595-text-1": {
+          "type": "text",
+          "settings": {
+            "section_html": "<div style=\"text-align:center;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Selo-Emilia-solisluna.jpg\" alt=\"Parceria Editorial Selo Emília e Solisluna Editora\" style=\"max-width:320px\">\n\n\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21105230250263__fbf5b6c0-50a8-4951-ac75-6eb47f44a595-text-1"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "404f1611-e591-49fe-a4f2-3e2ed3f06342": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do Instituto Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<br\/><\/h2>",
+            "left": false
+          }
+        },
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-heading-1",
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-text-1",
+        "template--21105230250263__404f1611-e591-49fe-a4f2-3e2ed3f06342-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "04e1e82e-0a55-44f7-8a77-b1ede2b724ee": {
       "type": "image-banner",
       "settings": {
@@ -346,6 +413,8 @@
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "1659755087d5917cf5",
     "d54a861a-99dd-4878-99cd-4ea97b44e026",
+    "fbf5b6c0-50a8-4951-ac75-6eb47f44a595",
+    "404f1611-e591-49fe-a4f2-3e2ed3f06342",
     "04e1e82e-0a55-44f7-8a77-b1ede2b724ee"
   ]
 }
