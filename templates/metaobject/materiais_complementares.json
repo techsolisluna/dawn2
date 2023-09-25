@@ -1,7 +1,70 @@
 {
   "sections": {
+    "ad8887aa-ad3f-4b64-9182-abc43bd6a9e1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Sons Sagrados<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-heading-1",
+        "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6d4d2659-789c-4e13-a2e5-f3b47fa10b60": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desenho_do_Macrocosmo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "49646102-564b-4138-8e5a-f29a339fb5aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nfooter {\ndisplay:none;\n}\n.header {\ndisplay:none;\n}\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
   },
   "order": [
-
+    "ad8887aa-ad3f-4b64-9182-abc43bd6a9e1",
+    "6d4d2659-789c-4e13-a2e5-f3b47fa10b60",
+    "49646102-564b-4138-8e5a-f29a339fb5aa"
   ]
 }
