@@ -371,6 +371,24 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "dcdfec71-4575-4808-906e-6f48e8727661": {
+      "type": "plyr-audio",
+      "settings": {
+        "audio_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Norma_Sons_Sagrados.mp3?v=1695650974",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "38cc832f-1fee-4d16-85af-c7ea53738ba9": {
+      "type": "plyr-video",
+      "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/300757cf220140eb9cb47992550886cd.mov",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -385,6 +403,8 @@
     "ec0352ea-e476-4e8c-be00-c784256aca46",
     "8c37f3e6-67e4-41d9-bd1b-fa3997f3db62",
     "1658802021b834784d",
-    "1656306032260ceedf"
+    "1656306032260ceedf",
+    "dcdfec71-4575-4808-906e-6f48e8727661",
+    "38cc832f-1fee-4d16-85af-c7ea53738ba9"
   ]
 }
