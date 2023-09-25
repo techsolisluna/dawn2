@@ -371,15 +371,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "45db5859-8f59-482a-bfed-9df993b8f345": {
-      "type": "plyr-video",
-      "settings": {
-        "video_url": "\/",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -394,7 +385,6 @@
     "ec0352ea-e476-4e8c-be00-c784256aca46",
     "8c37f3e6-67e4-41d9-bd1b-fa3997f3db62",
     "1658802021b834784d",
-    "1656306032260ceedf",
-    "45db5859-8f59-482a-bfed-9df993b8f345"
+    "1656306032260ceedf"
   ]
 }
