@@ -6,14 +6,14 @@
         "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Sons Sagrados<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>{{ metaobject.nome.value }}<\/p>",
+            "heading_size": "h0"
           }
         },
         "template--21105860968727__ad8887aa-ad3f-4b64-9182-abc43bd6a9e1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p>",
             "left": false
           }
         }
@@ -31,6 +31,27 @@
         "gradient_back": "",
         "color_text": "#000000",
         "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5e893a70-5d6d-4f54-a556-34cc68f8d349": {
+      "type": "custom-html",
+      "blocks": {
+        "template--21105860968727__5e893a70-5d6d-4f54-a556-34cc68f8d349-text-1": {
+          "type": "text",
+          "settings": {
+            "section_html": "<div style=\"margin-left:auto;margin-right:auto;text-align:center;\">\n<audio id=\"player\" controls=\"\">\n  <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Norma_Sons_Sagrados.mp3\" type=\"audio\/mp3\">\n<\/source><\/audio>\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21105860968727__5e893a70-5d6d-4f54-a556-34cc68f8d349-text-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -64,6 +85,7 @@
   },
   "order": [
     "ad8887aa-ad3f-4b64-9182-abc43bd6a9e1",
+    "5e893a70-5d6d-4f54-a556-34cc68f8d349",
     "6d4d2659-789c-4e13-a2e5-f3b47fa10b60",
     "49646102-564b-4138-8e5a-f29a339fb5aa"
   ]
