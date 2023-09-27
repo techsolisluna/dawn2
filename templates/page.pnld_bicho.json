@@ -243,6 +243,43 @@
         "padding_bottom": 52
       }
     },
+    "b960f13f-7aae-4e97-ae9a-e0c23c57cdb4": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossos emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Receba informações atualizadas sobre os lançamentos mais recentes e tenha acesso a conteúdos exclusivos para educadores.<\/p>"
+          }
+        },
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-heading-1",
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-paragraph-1",
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd": {
       "type": "image-banner",
       "blocks": {
@@ -355,6 +392,7 @@
     "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
     "b910ec60-de6f-4b9b-8b5c-fc535b385fca",
+    "b960f13f-7aae-4e97-ae9a-e0c23c57cdb4",
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
     "8325b38b-a2a2-4cee-9a37-7cd8e582e759"
   ]
