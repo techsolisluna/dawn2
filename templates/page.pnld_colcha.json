@@ -242,6 +242,43 @@
         "padding_bottom": 52
       }
     },
+    "9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossa newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Receba informações atualizadas sobre os lançamentos mais recentes e tenha acesso a conteúdos exclusivos para educadores.<\/p>"
+          }
+        },
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "pnld2022,educador"
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-heading-1",
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-paragraph-1",
+        "template--18207618138391__9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "19a13e34-38c7-4def-9ba5-ab075c482e78": {
       "type": "image-banner",
       "blocks": {
@@ -302,6 +339,7 @@
     "6073b81d-8ce7-421c-8765-583807cee691",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
     "24426bb0-e66e-4acf-9175-c1792669450f",
+    "9452b0a9-f7e5-4186-9f7a-8c5ca1a488b2",
     "19a13e34-38c7-4def-9ba5-ab075c482e78"
   ]
 }
