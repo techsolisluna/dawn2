@@ -113,6 +113,43 @@
         "padding_bottom": 36
       }
     },
+    "a3284f09-fa01-479c-82ff-155eb5891877": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Receba atualizações por email",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Seja o primeira(o) a saber sobre lançamentos e ofertas exclusivas<\/p>"
+          }
+        },
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "pnld2022"
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-heading-1",
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-paragraph-1",
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "79b652c5-3244-45a8-9bb4-247e6089747e": {
       "type": "image-banner",
       "blocks": {
@@ -271,6 +308,7 @@
     "main",
     "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c",
     "9fe2cdff-2a92-4805-b54d-944f9dfa9f59",
+    "a3284f09-fa01-479c-82ff-155eb5891877",
     "79b652c5-3244-45a8-9bb4-247e6089747e",
     "9856ed00-92e9-422e-b1b5-646820db6b6a",
     "e301b06e-d3c1-4e86-9a6f-c38a846d33f5",
