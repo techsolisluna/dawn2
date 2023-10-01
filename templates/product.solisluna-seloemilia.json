@@ -239,6 +239,15 @@
         "padding_bottom": 36
       }
     },
+    "91e4002a-752a-4872-a2a9-dc641e04c509": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if product.metafields.custom.imprensa %}<div class=\"page-width\"><h2 class=\"title h2\">Saiu na mídia<\/h2><\/div>{% endif %}",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "5e4d3d98-02b1-47df-b3c9-4a03a6802fea": {
       "type": "multicolumn",
       "blocks": {
@@ -259,7 +268,7 @@
         "template--14510716616785__5e4d3d98-02b1-47df-b3c9-4a03a6802fea-column-1"
       ],
       "settings": {
-        "title": "Saiu na mídia",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -496,6 +505,7 @@
     "163165417377a19cbd",
     "author-product",
     "1632621267a9cdb8f8",
+    "91e4002a-752a-4872-a2a9-dc641e04c509",
     "5e4d3d98-02b1-47df-b3c9-4a03a6802fea",
     "163616771967b30d2e",
     "163366161336322e5e",
