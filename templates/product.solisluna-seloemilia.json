@@ -168,7 +168,6 @@
     },
     "163165417377a19cbd": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
@@ -179,6 +178,7 @@
       "block_order": [
         "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -218,6 +218,7 @@
         "1632621267a9cdb8f8-1",
         "1632621267a9cdb8f8-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "{{ product.metafields.custom.amostra.value.capa.value }}",
         "product_img": true,
@@ -234,6 +235,42 @@
         "color_text": "{{ product.metafields.custom.amostra.value.text_color.value }}",
         "mobile_content_alignment": "left",
         "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5e4d3d98-02b1-47df-b3c9-4a03a6802fea": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14510716616785__5e4d3d98-02b1-47df-b3c9-4a03a6802fea-column-1": {
+          "type": "column",
+          "repeater": "{{ product.metafields.custom.imprensa.value }}",
+          "settings": {
+            "image": "{{ block.repeater.imagem_capa.value }}",
+            "title": "{{ block.repeater.veiculo.value }}",
+            "text": "<p>{{ block.repeater.descricao | metafield_tag }}<\/p>",
+            "link_label": "Saiba mais",
+            "link": "{{ block.repeater.system.url }}",
+            "image_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716616785__5e4d3d98-02b1-47df-b3c9-4a03a6802fea-column-1"
+      ],
+      "settings": {
+        "title": "Saiu na mídia",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -459,6 +496,7 @@
     "163165417377a19cbd",
     "author-product",
     "1632621267a9cdb8f8",
+    "5e4d3d98-02b1-47df-b3c9-4a03a6802fea",
     "163616771967b30d2e",
     "163366161336322e5e",
     "164234809519219ba2",
