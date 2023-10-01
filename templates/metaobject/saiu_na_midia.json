@@ -13,14 +13,14 @@
         "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p><p><\/p><p><a href=\"\/pages\/saiu_na_midia\/saiu-na-midia-ztzmakzn\" title=\"Roma Negra - Jornal Correio 22 de julho de 2023\">Leia a matéria original aqui<\/a><\/p>",
-            "text_style": "body"
+            "text": "<p>{{ metaobject.descricao | metafield_tag }}<\/p>",
+            "text_style": "subtitle"
           }
         },
         "template--20782270316823__68272682-272b-4aaf-9402-bf71ba5e0d86-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Saiba mais",
+            "button_label": "Leia a matéria original",
             "button_link": "{{ metaobject.url.value }}"
           }
         }
@@ -122,12 +122,14 @@
         },
         "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-variant_picker-1": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "template--20782270316823__15f61bef-fd46-4a9a-ab4b-1e33012ed94d-quantity_selector-1": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -198,7 +200,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
