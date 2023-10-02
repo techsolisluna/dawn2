@@ -111,6 +111,18 @@
         "padding_bottom": 36
       }
     },
+    "218e0ce6-3d33-40ba-a50e-06fadfe6d3cb": {
+      "type": "plyr-audio",
+      "custom_css": [
+        "div {text-align:center}"
+      ],
+      "settings": {
+        "audio_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/A_Uniao_Faz_a_Colcha.mp3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1637851902ef27299c": {
       "type": "image-with-text",
       "blocks": {
@@ -165,6 +177,7 @@
     },
     "16378134281495de0f": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div style=\"width:100%;display:flex;justify-content:center;\"><div style=\"height:100vh;width:90%;\"><iframe src='https:\/\/my.spline.design\/auniofazacolcha-f64df1862996f4ed92f9e01d7df07a86\/' frameborder='0' width='100%' height='100%'><\/iframe><\/div>\n<\/div>",
         "color_scheme": "background-1",
@@ -192,7 +205,7 @@
         "16378149807ccb1c1c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Comprar",
+            "button_label": "Saiba mais",
             "button_link": "shopify:\/\/products\/a-uniao-faz-a-colcha"
           }
         }
@@ -423,6 +436,7 @@
     "1637814707bbc0c53c",
     "16378527584da8f6bd",
     "main",
+    "218e0ce6-3d33-40ba-a50e-06fadfe6d3cb",
     "1637851902ef27299c",
     "16378134281495de0f",
     "163781498031fc427a",
