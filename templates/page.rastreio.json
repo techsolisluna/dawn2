@@ -64,7 +64,7 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -129,12 +129,65 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "48424953-944c-471f-893d-440a6bc0c837": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-heading-1",
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-text-1",
+        "template--21212857008407__48424953-944c-471f-893d-440a6bc0c837-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
-    "14a6b1f6-71fb-409d-88f6-723d403d3118"
+    "14a6b1f6-71fb-409d-88f6-723d403d3118",
+    "48424953-944c-471f-893d-440a6bc0c837"
   ]
 }
