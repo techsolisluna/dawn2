@@ -86,7 +86,7 @@
         "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Informações atualizadas do catálogo da Solisluna<\/p>",
+            "text": "<p>Informações atualizadas do catálogo da Solisluna.<br\/><a href=\"https:\/\/materiais.solisluna.com.br\/catalogos-de-livros\" target=\"_blank\" title=\"https:\/\/materiais.solisluna.com.br\/catalogos-de-livros\">Para fazer o download do catálogo de livros em pdf clique aqui.<\/a><\/p>",
             "left": false
           }
         },
