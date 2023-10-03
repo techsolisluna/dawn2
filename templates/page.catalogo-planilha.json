@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 28,
@@ -63,11 +64,61 @@
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "53854d8c-273a-4a77-9d62-d25091618cf6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Catálogo de livros<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Informações atualizadas do catálogo da Solisluna<\/p>",
+            "left": false
+          }
+        },
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-heading-1",
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-text-1",
+        "template--21227899978007__53854d8c-273a-4a77-9d62-d25091618cf6-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
@@ -128,12 +179,32 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "c16fdb43-d2b2-459a-9762-ff35a2ecb94f": {
+      "type": "custom-html",
+      "blocks": {
+        "template--21227899978007__c16fdb43-d2b2-459a-9762-ff35a2ecb94f-text-1": {
+          "type": "text",
+          "settings": {
+            "section_html": "<iframe class=\"airtable-embed\" src=\"https:\/\/airtable.com\/embed\/appyXtnThj9TvZKyv\/shrAdSzLgJKAC1NDv?backgroundColor=yellow&amp;viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"1083\" style=\"background: transparent; border: 1px solid #ccc;\"><\/iframe>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21227899978007__c16fdb43-d2b2-459a-9762-ff35a2ecb94f-text-1"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1659755087d5917cf5",
+    "53854d8c-273a-4a77-9d62-d25091618cf6",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53"
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "c16fdb43-d2b2-459a-9762-ff35a2ecb94f"
   ]
 }
