@@ -63,7 +63,6 @@
     },
     "1636305427ae379b7e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1636305427ae379b7e-0": {
           "type": "heading",
@@ -94,6 +93,7 @@
         "1636305427ae379b7e-1",
         "1636305427ae379b7e-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/marcas.png",
         "product_img": false,
@@ -162,6 +162,76 @@
         "padding_bottom": 4
       }
     },
+    "c0b414ed-7146-4b73-bac6-728a5db79ca6": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Reggio Children, Selo Emília e Solisluna",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-price-1": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-quantity_selector-1": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-share-1": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "e9a94bee-7ad4-46ce-9928-9f508c0f7771": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.custom.richtext_headline.value }}",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-text-1",
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-title-1",
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-price-1",
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-quantity_selector-1",
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-buy_buttons-1",
+        "template--14510716223569__c0b414ed-7146-4b73-bac6-728a5db79ca6-share-1",
+        "e9a94bee-7ad4-46ce-9928-9f508c0f7771"
+      ],
+      "settings": {
+        "product": "uma-viagem-nos-direitos-das-criancas",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -202,6 +272,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
@@ -261,9 +332,9 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#e03f03",
+        "color_back": "#fefff2",
         "gradient_back": "",
-        "color_text": "#ffffff",
+        "color_text": "#181600",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -476,9 +547,36 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "6db561d9-2d88-4530-9b10-0ac14f8632ee": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -487,6 +585,7 @@
     "16363227896cc19ea0",
     "1636305427ae379b7e",
     "163623246502d067a6",
+    "c0b414ed-7146-4b73-bac6-728a5db79ca6",
     "banner",
     "1641660934aba29122",
     "product-grid",
@@ -494,6 +593,7 @@
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
     "1636215496e6c0ddce",
-    "16416608404e02ca88"
+    "16416608404e02ca88",
+    "6db561d9-2d88-4530-9b10-0ac14f8632ee"
   ]
 }
