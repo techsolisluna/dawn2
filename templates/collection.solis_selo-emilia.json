@@ -126,6 +126,7 @@
         },
         "163623246502d067a6-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Conheça os livros publicados em parceria<\/p>",
             "heading_size": "h1"
@@ -150,7 +151,7 @@
         "163623246502d067a6-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
+        "desktop_content_position": "left",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "schema_color": true,
@@ -160,6 +161,83 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 4
+      }
+    },
+    "8e611601-97dd-464c-80d8-8c3e322eae75": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        },
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-heading-1",
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-text-1",
+        "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6db561d9-2d88-4530-9b10-0ac14f8632ee": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Coleção de ensaios para educadores",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
+        "products_to_show": 10,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "c0b414ed-7146-4b73-bac6-728a5db79ca6": {
@@ -244,17 +322,16 @@
     },
     "1641660934aba29122": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "",
+        "title": "Livros ilustrados",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "livros-em-parceria-com-o-selo-emilia",
+        "collection": "livros-ilustrados-selo-emilia-solisluna",
         "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": false,
+        "columns_desktop": 3,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -551,33 +628,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "6db561d9-2d88-4530-9b10-0ac14f8632ee": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -585,6 +635,8 @@
     "16363227896cc19ea0",
     "1636305427ae379b7e",
     "163623246502d067a6",
+    "8e611601-97dd-464c-80d8-8c3e322eae75",
+    "6db561d9-2d88-4530-9b10-0ac14f8632ee",
     "c0b414ed-7146-4b73-bac6-728a5db79ca6",
     "banner",
     "1641660934aba29122",
@@ -593,7 +645,6 @@
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
     "1636215496e6c0ddce",
-    "16416608404e02ca88",
-    "6db561d9-2d88-4530-9b10-0ac14f8632ee"
+    "16416608404e02ca88"
   ]
 }
