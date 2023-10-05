@@ -55,7 +55,7 @@
     "16363227896cc19ea0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>",
+        "custom_liquid": "<div style=\"display:flex;justify-content:left;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
