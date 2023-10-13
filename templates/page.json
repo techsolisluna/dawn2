@@ -76,7 +76,7 @@
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.header__inline-menu {\ndisplay:none;\n}\n#MainContent{\nbackground-color:#f7f2fa !important;\n<\/style>",
+        "custom_liquid": "<style>\n.header__inline-menu {\ndisplay:none;\n}\n#MainContent {\nbackground-color:#f7f2fa !important;\n}\n.color-background-1 {\nbackground-color:#f7f2fa !important;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
