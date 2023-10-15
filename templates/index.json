@@ -747,17 +747,25 @@
     "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
       "type": "image-with-text",
       "blocks": {
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Antonino Peregrino",
-            "heading_size": "h1"
-          }
-        },
         "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Texto: Osvaldo Costa Martins<br\/>ilustrações: Luci Sacoleira<\/p><p>R$ 54,90<\/p>",
+            "text": "<p><strong>Solisluna Editora<\/strong> e <strong>Selo Emília <\/strong>apresentam<\/p>",
+            "text_style": "body"
+          }
+        },
+        "af04e781-b8d6-4d15-b9df-cd9093f139a1": {
+          "type": "caption",
+          "settings": {
+            "caption": "COLEÇÃO CANTEIRO DE OBRAS",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "bbc02f41-3ae8-46df-90aa-3467cb603a65": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Infâncias e escritas<\/h1><h2>Produção de textos na escola<\/h2><p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -765,17 +773,18 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/antonino-peregrino"
+            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
           }
         }
       },
       "block_order": [
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-0",
         "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1",
+        "af04e781-b8d6-4d15-b9df-cd9093f139a1",
+        "bbc02f41-3ae8-46df-90aa-3467cb603a65",
         "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Antonino-Peregrino_1_865b31b1-c0b2-483c-ab2f-f701b1cf4d71.png",
+        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
