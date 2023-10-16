@@ -154,7 +154,7 @@
         "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Grupo musical <strong>Família que brinca<\/strong><br\/><br\/><strong>MÚSICA “O QUE É O TEMPO?”<\/strong><br\/>Carmelito Lopes<br\/>Letícia Lopes<br\/><br\/><strong>PARTICIPAÇÃO DAS CRIANÇAS<\/strong><br\/>Joaquim Lopes<br\/>Lucca Marimpietri<br\/>Otto Lopes<\/p>",
+            "text": "<h2>Grupo musical <strong>Família que brinca<\/strong><\/h2><h3><br\/><strong>MÚSICA “O QUE É O TEMPO?”<\/strong><br\/>Carmelito Lopes<br\/>Letícia Lopes<br\/><br\/><strong>PARTICIPAÇÃO DAS CRIANÇAS<\/strong><br\/>Joaquim Lopes<br\/>Lucca Marimpietri<br\/>Otto Lopes<\/h3>",
             "left": false
           }
         }
@@ -174,6 +174,56 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "1403c7b2-c459-4597-a3a1-5cdeb680f3b5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "O que  é o tempo?",
+            "heading_size": "h1"
+          }
+        },
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Acima de tudo, este é um livro que nos coloca em contato com as indagações próprias da infância e nos convida a pensar em como lidamos com o passar do tempo.<\/strong> Este amigo fugidio e inquieto, mesmo sempre escapando de cada um de nós, está em tudo o que vivemos.<\/h3>",
+            "text_style": "body"
+          }
+        },
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/products\/o-que-e-o-tempo"
+          }
+        }
+      },
+      "block_order": [
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-heading-1",
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-text-1",
+        "template--21306415153431__1403c7b2-c459-4597-a3a1-5cdeb680f3b5-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3291-3.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
@@ -244,6 +294,7 @@
     "1659755087d5917cf5",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
     "f16933ab-e566-43e7-be2e-813ef265b285",
+    "1403c7b2-c459-4597-a3a1-5cdeb680f3b5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
   ]
