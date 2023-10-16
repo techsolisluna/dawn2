@@ -2,10 +2,60 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "8ff9b0cd-6d49-4f6d-b90f-a43da60b7210": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Escute a música do livro<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "left": false
+          }
+        },
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-heading-1",
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-text-1",
+        "template--21306415153431__8ff9b0cd-6d49-4f6d-b90f-a43da60b7210-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1659755087d5917cf5": {
@@ -72,16 +122,6 @@
         "padding_bottom": 36
       }
     },
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<style>\n.header__inline-menu {\ndisplay:none;\n}\n#MainContent {\nbackground-color:#f7f2fa !important;\n}\n.color-background-1 {\nbackground-color:#f7f2fa !important;\n}\n<\/style>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "8e79cbdf-1b96-463a-9e05-c75965bb290a": {
       "type": "custom-html",
       "blocks": {
@@ -95,8 +135,52 @@
       "block_order": [
         "template--14510716878929__8e79cbdf-1b96-463a-9e05-c75965bb290a-text-1"
       ],
-      "disabled": true,
       "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f16933ab-e566-43e7-be2e-813ef265b285": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grupo musical <strong>Família que brinca<\/strong><br\/><br\/><strong>MÚSICA “O QUE É O TEMPO?”<\/strong><br\/>Carmelito Lopes<br\/>Letícia Lopes<br\/><br\/><strong>PARTICIPAÇÃO DAS CRIANÇAS<\/strong><br\/>Joaquim Lopes<br\/>Lucca Marimpietri<br\/>Otto Lopes<\/p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-heading-1",
+        "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.header__inline-menu {\ndisplay:none;\n}\n#MainContent {\nbackground-color:#f7f2fa !important;\n}\n.color-background-1 {\nbackground-color:#f7f2fa !important;\n}\n<\/style>",
+        "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -138,7 +222,6 @@
         "template--14510716878929__ca9b5d23-61cf-4f90-8604-e5269e333ac6-text-1",
         "template--14510716878929__ca9b5d23-61cf-4f90-8604-e5269e333ac6-buttons-1"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/ilustra2-estebanvivaldi_1_405a65bc-0d97-442f-a1a5-f7d5cfa2c429.jpg",
         "image_overlay_opacity": 0,
@@ -157,9 +240,11 @@
   },
   "order": [
     "main",
+    "8ff9b0cd-6d49-4f6d-b90f-a43da60b7210",
     "1659755087d5917cf5",
-    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
+    "f16933ab-e566-43e7-be2e-813ef265b285",
+    "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
   ]
 }
