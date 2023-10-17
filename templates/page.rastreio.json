@@ -1,9 +1,97 @@
 {
   "sections": {
+    "1514d4b8-435d-4c11-85d5-9f6d92c196a9": {
+      "type": "image-banner",
+      "blocks": {
+        "c5613806-49e0-4ca3-ad3f-fc407113b44a": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "688632d3-100d-4dae-9bf7-4e3e814f0429": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "172e38b3-db43-4a21-905a-6b3c2dbdcd0b": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c5613806-49e0-4ca3-ad3f-fc407113b44a",
+        "688632d3-100d-4dae-9bf7-4e3e814f0429",
+        "172e38b3-db43-4a21-905a-6b3c2dbdcd0b"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "bc4e7a67-cb6f-47b7-bf91-737a7300f8cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21212857008407__bc4e7a67-cb6f-47b7-bf91-737a7300f8cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Rastrear pedido<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--21212857008407__bc4e7a67-cb6f-47b7-bf91-737a7300f8cd-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21212857008407__bc4e7a67-cb6f-47b7-bf91-737a7300f8cd-heading-1",
+        "template--21212857008407__bc4e7a67-cb6f-47b7-bf91-737a7300f8cd-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -184,6 +272,8 @@
     }
   },
   "order": [
+    "1514d4b8-435d-4c11-85d5-9f6d92c196a9",
+    "bc4e7a67-cb6f-47b7-bf91-737a7300f8cd",
     "main",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
