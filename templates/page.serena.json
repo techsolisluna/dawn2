@@ -15,13 +15,21 @@
         "template--14510716452945__63a00bdb-388f-41ab-9ef3-9b6052d1dc8b-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Clique no play e curta a música.<br\/><em><strong>Som na caixa<\/strong><\/em><em>!<\/em><\/h2>",
+            "heading": "<h1>Clique no play e curta a música.<\/h1><h2><em><strong>Som na caixa<\/strong><\/em><em>!<\/em><\/h2>",
             "heading_size": "h0"
+          }
+        },
+        "f7376b7b-6916-4732-977f-9f5d52ddea46": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>música: <\/strong>Cris Barulim<\/p>",
+            "left": false
           }
         }
       },
       "block_order": [
-        "template--14510716452945__63a00bdb-388f-41ab-9ef3-9b6052d1dc8b-heading-1"
+        "template--14510716452945__63a00bdb-388f-41ab-9ef3-9b6052d1dc8b-heading-1",
+        "f7376b7b-6916-4732-977f-9f5d52ddea46"
       ],
       "settings": {
         "desktop_content_position": "center",
