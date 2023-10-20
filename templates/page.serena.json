@@ -39,11 +39,11 @@
     "d4efe46e-b117-4275-aa1b-b0bc7e34936f": {
       "type": "plyr-audio",
       "custom_css": [
-        "div {text-align:center;}"
+        "div {text-align: center;}"
       ],
       "settings": {
         "audio_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/WhatsApp_Audio_2021-12-04_at_09.51.42.mp4",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
