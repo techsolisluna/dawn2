@@ -26,8 +26,9 @@
         },
         "165815357365d8068c-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_92557f63-87a2-47c6-a7cd-677f4d741a32.png",
+            "image": "shopify:\/\/shop_images\/Banner-site-O-que-e-o-tempo-A.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
