@@ -140,6 +140,102 @@
         "padding_bottom": 52
       }
     },
+    "d058268d-7d41-445e-a998-a6991e34290e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-deezer-96.png",
+            "title": "",
+            "text": "<h2>Deezer<\/h2>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-apple-music-96.png",
+            "title": "",
+            "text": "<h3><a href=\"https:\/\/music.apple.com\/br\/album\/o-que-%C3%A9-o-tempo\/1711676316?i=1711676318\" target=\"_blank\" title=\"https:\/\/music.apple.com\/br\/album\/o-que-%C3%A9-o-tempo\/1711676316?i=1711676318\">Apple Music<\/a><\/h3>",
+            "link_label": "",
+            "link": "https:\/\/music.apple.com\/br\/album\/o-que-%C3%A9-o-tempo\/1711676316?i=1711676318",
+            "image_link": true
+          }
+        },
+        "741b59b8-2730-44fb-a33e-18975fbf92ab": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-amazon-music-96.png",
+            "title": "",
+            "text": "<h3><a href=\"https:\/\/music.amazon.com.br\/albums\/B0CKY6YLXR?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR&ref=dm_sh_1dZZqVUdtrpJqKOyQxQTgXzjT&trackAsin=B0CKY6VVPF\" target=\"_blank\" title=\"https:\/\/music.amazon.com.br\/albums\/B0CKY6YLXR?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR&ref=dm_sh_1dZZqVUdtrpJqKOyQxQTgXzjT&trackAsin=B0CKY6VVPF\">Amazon Music<\/a><\/h3>",
+            "link_label": "",
+            "link": "https:\/\/music.amazon.com.br\/albums\/B0CKY6YLXR?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR&ref=dm_sh_1dZZqVUdtrpJqKOyQxQTgXzjT&trackAsin=B0CKY6VVPF",
+            "image_link": true
+          }
+        },
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-deezer-96.png",
+            "title": "",
+            "text": "<h3><a href=\"https:\/\/deezer.page.link\/WeRuA823BfJ8pFk49\" target=\"_blank\" title=\"https:\/\/deezer.page.link\/WeRuA823BfJ8pFk49\">Deezer<\/a><\/h3><p><\/p>",
+            "link_label": "",
+            "link": "https:\/\/deezer.page.link\/WeRuA823BfJ8pFk49",
+            "image_link": true
+          }
+        },
+        "3364c3f9-f76e-40d2-a10f-2ce0512d10e0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-spotify-96.png",
+            "title": "",
+            "text": "<h3><a href=\"https:\/\/spotify.link\/zje4t5gDRDb\" target=\"_blank\" title=\"https:\/\/spotify.link\/zje4t5gDRDb\">Spotify<\/a><\/h3><p><\/p>",
+            "link_label": "",
+            "link": "https:\/\/spotify.link\/zje4t5gDRDb",
+            "image_link": true
+          }
+        },
+        "a1381e47-7c13-499b-80d2-3de0e86b5001": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons8-tidal-96.png",
+            "title": "",
+            "text": "<h3><a href=\"https:\/\/spotify.link\/zje4t5gDRDb\" target=\"_blank\" title=\"https:\/\/tidal.com\/browse\/track\/321459936\">Tidal<\/a><\/h3><p><\/p>",
+            "link_label": "",
+            "link": "https:\/\/tidal.com\/browse\/track\/321459936",
+            "image_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-1",
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-2",
+        "741b59b8-2730-44fb-a33e-18975fbf92ab",
+        "template--21306415153431__d058268d-7d41-445e-a998-a6991e34290e-column-3",
+        "3364c3f9-f76e-40d2-a10f-2ce0512d10e0",
+        "a1381e47-7c13-499b-80d2-3de0e86b5001"
+      ],
+      "settings": {
+        "title": "Escute a música na plataforma de sua preferência",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f16933ab-e566-43e7-be2e-813ef265b285": {
       "type": "rich-text",
       "blocks": {
@@ -293,6 +389,7 @@
     "8ff9b0cd-6d49-4f6d-b90f-a43da60b7210",
     "1659755087d5917cf5",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
+    "d058268d-7d41-445e-a998-a6991e34290e",
     "f16933ab-e566-43e7-be2e-813ef265b285",
     "1403c7b2-c459-4597-a3a1-5cdeb680f3b5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
