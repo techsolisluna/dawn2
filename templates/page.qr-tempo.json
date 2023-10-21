@@ -229,7 +229,7 @@
         "a1381e47-7c13-499b-80d2-3de0e86b5001"
       ],
       "settings": {
-        "title": "Escute a música na plataforma de sua preferência",
+        "title": "Escute a música na sua plataforma preferida",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
@@ -260,7 +260,7 @@
           "type": "text",
           "settings": {
             "text": "<h2>Grupo musical <strong>Família que brinca<\/strong><\/h2><h3><br\/><strong>MÚSICA “O QUE É O TEMPO?”<\/strong><br\/>Carmelito Lopes<br\/>Letícia Lopes<br\/><br\/><strong>PARTICIPAÇÃO DAS CRIANÇAS<\/strong><br\/>Joaquim Lopes<br\/>Lucca Marimpietri<br\/>Otto Lopes<\/h3>",
-            "left": false
+            "left": true
           }
         }
       },
@@ -269,8 +269,8 @@
         "template--21306415153431__f16933ab-e566-43e7-be2e-813ef265b285-text-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
@@ -391,15 +391,6 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
-    },
-    "11d8968b-ea81-460d-ab96-c89e5a3c06ed": {
-      "type": "plyr-video",
-      "settings": {
-        "video_url": "\/",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -412,7 +403,6 @@
     "f16933ab-e566-43e7-be2e-813ef265b285",
     "1403c7b2-c459-4597-a3a1-5cdeb680f3b5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
-    "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
-    "11d8968b-ea81-460d-ab96-c89e5a3c06ed"
+    "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
   ]
 }
