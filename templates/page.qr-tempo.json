@@ -58,6 +58,15 @@
         "padding_bottom": 52
       }
     },
+    "4f6faeae-6ed2-4ee7-b946-66005e03a447": {
+      "type": "plyr-yt-vimeo",
+      "settings": {
+        "video_url": "https:\/\/youtu.be\/VJzUep8W6tw",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1659755087d5917cf5": {
       "type": "collapsible-content",
       "blocks": {
@@ -382,17 +391,28 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "b5988b6a-2c65-4284-baf7-f29ee641972d": {
+      "type": "plyr-audio",
+      "settings": {
+        "audio_url": "\/",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "8ff9b0cd-6d49-4f6d-b90f-a43da60b7210",
+    "4f6faeae-6ed2-4ee7-b946-66005e03a447",
     "1659755087d5917cf5",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
     "d058268d-7d41-445e-a998-a6991e34290e",
     "f16933ab-e566-43e7-be2e-813ef265b285",
     "1403c7b2-c459-4597-a3a1-5cdeb680f3b5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
-    "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
+    "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
+    "b5988b6a-2c65-4284-baf7-f29ee641972d"
   ]
 }
