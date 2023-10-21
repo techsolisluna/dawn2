@@ -392,10 +392,10 @@
         "show_text_below": false
       }
     },
-    "b5988b6a-2c65-4284-baf7-f29ee641972d": {
-      "type": "plyr-audio",
+    "11d8968b-ea81-460d-ab96-c89e5a3c06ed": {
+      "type": "plyr-video",
       "settings": {
-        "audio_url": "\/",
+        "video_url": "\/",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
@@ -413,6 +413,6 @@
     "1403c7b2-c459-4597-a3a1-5cdeb680f3b5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
-    "b5988b6a-2c65-4284-baf7-f29ee641972d"
+    "11d8968b-ea81-460d-ab96-c89e5a3c06ed"
   ]
 }
