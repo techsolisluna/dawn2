@@ -6,7 +6,7 @@
         "16362061437bfdb629-0": {
           "type": "heading",
           "settings": {
-            "heading": "Festa do Livro da USP 2021",
+            "heading": "Festa do Livro da USP 2023",
             "heading_size": "large"
           }
         },
@@ -83,7 +83,7 @@
         "1636207041a3326ef2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/flusp2021_post_0-festaC.png",
+        "image": "shopify:\/\/shop_images\/25flusp_data_post.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -93,10 +93,11 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
-        "color_back": "#5d0f6f",
+        "color_back": "#000000",
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -105,6 +106,7 @@
       "type": "main-collection-banner",
       "disabled": true,
       "settings": {
+        "show_collection_title": false,
         "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
@@ -114,14 +116,18 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 24,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_price": true,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": true,
+        "filter_type": "horizontal",
         "enable_sorting": false,
         "show_count": false,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
@@ -181,7 +187,6 @@
     },
     "1636213132324535bb": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1636213132324535bb-0": {
           "type": "heading",
@@ -194,7 +199,8 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "left": false
           }
         },
         "1636213132324535bb-2": {
@@ -203,7 +209,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -212,8 +221,15 @@
         "1636213132324535bb-1",
         "1636213132324535bb-2"
       ],
+      "disabled": true,
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -224,14 +240,24 @@
       "disabled": true,
       "settings": {
         "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
         "collection": "",
         "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
         "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
