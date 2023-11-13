@@ -30,6 +30,7 @@
         "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-text-1",
         "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/25flusp_data_post.jpg",
         "product_img": false,
