@@ -188,7 +188,7 @@
     "ed451439-07a7-4f46-b9b5-456ef20b50d0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.article-template__comment-wrapper {display:none;}\n<\/style>",
+        "custom_liquid": "<style>\n.article-template__comment-wrapper {display:none;}\n.article-template__back {margin-bottom:5rem;}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
