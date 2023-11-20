@@ -54,27 +54,6 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-Uma-viagem_B_1.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/uma-viagem-nos-direitos-das-criancas",
-            "button_style_secondary": true,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "left"
-          }
-        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
@@ -94,6 +73,27 @@
             "custom_color": false,
             "text_color": "#000000",
             "text_alignment_mobile": "center"
+          }
+        },
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-site-Uma-viagem_B_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/uma-viagem-nos-direitos-das-criancas",
+            "button_style_secondary": true,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "left"
           }
         },
         "6d3d95df-6142-4250-abe9-593f534cff97": {
@@ -161,8 +161,8 @@
         }
       },
       "block_order": [
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-1",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "6d3d95df-6142-4250-abe9-593f534cff97",
         "c9de2b56-7c7b-46bf-9af1-77ee9712281d",
         "0887b021-6811-4dc4-aa1b-693e85e765ad"
