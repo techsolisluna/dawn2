@@ -94,6 +94,7 @@
       "settings": {
         "layout": "grid",
         "show_image": true,
+        "newsletter": true,
         "image_height": "medium",
         "show_date": true,
         "show_author": false,
