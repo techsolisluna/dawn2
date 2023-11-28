@@ -75,6 +75,27 @@
             "text_alignment_mobile": "center"
           }
         },
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ninoca-banner-site.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/ninoca-dorminhoca",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000",
+            "text_alignment_mobile": "center"
+          }
+        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
@@ -116,34 +137,13 @@
             "text_color": "#000000",
             "text_alignment_mobile": "left"
           }
-        },
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ninoca-banner-site.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/ninoca-dorminhoca",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "custom_color": false,
-            "text_color": "#000",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "5f56aabc-1b36-465c-acdc-52bbde404672",
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098",
         "165815357365d8068c-1",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098"
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9"
       ],
       "custom_css": [
         "a {text-decoration: none;}"
@@ -329,66 +329,6 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "center",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a09f9338-a08f-4bde-b6dd-d7488004035e": {
-      "type": "image-with-text",
-      "blocks": {
-        "ec81a64f-ab7a-406c-8937-91ba969760ec": {
-          "type": "caption",
-          "settings": {
-            "caption": "ÚLTIMOS DIAS",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Concurso de Ilustração Encontro do Sol com a Lua",
-            "heading_size": "h2"
-          }
-        },
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Além da premiação, os artistas vencedores e selecionados terão a oportunidade de colaborar com futuras publicações da Solisluna. <\/p><p><strong>Inscrições abertas até 3 de agosto.<\/strong><\/p><p>Participe!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "https:\/\/concurso.solisluna.com.br"
-          }
-        }
-      },
-      "block_order": [
-        "ec81a64f-ab7a-406c-8937-91ba969760ec",
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-heading-1",
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-text-1",
-        "template--14510716256337__a09f9338-a08f-4bde-b6dd-d7488004035e-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/EncontroDoSolComALua.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#e03f03",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
         "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -719,58 +659,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "a73af47d-5372-4981-ba5d-60204be211da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-0",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-1",
-        "template--14510716256337__a73af47d-5372-4981-ba5d-60204be211da-167664435529d4643e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Luciilustralivro.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
@@ -1182,7 +1070,6 @@
     "featured_products",
     "54c01bc4-d453-47ee-8376-eef46f803eaf",
     "7115b3dc-9860-430c-b3e1-73de10b5bb89",
-    "a09f9338-a08f-4bde-b6dd-d7488004035e",
     "1635001812716d45d4",
     "1649960670c6a05ac2",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
@@ -1191,7 +1078,6 @@
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
-    "a73af47d-5372-4981-ba5d-60204be211da",
     "e98891a4-d0aa-4f21-8db7-5644aa90833f",
     "163478366489eccf57",
     "1634611538203a7608",
