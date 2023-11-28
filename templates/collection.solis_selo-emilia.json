@@ -223,7 +223,7 @@
         "description_style": "body",
         "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
         "products_to_show": 10,
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -327,7 +327,7 @@
         "description_style": "body",
         "collection": "livros-ilustrados-selo-emilia-solisluna",
         "products_to_show": 12,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -364,6 +364,73 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "author_list": false
+      }
+    },
+    "c9749d1b-08db-45bf-8f85-91454ae0b7ea": {
+      "type": "image-with-text",
+      "blocks": {
+        "a2782e4c-3d3c-453b-b771-2c1f271d4ddd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Lançamento!<\/strong><\/em><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "ab06fcc6-6067-450b-a31b-69a46b11dd72": {
+          "type": "caption",
+          "settings": {
+            "caption": "COLEÇÃO CANTEIRO DE OBRAS",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "16ebd091-fd58-4110-b50f-578333f2dad1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Infâncias e escritas - produção de textos na escola",
+            "heading_size": "h2"
+          }
+        },
+        "f1129cd0-4012-49b5-b355-97d5b1a11676": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "5e82f389-8370-4daa-8497-eaa3d1c828ec": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
+          }
+        }
+      },
+      "block_order": [
+        "a2782e4c-3d3c-453b-b771-2c1f271d4ddd",
+        "ab06fcc6-6067-450b-a31b-69a46b11dd72",
+        "16ebd091-fd58-4110-b50f-578333f2dad1",
+        "f1129cd0-4012-49b5-b355-97d5b1a11676",
+        "5e82f389-8370-4daa-8497-eaa3d1c828ec"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e": {
@@ -638,6 +705,7 @@
     "banner",
     "1641660934aba29122",
     "product-grid",
+    "c9749d1b-08db-45bf-8f85-91454ae0b7ea",
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e",
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
