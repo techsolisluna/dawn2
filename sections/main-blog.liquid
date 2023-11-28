@@ -20,12 +20,17 @@
   <div class="main-blog page-width section-{{ section.id }}-padding">
     <h1 class="title--primary">{{ blog.title | escape }}</h1>
 
-    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
+    <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %} {% if section.settings.newsletter == true %}blog-newsletter{% endif %}">
       {%- for article in blog.articles -%}
         <div class="blog-articles__article article">
+          {% if section.settings.newsletter == true and forloop.index == 1 %}
+            {% liquid assign news_img_height = "large" %}
+          {% else %}
+            {% liquid assign news_img_height = section.settings.image_height %}
+          {% endif %}
           {%- render 'article-card',
             article: article,
-            media_height: section.settings.image_height,
+            media_height: news_img_height,
             media_aspect_ratio: article.image.aspect_ratio,
             show_image: section.settings.show_image,
             show_date: section.settings.show_date,
@@ -74,6 +79,12 @@
       "id": "show_image",
       "default": true,
       "label": "t:sections.main-blog.settings.show_image.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "newsletter",
+      "default": false,
+      "label": "Primeiro post em 1 coluna"
     },
     {
       "type": "select",
