@@ -11,7 +11,7 @@
 
   <div class="autoresdiv">
     {% for collection in collections %}
-      {% if collection.template_suffix == 'autor' and collection.metafields.autor.autor == 'ilustrador'or collection.metafields.autor.autor == 'autorilustrador' %}
+      {% if collection.template_suffix == 'autor' and collection.metafields.autor.autor == 'ilustrador' or collection.metafields.autor.autor == 'autorilustrador' %}
         {% if collection.image %}
           <div class="autor-grid-item">
             <a href="{{collection.url}}">
