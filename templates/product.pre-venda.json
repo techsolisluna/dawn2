@@ -166,6 +166,41 @@
         "padding_bottom": 36
       }
     },
+    "16624694455604944e": {
+      "type": "rich-text",
+      "blocks": {
+        "1662469445056e69ac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Compre o livro na pré-venda e ganhe um mimo<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1662469445056e69ac-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Escolha se você quer receber em casa ou retirar o livro no lançamento em Salvador.<\/h3>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "1662469445056e69ac-0",
+        "1662469445056e69ac-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "163165417377a19cbd": {
       "type": "apps",
       "blocks": {
@@ -375,54 +410,6 @@
         "show_text_below": true
       }
     },
-    "16624694455604944e": {
-      "type": "rich-text",
-      "blocks": {
-        "1662469445056e69ac-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1662469445056e69ac-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "left": false
-          }
-        },
-        "1662469445056e69ac-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1662469445056e69ac-0",
-        "1662469445056e69ac-1",
-        "1662469445056e69ac-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1662423745bffef672": {
       "type": "image-banner",
       "blocks": {
@@ -577,6 +564,7 @@
     "main",
     "premios",
     "16336611696633b6c2",
+    "16624694455604944e",
     "163165417377a19cbd",
     "author-product",
     "1632621267a9cdb8f8",
@@ -585,7 +573,6 @@
     "3b80a4b1-8919-4fbf-931b-49628d0e9afa",
     "41f56357-3bf1-4266-b3f0-f8445387fbcb",
     "16326202476377d29f",
-    "16624694455604944e",
     "1662423745bffef672",
     "1631654167122d4539",
     "product-recommendations",
