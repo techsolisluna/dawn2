@@ -54,15 +54,15 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
+        "5f56aabc-1b36-465c-acdc-52bbde404672": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ninoca-banner-site.webp",
+            "image": "shopify:\/\/shop_images\/Banner_site_De_onde_veio_meu_irmao.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/ninoca-dorminhoca",
+            "link": "shopify:\/\/products\/de-onde-veio-meu-irmao",
             "button_style_secondary": false,
             "image_link": true,
             "box_align": "middle-center",
@@ -75,15 +75,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "5f56aabc-1b36-465c-acdc-52bbde404672": {
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_site_De_onde_veio_meu_irmao.webp",
+            "image": "shopify:\/\/shop_images\/ninoca-banner-site.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/de-onde-veio-meu-irmao",
+            "link": "shopify:\/\/products\/ninoca-dorminhoca",
             "button_style_secondary": false,
             "image_link": true,
             "box_align": "middle-center",
@@ -140,8 +140,8 @@
         }
       },
       "block_order": [
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098",
         "5f56aabc-1b36-465c-acdc-52bbde404672",
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098",
         "165815357365d8068c-1",
         "202cff2a-592d-4334-9c1c-e1f339cf33e9"
       ],
