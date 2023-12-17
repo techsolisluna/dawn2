@@ -239,7 +239,7 @@
     "68161cfe-716a-4235-a04b-56db3bf7534c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n<\/style>\n<script>\n\/\/ Select the image element using its ID\nconst image = document.getElementsByClassName('header__heading-logo');\n\n\/\/ Update the image source\nimage.src = 'https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Logo_white_eb7533f9-40ff-4b97-8463-0b6db6083dc8.png';\n<\/script>",
+        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n.product-form__input input[type=radio]:checked+label {background-color:#eb6708;border-color:#eb6708}\n<\/style>\n<script>\n\/\/ Select the image element using its ID\nconst image = document.getElementsByClassName('header__heading-logo');\n\n\/\/ Update the image source\nimage.src = 'https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Logo_white_eb7533f9-40ff-4b97-8463-0b6db6083dc8.png';\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
