@@ -3,14 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74": {
           "type": "custom_liquid",
           "settings": {
@@ -20,6 +12,13 @@
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "Artista: {{ product.metafields.autor.ilustrador.value }}",
+            "text_style": "subtitle"
           }
         },
         "a26a3e77-9691-4584-90e8-f138c0917db1": {
@@ -35,11 +34,6 @@
             "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<\/span><\/a>\n\n{% if coauthor %}<span class=\"h3 author\"> e <\/span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}<\/span><\/a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">Ilustrado por <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}<\/span><\/a><\/div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">Criado e editado por {{ editor }}<\/span>\n          {% endif %}\n<\/div>"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -49,6 +43,11 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -62,16 +61,6 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "{% if product.metafields.my_fields.prevenda_data %}<div style=\"font-size:14px;\"><b>Livro em pré-venda.<br\/><\/b>\nPrevisão de envio: {{product.metafields.my_fields.prevenda_data}}<\/div>{% endif %}"
-          }
-        },
-        "ac5d2265-3446-44b4-9455-7d569c8114a4": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Características",
-            "icon": "ruler",
-            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
-            "page": ""
           }
         },
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8": {
@@ -90,17 +79,16 @@
         }
       },
       "block_order": [
-        "vendor",
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74",
         "title",
+        "vendor",
         "a26a3e77-9691-4584-90e8-f138c0917db1",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
-        "price",
         "variant_picker",
         "quantity_selector",
+        "price",
         "buy_buttons",
         "385c7754-4629-4dea-9dba-8cf1b306eafe",
-        "ac5d2265-3446-44b4-9455-7d569c8114a4",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
         "share"
       ],
@@ -110,7 +98,7 @@
         "gallery_layout": "thumbnail_slider",
         "media_size": "large",
         "mobile_thumbnails": "hide",
-        "hide_variants": false,
+        "hide_variants": true,
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
