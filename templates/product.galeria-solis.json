@@ -187,15 +187,6 @@
         "vertical_align": "flex-end"
       }
     },
-    "3b80a4b1-8919-4fbf-931b-49628d0e9afa": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% if product.metafields.custom.imprensa %}<div class=\"page-width\"><h2 class=\"title h2\">Saiu na mídia<\/h2><\/div>{% endif %}",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "16326202476377d29f": {
       "type": "image-banner",
       "blocks": {
@@ -251,7 +242,7 @@
     "0db62ade-24cd-467c-886d-428380a6f717": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"margin:5rem\"><h3>{{ product.description }}<\/h3><\/div>",
+        "custom_liquid": "<div style=\"margin:6rem\"><h3>{{ product.description }}<\/h3><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -260,7 +251,7 @@
     "68161cfe-716a-4235-a04b-56db3bf7534c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n<\/style>",
+        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n<\/style>\n<script>\n\/\/ Select the image element using its ID\nconst image = document.getElementById('my-image');\n\n\/\/ Update the image source\nimage.src = 'new-image.jpg';\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -420,7 +411,6 @@
     "main",
     "1632621267a9cdb8f8",
     "163616771967b30d2e",
-    "3b80a4b1-8919-4fbf-931b-49628d0e9afa",
     "16326202476377d29f",
     "0db62ade-24cd-467c-886d-428380a6f717",
     "68161cfe-716a-4235-a04b-56db3bf7534c",
