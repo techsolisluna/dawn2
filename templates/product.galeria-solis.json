@@ -27,13 +27,6 @@
             "custom_liquid": "<h2>{{product.metafields.descriptors.subtitle}}<\/h2>"
           }
         },
-        "fb062953-4d72-4753-92cc-17fdc5e598cd": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<\/span><\/a>\n\n{% if coauthor %}<span class=\"h3 author\"> e <\/span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}<\/span><\/a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">Ilustrado por <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}<\/span><\/a><\/div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">Criado e editado por {{ editor }}<\/span>\n          {% endif %}\n<\/div>"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -57,12 +50,6 @@
             "show_dynamic_checkout": false
           }
         },
-        "385c7754-4629-4dea-9dba-8cf1b306eafe": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data %}<div style=\"font-size:14px;\"><b>Livro em pré-venda.<br\/><\/b>\nPrevisão de envio: {{product.metafields.my_fields.prevenda_data}}<\/div>{% endif %}"
-          }
-        },
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8": {
           "type": "popup",
           "disabled": true,
@@ -83,12 +70,10 @@
         "title",
         "vendor",
         "a26a3e77-9691-4584-90e8-f138c0917db1",
-        "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "variant_picker",
         "quantity_selector",
         "price",
         "buy_buttons",
-        "385c7754-4629-4dea-9dba-8cf1b306eafe",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
         "share"
       ],
@@ -239,7 +224,7 @@
     "68161cfe-716a-4235-a04b-56db3bf7534c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n.product-form__input input[type=radio]:checked+label {background-color:#eb6708;border-color:#eb6708}\n<\/style>\n<script>\n\/\/ Select the image element using its ID\nconst image = document.getElementsByClassName('header__heading-logo');\n\n\/\/ Update the image source\nimage.src = 'https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Logo_white_eb7533f9-40ff-4b97-8463-0b6db6083dc8.png';\n<\/script>",
+        "custom_liquid": "<style>\n\n.header-wrapper--border-bottom {\nbackground:black !important;\n}\n.header__icon {\ncolor:white;\n}\n.header__menu-item {\ncolor:#939393;\n}\nfooter {\nbackground:black !important;\n}\n.product-form__input input[type=radio]:checked+label {background-color:#eb6708;border-color:#eb6708}\n\n.header__menu-item:hover{color:#ff8d3a;}\n<\/style>\n<script>\n\/\/ Select the image element using its ID\nconst image = document.getElementsByClassName('header__heading-logo');\n\n\/\/ Update the image source\nimage.src = 'https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Logo_white_eb7533f9-40ff-4b97-8463-0b6db6083dc8.png';\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -336,7 +321,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": ".header__menu-item:hover",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
