@@ -20,7 +20,7 @@
   {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
 {%- endif -%}
 
-{%- if product.template_suffix == 'galeria-solis' -%}
+{%- if product.template_suffix == 'galeria-solis' or page.template_suffix == 'galeria' -%}
   {%- assign image_logo = images['logo-solisluna-white-23.png'] -%}
 {%- else -%}
   {%- assign image_logo = section.settings.logo -%}
