@@ -230,6 +230,48 @@
         "padding_bottom": 52
       }
     },
+    "57021b16-4b10-434d-9a28-7af10835968c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ product.metafields.custom.artista.value.nome.value }}",
+            "heading_size": "h2"
+          }
+        },
+        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.artista.value.bio | metafield_tag }}<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-heading-1",
+        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-text-1"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.custom.artista.value.retrato.value }}",
+        "product_img": false,
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1662423745bffef672": {
       "type": "image-banner",
       "blocks": {
@@ -378,56 +420,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "57021b16-4b10-434d-9a28-7af10835968c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.metafields.custom.artista.value.nome.value }}",
-            "heading_size": "h2"
-          }
-        },
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>{{ product.metafields.custom.artista.value.bio | metafield_tag }}<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-heading-1",
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-text-1",
-        "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-button-1"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.custom.artista.value.retrato.value }}",
-        "product_img": false,
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -437,11 +429,11 @@
     "16326202476377d29f",
     "0db62ade-24cd-467c-886d-428380a6f717",
     "68161cfe-716a-4235-a04b-56db3bf7534c",
+    "57021b16-4b10-434d-9a28-7af10835968c",
     "1662423745bffef672",
     "1631654167122d4539",
     "product-recommendations",
     "163366161336322e5e",
-    "1635821821b4bc362b",
-    "57021b16-4b10-434d-9a28-7af10835968c"
+    "1635821821b4bc362b"
   ]
 }
