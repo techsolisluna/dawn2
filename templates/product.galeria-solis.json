@@ -410,9 +410,10 @@
         "template--21650833965335__57021b16-4b10-434d-9a28-7af10835968c-button-1"
       ],
       "settings": {
+        "image": "{{ product.metafields.custom.artista.value.retrato.value }}",
         "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
