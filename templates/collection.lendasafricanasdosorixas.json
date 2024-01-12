@@ -106,7 +106,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
-        "contain_image": false,
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -123,7 +123,6 @@
     },
     "c4ed7cca-25a4-4716-b62f-e735ead28a9e": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-0": {
           "type": "column",
@@ -162,6 +161,7 @@
         "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-1",
         "template--14510717010001__c4ed7cca-25a4-4716-b62f-e735ead28a9e-16800324064c9849b1-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -417,7 +417,6 @@
     },
     "1634739736bb3da097": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1634739736bb3da097-0": {
           "type": "heading",
@@ -450,6 +449,7 @@
         "1634739736bb3da097-1",
         "1634739736bb3da097-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -465,7 +465,6 @@
     },
     "1634739830ff475eea": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1634739830ff475eea-0": {
           "type": "column",
@@ -508,6 +507,7 @@
         "1634739830ff475eea-1",
         "1634739830ff475eea-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -545,7 +545,6 @@
     },
     "8d709ade-cbab-468b-adb0-89d68ab2003a": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-0": {
           "type": "collapsible_row",
@@ -600,6 +599,7 @@
         "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-3",
         "7ca54952-9398-499d-93a4-4950cc36aafd"
       ],
+      "disabled": true,
       "custom_css": [
         "div .collapsible-content {backgound-color: #fff3bf !important;}"
       ],
@@ -685,6 +685,7 @@
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-6",
         "58132872-909d-4e61-8334-2c2bc7e535e5"
       ],
+      "disabled": true,
       "settings": {
         "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
         "color_scheme": "background-1",
@@ -699,7 +700,6 @@
     },
     "59d2da0f-288a-4151-806d-0415288ad560": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-0": {
           "type": "heading",
@@ -735,6 +735,7 @@
         "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1",
         "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0326-2.jpg",
         "image_overlay_opacity": 0,
@@ -804,7 +805,6 @@
     },
     "16422625063bd5d67a": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "16422625066d7286e3-0": {
           "type": "heading",
@@ -831,18 +831,18 @@
         "16422625066d7286e3-1",
         "16422625066d7286e3-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
     "756b6347-4961-42df-a55a-10e828d42140": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-0": {
           "type": "heading",
@@ -871,6 +871,7 @@
         "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-1",
         "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/GIF-_-Quadrado.gif",
         "product_img": false,
