@@ -69,7 +69,7 @@
           "settings": {
             "heading": "Características",
             "icon": "ruler",
-            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
+            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p>Planilha com todas as informações do livro.<\/p><p><\/p>",
             "page": ""
           }
         },
