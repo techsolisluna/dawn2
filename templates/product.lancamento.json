@@ -166,22 +166,6 @@
         "padding_bottom": 36
       }
     },
-    "163165417377a19cbd": {
-      "type": "apps",
-      "blocks": {
-        "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "author-product": {
       "type": "author-product",
       "settings": {
@@ -576,7 +560,6 @@
     "main",
     "premios",
     "16336611696633b6c2",
-    "163165417377a19cbd",
     "author-product",
     "1632621267a9cdb8f8",
     "163616771967b30d2e",

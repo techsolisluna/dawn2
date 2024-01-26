@@ -169,13 +169,6 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Olá! Escreva aqui a sua pergunta ou uma ideia do que está procurando."
         }
-      },
-      "10402018508726321999": {
-        "type": "shopify:\/\/apps\/tr-promotional-top-bar\/blocks\/app-block\/904efa9c-8e58-4b7f-8ab5-a0fdf071d3d0",
-        "disabled": false,
-        "settings": {
-          "tr_promo_bar": ""
-        }
       }
     }
   },
