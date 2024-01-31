@@ -346,6 +346,54 @@
         "padding_bottom": 36
       }
     },
+    "1634739736bb3da097": {
+      "type": "rich-text",
+      "blocks": {
+        "1634739736bb3da097-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Kit coleção Lendas Africanas<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1634739736bb3da097-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Compre a coleção completa com um desconto especial <strong>de R$648 por R$477<\/strong><\/p>",
+            "left": false
+          }
+        },
+        "1634739736bb3da097-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar coleção completa",
+            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1634739736bb3da097-0",
+        "1634739736bb3da097-1",
+        "1634739736bb3da097-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16347377538d42acb4": {
       "type": "image-with-text",
       "blocks": {
@@ -380,7 +428,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/edsoleda_1.jpg",
         "product_img": false,
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -392,7 +440,7 @@
         "gradient_back": "radial-gradient(rgba(255, 255, 255, 1), rgba(120, 196, 245, 1) 100%)",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
-        "contain_image": false,
+        "contain_image": true,
         "padding_top": 100,
         "padding_bottom": 100
       }
@@ -412,8 +460,8 @@
         "collapsible_row_x3cKaA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Não encontrei um Orixá que gostaria de ler a história. Por que não fizeram?",
+            "icon": "question_mark",
             "row_content": "",
             "page": ""
           }
@@ -421,8 +469,8 @@
         "collapsible_row_4hfpyJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "A Edsoleda escreveu e ilustrou?",
+            "icon": "eye",
             "row_content": "",
             "page": ""
           }
@@ -431,8 +479,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "icon": "clipboard",
+            "row_content": "<p>Como vou receber<\/p>",
             "page": ""
           }
         }
@@ -458,134 +506,6 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "16347377887f406d0b": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Capas_Colecao_2020.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1634739736bb3da097": {
-      "type": "rich-text",
-      "blocks": {
-        "1634739736bb3da097-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Qual história você vai contar?<\/p>",
-            "heading_size": "h0"
-          }
-        },
-        "1634739736bb3da097-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Compre a coleção completa com um desconto especial <strong>de R$599 por R$477<\/strong><\/p>",
-            "left": false
-          }
-        },
-        "1634739736bb3da097-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar coleção completa",
-            "button_link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1634739736bb3da097-0",
-        "1634739736bb3da097-1",
-        "1634739736bb3da097-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1634739830ff475eea": {
-      "type": "multicolumn",
-      "blocks": {
-        "1634739830ff475eea-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/borboletas03-001_pq.png",
-            "title": "UMA HISTÓRIA",
-            "text": "<p>Para quem prefere completar a coleção aos poucos.<\/p><p><\/p><p><strong>R$59,90 <\/strong><\/p>",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        },
-        "1634739830ff475eea-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/borboletas03-002_pq.png",
-            "title": "KIT TRÊS HISTÓRIAS",
-            "text": "<p>Adquira três livros da coleção<br\/>Lendas Africanas dos Orixás.<\/p><p>De R$179,70 por<strong> R$134,70<\/strong><\/p>",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        },
-        "1634739830ff475eea-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9458-2.jpg",
-            "title": "",
-            "text": "<p>COLEÇÃO COMPLETA<\/p><p>Os 10 livros da coleção Lendas Africanas dos Orixás<br\/><br\/><em>De R$599<\/em> <br\/><strong>por R$477<\/strong><\/p>",
-            "link_label": "Comprar coleção completa",
-            "link": "https:\/\/link.solisluna.com.br\/colecaolendasafricanas",
-            "image_link": false
-          }
-        }
-      },
-      "block_order": [
-        "1634739830ff475eea-0",
-        "1634739830ff475eea-1",
-        "1634739830ff475eea-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
       }
     },
     "1634745647da6184da": {
@@ -798,9 +718,9 @@
         "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-1",
         "template--14510717010001__59d2da0f-288a-4151-806d-0415288ad560-1680040078193042cf-2"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0326-2.jpg",
+        "image_2": "shopify:\/\/shop_images\/xango_02_tira_screen.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
@@ -879,7 +799,7 @@
         "16422625066d7286e3-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Cadastre-se para receber novidades por email<\/p>"
           }
         },
         "16422625066d7286e3-2": {
@@ -894,7 +814,6 @@
         "16422625066d7286e3-1",
         "16422625066d7286e3-2"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
@@ -902,57 +821,6 @@
         "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "756b6347-4961-42df-a55a-10e828d42140": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-0",
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-1",
-        "template--14510717010001__756b6347-4961-42df-a55a-10e828d42140-16801009123992587e-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/GIF-_-Quadrado.gif",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
@@ -966,17 +834,14 @@
     "90bd8da8-20c9-4ddb-8c0b-58fb3886a3c4",
     "product-grid",
     "460a3fc6-1809-4474-b8dc-9bb420fb269c",
+    "1634739736bb3da097",
     "16347377538d42acb4",
     "collapsible_content_xzpH3i",
-    "16347377887f406d0b",
-    "1634739736bb3da097",
-    "1634739830ff475eea",
     "1634745647da6184da",
     "8d709ade-cbab-468b-adb0-89d68ab2003a",
     "ca335108-a50b-491a-83b6-b9dc23c7780d",
     "59d2da0f-288a-4151-806d-0415288ad560",
     "1634737536adeb690b",
-    "16422625063bd5d67a",
-    "756b6347-4961-42df-a55a-10e828d42140"
+    "16422625063bd5d67a"
   ]
 }
