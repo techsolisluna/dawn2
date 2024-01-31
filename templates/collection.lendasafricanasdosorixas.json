@@ -446,165 +446,6 @@
         "padding_bottom": 100
       }
     },
-    "collapsible_content_xzpH3i": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_aG4wd8": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "São livros que tratam da religião?",
-            "icon": "leaf",
-            "row_content": "<p>Não, são histórias ilustradas com inspiração nos 'itans' (lendas ou relatos místicos) da cultura iorubá. Para escrever as narrativas a autora se baseou nas lendas coletadas por pesquisadores, em especial o etnólogo Pierre Verger. Elas foram reunidas pelo pesquisador ao longo de anos de suas pesquisas entre os iorubás da Nigéria e do Benin. As histórias narradas nesta série também tiveram forte influência da herança ancestral da autora, como é o caso do livro “Ibejis”, inspirado em uma lenda contada pela sua bisavó. <\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_x3cKaA": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Não encontrei um Orixá que gostaria de ler a história. Por que não fizeram?",
-            "icon": "question_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_4hfpyJ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "A Edsoleda escreveu e ilustrou?",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_HwtVQ4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "clipboard",
-            "row_content": "<p>Como vou receber<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_aG4wd8",
-        "collapsible_row_x3cKaA",
-        "collapsible_row_4hfpyJ",
-        "collapsible_row_HwtVQ4"
-      ],
-      "disabled": true,
-      "settings": {
-        "caption": "",
-        "heading": "Perguntas frequentes",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "custom_background": false,
-        "background_color": "#000",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1634745647da6184da": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/galerialogopng_black_banner.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "8d709ade-cbab-468b-adb0-89d68ab2003a": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "7ca54952-9398-499d-93a4-4950cc36aafd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-0",
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-1",
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-2",
-        "template--14510717010001__8d709ade-cbab-468b-adb0-89d68ab2003a-1680102640dd2a4bb7-3",
-        "7ca54952-9398-499d-93a4-4950cc36aafd"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "div .collapsible-content {backgound-color: #fff3bf !important;}"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "inverse",
-        "container_color_scheme": "background-2",
-        "custom_background": false,
-        "background_color": "#000000",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ca335108-a50b-491a-83b6-b9dc23c7780d": {
       "type": "featured-product",
       "blocks": {
@@ -680,6 +521,87 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "collapsible_content_xzpH3i": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_aG4wd8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "São livros que tratam da religião?",
+            "icon": "leaf",
+            "row_content": "<p>Não, são histórias ilustradas com inspiração nos 'itans' (lendas ou relatos místicos) da cultura iorubá. Para escrever as narrativas a autora se baseou nas lendas coletadas por pesquisadores, em especial o etnólogo Pierre Verger. Elas foram reunidas pelo pesquisador ao longo de anos de suas pesquisas entre os iorubás da Nigéria e do Benin. As histórias narradas nesta série também tiveram forte influência da herança ancestral da autora, como é o caso do livro “Ibejis”, inspirado em uma lenda contada pela sua bisavó. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_x3cKaA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Não encontrei um Orixá que gostaria de ler a história. Por que não fizeram?",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_4hfpyJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "A Edsoleda escreveu e ilustrou?",
+            "icon": "eye",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_HwtVQ4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "clipboard",
+            "row_content": "<p>Como vou receber<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_aG4wd8",
+        "collapsible_row_x3cKaA",
+        "collapsible_row_4hfpyJ",
+        "collapsible_row_HwtVQ4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Perguntas frequentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1634745647da6184da": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/galerialogopng_black_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1634737536adeb690b": {
@@ -784,10 +706,9 @@
     "460a3fc6-1809-4474-b8dc-9bb420fb269c",
     "1634739736bb3da097",
     "16347377538d42acb4",
+    "ca335108-a50b-491a-83b6-b9dc23c7780d",
     "collapsible_content_xzpH3i",
     "1634745647da6184da",
-    "8d709ade-cbab-468b-adb0-89d68ab2003a",
-    "ca335108-a50b-491a-83b6-b9dc23c7780d",
     "1634737536adeb690b",
     "16422625063bd5d67a"
   ]
