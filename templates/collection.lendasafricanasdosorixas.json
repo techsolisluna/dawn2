@@ -215,6 +215,7 @@
         "16347382609e8a367c-2",
         "76293a60-a669-478e-93c0-6dbf430524a7"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -491,6 +492,7 @@
         "collapsible_row_4hfpyJ",
         "collapsible_row_HwtVQ4"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "Perguntas frequentes",
@@ -606,17 +608,17 @@
     "ca335108-a50b-491a-83b6-b9dc23c7780d": {
       "type": "featured-product",
       "blocks": {
-        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-1": {
           "type": "title",
           "settings": {
-            "heading_size": "h1"
+            "heading_size": "h2"
+          }
+        },
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0": {
+          "type": "text",
+          "settings": {
+            "text": "por {{ section.settings.product.vendor }}",
+            "text_style": "body"
           }
         },
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-2": {
@@ -659,8 +661,8 @@
         }
       },
       "block_order": [
-        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0",
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-1",
+        "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-0",
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-2",
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-3",
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-4",
@@ -672,7 +674,7 @@
         "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
         "color_scheme": "background-1",
         "secondary_background": false,
-        "media_position": "left",
+        "media_position": "right",
         "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
