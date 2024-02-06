@@ -2,8 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -21,19 +22,18 @@
     },
     "9374b402-f1d3-4595-9db0-58bd547cdd1f": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14510717141073__9374b402-f1d3-4595-9db0-58bd547cdd1f-1670018643e062990e-0": {
           "type": "heading",
           "settings": {
             "heading": "<p>Fale conosco<\/p>",
-            "heading_size": "hxl"
+            "heading_size": "h1"
           }
         },
         "template--14510717141073__9374b402-f1d3-4595-9db0-58bd547cdd1f-1670018643e062990e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir ou<br\/>pelo chat no canto inferior direito.<\/p>",
+            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir,<br\/>pelo chat no canto inferior direito ou pelo email <a href=\"mailto:comercial@solisluna.com.br\" target=\"_blank\" title=\"Contato da Solisluna\">contato@solisluna.com.br<\/a><\/p>",
             "left": false
           }
         },
@@ -128,11 +128,13 @@
       "settings": {
         "caption": "",
         "heading": "Como podemos te ajudar?",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
