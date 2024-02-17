@@ -83,7 +83,7 @@
         "gallery_layout": "thumbnail_slider",
         "media_size": "large",
         "mobile_thumbnails": "hide",
-        "hide_variants": true,
+        "hide_variants": false,
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -264,6 +264,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Você também vai gostar...",
         "heading_size": "h2",
@@ -275,6 +276,69 @@
         "show_vendor": true,
         "show_rating": false,
         "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_3KEJTk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_rX6jWT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Como vou receber a obra de arte?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_3wWkwg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_k9FBGc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_zTYjyY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_rX6jWT",
+        "collapsible_row_3wWkwg",
+        "collapsible_row_k9FBGc",
+        "collapsible_row_zTYjyY"
+      ],
+      "settings": {
+        "caption": "Faq",
+        "heading": "Perguntas frequentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -370,6 +434,7 @@
     "rich_text_EKmEY8",
     "author_product_pepgKk",
     "product-recommendations",
+    "collapsible_content_3KEJTk",
     "1631654167122d4539",
     "163366161336322e5e",
     "1635821821b4bc362b"
