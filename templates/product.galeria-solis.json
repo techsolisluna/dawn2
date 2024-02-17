@@ -368,6 +368,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "author_product_pepgKk": {
+      "type": "author-product",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -381,6 +386,7 @@
     "1631654167122d4539",
     "product-recommendations",
     "163366161336322e5e",
-    "1635821821b4bc362b"
+    "1635821821b4bc362b",
+    "author_product_pepgKk"
   ]
 }
