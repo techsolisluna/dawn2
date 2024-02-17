@@ -255,7 +255,7 @@
       "settings": {
         "image": "{{ product.metafields.custom.artista.value.retrato.value }}",
         "product_img": false,
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
