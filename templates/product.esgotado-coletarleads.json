@@ -46,7 +46,7 @@
         "forms_inline_TaEqBz": {
           "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "73470",
+            "form_id": "{{ product.metafields.custom.indisponivel_form_id.value }}",
             "text_color": "#8f0000",
             "button_background_color": "#202020",
             "button_label_color": "#FFFFFF",
