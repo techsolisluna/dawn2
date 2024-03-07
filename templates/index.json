@@ -319,6 +319,48 @@
         "padding_bottom": 36
       }
     },
+    "collage_jhDRcf": {
+      "type": "collage",
+      "blocks": {
+        "image_Vjx7f6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03_2048bcd8-00b4-461c-99c9-b8a1251b1534.jpg",
+            "image_padding": true
+          }
+        },
+        "product_iNb3Hj": {
+          "type": "product",
+          "settings": {
+            "product": "antonino-peregrino",
+            "second_image": false,
+            "show_vendor": false
+          }
+        },
+        "image_t8ekiz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_02.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Vjx7f6",
+        "product_iNb3Hj",
+        "image_t8ekiz"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
       "type": "collage",
       "blocks": {
@@ -412,47 +454,6 @@
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
         "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collage_jhDRcf": {
-      "type": "collage",
-      "blocks": {
-        "image_Vjx7f6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03_2048bcd8-00b4-461c-99c9-b8a1251b1534.jpg",
-            "image_padding": true
-          }
-        },
-        "product_iNb3Hj": {
-          "type": "product",
-          "settings": {
-            "product": "antonino-peregrino",
-            "second_image": false,
-            "show_vendor": false
-          }
-        },
-        "image_t8ekiz": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "image_Vjx7f6",
-        "product_iNb3Hj",
-        "image_t8ekiz"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -961,9 +962,9 @@
     "1635001812716d45d4",
     "163458532453df37e6",
     "1634603513b9058cec",
+    "collage_jhDRcf",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
-    "collage_jhDRcf",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
