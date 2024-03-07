@@ -802,51 +802,6 @@
         "padding_bottom": 36
       }
     },
-    "ccd4fcd5-df05-4769-a8ea-556a1e127fa1": {
-      "type": "collage",
-      "blocks": {
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_0141.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-1": {
-          "type": "product",
-          "settings": {
-            "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
-            "second_image": false,
-            "show_vendor": true
-          }
-        },
-        "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GIF___Quadrado.gif",
-            "image_padding": true
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-0",
-        "template--14510716256337__ccd4fcd5-df05-4769-a8ea-556a1e127fa1-16814278289ab49b1e-1",
-        "bbae7889-1c61-4cb4-95b7-6c8c9f679c2f"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Coleção Lendas Africanas dos Orixás por Edsoleda",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16346078358d4cca17": {
       "type": "featured-blog",
       "settings": {
@@ -973,7 +928,6 @@
     "e98891a4-d0aa-4f21-8db7-5644aa90833f",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
-    "ccd4fcd5-df05-4769-a8ea-556a1e127fa1",
     "16346078358d4cca17",
     "1635967873ffcf8009",
     "1635821185a894c04f"
