@@ -124,7 +124,7 @@
           "newsletter_enable": false,
           "newsletter_heading": "A conversa segue por email",
           "show_social": true,
-          "enable_country_selector": true,
+          "enable_country_selector": false,
           "enable_language_selector": true,
           "payment_enable": true,
           "tag": "newsletter",
@@ -152,12 +152,6 @@
 
     ],
     "blocks": {
-      "12793297677437526120": {
-        "type": "shopify:\/\/apps\/content-translation\/blocks\/custom_translations\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
