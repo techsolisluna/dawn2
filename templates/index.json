@@ -1,56 +1,5 @@
 {
   "sections": {
-    "3e04518a-309e-40e1-a657-af183149c3b5": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Promo 50% OFF",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Desconto de <strong>50% no preço de capa<\/strong> em boa parte do nosso catálogo.<br\/><strong>Aproveite a promoção para comprar os seus presentes de fim de ano. Só até domingo, 12\/11 <\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ver coleção",
-            "button_link": "shopify:\/\/collections\/festa-virtual-do-livro-da-usp"
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-heading-1",
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-text-1",
-        "template--14510716256337__3e04518a-309e-40e1-a657-af183149c3b5-button-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/25flusp_data_post.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
@@ -205,6 +154,23 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_gnVmnH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "163458532453df37e6": {
@@ -947,9 +913,9 @@
     }
   },
   "order": [
-    "3e04518a-309e-40e1-a657-af183149c3b5",
     "1658153573113a06df",
     "featured_products",
+    "image_banner_gnVmnH",
     "163458532453df37e6",
     "1635001812716d45d4",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
