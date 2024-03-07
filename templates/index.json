@@ -472,14 +472,14 @@
         "1634603513b9058cec-0": {
           "type": "heading",
           "settings": {
-            "heading": "A memória do bosque",
-            "heading_size": "h0"
+            "heading": "Lá fora, os fantasmas",
+            "heading_size": "h1"
           }
         },
         "1634603513b9058cec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>– Brinca comigo – disse o gato da casa.<strong><br\/><\/strong>A princesa não sabia o que dizer. <br\/>Fazia séculos que ela não abandonava a água.<br\/><br\/><strong>Uma menina, uma princesa e um gato se cruzam nesta história no bosque.<\/strong><\/p>",
+            "text": "<p>Não existe escuridão que resista às risadas, <br\/>não há tristeza que enfrente cosquinhas.<br\/>Quando a mamãe está, <br\/>as sombras descansam até o outro dia.<\/p>",
             "text_style": "body"
           }
         },
@@ -487,7 +487,7 @@
           "type": "button",
           "settings": {
             "button_label": "Conheça",
-            "button_link": "shopify:\/\/products\/a-memoria-do-bosque"
+            "button_link": "shopify:\/\/products\/la-fora-os-fantasmas"
           }
         }
       },
@@ -499,19 +499,19 @@
         "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8095_1.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_2152.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
         "schema_color": false,
-        "color_back": "#e6ffe8",
+        "color_back": "#e79300",
         "gradient_back": "",
-        "color_text": "#353535",
+        "color_text": "#ffffff",
         "mobile_content_alignment": "left",
         "contain_image": false,
         "padding_top": 36,
