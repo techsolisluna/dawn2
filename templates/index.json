@@ -510,65 +510,6 @@
         "padding_bottom": 36
       }
     },
-    "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Solisluna Editora<\/strong> e <strong>Selo Emília <\/strong>apresentam<\/p>",
-            "text_style": "body"
-          }
-        },
-        "af04e781-b8d6-4d15-b9df-cd9093f139a1": {
-          "type": "caption",
-          "settings": {
-            "caption": "COLEÇÃO CANTEIRO DE OBRAS",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "bbc02f41-3ae8-46df-90aa-3467cb603a65": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Infâncias e escritas<\/h1><h2>Produção de textos na escola<\/h2><p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1",
-        "af04e781-b8d6-4d15-b9df-cd9093f139a1",
-        "bbc02f41-3ae8-46df-90aa-3467cb603a65",
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "163478366489eccf57": {
       "type": "image-banner",
       "blocks": {
@@ -667,6 +608,66 @@
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Solisluna Editora<\/strong> e <strong>Selo Emília <\/strong>apresentam<\/p>",
+            "text_style": "body"
+          }
+        },
+        "af04e781-b8d6-4d15-b9df-cd9093f139a1": {
+          "type": "caption",
+          "settings": {
+            "caption": "COLEÇÃO CANTEIRO DE OBRAS",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "bbc02f41-3ae8-46df-90aa-3467cb603a65": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Infâncias e escritas<\/h1><h2>Produção de textos na escola<\/h2><p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1",
+        "af04e781-b8d6-4d15-b9df-cd9093f139a1",
+        "bbc02f41-3ae8-46df-90aa-3467cb603a65",
+        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -924,9 +925,9 @@
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
-    "e98891a4-d0aa-4f21-8db7-5644aa90833f",
     "163478366489eccf57",
     "1634611538203a7608",
+    "e98891a4-d0aa-4f21-8db7-5644aa90833f",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "ccd4fcd5-df05-4769-a8ea-556a1e127fa1",
