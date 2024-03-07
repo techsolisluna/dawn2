@@ -158,33 +158,6 @@
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -202,6 +175,33 @@
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "163458532453df37e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lançamentos",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lancamentos",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
@@ -1066,8 +1066,8 @@
   "order": [
     "3e04518a-309e-40e1-a657-af183149c3b5",
     "1658153573113a06df",
-    "163458532453df37e6",
     "featured_products",
+    "163458532453df37e6",
     "54c01bc4-d453-47ee-8376-eef46f803eaf",
     "7115b3dc-9860-430c-b3e1-73de10b5bb89",
     "1635001812716d45d4",
