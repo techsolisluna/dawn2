@@ -173,33 +173,6 @@
         "show_text_below": true
       }
     },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1635001812716d45d4": {
       "type": "image-banner",
       "blocks": {
@@ -251,49 +224,29 @@
         "show_text_below": false
       }
     },
-    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
-      "type": "collage",
-      "blocks": {
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=fM7J4priGjU",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1": {
-          "type": "product",
-          "settings": {
-            "product": "roma-negra",
-            "second_image": true,
-            "show_vendor": true
-          }
-        },
-        "df611440-2fed-43c4-8057-72e4ed7c469a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0178-Edit.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0",
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1",
-        "df611440-2fed-43c4-8057-72e4ed7c469a"
-      ],
-      "custom_css": [
-
-      ],
+    "163458532453df37e6": {
+      "type": "featured-collection",
       "settings": {
-        "heading": "Roma Negra de Esteban Vivaldi",
-        "heading_size": "h0",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "title": "Lançamentos",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lancamentos",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
         "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -362,6 +315,53 @@
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
         "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
+      "type": "collage",
+      "blocks": {
+        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=fM7J4priGjU",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1": {
+          "type": "product",
+          "settings": {
+            "product": "roma-negra",
+            "second_image": true,
+            "show_vendor": true
+          }
+        },
+        "df611440-2fed-43c4-8057-72e4ed7c469a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0178-Edit.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0",
+        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1",
+        "df611440-2fed-43c4-8057-72e4ed7c469a"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "Roma Negra de Esteban Vivaldi",
+        "heading_size": "h0",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -916,10 +916,10 @@
     "1658153573113a06df",
     "featured_products",
     "image_banner_gnVmnH",
-    "163458532453df37e6",
     "1635001812716d45d4",
-    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
+    "163458532453df37e6",
     "1634603513b9058cec",
+    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
     "1635818678cc429f25",
     "163553109489ee12a3",
