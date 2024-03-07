@@ -509,7 +509,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
         "schema_color": false,
-        "color_back": "#e79300",
+        "color_back": "#334fb4",
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
