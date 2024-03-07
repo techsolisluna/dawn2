@@ -234,58 +234,6 @@
         "padding_bottom": 36
       }
     },
-    "54c01bc4-d453-47ee-8376-eef46f803eaf": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "inscrições abertas",
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-heading-1",
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-text-1",
-        "template--14510716256337__54c01bc4-d453-47ee-8376-eef46f803eaf-buttons-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CapaCatalogo_3fd5980a-db46-4b14-86e3-338ea487ecd2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1635001812716d45d4": {
       "type": "image-banner",
       "blocks": {
@@ -335,24 +283,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
-      }
-    },
-    "1649960670c6a05ac2": {
-      "type": "back-video",
-      "disabled": true,
-      "settings": {
-        "idvimeo": "641950689",
-        "overlay_opacity": 0,
-        "color_videoback": "#000000",
-        "title": "",
-        "heading_size": "back-font",
-        "text": "",
-        "color_text": "#ffffff",
-        "button_label": "",
-        "button_link": "",
-        "color_btn_bg": "#ffffff",
-        "color_btn_text": "#000000",
-        "vertical_align": "flex-end"
       }
     },
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
@@ -1021,9 +951,7 @@
     "1658153573113a06df",
     "featured_products",
     "163458532453df37e6",
-    "54c01bc4-d453-47ee-8376-eef46f803eaf",
     "1635001812716d45d4",
-    "1649960670c6a05ac2",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "1634603513b9058cec",
     "163259099574ea68ac",
