@@ -548,7 +548,6 @@
         "163259099574ea68ac-1",
         "163259099574ea68ac-2"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7772.jpg",
         "product_img": false,
@@ -604,6 +603,7 @@
         "1635818678cc429f25-1",
         "1635818678cc429f25-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
