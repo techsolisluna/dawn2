@@ -549,9 +549,9 @@
         "163259099574ea68ac-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7772.jpg",
+        "image": "shopify:\/\/shop_images\/Carrinho-de-Livros-Solisluna_Foto-Kin-Guerra.jpg",
         "product_img": false,
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -619,6 +619,7 @@
     },
     "163553109489ee12a3": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/gravura-domjoao.jpg",
         "image_overlay_opacity": 0,
