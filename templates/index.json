@@ -325,7 +325,7 @@
         "image_Vjx7f6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_04.jpg",
+            "image": "shopify:\/\/shop_images\/conselheiro.jpg",
             "image_padding": true
           }
         },
@@ -340,7 +340,7 @@
         "image_t8ekiz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_02.jpg",
+            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03_2048bcd8-00b4-461c-99c9-b8a1251b1534.jpg",
             "image_padding": false
           }
         }
@@ -351,11 +351,11 @@
         "image_t8ekiz"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "'Antonino Peregrino' de Osvaldo Martins e Luci Sacoleira",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "card_styles": "none",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
