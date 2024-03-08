@@ -109,9 +109,17 @@
             <div class="loading-overlay gradient"></div>
             {%- if section.settings.author_list -%}
               {%- if collection.products_count > 1 -%}
-                <h2>Livros de {{ collection.title }} publicados pela Solisluna</h2>
+                {% if localization.language.iso_code == "en" %}
+                  <h2>Books by {{ collection.title }} published by Solisluna</h2>
+                {% else %}
+                  <h2>Livros de {{ collection.title }} publicados pela Solisluna</h2>
+                {% endif %}
               {%- else -%}
-                <h2>Livro de {{ collection.title }} publicado pela Solisluna</h2>
+                {% if localization.language.iso_code == "en" %}
+                  <h2>Book by {{ collection.title }} published by Solisluna</h2>
+                {% else %}
+                  <h2>Livro de {{ collection.title }} publicado pela Solisluna</h2>
+                {% endif %}
               {%- endif -%}
             {%- endif -%}
     

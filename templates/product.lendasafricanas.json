@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">Lançamento<\/div>{% else %}{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}<\/div>{% else %}{% endif %}"
           }
         },
         "vendor": {
@@ -63,7 +63,7 @@
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<\/span><\/a>\n\n{% if coauthor %}<span class=\"h3 author\"> e <\/span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}<\/span><\/a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">Ilustrado por <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}<\/span><\/a><\/div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">Criado e editado por {{ editor }}<\/span>\n          {% endif %}"
+            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<\/span><\/a>\n\n{% if coauthor %}<span class=\"h3 author\"> e <\/span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}<\/span><\/a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}<\/span><\/a><\/div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}<\/span>\n          {% endif %}\n<\/div>"
           }
         },
         "price": {
@@ -74,7 +74,7 @@
         "2a5256c2-3015-4d3f-ab0b-f3dfd4cee25d": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.prevenda == true %}Promoção de pré-venda até {{product.metafields.my_fields.prevenda_data}}{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda == true %}{% if localization.language.iso_code == 'en' %}Pre-order orfer until{% else %}Promoção de pré-venda até{% endif %} {{product.metafields.my_fields.prevenda_data}}{% endif %}"
           }
         },
         "variant_picker": {

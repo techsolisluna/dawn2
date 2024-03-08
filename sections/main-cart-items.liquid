@@ -148,7 +148,7 @@
                     </ul>
 
                     {%- if item.product.metafields.my_fields.prevenda == true -%}
-                      <span id="NoMediaStandardBadge-{{ section_id }}-{{ item.product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: white; border: 2px solid #08AB08; color: #08AB08;">Pré-venda</span>
+                      <span id="NoMediaStandardBadge-{{ section_id }}-{{ item.product.id }}" class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" style="background-color: white; border: 2px solid #08AB08; color: #08AB08;">{% if localization.language.iso_code == "en" %}Pre-order{% else %}Pré-venda{% endif %}</span>
                     {%- endif -%}
                   </td>
 

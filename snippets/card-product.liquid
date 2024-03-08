@@ -136,9 +136,9 @@
           </div>
           <div style="margin-top: auto;">
             {%- if card_product.metafields.my_fields.prevenda == true -%}
-              <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge color-{{ settings.sale_badge_color_scheme }}" style="background-color: white; border: 2px solid #08AB08; color: #08AB08;">Pré-venda</span>
+              <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge color-{{ settings.sale_badge_color_scheme }}" style="background-color: white; border: 2px solid #08AB08; color: #08AB08;">{% if localization.language.iso_code == "en" %}Pre-order{% else %}Pré-venda{% endif %}</span>
             {%- elsif card_product.metafields.my_fields.lancamento == true -%}
-              <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">Lançamento</span>
+              <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge color-{{ settings.sale_badge_color_scheme }}" style="background-color: #08AB08; border-color: #08AB08;">{% if localization.language.iso_code == "en" %}Release{% else %}Lançamento{% endif %}</span>
             {%- elsif card_product.available == false -%}
               <span id="Badge-{{ section_id }}-{{ card_product.id }}" class="badge color-{{ settings.sold_out_badge_color_scheme }}" style="background-color: #D7D7D7; border-color: #D7D7D7; color: #3E3E3E;">{{ 'products.product.sold_out' | t }}
               </span>

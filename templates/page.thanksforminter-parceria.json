@@ -50,7 +50,7 @@
         "fb2fb73e-697f-43e9-a094-2ac5b725d2a5": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div>\n<span class=\"badge\" style=\"background-color: #08AB08;border-color: #08AB08;color:white;\">Lançamento<\/span><\/div>"
+            "custom_liquid": "<div>\n<span class=\"badge\" style=\"background-color: #08AB08;border-color: #08AB08;color:white;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}<\/span><\/div>"
           }
         },
         "template--21105230250263__6d601197-b109-4979-b9a8-107d92995c68-title-1": {
