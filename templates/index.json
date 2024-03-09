@@ -829,7 +829,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
         "product_img": false,
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -955,6 +955,7 @@
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6",
         "308534b2-96f8-4a8e-98d6-16f19dc68016"
       ],
+      "disabled": true,
       "settings": {
         "product": "kit-livros-para-educadores",
         "color_scheme": "background-1",
