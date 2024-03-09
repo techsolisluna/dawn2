@@ -135,7 +135,7 @@
         "caption_r77qPj": {
           "type": "caption",
           "settings": {
-            "caption": "Novidade!!",
+            "caption": "Solisluna finalista!",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -151,7 +151,7 @@
         "text_ictwXx": {
           "type": "text",
           "settings": {
-            "text": "<p>A <strong>Solisluna<\/strong> está na Shortlist do BOP - BOLOGNA PRIZE BEST CHILDREN'S PUBLISHERS OF THE YEAR, um dos prêmios literários mais importantes do mundo voltado para as editoras que publicam livros para as infâncias!<\/p>",
+            "text": "<p>O <em>BOP - Bologna Prize for the Best Children's Publishers of the Year<\/em> é atribuído anualmente para distinguir editoras de excelência de todo o mundo. <\/p><p>Aqui está a lista de 2024 das editoras infantis mais recomendadas em cada uma das seis áreas geográficas por editores, associações de editores e instituições dedicadas à promoção da leitura em todo o mundo. <\/p><p>Agora é a vez dos expositores da BCBF votarem: na sua área reservada, encontrarão o formulário para escolher o #boppist 2024. <\/p><p>Têm até quarta-feira, 20 de março de 2024. O anúncio dos vencedores será feito durante a BCBF, de 8 a 11 de abril de 2024.<\/p>",
             "text_style": "subtitle"
           }
         },
@@ -171,7 +171,7 @@
         "button_U34tWQ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FINALISTA_BOP_2026.png",
+        "image": "shopify:\/\/shop_images\/BOP.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
