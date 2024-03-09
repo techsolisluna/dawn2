@@ -624,23 +624,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_RMk89p": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/banner_vaporzinho.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1635818678cc429f25": {
       "type": "rich-text",
       "blocks": {
@@ -1117,7 +1100,6 @@
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
     "image_with_text_TXCirL",
-    "image_banner_RMk89p",
     "1635818678cc429f25",
     "1635597573bd71be81",
     "163458532453df37e6",
