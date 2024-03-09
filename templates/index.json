@@ -175,9 +175,9 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "contain_image": true,
+        "padding_top": 16,
+        "padding_bottom": 20
       }
     },
     "featured_products": {
