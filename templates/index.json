@@ -373,8 +373,11 @@
         "product_iNb3Hj",
         "image_t8ekiz"
       ],
+      "custom_css": [
+        "h2 {font-weight:600;}"
+      ],
       "settings": {
-        "heading": "'Antonino Peregrino' de Osvaldo Martins e Luci Sacoleira",
+        "heading": "Antonino Peregrino de Osvaldo Martins e Luci Sacoleira",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -418,7 +421,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
       "custom_css": [
-        "h2 {font-weight:600;}"
+        "h2 {font-weight: 600;}"
       ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
