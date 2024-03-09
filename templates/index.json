@@ -298,14 +298,14 @@
         "heading_tXdLDH": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Bela história sobre um encontro das culturas originárias do Brasil",
             "heading_size": "h1"
           }
         },
         "text_JMhEqp": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>A Ialorixá e o Pajé é um relato verdadeiro sobre belas lembranças que Mãe Stella de Oxóssi viveu quando era uma jovem enfermeira.<\/strong>A história narra um encontro de Mãe Stella com um Pajé, e a troca de conhecimentos sobre plantas, ervas medicinais, raízes, sementes, folhas e rituais entre uma pessoa nascida na cultura afro-brasileira e outra na cultura indígena.  <\/p>",
             "text_style": "body"
           }
         },
@@ -322,7 +322,6 @@
         "text_JMhEqp",
         "button_xR6NG3"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/a-ialorixa-e-o-paje_b223045a-f20e-4faf-a7c0-10087ac481a8.jpg",
         "product_img": false,
