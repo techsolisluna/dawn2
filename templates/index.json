@@ -134,11 +134,10 @@
       "blocks": {
         "caption_r77qPj": {
           "type": "caption",
-          "disabled": true,
           "settings": {
-            "caption": "lançamento",
+            "caption": "Novidade!!",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_size": "large"
           }
         },
         "text_yPMjW8": {
@@ -153,7 +152,7 @@
           "type": "text",
           "settings": {
             "text": "<p>A <strong>Solisluna<\/strong> está na Shortlist do BOP - BOLOGNA PRIZE BEST CHILDREN'S PUBLISHERS OF THE YEAR, um dos prêmios literários mais importantes do mundo voltado para as editoras que publicam livros para as infâncias!<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button_U34tWQ": {
@@ -172,7 +171,7 @@
         "button_U34tWQ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FINALISTA_BOP_2024_1.png",
+        "image": "shopify:\/\/shop_images\/FINALISTA_BOP_2026.png",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -182,9 +181,9 @@
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
         "schema_color": false,
-        "color_back": "#fefff2",
+        "color_back": "#e03f03",
         "gradient_back": "",
-        "color_text": "#000000",
+        "color_text": "#ffffff",
         "mobile_content_alignment": "left",
         "contain_image": false,
         "padding_top": 36,
