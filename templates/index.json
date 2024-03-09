@@ -418,7 +418,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
       "custom_css": [
-
+        "h2 {font-weight:600;}"
       ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
