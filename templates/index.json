@@ -312,8 +312,8 @@
         "button_xR6NG3": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Conheça",
+            "button_link": "shopify:\/\/products\/a-ialorixa-e-o-paje"
           }
         }
       },
@@ -374,7 +374,7 @@
         "image_t8ekiz"
       ],
       "custom_css": [
-        "h2 {font-weight:600;}"
+        "h2 {font-weight: 600;}"
       ],
       "settings": {
         "heading": "Antonino Peregrino de Osvaldo Martins e Luci Sacoleira",
