@@ -163,7 +163,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BOP.jpg",
         "product_img": false,
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -412,6 +412,9 @@
     },
     "image_banner_9yeCej": {
       "type": "image-banner",
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/antonino_peregrino_1.jpg",
         "image_overlay_opacity": 0,
