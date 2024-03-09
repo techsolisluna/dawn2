@@ -224,33 +224,6 @@
         "show_text_below": false
       }
     },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1634603513b9058cec": {
       "type": "image-with-text",
       "blocks": {
@@ -319,6 +292,57 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_WbrbJn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tXdLDH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_JMhEqp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_xR6NG3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_tXdLDH",
+        "text_JMhEqp",
+        "button_xR6NG3"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/a-ialorixa-e-o-paje_b223045a-f20e-4faf-a7c0-10087ac481a8.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#4a994b",
+        "gradient_back": "",
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage_jhDRcf": {
       "type": "collage",
       "blocks": {
@@ -352,7 +376,7 @@
       ],
       "settings": {
         "heading": "'Antonino Peregrino' de Osvaldo Martins e Luci Sacoleira",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "none",
@@ -399,7 +423,7 @@
       ],
       "settings": {
         "heading": "Roma Negra de Esteban Vivaldi",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
@@ -535,6 +559,33 @@
         "description_style": "body",
         "collection": "historia-e-memoria",
         "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "163458532453df37e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lançamentos",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lancamentos",
+        "products_to_show": 10,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": false,
@@ -915,14 +966,15 @@
     "featured_products",
     "image_banner_gnVmnH",
     "1635001812716d45d4",
-    "163458532453df37e6",
     "1634603513b9058cec",
+    "image_with_text_WbrbJn",
     "collage_jhDRcf",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
     "1635818678cc429f25",
     "163553109489ee12a3",
     "1635597573bd71be81",
+    "163458532453df37e6",
     "163478366489eccf57",
     "1634611538203a7608",
     "e98891a4-d0aa-4f21-8db7-5644aa90833f",
