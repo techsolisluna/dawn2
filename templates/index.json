@@ -438,9 +438,8 @@
         "163259099574ea68ac-1",
         "163259099574ea68ac-2"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Carrinho-de-Livros-Solisluna_Foto-Kin-Guerra.jpg",
+        "image": "shopify:\/\/shop_images\/carrinho-de-livros.jpg",
         "product_img": false,
         "height": "small",
         "desktop_image_width": "medium",
