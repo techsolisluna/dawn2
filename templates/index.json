@@ -180,6 +180,23 @@
         "padding_bottom": 20
       }
     },
+    "image_banner_gnVmnH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -205,23 +222,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_gnVmnH": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "1635001812716d45d4": {
@@ -1089,8 +1089,8 @@
   "order": [
     "1658153573113a06df",
     "image_with_text_Kr6fEE",
-    "featured_products",
     "image_banner_gnVmnH",
+    "featured_products",
     "1635001812716d45d4",
     "1634603513b9058cec",
     "image_with_text_WbrbJn",
