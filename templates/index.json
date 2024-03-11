@@ -675,9 +675,12 @@
     },
     "1635597573bd71be81": {
       "type": "featured-collection",
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "História e memória",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
