@@ -149,7 +149,6 @@
     },
     "163165417377a19cbd": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
@@ -160,6 +159,7 @@
       "block_order": [
         "b99630fe-f9e0-4039-add7-ac9b4ce3d2d5"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -207,6 +207,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 32,
         "padding_bottom": 36
       }
@@ -275,6 +276,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -299,7 +301,6 @@
     },
     "16575534452c01a018": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1657553445ee20523c-0": {
           "type": "heading",
@@ -329,6 +330,7 @@
         "1657553445ee20523c-1",
         "1657553445ee20523c-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/selo-da-terra-2.jpg",
         "product_img": false,
@@ -344,13 +346,13 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "1657391171cbb9a3f7": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16573911717e5831c1-0": {
           "type": "heading",
@@ -385,6 +387,7 @@
         "16573911717e5831c1-1",
         "16573911717e5831c1-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -444,6 +447,7 @@
         "gradient_back": "",
         "color_text": "#000000",
         "mobile_content_alignment": "left",
+        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -548,7 +552,6 @@
     },
     "1657485423b5a550bd": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1657485423908e8dd5-1": {
           "type": "column",
@@ -586,6 +589,7 @@
         "1657485423908e8dd5-2",
         "1657485423908e8dd5-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "Três motivos para comprar o livro na pré-venda",
         "heading_size": "h1",
@@ -605,7 +609,6 @@
     },
     "16574873469b681efd": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "1657487345c2e33f31-3": {
           "type": "collapsible_row",
@@ -670,6 +673,7 @@
         "fbe504a8-ac34-4de0-813e-7660386f14af",
         "2a6fe391-fe79-44a5-af3e-23c21fe7aa33"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "Perguntas frequentes",
@@ -678,6 +682,8 @@
         "layout": "none",
         "color_scheme": "accent-1",
         "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -691,7 +697,7 @@
         "16575470271d8e9852-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Ainda ficou alguma dúvida?<\/p>",
+            "heading": "<p>Ficou alguma dúvida?<\/p>",
             "heading_size": "h1"
           }
         },
