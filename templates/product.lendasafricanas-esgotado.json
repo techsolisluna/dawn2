@@ -70,6 +70,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -77,6 +78,32 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "{% if product.metafields.my_fields.prevenda == true %}{% if localization.language.iso_code == 'en' %}Pre-order orfer until{% else %}Promoção de pré-venda até{% endif %} {{product.metafields.my_fields.prevenda_data}}{% endif %}"
+          }
+        },
+        "ac5d2265-3446-44b4-9455-7d569c8114a4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Características",
+            "icon": "ruler",
+            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "forms_inline_HtkjrR": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "81329",
+            "text_color": "#e03f03",
+            "button_background_color": "#e03f03",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
           }
         },
         "variant_picker": {
@@ -93,17 +120,9 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
-          }
-        },
-        "ac5d2265-3446-44b4-9455-7d569c8114a4": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Características",
-            "icon": "ruler",
-            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
-            "page": ""
           }
         },
         "description": {
@@ -136,10 +155,11 @@
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "price",
         "2a5256c2-3015-4d3f-ab0b-f3dfd4cee25d",
+        "ac5d2265-3446-44b4-9455-7d569c8114a4",
+        "forms_inline_HtkjrR",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "ac5d2265-3446-44b4-9455-7d569c8114a4",
         "description",
         "33ecc337-7a9c-469b-bc81-95ea779415f3",
         "share"
