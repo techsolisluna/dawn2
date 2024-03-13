@@ -21,6 +21,8 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -284,6 +286,8 @@
         "image_height": "medium",
         "product_banner": true,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -375,6 +379,8 @@
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -430,6 +436,8 @@
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -486,7 +494,6 @@
     },
     "16347831863a40204d": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "462fee7f-ffb0-4d97-9898-53d90fa77c49": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
@@ -502,6 +509,7 @@
       "block_order": [
         "462fee7f-ffb0-4d97-9898-53d90fa77c49"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }

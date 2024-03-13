@@ -43,6 +43,8 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -79,6 +81,7 @@
         },
         "template--14510717010001__e65542e2-1ef0-4e3e-a640-d78e3252b271-16800323050d1b4fa4-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Comprar coleção completa",
             "button_link": "https:\/\/solisluna.com.br\/cart\/44779000955159:1?channel=buy_button"
@@ -109,6 +112,34 @@
         "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "17103630738f8814ec": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_ihJA9z": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "81329",
+            "text_color": "#e03f03",
+            "button_background_color": "#e03f03",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_ihJA9z"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "f44ef27a-ed5a-4552-bb95-8c2113f2db98": {
@@ -200,7 +231,7 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
@@ -405,6 +436,7 @@
         "template--14510717010001__ca335108-a50b-491a-83b6-b9dc23c7780d-16817712608476d748-6",
         "58132872-909d-4e61-8334-2c2bc7e535e5"
       ],
+      "disabled": true,
       "settings": {
         "product": "kit-colecao-completa-lendas-africanas-dos-orixas",
         "color_scheme": "background-1",
@@ -473,7 +505,7 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -490,6 +522,8 @@
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -542,6 +576,8 @@
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -592,6 +628,7 @@
   "order": [
     "16355369390c8756e7",
     "e65542e2-1ef0-4e3e-a640-d78e3252b271",
+    "17103630738f8814ec",
     "f44ef27a-ed5a-4552-bb95-8c2113f2db98",
     "16347382609e8a367c",
     "banner",
