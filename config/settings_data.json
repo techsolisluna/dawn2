@@ -163,6 +163,30 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Olá! Escreva aqui a sua pergunta ou uma ideia do que está procurando."
         }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11242429557760608184": {
+        "type": "shopify:\/\/apps\/referrly-affiliate\/blocks\/main-app-embed\/75b5ccd5-af90-4f81-ab89-2c28499171fd",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11735689235857492391": {
+        "type": "shopify:\/\/apps\/algolia-search-and-discovery\/blocks\/autocomplete\/57bb7f86-d5fe-4d43-96ca-3953324494cf",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
