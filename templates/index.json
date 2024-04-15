@@ -129,57 +129,6 @@
         "accessibility_info": "Slides sobre os livros da Solisluna"
       }
     },
-    "image_with_text_Kr6fEE": {
-      "type": "image-with-text",
-      "blocks": {
-        "caption_r77qPj": {
-          "type": "caption",
-          "settings": {
-            "caption": "",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "text_ictwXx": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>Solisluna finalista!<\/strong><\/h2><p>O <em>BOP - Bologna Prize for the Best Children's Publishers of the Year<\/em> é atribuído anualmente para distinguir editoras de excelência. <\/p><p>Aqui está a lista de 2024 das cinco editoras infantis mais recomendadas - em cada uma das seis áreas geográficas - por editores, associações de editores e instituições dedicadas à promoção da leitura em todo o mundo. O anúncio dos vencedores será feito durante a Feira do Livro de Bolonha, Itália, de 8 a 11 de abril de 2024.<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "button_U34tWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Veja a lista",
-            "button_link": "https:\/\/www.bolognachildrensbookfair.com\/en\/awards\/bop-bologna-prize-best-childrens-publishers-of-the-year\/2024-bop-shortlist\/10142.html"
-          }
-        }
-      },
-      "block_order": [
-        "caption_r77qPj",
-        "text_ictwXx",
-        "button_U34tWQ"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#181600",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 8,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_gnVmnH": {
       "type": "image-banner",
       "settings": {
@@ -277,6 +226,49 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "image_with_text_Kr6fEE": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_r77qPj": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_ictwXx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Solisluna Editora <\/strong><em><strong>i<\/strong><\/em>ndicada ao BOP 2024 - Bologna Prize for the Best Children's Publishers of the Year -, prêmio internacional atribuído anualmente para distinguir editoras de excelência.Uma das cinco editoras infantis mais recomendadas por editores, associações de editores e instituições dedicadas à promoção da leitura no mundo.<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "caption_r77qPj",
+        "text_ictwXx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#181600",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 8,
+        "padding_bottom": 0
       }
     },
     "1634603513b9058cec": {
@@ -738,6 +730,82 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_JRE3hB": {
+      "type": "featured-product",
+      "blocks": {
+        "text_DqRcGw": {
+          "type": "text",
+          "settings": {
+            "text": "Lançamento",
+            "text_style": "uppercase"
+          }
+        },
+        "text_YazidX": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "subtitle"
+          }
+        },
+        "title_x33dJF": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text_BF7MKD": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "body"
+          }
+        },
+        "price_T9x7GR": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_6xEJfK": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons_qgQDQm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_HW7HaP": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        }
+      },
+      "block_order": [
+        "text_DqRcGw",
+        "text_YazidX",
+        "title_x33dJF",
+        "text_BF7MKD",
+        "price_T9x7GR",
+        "variant_picker_6xEJfK",
+        "buy_buttons_qgQDQm",
+        "share_HW7HaP"
+      ],
+      "settings": {
+        "product": "projetos-interculturais-na-escola",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "163478366489eccf57": {
       "type": "image-banner",
       "blocks": {
@@ -838,66 +906,6 @@
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e98891a4-d0aa-4f21-8db7-5644aa90833f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Solisluna Editora<\/strong> e <strong>Selo Emília <\/strong>apresentam<\/p>",
-            "text_style": "body"
-          }
-        },
-        "af04e781-b8d6-4d15-b9df-cd9093f139a1": {
-          "type": "caption",
-          "settings": {
-            "caption": "COLEÇÃO CANTEIRO DE OBRAS",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "bbc02f41-3ae8-46df-90aa-3467cb603a65": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Infâncias e escritas<\/h1><h2>Produção de textos na escola<\/h2><p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-1",
-        "af04e781-b8d6-4d15-b9df-cd9093f139a1",
-        "bbc02f41-3ae8-46df-90aa-3467cb603a65",
-        "template--14510716256337__e98891a4-d0aa-4f21-8db7-5644aa90833f-1681581550e8fd47b4-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1103,10 +1111,10 @@
   },
   "order": [
     "1658153573113a06df",
-    "image_with_text_Kr6fEE",
     "image_banner_gnVmnH",
     "featured_products",
     "1635001812716d45d4",
+    "image_with_text_Kr6fEE",
     "1634603513b9058cec",
     "image_with_text_WbrbJn",
     "image_banner_hg8NzU",
@@ -1118,9 +1126,9 @@
     "1635818678cc429f25",
     "1635597573bd71be81",
     "163458532453df37e6",
+    "featured_product_JRE3hB",
     "163478366489eccf57",
     "1634611538203a7608",
-    "e98891a4-d0aa-4f21-8db7-5644aa90833f",
     "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "16346078358d4cca17",
