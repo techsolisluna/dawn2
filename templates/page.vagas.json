@@ -15,10 +15,10 @@
         "16597550878347ea89-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "[estágio] Assistente administrativo e comercial",
-            "icon": "star",
+            "heading": "Vendedor(a)",
+            "icon": "price_tag",
             "row_content": "",
-            "page": "vaga-de-estagio-assistente-administrativo-e-financeiro"
+            "page": "vendedora"
           }
         },
         "16597550878347ea89-2": {
@@ -54,6 +54,8 @@
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -63,7 +65,6 @@
     },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
           "type": "heading",
@@ -97,6 +98,7 @@
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -163,6 +165,8 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
