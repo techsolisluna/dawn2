@@ -21,6 +21,33 @@
             "page": "vendedora"
           }
         },
+        "collapsible_row_GBpAJg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Analista de mídias sociais",
+            "icon": "star",
+            "row_content": "<h6>Local Híbrido<\/h6>",
+            "page": "vendedora"
+          }
+        },
+        "collapsible_row_hnffwx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Assistente comercial e logístico",
+            "icon": "star",
+            "row_content": "<p>sdd<\/p>",
+            "page": "vendedora"
+          }
+        },
+        "collapsible_row_UXQ8zt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
         "16597550878347ea89-2": {
           "type": "collapsible_row",
           "settings": {
@@ -43,6 +70,9 @@
       },
       "block_order": [
         "16597550878347ea89-0",
+        "collapsible_row_GBpAJg",
+        "collapsible_row_hnffwx",
+        "collapsible_row_UXQ8zt",
         "16597550878347ea89-2",
         "16597550878347ea89-3"
       ],
