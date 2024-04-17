@@ -153,9 +153,9 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Portfólio de Arte & Ilustração",
-            "icon": "check_mark",
+            "icon": "eye",
             "row_content": "",
-            "page": ""
+            "page": "portfolio-de-arte-ilustracao"
           }
         }
       },
