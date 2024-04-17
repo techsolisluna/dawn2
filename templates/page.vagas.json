@@ -27,11 +27,12 @@
             "heading": "Analista de mídias digitais",
             "icon": "star",
             "row_content": "",
-            "page": "vendedora"
+            "page": "analista-de-midias-digitais"
           }
         },
         "collapsible_row_hnffwx": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Assistente comercial e logístico",
             "icon": "star",
@@ -41,6 +42,7 @@
         },
         "collapsible_row_UXQ8zt": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
