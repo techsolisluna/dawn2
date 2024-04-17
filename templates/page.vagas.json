@@ -33,10 +33,10 @@
         "collapsible_row_hnffwx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Assistente comercial e logístico",
+            "heading": "Almoxarife",
             "icon": "ruler",
-            "row_content": "<p>sdd<\/p>",
-            "page": "vendedora"
+            "row_content": "",
+            "page": "almoxarife"
           }
         },
         "16597550878347ea89-2": {
@@ -76,7 +76,7 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
