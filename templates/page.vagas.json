@@ -84,42 +84,46 @@
         "padding_bottom": 36
       }
     },
+    "custom_html_fqdedF": {
+      "type": "custom-html",
+      "blocks": {
+        "text_pYV9UA": {
+          "type": "text",
+          "settings": {
+            "section_html": "<div style=\"text-align:center;\">___<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "text_pYV9UA"
+      ],
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "14a6b1f6-71fb-409d-88f6-723d403d3118": {
       "type": "rich-text",
       "blocks": {
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Fale conosco<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>Prestação de serviços<\/p>",
+            "heading_size": "h2"
           }
         },
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Você pode entrar em contato conosco pelo formulário a seguir ou pelo chat no canto inferior direito.<\/p>",
+            "text": "<h3>Registre seu currículo em nosso banco de dados para se candidatar a oportunidades nos projetos da Solisluna.<\/h3>",
             "left": false
-          }
-        },
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-0",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1",
-        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-2"
+        "template--14510716878929__14a6b1f6-71fb-409d-88f6-723d403d3118-167001968549524a75-1"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -133,12 +137,87 @@
         "padding_bottom": 52
       }
     },
+    "collapsible_content_bw99Ut": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DHN6FB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Trabalhe conosco",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": "trabalhe-conosco"
+          }
+        },
+        "collapsible_row_qwNQjj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Portfólio de Arte & Ilustração",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DHN6FB",
+        "collapsible_row_qwNQjj"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000000",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "<iframe title=\"Contact Form\" src=\"https:\/\/plugins.crisp.chat\/urn:crisp.im:contact-form:0\/contact\/375e37e3-0081-4a82-b743-e698f84fabcd\" referrerpolicy=\"origin\" sandbox=\"allow-forms allow-popups allow-scripts\" width=\"100%\" height=\"600px\" frameborder=\"0\"><\/iframe>",
+        "custom_liquid": "<div style=\"padding:1em;\"><\/div>",
         "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter_LHWtHd": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_AcbbRy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se para ser notificado quando houver uma nova vaga aberta.",
+            "heading_size": "h2"
+          }
+        },
+        "email_form_gDYEqa": {
+          "type": "email_form",
+          "settings": {
+            "tag": "vagas"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AcbbRy",
+        "email_form_gDYEqa"
+      ],
+      "custom_css": [
+        "h2 {font-color: white !important;}"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "custom_background": true,
+        "background_color": "#f49b01",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -201,8 +280,11 @@
   "order": [
     "main",
     "1659755087d5917cf5",
+    "custom_html_fqdedF",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
+    "collapsible_content_bw99Ut",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
+    "newsletter_LHWtHd",
     "0528e39d-45d9-43d2-9674-0fb8ff48e127"
   ]
 }
