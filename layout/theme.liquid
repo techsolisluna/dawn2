@@ -16,6 +16,11 @@
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
 
+    {%- if template contains 'page.sem-titulo-no-index' -%}
+      <meta name="robots" content="noindex">
+    {%- endif -%}
+
+
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
