@@ -15,9 +15,9 @@
         "16597550878347ea89-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Vendedor(a)",
+            "heading": "Vendedor(a) para eventos",
             "icon": "price_tag",
-            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> Freelance<br\/><br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
+            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> temporário<br\/><br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
             "page": "vendedora"
           }
         },
@@ -35,7 +35,7 @@
           "settings": {
             "heading": "Assistente de logística",
             "icon": "ruler",
-            "row_content": "",
+            "row_content": "<p><strong>Modelo de trabalho:<\/strong> presencial em Lauro de Freitas, Bahia.<br\/><br\/>Candidaturas aceitas até 5 de maio de 2024.<br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
             "page": "almoxarife"
           }
         },
