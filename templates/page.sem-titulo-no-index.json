@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -145,6 +145,8 @@
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",

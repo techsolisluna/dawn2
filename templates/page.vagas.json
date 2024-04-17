@@ -17,7 +17,7 @@
           "settings": {
             "heading": "Vendedor(a)",
             "icon": "price_tag",
-            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> Freelance<br\/><br\/>Para se candidatar<\/p>",
+            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> Freelance<br\/><br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
             "page": "vendedora"
           }
         },
@@ -26,32 +26,22 @@
           "settings": {
             "heading": "Analista de mídias digitais",
             "icon": "star",
-            "row_content": "",
+            "row_content": "<p><strong>Modelo de trabalho: <\/strong>híbrido.<br\/>Remoto + presencial em São Paulo, SP ou Lauro de Freitas, Bahia. <br\/><br\/>Candidaturas aceitas até 5 de maio de 2024.<br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
             "page": "analista-de-midias-digitais"
           }
         },
         "collapsible_row_hnffwx": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
             "heading": "Assistente comercial e logístico",
-            "icon": "star",
+            "icon": "ruler",
             "row_content": "<p>sdd<\/p>",
             "page": "vendedora"
           }
         },
-        "collapsible_row_UXQ8zt": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
         "16597550878347ea89-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Trabalhe conosco",
             "icon": "clipboard",
@@ -74,7 +64,6 @@
         "16597550878347ea89-0",
         "collapsible_row_GBpAJg",
         "collapsible_row_hnffwx",
-        "collapsible_row_UXQ8zt",
         "16597550878347ea89-2",
         "16597550878347ea89-3"
       ],
