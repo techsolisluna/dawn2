@@ -9,6 +9,50 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_6YYDYF": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_tDQBF7": {
+          "type": "caption",
+          "settings": {
+            "caption": "Trabalhe conosco",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_VNMxfN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Vagas abertas<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "text_WcAPEj": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Se você é apaixonado(a) por fazer a diferença e busca um ambiente profissional acolhedor que inspira e promove arte & cultura, com o foco em inovação e excelência, esta é a oportunidade de fazer parte do nosso time!<\/h3>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_tDQBF7",
+        "heading_VNMxfN",
+        "text_WcAPEj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1659755087d5917cf5": {
       "type": "collapsible-content",
       "blocks": {
@@ -68,8 +112,8 @@
         "16597550878347ea89-3"
       ],
       "settings": {
-        "caption": "Trabalhe conosco",
-        "heading": "Vagas abertas",
+        "caption": "",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -279,6 +323,7 @@
   },
   "order": [
     "main",
+    "rich_text_6YYDYF",
     "1659755087d5917cf5",
     "custom_html_fqdedF",
     "14a6b1f6-71fb-409d-88f6-723d403d3118",
