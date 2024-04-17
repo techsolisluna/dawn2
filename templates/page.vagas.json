@@ -17,7 +17,7 @@
           "settings": {
             "heading": "Vendedor(a) para eventos",
             "icon": "price_tag",
-            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> temporário<br\/><br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
+            "row_content": "<p><strong>Localização:<\/strong> Salvador e\/ou São Paulo.<br\/><strong>Modelo de trabalho:<\/strong> temporário.<br\/><br\/>Preencha o formulário a seguir para se candidatar.<\/p>",
             "page": "vendedora"
           }
         },
