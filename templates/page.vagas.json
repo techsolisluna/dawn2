@@ -17,16 +17,16 @@
           "settings": {
             "heading": "Vendedor(a)",
             "icon": "price_tag",
-            "row_content": "",
+            "row_content": "<p><strong>Localização:<\/strong> Salvador e São Paulo<br\/><strong>Modelo de trabalho:<\/strong> Freelance<br\/><br\/>Para se candidatar<\/p>",
             "page": "vendedora"
           }
         },
         "collapsible_row_GBpAJg": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Analista de mídias sociais",
+            "heading": "Analista de mídias digitais",
             "icon": "star",
-            "row_content": "<h6>Local Híbrido<\/h6>",
+            "row_content": "",
             "page": "vendedora"
           }
         },
