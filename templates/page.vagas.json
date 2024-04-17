@@ -33,7 +33,7 @@
         "collapsible_row_hnffwx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Almoxarife",
+            "heading": "Assistente de logística",
             "icon": "ruler",
             "row_content": "",
             "page": "almoxarife"
