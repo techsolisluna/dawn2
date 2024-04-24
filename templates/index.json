@@ -3,6 +3,27 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-site-A-arvore-mais-sabida.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/a-arvore-mais-sabida-do-mundo",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "center"
+          }
+        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
@@ -22,6 +43,27 @@
             "custom_color": false,
             "text_color": "#000000",
             "text_alignment_mobile": "center"
+          }
+        },
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-site-Tecelagem.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/tecelagem",
+            "button_style_secondary": true,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "left"
           }
         },
         "slide_tFPCgf": {
@@ -65,56 +107,14 @@
             "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
-        },
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ninoca-banner-site.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/ninoca-dorminhoca",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-Tecelagem.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/tecelagem",
-            "button_style_secondary": true,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "left"
-          }
         }
       },
       "block_order": [
-        "165815357365d8068c-1",
-        "slide_tFPCgf",
-        "5f56aabc-1b36-465c-acdc-52bbde404672",
         "f18a00a4-ade7-4915-a83c-c9f8cd242098",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9"
+        "165815357365d8068c-1",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
+        "slide_tFPCgf",
+        "5f56aabc-1b36-465c-acdc-52bbde404672"
       ],
       "custom_css": [
         "a {text-decoration: none;}"
