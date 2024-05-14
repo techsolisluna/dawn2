@@ -178,57 +178,6 @@
       "settings": {
       }
     },
-    "1632621267a9cdb8f8": {
-      "type": "image-with-text",
-      "blocks": {
-        "1632621267a9cdb8f8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Comece a ler",
-            "heading_size": "h1"
-          }
-        },
-        "1632621267a9cdb8f8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "1632621267a9cdb8f8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ler agora",
-            "button_link": "{{ product.metafields.custom.amostra.value.url.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "1632621267a9cdb8f8-0",
-        "1632621267a9cdb8f8-1",
-        "1632621267a9cdb8f8-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "{{ product.metafields.custom.amostra.value.capa.value }}",
-        "product_img": true,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "schema_color": false,
-        "color_back": "{{ product.metafields.custom.amostra.value.background_color.value }}",
-        "gradient_back": "",
-        "color_text": "{{ product.metafields.custom.amostra.value.text_color.value }}",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "91e4002a-752a-4872-a2a9-dc641e04c509": {
       "type": "custom-liquid",
       "settings": {
@@ -498,7 +447,6 @@
     "166213224446901241",
     "163165417377a19cbd",
     "author-product",
-    "1632621267a9cdb8f8",
     "91e4002a-752a-4872-a2a9-dc641e04c509",
     "5e4d3d98-02b1-47df-b3c9-4a03a6802fea",
     "163616771967b30d2e",
