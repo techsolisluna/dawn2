@@ -132,21 +132,6 @@
         "padding_bottom": 36
       }
     },
-    "16336611696633b6c2": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "metavideo": true,
-        "video_url": "",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "166213224446901241": {
       "type": "premios",
       "settings": {
@@ -164,6 +149,141 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_HzPkLU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_EDGHUq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Leia antes de comprar {{ product.title }}.",
+            "heading_size": "large"
+          }
+        },
+        "text_zWBiKe": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_BVhPHn": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Começar a ler",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EDGHUq",
+        "text_zWBiKe",
+        "buttons_BVhPHn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ugh_-13.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": true,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_HLcHMQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gBmGqV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p> Estaria ela prestes a fazer o primeiro registro, a contar nossa primeira história? <\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gBmGqV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#000000",
+        "gradient_back": "",
+        "color_text": "#e6e6e6",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_NcBata": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_fHDapf": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Leia antes de comprar {{ product.title }}.",
+            "heading_size": "large"
+          }
+        },
+        "text_bXay9F": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_zdcgNG": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Começar a ler",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fHDapf",
+        "text_bXay9F",
+        "buttons_zdcgNG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ugh__04.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": true,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "163165417377a19cbd": {
@@ -241,6 +361,113 @@
         "vertical_align": "flex-end"
       }
     },
+    "image_banner_QjyagB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Akkbn4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Leia antes de comprar {{ product.title }}.",
+            "heading_size": "large"
+          }
+        },
+        "text_7cWdfM": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_B87e4c": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Começar a ler",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Akkbn4",
+        "text_7cWdfM",
+        "buttons_B87e4c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ugh__03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": true,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_eKTyXw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6NPKkT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_yDedD4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Ywhz8B": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6NPKkT",
+        "text_yDedD4",
+        "button_Ywhz8B"
+      ],
+      "custom_css": [
+        "h2 {font-family: helvetica; font-weight: 700;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/UGH-capa_D_ac51048c-c974-486a-abea-3dcdc9e8b773.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#000000",
+        "gradient_back": "",
+        "color_text": "#ffffff",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "163366161336322e5e": {
       "type": "custom-liquid",
       "settings": {
@@ -256,15 +483,8 @@
         "1642348095014ff909-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.<\/p>",
-            "left": true
-          }
-        },
-        "1642348095014ff909-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Conheça a coleção completa<\/p>",
-            "heading_size": "h2"
+            "text": "<h2>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.<\/h2><h2><strong>Conheça a coleção completa<\/strong><\/h2>",
+            "left": false
           }
         },
         "1642348095014ff909-2": {
@@ -281,7 +501,6 @@
       },
       "block_order": [
         "1642348095014ff909-1",
-        "1642348095014ff909-0",
         "1642348095014ff909-2"
       ],
       "settings": {
@@ -388,6 +607,7 @@
         "1635821821b4bc362b-1",
         "1635821821b4bc362b-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
@@ -443,13 +663,17 @@
   },
   "order": [
     "main",
-    "16336611696633b6c2",
     "166213224446901241",
+    "image_banner_HzPkLU",
+    "rich_text_HLcHMQ",
+    "image_banner_NcBata",
     "163165417377a19cbd",
     "author-product",
     "91e4002a-752a-4872-a2a9-dc641e04c509",
     "5e4d3d98-02b1-47df-b3c9-4a03a6802fea",
     "163616771967b30d2e",
+    "image_banner_QjyagB",
+    "image_with_text_eKTyXw",
     "163366161336322e5e",
     "164234809519219ba2",
     "16326202476377d29f",
