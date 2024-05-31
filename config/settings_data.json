@@ -188,15 +188,15 @@
         "settings": {
         }
       },
-      "11560147490181472608": {
-        "type": "shopify:\/\/apps\/rivo-loyalty-referrals\/blocks\/app-embed\/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "6174324309569838175": {
         "type": "shopify:\/\/apps\/smile-io\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": true,
+        "settings": {
+        }
+      },
+      "7615545993697021613": {
+        "type": "shopify:\/\/apps\/kommo\/blocks\/kommo_crm_plugin\/fec83a15-018d-44d7-84c7-a37d127b1bc1",
+        "disabled": false,
         "settings": {
         }
       }
