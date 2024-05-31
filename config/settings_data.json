@@ -400,7 +400,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".title--primary {display: none !important;}"
+      ".bNpnJB {overflow: hidden !important;}"
     ]
   }
 }
