@@ -194,9 +194,15 @@
         "settings": {
         }
       },
+      "7584948915495707528": {
+        "type": "shopify:\/\/apps\/joy-loyalty-program\/blocks\/app-embed\/555c55c9-9a3d-4fe0-a7a8-2c256984a371",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "4291333794791649201": {
         "type": "shopify:\/\/apps\/loyalty-rewards-and-referrals\/blocks\/embed-sdk\/6f172e67-4106-4ac0-89c5-b32a069b3101",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "disableBundledCSS": false,
           "disableBundledFonts": false,
@@ -400,6 +406,7 @@
   },
   "platform_customizations": {
     "custom_css": [
+      ".title--primary {display: none !important;}",
       ".bNpnJB {overflow: hidden !important;}"
     ]
   }
