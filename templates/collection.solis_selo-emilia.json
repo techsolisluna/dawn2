@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "163621534324110d9f": {
@@ -43,6 +52,8 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -433,6 +444,73 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_rVKp9h": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_WhqDjF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Lançamento!<\/strong><\/em><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "caption_mQP9Yn": {
+          "type": "caption",
+          "settings": {
+            "caption": "SELO EMÍLIA E SOLISLUNA",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "heading_UNN3Pb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clubes de leitura",
+            "heading_size": "h2"
+          }
+        },
+        "text_EAKgWH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Janine Durand<br\/>Luciana Gerbovic<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_m8neJm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/products\/clubes-de-leitura"
+          }
+        }
+      },
+      "block_order": [
+        "text_WhqDjF",
+        "caption_mQP9Yn",
+        "heading_UNN3Pb",
+        "text_EAKgWH",
+        "button_m8neJm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Clubes-de-leitura-fundo-transparente.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e": {
       "type": "rich-text",
       "blocks": {
@@ -595,6 +673,8 @@
         "image_height": "large",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "top-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -647,6 +727,8 @@
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -706,6 +788,7 @@
     "1641660934aba29122",
     "product-grid",
     "c9749d1b-08db-45bf-8f85-91454ae0b7ea",
+    "image_with_text_rVKp9h",
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e",
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1656287947e32d56b3",
