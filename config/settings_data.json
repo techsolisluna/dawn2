@@ -206,12 +206,6 @@
           "useClassIsolator": false
         }
       },
-      "7584948915495707528": {
-        "type": "shopify:\/\/apps\/joy-loyalty-program\/blocks\/app-embed\/555c55c9-9a3d-4fe0-a7a8-2c256984a371",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "14086825455377523015": {
         "type": "shopify:\/\/apps\/messagebird\/blocks\/auto-embed\/ce3c22c6-4df5-420a-930a-69c877c20085",
         "disabled": false,
