@@ -9,13 +9,32 @@
 */
 {
   "sections": {
+    "af4c4e66-9870-4ade-8e8b-96d8cae80c64": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "forms": {
       "type": "apps",
       "blocks": {
         "74ee1b37-7d03-45b3-b49f-7bd791781bdf": {
           "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "142943"
+            "form_id": "142943",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
           }
         }
       },
@@ -23,16 +42,144 @@
         "74ee1b37-7d03-45b3-b49f-7bd791781bdf"
       ],
       "settings": {
+        "include_margins": true
       }
     },
-    "af4c4e66-9870-4ade-8e8b-96d8cae80c64": {
-      "type": "main-page",
+    "multicolumn_LAxQGU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8XGB4N": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_6wEtxp": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_VAYXd8": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_8XGB4N",
+        "column_6wEtxp",
+        "column_VAYXd8"
+      ],
+      "disabled": true,
       "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_YYQVqX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_X9ch4w": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual a política de descontos para professores?",
+            "icon": "price_tag",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_Riqpm7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Por que preciso fornecer estas informações?",
+            "icon": "lock",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_eM7KQA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_X9ch4w",
+        "collapsible_row_Riqpm7",
+        "collapsible_row_eM7KQA"
+      ],
+      "settings": {
+        "caption": "Para não ficar dúvidas",
+        "heading": "Perguntas Frequentes",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "custom_background": false,
+        "background_color": "#000",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_8jkLpg": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CapaCatalogo_filete.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "af4c4e66-9870-4ade-8e8b-96d8cae80c64",
-    "forms"
+    "forms",
+    "multicolumn_LAxQGU",
+    "collapsible_content_YYQVqX",
+    "image_banner_8jkLpg"
   ]
 }
