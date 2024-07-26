@@ -890,7 +890,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/sala-do-educador"
+            "button_link": "shopify:\/\/pages\/cadastro-educador"
           }
         }
       },
