@@ -32,6 +32,11 @@
           "settings": {
           }
         },
+        "judge_me_reviews_preview_badge_QEkGz4": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "a26a3e77-9691-4584-90e8-f138c0917db1": {
           "type": "custom_liquid",
           "settings": {
@@ -122,6 +127,7 @@
         "vendor",
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74",
         "title",
+        "judge_me_reviews_preview_badge_QEkGz4",
         "a26a3e77-9691-4584-90e8-f138c0917db1",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "price",
@@ -196,31 +202,6 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "163165417377a19cbd": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_rTmFr7": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "judge_me_reviews_featured_carousel_pkb6LG": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_rTmFr7",
-        "judge_me_reviews_featured_carousel_pkb6LG"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "author-product": {
@@ -624,7 +605,6 @@
     "17220978515ef35579",
     "premios",
     "16336611696633b6c2",
-    "163165417377a19cbd",
     "author-product",
     "1632621267a9cdb8f8",
     "163616771967b30d2e",
