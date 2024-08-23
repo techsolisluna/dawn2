@@ -405,5 +405,16 @@
 {%- endif -%}
 </script>
 <!-- PF EDT END -->
+    <script>
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('https://ipinfo.io?callback')
+    .then(res => res.json())
+    .then(json => {
+      if (json.ip == "179.222.151.27") {
+        document.querySelector('main').innerHTML = `<div class="content_blocked" style="padding: 10rem; text-align: center; margin: auto">This content is not available in your country</div>`;
+      }
+  })
+},false);
+</script>
 </body>
 </html>
