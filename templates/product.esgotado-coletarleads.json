@@ -170,34 +170,6 @@
         "padding_bottom": 36
       }
     },
-    "1724855185980b2c86": {
-      "type": "apps",
-      "blocks": {
-        "forms_inline_UepU7f": {
-          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "settings": {
-            "form_id": "{{ product.metafields.custom.indisponivel_form_id.value }}",
-            "text_color": "#202020",
-            "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
-            "text_alignment": "center",
-            "form_alignment": "center",
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "padding_right": 0,
-            "padding_left": 0
-          }
-        }
-      },
-      "block_order": [
-        "forms_inline_UepU7f"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "16361369513201e57a": {
       "type": "newsletter",
       "blocks": {
@@ -289,6 +261,34 @@
         "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1724855185980b2c86": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_UepU7f": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "{{ product.metafields.custom.indisponivel_form_id.value }}",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_UepU7f"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "16326202476377d29f": {
@@ -438,10 +438,10 @@
   "order": [
     "main",
     "16336611696633b6c2",
-    "1724855185980b2c86",
     "16361369513201e57a",
     "author-product",
     "1632621267a9cdb8f8",
+    "1724855185980b2c86",
     "16326202476377d29f",
     "1631654167122d4539",
     "product-recommendations",
