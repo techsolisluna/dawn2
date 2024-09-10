@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -61,7 +70,7 @@
         "385c7754-4629-4dea-9dba-8cf1b306eafe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br\/><\/b>\nShipping forecast:{% else %}Livro em pré-venda.<br\/><\/b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}<\/div>{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br\/><\/b>\nShipping forecast:{% else %}Livro em pré-venda.<br\/><\/b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}<\/div>{% endif %}"
           }
         },
         "ac5d2265-3446-44b4-9455-7d569c8114a4": {
