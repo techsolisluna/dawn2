@@ -9,10 +9,79 @@
 */
 {
   "sections": {
+    "rich_text_yqngX4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RqCdg8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Foreign Rights</p>",
+            "heading_size": "h0"
+          }
+        },
+        "text_FpqDg8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Kin Guerra</strong><br/>kin@solisluna.com.br<br/><em>Rights manager</em></p>",
+            "left": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_RqCdg8",
+        "text_FpqDg8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_rVfGTP": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_EgKWJb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded in 1993 in Bahia, Brazil, <strong>Solisluna Editora</strong> publishes a diverse range of books each year, including picture books, children’s fiction, and literary works that provoke reflection on universal realities and collective values. We are committed to <em>bibliodiversity</em> and cultural exchange, presenting stories that transcend borders and resonate with readers of all ages.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_EgKWJb"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SELO_SOLISLUNA_3e452d7e-5705-4573-922a-4c4a1e403906.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -167,6 +236,8 @@
     }
   },
   "order": [
+    "rich_text_yqngX4",
+    "image_with_text_rVfGTP",
     "main",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
