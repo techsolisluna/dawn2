@@ -104,7 +104,7 @@
         "text_46GED4": {
           "type": "text",
           "settings": {
-            "section_html": "<div style=\"text-align:center;\">\n<iframe src=\"//v.calameo.com/?bkcode=006443937ee0096996f12&amp;mode=mini&amp;view=book&amp;clickto=view&amp;clicktarget=_self\" width=\"100%\" height=\"800px\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"\" allowfullscreen=\"\" style=\"margin:0 auto;\"></iframe><div style=\"margin:4px 0px 8px;\"></div>\n</div>"
+            "section_html": "<div style=\"text-align:center;\"><iframe src=\"//v.calameo.com/?bkcode=006443937ee0096996f12&amp;mode=full&amp;view=book&amp;clickto=embed\" width=\"100%\" height=\"800\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"\" allowfullscreen=\"\" style=\"margin:0 auto;\"></iframe></div>"
           }
         }
       },
@@ -113,11 +113,14 @@
       ],
       "settings": {
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "image_banner_7iqWp3": {
       "type": "image-banner",
+      "custom_css": [
+        "div {margin:-5px 0}"
+      ],
       "settings": {
         "image": "shopify://shop_images/banner_vaporzinho.png",
         "image_overlay_opacity": 0,
