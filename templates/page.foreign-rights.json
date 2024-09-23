@@ -25,11 +25,23 @@
             "text": "<p><strong>Kin Guerra</strong><br/>kin@solisluna.com.br<br/><em>Rights manager</em></p>",
             "left": true
           }
+        },
+        "button_xpnHNN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Children's books Catalogue",
+            "button_link": "https://link.solisluna.com.br/foreign-rights-24",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_RqCdg8",
-        "text_FpqDg8"
+        "text_FpqDg8",
+        "button_xpnHNN"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -84,6 +96,25 @@
         "show_title": false,
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "image_banner_7iqWp3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/banner_vaporzinho.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1659755087d5917cf5": {
@@ -239,6 +270,7 @@
     "rich_text_yqngX4",
     "image_with_text_rVfGTP",
     "main",
+    "image_banner_7iqWp3",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
