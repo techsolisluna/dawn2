@@ -37,14 +37,14 @@
     "text_boxes_shadow_opacity": 0,
     "media_border_thickness": 0,
     "badge_position": "bottom left",
-    "social_facebook_link": "https:\/\/facebook.com\/solislunaeditora",
-    "social_instagram_link": "http:\/\/instagram.com\/solislunaeditora",
-    "social_youtube_link": "https:\/\/www.youtube.com\/solisluna",
+    "social_facebook_link": "https://facebook.com/solislunaeditora",
+    "social_instagram_link": "http://instagram.com/solislunaeditora",
+    "social_youtube_link": "https://www.youtube.com/solisluna",
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
-    "favicon": "shopify:\/\/shop_images\/favicon_32.png",
+    "favicon": "shopify://shop_images/favicon_32.png",
     "currency_code_enabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo_horizontal_13.png",
+    "checkout_logo_image": "shopify://shop_images/logo_horizontal_13.png",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#fefff2",
     "checkout_accent_color": "#0067ac",
@@ -60,7 +60,7 @@
             "settings": {
               "text": "Feira do Livro da UNESP 🎉  Livros com 50% de desconto!",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/feira-do-livro-da-unesp-2022"
+              "link": "shopify://collections/feira-do-livro-da-unesp-2022"
             }
           },
           "c8a7fcbd-2928-40ae-aac8-d89b26a797f0": {
@@ -84,9 +84,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/LogoSolisluna2019-03_86ede34c-9e58-47f1-84fd-50173cc307a7.png",
+          "logo": "shopify://shop_images/LogoSolisluna2019-03_86ede34c-9e58-47f1-84fd-50173cc307a7.png",
           "logo_width": 220,
-          "logo_position": "middle-left",
+          "logo_position": "top-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
@@ -111,13 +111,13 @@
             "type": "text",
             "settings": {
               "heading": "Solisluna 30 anos",
-              "subtext": "<p>Fundada em 1993 na Bahia, a <strong>Solisluna<\/strong> realiza projetos e ações que sensibilizam e levam à reflexão sobre diferentes realidades e modos diversos de ver o mundo. Somos comprometidos com o coletivo e com questões importantes de nossa sociedade: cultura, inteligência e sensibilidades.<\/p>"
+              "subtext": "<p>Fundada em 1993 na Bahia, a <strong>Solisluna</strong> realiza projetos e ações que sensibilizam e levam à reflexão sobre diferentes realidades e modos diversos de ver o mundo. Somos comprometidos com o coletivo e com questões importantes de nossa sociedade: cultura, inteligência e sensibilidades.</p>"
             }
           },
           "8dbe1e14-2e12-4f76-b78d-a695f4a1ff71": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo_vertical_13___white.png",
+              "image": "shopify://shop_images/logo_vertical_13___white.png",
               "image_width": 200,
               "alignment": "center"
             }
@@ -145,7 +145,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/logo_horizontal_11.png",
+          "logo": "shopify://shop_images/logo_horizontal_11.png",
           "logo_max_width": 210,
           "color_scheme": "background-1"
         }
@@ -162,7 +162,7 @@
     ],
     "blocks": {
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
         "settings": {
           "button_color": "#0003d6",
@@ -174,31 +174,31 @@
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
       },
       "13768625480086291342": {
-        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {
         }
       },
       "11242429557760608184": {
-        "type": "shopify:\/\/apps\/referrly-affiliate\/blocks\/main-app-embed\/75b5ccd5-af90-4f81-ab89-2c28499171fd",
+        "type": "shopify://apps/referrly-affiliate/blocks/main-app-embed/75b5ccd5-af90-4f81-ab89-2c28499171fd",
         "disabled": false,
         "settings": {
         }
       },
       "11735689235857492391": {
-        "type": "shopify:\/\/apps\/algolia-search-and-discovery\/blocks\/autocomplete\/57bb7f86-d5fe-4d43-96ca-3953324494cf",
+        "type": "shopify://apps/algolia-search-and-discovery/blocks/autocomplete/57bb7f86-d5fe-4d43-96ca-3953324494cf",
         "disabled": false,
         "settings": {
         }
       },
       "4291333794791649201": {
-        "type": "shopify:\/\/apps\/loyalty-rewards-and-referrals\/blocks\/embed-sdk\/6f172e67-4106-4ac0-89c5-b32a069b3101",
+        "type": "shopify://apps/loyalty-rewards-and-referrals/blocks/embed-sdk/6f172e67-4106-4ac0-89c5-b32a069b3101",
         "disabled": true,
         "settings": {
           "disableBundledCSS": false,
@@ -207,7 +207,7 @@
         }
       },
       "15914998778720525373": {
-        "type": "shopify:\/\/apps\/crisp-live-chat-chatbot\/blocks\/app-embed\/5c3cfd5f-01d4-496a-891b-f98ecf27ff08",
+        "type": "shopify://apps/crisp-live-chat-chatbot/blocks/app-embed/5c3cfd5f-01d4-496a-891b-f98ecf27ff08",
         "disabled": false,
         "settings": {
         }
