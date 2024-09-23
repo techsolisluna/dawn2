@@ -11,9 +11,8 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
-        "show_title": false,
+        "show_title": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -84,6 +83,7 @@
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/appHyJlPN401lTvC4/pagOJStTUM7RIe4G5/form\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"800px\" style=\"background: transparent; border: 0px solid #ccc;\"></iframe>",
         "color_scheme": "background-1",
