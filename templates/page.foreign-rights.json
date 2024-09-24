@@ -21,6 +21,7 @@
         },
         "text_FpqDg8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Kin Guerra</strong><br/>kin@solisluna.com.br<br/><em>Rights manager</em></p>",
             "left": true
