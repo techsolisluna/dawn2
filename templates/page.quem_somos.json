@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "163476346775d6733a": {
@@ -38,11 +47,13 @@
         "163476346775d6733a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -58,7 +69,7 @@
         "16347613382e251593-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Desde 1993 lança luz à boas histórias em belos livros<\/p>",
+            "heading": "<p>Desde 1993 lança luz à boas histórias em belos livros</p>",
             "heading_size": "h0"
           }
         },
@@ -66,7 +77,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "left": false
           }
         },
@@ -122,7 +133,7 @@
         "163606406040c32a48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Os projetos são plenamente desenvolvidos pela equipe de editores, designers, produtores, que fazem parte do corpo funcional da empresa e também dos experientes redatores, revisores, fotógrafos e gráficos, profissionais que participam da rede de colaboradores da Solisluna.<\/p>",
+            "text": "<p>Os projetos são plenamente desenvolvidos pela equipe de editores, designers, produtores, que fazem parte do corpo funcional da empresa e também dos experientes redatores, revisores, fotógrafos e gráficos, profissionais que participam da rede de colaboradores da Solisluna.</p>",
             "text_style": "subtitle"
           }
         },
@@ -141,7 +152,7 @@
         "163606406040c32a48-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/5be0be8a6bff6278ef8b29fa_13707626_1216316771721389_7728690323196855965_n.jpg",
+        "image": "shopify://shop_images/5be0be8a6bff6278ef8b29fa_13707626_1216316771721389_7728690323196855965_n.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -163,7 +174,7 @@
     "1636064642e6d007b2": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Bale_corte_2048x.jpg\" alt=\"\"\/><\/div>",
+        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https://cdn.shopify.com/s/files/1/1201/3280/files/Bale_corte_2048x.jpg\" alt=\"\"/></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -182,7 +193,7 @@
         "16360646291a3707f8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Com uma equipe multidisciplinar de profissionais e colaboradores, desenvolvemos projetos para empresas e instituições públicas e privadas. Livros comemorativos sobre a memória e a história das instituições fazem parte do nosso portfólio desde a fundação da Solisluna, em 1993. Editamos também livros temáticos, culturais, técnicos ou científicos, patrocinados por empresas ou editais. Para saber mais e conhecer o nosso portfólio de projetos institucionais entre em contato.<\/p>",
+            "text": "<p>Com uma equipe multidisciplinar de profissionais e colaboradores, desenvolvemos projetos para empresas e instituições públicas e privadas. Livros comemorativos sobre a memória e a história das instituições fazem parte do nosso portfólio desde a fundação da Solisluna, em 1993. Editamos também livros temáticos, culturais, técnicos ou científicos, patrocinados por empresas ou editais. Para saber mais e conhecer o nosso portfólio de projetos institucionais entre em contato.</p>",
             "text_style": "body"
           }
         }
@@ -192,7 +203,7 @@
         "16360646291a3707f8-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/5f009654169298152932aeee_Plantas-Medicinais.jpg",
+        "image": "shopify://shop_images/5f009654169298152932aeee_Plantas-Medicinais.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -249,11 +260,13 @@
         "16360808900d59ac2c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/5be425bab64f09d312c14806_Gravura_barcos.jpg",
+        "image": "shopify://shop_images/5be425bab64f09d312c14806_Gravura_barcos.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -265,7 +278,6 @@
     },
     "1636063485b71f9273": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1636063485b71f9273-0": {
           "type": "heading",
@@ -301,12 +313,15 @@
         "1636063485b71f9273-1",
         "1636063485b71f9273-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
+        "image": "shopify://shop_images/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -337,7 +352,7 @@
         "163475817845dfb954-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Em 2010 foi iniciado o selo comercial <strong>Solisluna Editora<\/strong> com o propósito de editar e publicar livros para serem distribuídos ao mercado nacional. <\/p><p><\/p>",
+            "text": "<p>Em 2010 foi iniciado o selo comercial <strong>Solisluna Editora</strong> com o propósito de editar e publicar livros para serem distribuídos ao mercado nacional. </p><p></p>",
             "text_style": "body"
           }
         },
@@ -357,7 +372,7 @@
         "163475817845dfb954-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/4945762727_f42883e16d_o_grande_92c63d24-b346-49dd-adc5-ea3cb3df2040.jpg",
+        "image": "shopify://shop_images/4945762727_f42883e16d_o_grande_92c63d24-b346-49dd-adc5-ea3cb3df2040.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -382,7 +397,7 @@
         "a80513c3-b551-438c-901b-1f94c9558894": {
           "type": "text",
           "settings": {
-            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.<\/p><p><\/p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.<\/strong><\/p>",
+            "text": "<p>Sonhado pelos sócios desde o inicio da empresa, no começo da década de 1990, e cada vez mais uma demanda necessária para o escoamento dos livros dos autores da casa, o selo foi lançado na XX Bienal Internacional de São Paulo com o lançamento de 16 títulos.</p><p></p><p><strong>A Solisluna Editora é comprometida com a bibliodiversidade e tem se caracterizado por difundir livros de qualidade: prosa e poesia, romances, ensaios e estudos afro-brasileiros, publicações e catálogos institucionais, livros de arte e para as crianças e jovens.</strong></p>",
             "left": true
           }
         },
@@ -390,7 +405,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>No calor do dia ou na noite fria, um bom livro é o melhor amigo<\/p>",
+            "heading": "<p>No calor do dia ou na noite fria, um bom livro é o melhor amigo</p>",
             "heading_size": "h0"
           }
         }
@@ -449,11 +464,13 @@
         "1636067174fb6194a5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image": "shopify://shop_images/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -476,7 +493,7 @@
         "163606552717adfdda-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Desde 2013 a Solisluna é associada ao Programa Brazilian Publishers \/ CBL \/ APEX o que tem proporcionado a editora a participação nas maiores e mais importantes feiras internacionais do livro como a Feira Internacional do Livro de Frankfurt (Alemanha), Feira Internacional do Livro Infantil de Bolonha (Itália), Salão Internacional do Livro de Paris (França), Feira Internacional do Livro de Guadalajara (México) e Feira Internacional do Livro de Sharjah (Emirados Árabes Unidos).<\/p><p>Com espaço reservado nos estandes do Brasil, a Solisluna tem apresentado para o mundo editorial a sua criativa produção de conteúdos inéditos e autores brasileiros.<\/p>",
+            "text": "<p>Desde 2013 a Solisluna é associada ao Programa Brazilian Publishers / CBL / APEX o que tem proporcionado a editora a participação nas maiores e mais importantes feiras internacionais do livro como a Feira Internacional do Livro de Frankfurt (Alemanha), Feira Internacional do Livro Infantil de Bolonha (Itália), Salão Internacional do Livro de Paris (França), Feira Internacional do Livro de Guadalajara (México) e Feira Internacional do Livro de Sharjah (Emirados Árabes Unidos).</p><p>Com espaço reservado nos estandes do Brasil, a Solisluna tem apresentado para o mundo editorial a sua criativa produção de conteúdos inéditos e autores brasileiros.</p>",
             "text_style": "subtitle"
           }
         },
@@ -495,7 +512,7 @@
         "163606552717adfdda-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Solisluna-EmbaixadaDaIndia.jpg",
+        "image": "shopify://shop_images/Solisluna-EmbaixadaDaIndia.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -552,11 +569,13 @@
         "1634764271d599620a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
+        "image": "shopify://shop_images/CapaCatalogo_4d5dd46a-9c0a-4690-9207-8f7c87b5a87a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -572,14 +591,14 @@
         "16347634646ded7396-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Solislúnicos<\/p>",
+            "heading": "<p>Solislúnicos</p>",
             "heading_size": "h0"
           }
         },
         "16347634646ded7396-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.<\/p>",
+            "text": "<p>Uma família de pessoas apaixonadas por belos livros com narrativas fascinantes e por toda a potência transformadora das histórias, da arte e do conhecimento.</p>",
             "left": false
           }
         },
@@ -620,9 +639,9 @@
         "1634759716c25d2926-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/14468768_1277144488971950_5980506223533247554_o.jpg",
+            "image": "shopify://shop_images/14468768_1277144488971950_5980506223533247554_o.jpg",
             "title": "Valéria Pergentino",
-            "text": "<p>Nossa incansável editora. Gosta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.<\/p>",
+            "text": "<p>Nossa incansável editora. Gosta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -631,9 +650,9 @@
         "1634759716c25d2926-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/94257323_3223095451043110_3793037772609028096_n.jpg",
+            "image": "shopify://shop_images/eneas-guerra.jpg",
             "title": "Enéas Guerra",
-            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.<\/p>",
+            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -642,9 +661,9 @@
         "56063cfd-29f4-4d8a-849c-7d5e9f0da763": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
+            "image": "shopify://shop_images/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Fotógrafo formado em audiovisual, é o responsável pela linguagem digital da Solisluna. Regido pelo elemento fogo ele é movido pelos novos desafios, estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
+            "text": "<p>Fotógrafo formado em audiovisual, é o responsável pela linguagem digital da Solisluna. Regido pelo elemento fogo ele é movido pelos novos desafios, estimula a todos a usarem as novas tecnologias a favor do tempo.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -653,9 +672,9 @@
         "8a605bc9-35e7-4e40-ad9b-8ff0acceed33": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
+            "image": "shopify://shop_images/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -664,9 +683,9 @@
         "c0d7f472-bf10-4025-81ee-6a8436fd9156": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9805_1.jpg",
+            "image": "shopify://shop_images/IMG_9805_1.jpg",
             "title": "Mirian de Souza",
-            "text": "<p>Resposável pelo administrativo e financeiro da Solisluna. Serena, confiante e atenta aos detalhes, busca a todo momento aperfeiçoar os processos. Pratica o Yoga diariamente. <\/p>",
+            "text": "<p>Resposável pelo administrativo e financeiro da Solisluna. Serena, confiante e atenta aos detalhes, busca a todo momento aperfeiçoar os processos. Pratica o Yoga diariamente. </p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -675,9 +694,9 @@
         "93009c48-b3c8-4f90-a4fc-ece6dddde88a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
+            "image": "shopify://shop_images/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
             "title": "Vinicius Maciel",
-            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
+            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -711,14 +730,13 @@
     },
     "163606552460228c2a": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "163606552460228c2a-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
+            "image": "shopify://shop_images/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.<\/p>",
+            "text": "<p>Regido pelo elemento fogo ele é movido pelos novos desafios. Amante da fotografia e do audiovisual, é o responsável pela linguagem digital da Solisluna, e estimula a todos a usarem as novas tecnologias a favor do tempo.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -727,9 +745,9 @@
         "163606552460228c2a-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/14991106_1349957015015146_5128171386368675542_o.jpg",
+            "image": "shopify://shop_images/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.<\/p>",
+            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -738,9 +756,9 @@
         "163606552460228c2a-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
+            "image": "shopify://shop_images/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
             "title": "Vinicius Maciel",
-            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.<\/p>",
+            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -752,6 +770,7 @@
         "163606552460228c2a-0",
         "163606552460228c2a-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -772,7 +791,7 @@
     "1636066013aff0b06c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/LuaCospeEstrelas_copy.jpg?\" alt=\"\"\/><\/div>",
+        "custom_liquid": "<div style=\"max-width:100vw;display:flex; justify-content:center;\"><img style=\"max-width:100%\" src=\"https://cdn.shopify.com/s/files/1/1201/3280/files/LuaCospeEstrelas_copy.jpg?\" alt=\"\"/></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -816,11 +835,13 @@
         "1634773574e886a147-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -843,7 +864,7 @@
         "16347736748d35dfda-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Vamos ficar em contato! Saiba em primeira mão das novidades e lançamentos.<\/p>"
+            "text": "<p>Vamos ficar em contato! Saiba em primeira mão das novidades e lançamentos.</p>"
           }
         },
         "16347736748d35dfda-2": {
@@ -862,7 +883,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "custom_background": false,
-        "background_color": "#000",
+        "background_color": "#000000",
         "padding_top": 40,
         "padding_bottom": 52
       }
