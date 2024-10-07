@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 28,
@@ -97,14 +98,13 @@
         "template--14510716878929__8e79cbdf-1b96-463a-9e05-c75965bb290a-text-1": {
           "type": "text",
           "settings": {
-            "section_html": "<div style=\"max-width:720px;margin-left:auto;margin-right:auto\"><iframe loading=\"lazy\" height=\"352\" width=\"100%\" src=\"https://open.spotify.com/embed/track/6xFbBuCyHRCVOLoylwYXzm?utm_source=generator\" style=\"border-radius: 12px;\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"></iframe></div>"
+            "section_html": "<iframe src=\"https://www.google.com/maps/d/u/0/embed?mid=11pSsSEDg96bjFoA_O1Rj6SzkeWjdlbs&amp;ehbc=2E312F&amp;noprof=1\" width=\"100%\" height=\"680\"></iframe>"
           }
         }
       },
       "block_order": [
         "template--14510716878929__8e79cbdf-1b96-463a-9e05-c75965bb290a-text-1"
       ],
-      "disabled": true,
       "settings": {
         "padding_top": 40,
         "padding_bottom": 52
