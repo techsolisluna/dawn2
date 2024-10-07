@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 28,
@@ -26,7 +25,7 @@
           "settings": {
             "heading": "Suporte com o pedido",
             "icon": "box",
-            "row_content": "<p>sasa<\/p>",
+            "row_content": "<p>sasa</p>",
             "page": ""
           }
         },
@@ -84,8 +83,9 @@
     },
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<iframe class=\"airtable-embed\" src=\"https:\/\/airtable.com\/embed\/appHyJlPN401lTvC4\/pagOJStTUM7RIe4G5\/form\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"800px\" style=\"background: transparent; border: 0px solid #ccc;\"><\/iframe>",
+        "custom_liquid": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/appHyJlPN401lTvC4/pagOJStTUM7RIe4G5/form\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"800px\" style=\"background: transparent; border: 0px solid #ccc;\"></iframe>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -97,7 +97,7 @@
         "template--14510716878929__8e79cbdf-1b96-463a-9e05-c75965bb290a-text-1": {
           "type": "text",
           "settings": {
-            "section_html": "<div style=\"max-width:720px;margin-left:auto;margin-right:auto\"><iframe loading=\"lazy\" height=\"352\" width=\"100%\" src=\"https:\/\/open.spotify.com\/embed\/track\/6xFbBuCyHRCVOLoylwYXzm?utm_source=generator\" style=\"border-radius: 12px;\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"><\/iframe><\/div>"
+            "section_html": "<div style=\"max-width:720px;margin-left:auto;margin-right:auto\"><iframe loading=\"lazy\" height=\"352\" width=\"100%\" src=\"https://open.spotify.com/embed/track/6xFbBuCyHRCVOLoylwYXzm?utm_source=generator\" style=\"border-radius: 12px;\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"></iframe></div>"
           }
         }
       },
@@ -149,7 +149,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/ilustra2-estebanvivaldi_1_405a65bc-0d97-442f-a1a5-f7d5cfa2c429.jpg",
+        "image": "shopify://shop_images/ilustra2-estebanvivaldi_1_405a65bc-0d97-442f-a1a5-f7d5cfa2c429.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
