@@ -47,7 +47,7 @@
         "163621534324110d9f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_02.jpg",
+        "image": "shopify://shop_images/capa_02.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
@@ -66,7 +66,7 @@
     "16363227896cc19ea0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>",
+        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https://cdn.shopify.com/s/files/1/1201/3280/files/marcas_1070x.png?v=1636305726\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"/></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -86,7 +86,7 @@
         "1636305427ae379b7e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>",
+            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.</p>",
             "text_style": "body"
           }
         },
@@ -106,7 +106,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/marcas.png",
+        "image": "shopify://shop_images/marcas.png",
         "product_img": false,
         "height": "large",
         "desktop_image_width": "medium",
@@ -131,7 +131,7 @@
         "163623246502d067a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A <strong>Solisluna Editora<\/strong> e o <strong>Selo Emília<\/strong> do <a href=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https:\/\/emilia.org.br\/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília<\/a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.<\/p>",
+            "text": "<p>A <strong>Solisluna Editora</strong> e o <strong>Selo Emília</strong> do <a href=\"https://emilia.org.br/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\" target=\"_blank\" title=\"https://emilia.org.br/?utm_source=solisluna&utm_medium=site&utm_campaign=parceria\">Instituto Emília</a> se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens. Nesta parceria também são escolhidos livros para a infância sobre temas da vida, sensíveis e urgentes como migração e política.</p>",
             "left": true
           }
         },
@@ -139,7 +139,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>Conheça os livros publicados em parceria<\/p>",
+            "heading": "<p>Conheça os livros publicados em parceria</p>",
             "heading_size": "h1"
           }
         },
@@ -180,7 +180,7 @@
         "template--14510716223569__8e611601-97dd-464c-80d8-8c3e322eae75-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Talk about your brand</p>",
             "heading_size": "h1"
           }
         },
@@ -188,7 +188,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
             "left": false
           }
         },
@@ -257,7 +257,7 @@
         "3250ac72-fc94-4ad8-8879-c5328ae0cf2d": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Lançamento!<\/strong><\/em><\/p>",
+            "text": "<p><em><strong>Lançamento!</strong></em></p>",
             "text_style": "subtitle"
           }
         },
@@ -279,7 +279,7 @@
         "template--14510716223569__f0d48d4c-bed6-4a6d-bb54-c891a2bf5899-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dar a palavra às crianças é a corajosa aventura desta publicação editorial que quer estimular os nossos ouvidos a escutarem essa “voz inexistente”.<\/p>",
+            "text": "<p>Dar a palavra às crianças é a corajosa aventura desta publicação editorial que quer estimular os nossos ouvidos a escutarem essa “voz inexistente”.</p>",
             "text_style": "body"
           }
         },
@@ -287,7 +287,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/uma-viagem-nos-direitos-das-criancas"
+            "button_link": "shopify://products/uma-viagem-nos-direitos-das-criancas"
           }
         }
       },
@@ -299,7 +299,7 @@
         "template--14510716223569__f0d48d4c-bed6-4a6d-bb54-c891a2bf5899-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2902-2.jpg",
+        "image": "shopify://shop_images/IMG_2902-2.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -383,7 +383,7 @@
         "a2782e4c-3d3c-453b-b771-2c1f271d4ddd": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Lançamento!<\/strong><\/em><\/p>",
+            "text": "<p><em><strong>Lançamento!</strong></em></p>",
             "text_style": "subtitle"
           }
         },
@@ -405,7 +405,7 @@
         "f1129cd0-4012-49b5-b355-97d5b1a11676": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Andréa Luize<br\/>Andréa Dias Tambelli<br\/>Bárbara Franceli Passos<\/strong><\/p>",
+            "text": "<p><strong>Andréa Luize<br/>Andréa Dias Tambelli<br/>Bárbara Franceli Passos</strong></p>",
             "text_style": "body"
           }
         },
@@ -413,7 +413,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/infancias-e-escritas-producao-de-textos-na-escola"
+            "button_link": "shopify://products/infancias-e-escritas-producao-de-textos-na-escola"
           }
         }
       },
@@ -425,7 +425,7 @@
         "5e82f389-8370-4daa-8497-eaa3d1c828ec"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/infancias-escritas.jpg",
+        "image": "shopify://shop_images/infancias-escritas.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -450,7 +450,7 @@
         "text_WhqDjF": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Lançamento!<\/strong><\/em><\/p>",
+            "text": "<p><em><strong>Lançamento!</strong></em></p>",
             "text_style": "subtitle"
           }
         },
@@ -472,7 +472,7 @@
         "text_EAKgWH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Janine Durand<br\/>Luciana Gerbovic<\/strong><\/p>",
+            "text": "<p><strong>Janine Durand<br/>Luciana Gerbovic</strong></p>",
             "text_style": "body"
           }
         },
@@ -480,7 +480,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/products\/clubes-de-leitura"
+            "button_link": "shopify://products/clubes-de-leitura"
           }
         }
       },
@@ -492,7 +492,7 @@
         "button_m8neJm"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Clubes-de-leitura-fundo-transparente.png",
+        "image": "shopify://shop_images/Clubes-de-leitura-fundo-transparente.png",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -517,14 +517,14 @@
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>melhor preço: coleção completa<\/p>",
+            "heading": "<p>melhor preço: coleção completa</p>",
             "heading_size": "h1"
           }
         },
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Garanta o melhor preço ao comprar a coleção completa com os 5 títulos da coleção <strong>Ensaios para Educadores<\/strong> da parceria editorial Selo Emília & Solisluna<\/p>",
+            "text": "<p>Garanta o melhor preço ao comprar a coleção completa com os 5 títulos da coleção <strong>Ensaios para Educadores</strong> da parceria editorial Selo Emília & Solisluna</p>",
             "left": false
           }
         },
@@ -546,6 +546,7 @@
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-1",
         "template--14510716223569__d870f608-81e9-4bc9-adb8-90fc8b53d36e-1681235949a3641067-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -613,6 +614,7 @@
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-5",
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-6"
       ],
+      "disabled": true,
       "settings": {
         "product": "kit-livros-para-educadores",
         "color_scheme": "background-1",
@@ -649,7 +651,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "COMPRAR",
-            "button_link_1": "shopify:\/\/products\/kit-livros-para-educadores",
+            "button_link_1": "shopify://products/kit-livros-para-educadores",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -668,7 +670,7 @@
         ".subtitle {color: gray;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/C_0723.jpg",
+        "image": "shopify://shop_images/IMG_8975-3.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "product_banner": false,
@@ -722,7 +724,7 @@
         "1636215496e6c0ddce-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_02.jpg",
+        "image": "shopify://shop_images/capa_02.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
@@ -751,7 +753,7 @@
         "1641660840d46c51f2-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Seja o primeiro a saber sobre novos lançamentos da parceria Solisluna & Selo Emília.<\/p>"
+            "text": "<p>Seja o primeiro a saber sobre novos lançamentos da parceria Solisluna & Selo Emília.</p>"
           }
         },
         "1641660840d46c51f2-2": {
@@ -778,6 +780,7 @@
   },
   "order": [
     "163621534324110d9f",
+    "1656287947e32d56b3",
     "16363227896cc19ea0",
     "1636305427ae379b7e",
     "163623246502d067a6",
@@ -791,7 +794,6 @@
     "image_with_text_rVKp9h",
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e",
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
-    "1656287947e32d56b3",
     "1636215496e6c0ddce",
     "16416608404e02ca88"
   ]
