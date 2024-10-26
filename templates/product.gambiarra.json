@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -21,6 +22,7 @@
         },
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}</div>{% else %}{% endif %}"
           }
