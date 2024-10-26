@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1658153573113a06df": {
@@ -15,54 +15,12 @@
         "5f56aabc-1b36-465c-acdc-52bbde404672": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-O-que-e-o-tempo-2.png",
+            "image": "shopify://shop_images/capa-gambiarra.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/de-onde-veio-meu-irmao",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-Ugh-A.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/tecelagem",
-            "button_style_secondary": true,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "left"
-          }
-        },
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-A-arvore-mais-sabida.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/a-arvore-mais-sabida-do-mundo",
+            "link": "shopify://products/gambiarra",
             "button_style_secondary": false,
             "image_link": true,
             "box_align": "middle-center",
@@ -78,7 +36,7 @@
         "slide_tFPCgf": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-La-fora-os-fantasmas-C.png",
+            "image": "shopify://shop_images/Banner-site-La-fora-os-fantasmas-C.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -96,15 +54,57 @@
             "text_alignment_mobile": "center"
           }
         },
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner-site-A-arvore-mais-sabida.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/a-arvore-mais-sabida-do-mundo",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner-site-Ugh-A.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/tecelagem",
+            "button_style_secondary": true,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "left"
+          }
+        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-site-Fabulacoes-A_1.png",
+            "image": "shopify://shop_images/Banner-site-Fabulacoes-A_1.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/fabulacoes",
+            "link": "shopify://products/fabulacoes",
             "button_style_secondary": false,
             "image_link": true,
             "box_align": "middle-right",
@@ -120,9 +120,9 @@
       },
       "block_order": [
         "5f56aabc-1b36-465c-acdc-52bbde404672",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
-        "f18a00a4-ade7-4915-a83c-c9f8cd242098",
         "slide_tFPCgf",
+        "f18a00a4-ade7-4915-a83c-c9f8cd242098",
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-1"
       ],
       "custom_css": [
@@ -141,7 +141,7 @@
     "image_banner_gnVmnH": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
+        "image": "shopify://shop_images/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
@@ -221,7 +221,7 @@
         "1635001812716d45d4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
@@ -251,7 +251,7 @@
         "text_ictwXx": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Solisluna Editora <\/strong>indicada ao BOP 2024 - Bologna Prize for the Best Children's Publishers of the Year -, prêmio internacional atribuído anualmente para distinguir editoras de excelência. Uma das cinco editoras infantis mais recomendadas por editores, associações de editores e instituições dedicadas à promoção da leitura no mundo.<\/p>",
+            "text": "<p><strong>Solisluna Editora </strong>indicada ao BOP 2024 - Bologna Prize for the Best Children's Publishers of the Year -, prêmio internacional atribuído anualmente para distinguir editoras de excelência. Uma das cinco editoras infantis mais recomendadas por editores, associações de editores e instituições dedicadas à promoção da leitura no mundo.</p>",
             "text_style": "subtitle"
           }
         }
@@ -261,7 +261,7 @@
         "text_ictwXx"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
+        "image": "shopify://shop_images/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -295,7 +295,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>lançamento<\/p>",
+            "text": "<p>lançamento</p>",
             "text_style": "subtitle"
           }
         },
@@ -309,7 +309,7 @@
         "1634603513b9058cec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Não existe escuridão que resista às risadas, <br\/>não há tristeza que enfrente cosquinhas.<br\/>Quando a mamãe está, <br\/>as sombras descansam até o outro dia.<\/p>",
+            "text": "<p>Não existe escuridão que resista às risadas, <br/>não há tristeza que enfrente cosquinhas.<br/>Quando a mamãe está, <br/>as sombras descansam até o outro dia.</p>",
             "text_style": "body"
           }
         },
@@ -317,7 +317,7 @@
           "type": "button",
           "settings": {
             "button_label": "Conheça",
-            "button_link": "shopify:\/\/products\/la-fora-os-fantasmas"
+            "button_link": "shopify://products/la-fora-os-fantasmas"
           }
         }
       },
@@ -329,7 +329,7 @@
         "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2152.jpg",
+        "image": "shopify://shop_images/IMG_2152.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -361,7 +361,7 @@
         "text_JMhEqp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>A Ialorixá e o Pajé é um relato verdadeiro sobre belas lembranças que Mãe Stella de Oxóssi viveu quando era uma jovem enfermeira.<\/strong>A história narra um encontro de Mãe Stella com um Pajé, e a troca de conhecimentos sobre plantas, ervas medicinais, raízes, sementes, folhas e rituais entre uma pessoa nascida na cultura afro-brasileira e outra na cultura indígena.  <\/p>",
+            "text": "<p><strong>A Ialorixá e o Pajé é um relato verdadeiro sobre belas lembranças que Mãe Stella de Oxóssi viveu quando era uma jovem enfermeira.</strong>A história narra um encontro de Mãe Stella com um Pajé, e a troca de conhecimentos sobre plantas, ervas medicinais, raízes, sementes, folhas e rituais entre uma pessoa nascida na cultura afro-brasileira e outra na cultura indígena.  </p>",
             "text_style": "body"
           }
         },
@@ -369,7 +369,7 @@
           "type": "button",
           "settings": {
             "button_label": "Conheça",
-            "button_link": "shopify:\/\/products\/a-ialorixa-e-o-paje"
+            "button_link": "shopify://products/a-ialorixa-e-o-paje"
           }
         }
       },
@@ -379,7 +379,7 @@
         "button_xR6NG3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/a-ialorixa-e-o-paje_b223045a-f20e-4faf-a7c0-10087ac481a8.jpg",
+        "image": "shopify://shop_images/a-ialorixa-e-o-paje_b223045a-f20e-4faf-a7c0-10087ac481a8.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -401,13 +401,13 @@
     "image_banner_hg8NzU": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
+        "image": "shopify://shop_images/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
         "image_link": true,
-        "link": "shopify:\/\/products\/antonino-peregrino",
+        "link": "shopify://products/antonino-peregrino",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -423,13 +423,13 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/antonino_peregrino_1.jpg",
+        "image": "shopify://shop_images/antonino_peregrino_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": true,
         "image_link": true,
-        "link": "shopify:\/\/products\/antonino-peregrino",
+        "link": "shopify://products/antonino-peregrino",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -445,7 +445,7 @@
         "image_Vjx7f6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/conselheiro.jpg",
+            "image": "shopify://shop_images/conselheiro.jpg",
             "image_padding": true
           }
         },
@@ -460,7 +460,7 @@
         "image_t8ekiz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ilustracao_Antonino_Peregrino_03_2048bcd8-00b4-461c-99c9-b8a1251b1534.jpg",
+            "image": "shopify://shop_images/ilustracao_Antonino_Peregrino_03_2048bcd8-00b4-461c-99c9-b8a1251b1534.jpg",
             "image_padding": false
           }
         }
@@ -491,8 +491,8 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_0225-Edit.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=fM7J4priGjU",
+            "cover_image": "shopify://shop_images/IMG_0225-Edit.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fM7J4priGjU",
             "description": "Describe the video",
             "image_padding": false
           }
@@ -508,7 +508,7 @@
         "df611440-2fed-43c4-8057-72e4ed7c469a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0178-Edit.jpg",
+            "image": "shopify://shop_images/IMG_0178-Edit.jpg",
             "image_padding": false
           }
         }
@@ -545,7 +545,7 @@
         "163259099574ea68ac-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma pequena livraria lúdica e móvel inspirada nos tradicionais carrinhos de pipoca e picolé. O <strong>Carrinho de Livros<\/strong> vende livros em lugares inusitados e entrega experiências únicas para todos que se aproximam nos ambientes onde ele circula. Podem ser praças, ruas, bairros, escolas... Ele está no seu caminho!<\/p>",
+            "text": "<p>Uma pequena livraria lúdica e móvel inspirada nos tradicionais carrinhos de pipoca e picolé. O <strong>Carrinho de Livros</strong> vende livros em lugares inusitados e entrega experiências únicas para todos que se aproximam nos ambientes onde ele circula. Podem ser praças, ruas, bairros, escolas... Ele está no seu caminho!</p>",
             "text_style": "body"
           }
         },
@@ -553,7 +553,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/carrinho-de-livros"
+            "button_link": "shopify://pages/carrinho-de-livros"
           }
         }
       },
@@ -563,7 +563,7 @@
         "163259099574ea68ac-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/carrinho-de-livros.jpg",
+        "image": "shopify://shop_images/carrinho-de-livros.jpg",
         "product_img": false,
         "height": "small",
         "desktop_image_width": "medium",
@@ -595,7 +595,7 @@
         "text_976rkx": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         },
@@ -614,7 +614,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Oxossi_Edsoleda-15_Limpo_1.jpg",
+        "image": "shopify://shop_images/Oxossi_Edsoleda-15_Limpo_1.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -639,14 +639,14 @@
         "1635818678cc429f25-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Patrimônio cultural imaterial<\/p>",
+            "heading": "<p>Patrimônio cultural imaterial</p>",
             "heading_size": "h0"
           }
         },
         "1635818678cc429f25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Livros sobre expressões artísticas, culturais e históricas; que tratam do patrimônio material e imaterial, e das questões relacionadas às mudanças sociais<\/p>",
+            "text": "<p>Livros sobre expressões artísticas, culturais e históricas; que tratam do patrimônio material e imaterial, e das questões relacionadas às mudanças sociais</p>",
             "left": false
           }
         },
@@ -853,7 +853,7 @@
         "163478366489eccf57-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image": "shopify://shop_images/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
@@ -882,7 +882,7 @@
         "1634611538203a7608-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. <\/p>",
+            "text": "<p>Professoras, bibliotecários, mediadores de leitura, contadores de histórias... todos que trabalham com educação e formação de leitores tem um espaço especial aqui na Solisluna. Oferecemos conteúdos e benefícios exclusivos. </p>",
             "text_style": "body"
           }
         },
@@ -890,7 +890,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais",
-            "button_link": "shopify:\/\/pages\/cadastro-educador"
+            "button_link": "shopify://pages/cadastro-educador"
           }
         }
       },
@@ -900,7 +900,7 @@
         "1634611538203a7608-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Coracoes_Uncoated.png",
+        "image": "shopify://shop_images/Coracoes_Uncoated.png",
         "product_img": false,
         "height": "small",
         "desktop_image_width": "medium",
@@ -1064,7 +1064,7 @@
         "1635967873ffcf8009-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
@@ -1093,7 +1093,7 @@
         "1635821185a894c04f-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p><\/p>"
+            "text": "<p></p>"
           }
         },
         "1635821185a894c04f-2": {
