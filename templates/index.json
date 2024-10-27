@@ -12,27 +12,6 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
-        "5f56aabc-1b36-465c-acdc-52bbde404672": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/capa-gambiarra_36692585-96f9-4bc7-aa2f-d0dacd6b3e51.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://products/gambiarra",
-            "button_style_secondary": false,
-            "image_link": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "center"
-          }
-        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
@@ -47,6 +26,27 @@
             "box_align": "middle-right",
             "show_text_box": false,
             "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5f56aabc-1b36-465c-acdc-52bbde404672": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/capa-gambiarra_36692585-96f9-4bc7-aa2f-d0dacd6b3e51.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/gambiarra",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
@@ -120,8 +120,8 @@
         }
       },
       "block_order": [
-        "5f56aabc-1b36-465c-acdc-52bbde404672",
         "165815357365d8068c-1",
+        "5f56aabc-1b36-465c-acdc-52bbde404672",
         "slide_tFPCgf",
         "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "f18a00a4-ade7-4915-a83c-c9f8cd242098"
@@ -200,7 +200,7 @@
         "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
       ],
       "settings": {
-        "image": "shopify://shop_images/gambiarra-01.jpg",
+        "image": "shopify://shop_images/gambiarra-01_1.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -345,14 +345,6 @@
     "image_with_text_Hq34DW": {
       "type": "image-with-text",
       "blocks": {
-        "caption_d7F469": {
-          "type": "caption",
-          "settings": {
-            "caption": "lançamento",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
         "text_ewCpDr": {
           "type": "text",
           "disabled": true,
@@ -384,7 +376,6 @@
         }
       },
       "block_order": [
-        "caption_d7F469",
         "text_ewCpDr",
         "heading_rVVAX9",
         "text_LXwjFP",
@@ -402,56 +393,6 @@
         "color_scheme": "inverse",
         "schema_color": false,
         "color_back": "#334fb4",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_WbrbJn": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_tXdLDH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bela história sobre um encontro das culturas originárias do Brasil",
-            "heading_size": "h1"
-          }
-        },
-        "text_JMhEqp": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>A Ialorixá e o Pajé é um relato verdadeiro sobre belas lembranças que Mãe Stella de Oxóssi viveu quando era uma jovem enfermeira.</strong>A história narra um encontro de Mãe Stella com um Pajé, e a troca de conhecimentos sobre plantas, ervas medicinais, raízes, sementes, folhas e rituais entre uma pessoa nascida na cultura afro-brasileira e outra na cultura indígena.  </p>",
-            "text_style": "body"
-          }
-        },
-        "button_xR6NG3": {
-          "type": "button",
-          "settings": {
-            "button_label": "Conheça",
-            "button_link": "shopify://products/a-ialorixa-e-o-paje"
-          }
-        }
-      },
-      "block_order": [
-        "heading_tXdLDH",
-        "text_JMhEqp",
-        "button_xR6NG3"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/a-ialorixa-e-o-paje_b223045a-f20e-4faf-a7c0-10087ac481a8.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "schema_color": false,
-        "color_back": "#4a994b",
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
@@ -700,82 +641,6 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_product_JRE3hB": {
-      "type": "featured-product",
-      "blocks": {
-        "text_DqRcGw": {
-          "type": "text",
-          "settings": {
-            "text": "Lançamento",
-            "text_style": "uppercase"
-          }
-        },
-        "text_YazidX": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "subtitle"
-          }
-        },
-        "title_x33dJF": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "text_BF7MKD": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "body"
-          }
-        },
-        "price_T9x7GR": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_6xEJfK": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "buy_buttons_qgQDQm": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "share_HW7HaP": {
-          "type": "share",
-          "settings": {
-            "share_label": "Compartilhar"
-          }
-        }
-      },
-      "block_order": [
-        "text_DqRcGw",
-        "text_YazidX",
-        "title_x33dJF",
-        "text_BF7MKD",
-        "price_T9x7GR",
-        "variant_picker_6xEJfK",
-        "buy_buttons_qgQDQm",
-        "share_HW7HaP"
-      ],
-      "settings": {
-        "product": "projetos-interculturais-na-escola",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1091,7 +956,6 @@
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
     "image_with_text_Hq34DW",
-    "image_with_text_WbrbJn",
     "image_banner_hg8NzU",
     "image_banner_9yeCej",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
@@ -1099,7 +963,6 @@
     "1635818678cc429f25",
     "1635597573bd71be81",
     "163458532453df37e6",
-    "featured_product_JRE3hB",
     "163478366489eccf57",
     "1634611538203a7608",
     "36d521d2-508c-4612-8183-a54392f57723",
