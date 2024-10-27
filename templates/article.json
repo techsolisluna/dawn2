@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "e74b7e05-23f1-42af-975f-f5e97b8d75f3": {
@@ -8,6 +17,8 @@
         "image_height": "large",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -24,14 +35,14 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>Talk about your brand</p>",
             "heading_size": "h1"
           }
         },
         "template--14510717173841__166938e7-8e1d-4747-abc6-b2a7d8c72d65-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>{{ article.metafields.custom.legenda_foto_principal.value }}<\/em><\/p>",
+            "text": "<p><em>{{ article.metafields.custom.legenda_foto_principal.value }}</em></p>",
             "left": false
           }
         },
@@ -107,6 +118,43 @@
         "link_url": ""
       }
     },
+    "newsletter_jrpAK9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_CnwEGh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Conversa boa não tem hora para acabar",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_QWXTgA": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Cadastre-se o seu email para ficar por dentro de todas as novidades.</p>"
+          }
+        },
+        "email_form_ED6MJ6": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CnwEGh",
+        "paragraph_QWXTgA",
+        "email_form_ED6MJ6"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16587998858c99169d": {
       "type": "image-banner",
       "blocks": {
@@ -145,11 +193,13 @@
         "16587998859dac3e93-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -190,7 +240,7 @@
         "1658799080e8942340-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Assina a nossa newsletter e fique por dentro de todos os lançamentos.<\/p>"
+            "text": "<p>Assina a nossa newsletter e fique por dentro de todos os lançamentos.</p>"
           }
         },
         "1658799080e8942340-2": {
@@ -219,6 +269,7 @@
     "e74b7e05-23f1-42af-975f-f5e97b8d75f3",
     "166938e7-8e1d-4747-abc6-b2a7d8c72d65",
     "main",
+    "newsletter_jrpAK9",
     "16587998858c99169d",
     "16493007942e10726b",
     "165879908073401e41"
