@@ -9,8 +9,54 @@
  */
 {
   "sections": {
+    "multicolumn_JciQjc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fV7cMw": {
+          "type": "column",
+          "settings": {
+            "title": "Solicite um orçamento personalizado",
+            "text": "<p><strong>Precisa de serviços editoriais específicos? </strong>Clique aqui para nos informar suas necessidades e receber um orçamento personalizado. Ideal para autores em qualquer etapa do processo de criação.</p>",
+            "link_label": "Continuar",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_YbdJ8e": {
+          "type": "column",
+          "settings": {
+            "title": "Submeta seu manuscrito",
+            "text": "<p>Você já tem um manuscrito pronto? Clique aqui para iniciar o processo de avaliação editorial. </p>",
+            "link_label": "Continuar",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_fV7cMw",
+        "column_YbdJ8e"
+      ],
+      "settings": {
+        "title": "Serviços editoriais para autores independentes que buscam excelência",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Conheça nossos serviços",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 28,
@@ -164,13 +210,72 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "multicolumn_qtdcne": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pn6yJ6": {
+          "type": "column",
+          "settings": {
+            "title": "Experiência comprovada",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_jQhVeJ": {
+          "type": "column",
+          "settings": {
+            "title": "Atendimento personalizado",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_C9HyDX": {
+          "type": "column",
+          "settings": {
+            "title": "Qualidade reconhecida",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_pn6yJ6",
+        "column_jQhVeJ",
+        "column_C9HyDX"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
+    "multicolumn_JciQjc",
     "main",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
-    "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
+    "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
+    "multicolumn_qtdcne"
   ]
 }
