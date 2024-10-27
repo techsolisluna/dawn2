@@ -70,7 +70,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Desde 1993 lança luz à boas histórias em belos livros</p>",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "16347613382e251593-1": {
@@ -102,7 +102,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
