@@ -321,14 +321,14 @@
         "1662469445056e69ac-0": {
           "type": "heading",
           "settings": {
-            "heading": "<h3>Artista vencedor do concurso de ilustração Solisluna 2023</h3><h1>Encontro do Sol com a Lua</h1>",
-            "heading_size": "h1"
+            "heading": "<h2>Artista vencedor do concurso de ilustração Solisluna 2023 Encontro do Sol com a Lua</h2>",
+            "heading_size": "h0"
           }
         },
         "1662469445056e69ac-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bruno de Almeida ficou em primeiro lugar com o seu trabalho \"Para fazer uma casa\" no concurso de ilustração que a Solisluna promoveu em celebração aos 30 anos da editora.</p>",
+            "text": "<h3>Bruno de Almeida ficou em primeiro lugar com o seu trabalho \"Para se fazer uma casa\" no concurso de ilustração que a Solisluna promoveu em 2023.</h3>",
             "left": false
           }
         },
