@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "163476346775d6733a": {
@@ -641,7 +641,7 @@
           "settings": {
             "image": "shopify://shop_images/14468768_1277144488971950_5980506223533247554_o.jpg",
             "title": "Valéria Pergentino",
-            "text": "<p>Nossa incansável editora. Gosta da diversidade e dos temas mais sensíveis e relevantes da nossa sociedade. Designer, ama as histórias, o papel e as tintas. Acompanha todas as etapas do desenvolvimento dos projetos da ideia ao livro pronto na mão do leitor.</p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -652,7 +652,7 @@
           "settings": {
             "image": "shopify://shop_images/eneas-guerra.jpg",
             "title": "Enéas Guerra",
-            "text": "<p>Nosso sênior. Editor, designer e ilustrador. Tem a cabeça do desenho. Ama gatos, fatos e notícias. Apaixonado por cultura e memória. Está sempre com olhar atento na edição de arte dos projetos da Solisluna. É autor de vários livros.</p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -663,7 +663,7 @@
           "settings": {
             "image": "shopify://shop_images/FotoKinGuerra_2_e9a594ff-64af-47b9-96a7-d8420f7b1641.png",
             "title": "Kin Guerra",
-            "text": "<p>Fotógrafo formado em audiovisual, é o responsável pela linguagem digital da Solisluna. Regido pelo elemento fogo ele é movido pelos novos desafios, estimula a todos a usarem as novas tecnologias a favor do tempo.</p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -674,7 +674,7 @@
           "settings": {
             "image": "shopify://shop_images/14991106_1349957015015146_5128171386368675542_o.jpg",
             "title": "Elaine Quirelli",
-            "text": "<p>Designer dedicada, cuida da finalização dos projetos editoriais com muita atenção e carinho. Ela ama fotografia, natureza e pássaros. Há 20 anos participa dos sonhos da Solisluna.</p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -685,7 +685,18 @@
           "settings": {
             "image": "shopify://shop_images/IMG_9805_1.jpg",
             "title": "Mirian de Souza",
-            "text": "<p>Resposável pelo administrativo e financeiro da Solisluna. Serena, confiante e atenta aos detalhes, busca a todo momento aperfeiçoar os processos. Pratica o Yoga diariamente. </p>",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_e4cUiA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/T6XA2RVR6-U05F97GLMNH-24206b2b27e1-512.png",
+            "title": "Bruna Souza",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -696,7 +707,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_20191213_160903_320_4c68e4e7-dbd3-4036-a6fa-c16be0998847.jpg",
             "title": "Vinicius Maciel",
-            "text": "<p>O mais jovem da equipe, é o nosso querido e calmo estagiário. Estuda o desenvolvimento de sistemas e adora games. Determinado e persistente, é desenvolvedor na Solisluna e cuida dos livros digitais.</p>",
+            "text": "",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -709,6 +720,7 @@
         "56063cfd-29f4-4d8a-849c-7d5e9f0da763",
         "8a605bc9-35e7-4e40-ad9b-8ff0acceed33",
         "c0d7f472-bf10-4025-81ee-6a8436fd9156",
+        "column_e4cUiA",
         "93009c48-b3c8-4f90-a4fc-ece6dddde88a"
       ],
       "settings": {
