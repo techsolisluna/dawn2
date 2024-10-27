@@ -342,6 +342,47 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_hg8NzU": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": true,
+        "link": "shopify://products/antonino-peregrino",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_9yeCej": {
+      "type": "image-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify://shop_images/antonino_peregrino_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": true,
+        "link": "shopify://products/antonino-peregrino",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_Hq34DW": {
       "type": "image-with-text",
       "blocks": {
@@ -399,47 +440,6 @@
         "contain_image": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_hg8NzU": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": true,
-        "link": "shopify://products/antonino-peregrino",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_9yeCej": {
-      "type": "image-banner",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify://shop_images/antonino_peregrino_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": true,
-        "link": "shopify://products/antonino-peregrino",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
@@ -955,9 +955,9 @@
     "featured_products",
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
-    "image_with_text_Hq34DW",
     "image_banner_hg8NzU",
     "image_banner_9yeCej",
+    "image_with_text_Hq34DW",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
     "1635818678cc429f25",
