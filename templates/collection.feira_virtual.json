@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16362061437bfdb629": {
@@ -6,8 +15,8 @@
         "16362061437bfdb629-0": {
           "type": "heading",
           "settings": {
-            "heading": "Festa do Livro da USP 2023",
-            "heading_size": "large"
+            "heading": "Festa do Livro da USP 2024",
+            "heading_size": "h0"
           }
         },
         "16362061437bfdb629-1": {
@@ -37,11 +46,13 @@
         "16362061437bfdb629-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -64,7 +75,7 @@
         "1636207041a3326ef2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ótima oportunidade para você adquirir nossos livros com preço muito especial. São descontos de 50% no preço de capa em grande parte do nosso catálogo. <br\/><strong>Aproveite a promoção para comprar os seus presentes de fim de ano.<\/strong><\/p>",
+            "text": "<p>Ótima oportunidade para você adquirir nossos livros com preço muito especial. São descontos de 50% no preço de capa em grande parte do nosso catálogo. <br/><strong>Aproveite a promoção para comprar os seus presentes de fim de ano.</strong></p>",
             "text_style": "body"
           }
         },
@@ -83,7 +94,7 @@
         "1636207041a3326ef2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/25flusp_data_post.jpg",
+        "image": "shopify://shop_images/IMG_0104.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -97,7 +108,7 @@
         "gradient_back": "",
         "color_text": "#ffffff",
         "mobile_content_alignment": "left",
-        "contain_image": false,
+        "contain_image": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -108,14 +119,14 @@
         "1636213132324535bb-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>O desconto de 50% será aplicado automaticamente no momento de finalizar a compra.<\/p>",
+            "heading": "<p>O desconto de 50% será aplicado automaticamente no momento de finalizar a compra.</p>",
             "heading_size": "h1"
           }
         },
         "1636213132324535bb-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Promoção válida até às 23:59 do domingo, dia 12 de novembro de 2023.<\/h3>",
+            "text": "<h3>Promoção válida até às 23:59 do domingo, dia 12 de novembro de 2023.</h3>",
             "left": false
           }
         },
@@ -219,11 +230,13 @@
         "16362069932c628b59-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
+        "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
         "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
