@@ -253,7 +253,6 @@
         width: 90vw;
         min-width: 300px;
         max-width: 800px;
-        box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
         z-index: 10001;
         display: flex;
         flex-direction: column;
@@ -346,7 +345,7 @@
       /* Estilo para textareas */
       .formField textarea {
         min-height: 100px; /* Tamanho mínimo para o textarea */
-        resize: vertical; /* Permite redimensionar apenas verticalmente */
+        resize: none; /* Permite redimensionar apenas verticalmente */
       }
     {% endstyle %}
 
@@ -436,12 +435,21 @@
         <div class="div-closeerrata"><span class="close-btnerrata" onclick="closeModal()">✖</span></div>
         
         <div class="topbarerrata">
-          <h1>Encontrou um erro no livro "{{ product.title }}"? Envie uma errata!</h1>
+          {% if localization.language.iso_code == "en" %}
+            <h1>Did you find an error in the book "{{ product.title }}"? Send an erratum!</h1>
+          {% else %}
+            <h1>Encontrou um erro no livro "{{ product.title }}"? Envie uma errata!</h1>
+          {% endif %}
         </div>
 
         <!-- Carregamento (Será visível enquanto a requisição estiver em andamento) -->
         <div id="loadingerrata" style="display: none;">
-          <div class="spinnermodalerrata"></div> Carregando...
+          <div class="spinnermodalerrata"></div> 
+          {% if localization.language.iso_code == "en" %}
+            Loading...
+          {% else %}
+            Carregando...
+          {% endif %}
         </div>
         
         <!-- Feedback do resultado da requisição (Erro ou Sucesso) -->
@@ -450,7 +458,13 @@
         <div class="formDivErrata">
           <form id="webhookForm">
             <div class="formField">
-              <label for="nameerrata">Nome</label>
+              <label for="nameerrata">
+                {% if localization.language.iso_code == "en" %}
+                  Name
+                {% else %}
+                  Nome
+                {% endif %}
+              </label>
               <input type="text" id="nameerrata" name="nameerrata" required maxlength="100" minlength="3">
             </div>
 
@@ -460,7 +474,13 @@
             </div>
 
             <div class="formField">
-              <label for="messageerrata">Qual é e onde está, exatamente, o erro que você encontrou?</label>
+              <label for="messageerrata">
+                {% if localization.language.iso_code == "en" %}
+                  What and where exactly is the error you found?
+                {% else %}
+                  Qual é e onde está, exatamente, o erro que você encontrou?
+                {% endif %}
+              </label>
               <textarea name="messageerrata" id="messageerrata" required maxlength="500" minlength="3"></textarea>
             </div>
               
@@ -468,7 +488,13 @@
 
             <input type="text" name="skuerrata" id="skuerrata" hidden value="{{ product.variants[0].sku }}">
 
-            <div class="buttonerrata"><button type="submit" class="button button--secondary" style="margin: auto;">Enviar</button></div>
+            <div class="buttonerrata"><button type="submit" class="button button--secondary" style="margin: auto;">
+              {% if localization.language.iso_code == "en" %}
+                Submit
+              {% else %}
+                Enviar
+              {% endif %}
+            </button></div>
           </form>
         </div>
       </div>

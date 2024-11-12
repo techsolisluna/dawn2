@@ -700,16 +700,16 @@
         if (response.ok) {
           loading.style.display = 'none';
           feedback.style.display = 'block';
-          feedback.textContent = 'Errata enviada com sucesso!';
+          {% if localization.language.iso_code == "en" %}feedback.textContent = 'Erratum sent successfully!';{% else %}feedback.textContent = 'Errata enviada com sucesso!';{% endif %}
         } else {
           loading.style.display = 'none';
           feedback.style.display = 'block';
-          feedback.textContent = 'Ocorreu um erro no envio. Por favor, entre em contato com a gente.';
+        {% if localization.language.iso_code == "en" %}feedback.textContent = 'An error occurred while sending. Please, contact us.';{% else %}feedback.textContent = 'Ocorreu um erro no envio. Por favor, entre em contato com a gente.';{% endif %}
         }
       } catch (error) {
         loading.style.display = 'none';
         feedback.style.display = 'block';
-        feedback.textContent = 'Ocorreu um erro no envio. Por favor, entre em contato com a gente.';
+        {% if localization.language.iso_code == "en" %}feedback.textContent = 'An error occurred while sending. Please, contact us.';{% else %}feedback.textContent = 'Ocorreu um erro no envio. Por favor, entre em contato com a gente.';{% endif %}
       }
     });
   </script>
