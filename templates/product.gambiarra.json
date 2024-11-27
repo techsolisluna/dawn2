@@ -29,13 +29,11 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "judge_me_reviews_preview_badge_QEkGz4": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "a26a3e77-9691-4584-90e8-f138c0917db1": {
           "type": "custom_liquid",
@@ -51,8 +49,7 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -63,8 +60,7 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -75,8 +71,7 @@
         "judge_me_reviews_preview_badge_nK4MER": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "385c7754-4629-4dea-9dba-8cf1b306eafe": {
           "type": "custom_liquid",
@@ -95,8 +90,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "33ecc337-7a9c-469b-bc81-95ea779415f3": {
           "type": "collapsible_tab",
@@ -162,14 +156,12 @@
       "blocks": {
         "judge_me_reviews_review_widget_qTk4KL": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "judge_me_reviews_review_widget_qTk4KL"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -195,8 +187,7 @@
     },
     "author-product": {
       "type": "author-product",
-      "settings": {
-      }
+      "settings": {}
     },
     "1632621267a9cdb8f8": {
       "type": "image-with-text",
