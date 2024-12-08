@@ -63,7 +63,7 @@
         "text_EgKWJb": {
           "type": "text",
           "settings": {
-            "text": "<p>Founded in 1993 in Bahia, Brazil, <strong>Solisluna Editora</strong> publishes a diverse range of books each year, including picture books, children’s fiction, and literary works that provoke reflection on universal realities and collective values. We are committed to <em>bibliodiversity</em> and cultural exchange, presenting stories that transcend borders and resonate with readers of all ages.</p><p></p><p></p><p><strong>For any inquires please write to the email below: <br/></strong>rights@solisluna.com.br</p>",
+            "text": "<p>Founded in 1993 in Bahia, Brazil, <strong>Solisluna Editora</strong> publishes a diverse range of books each year, including picture books, children’s fiction, and literary works that provoke reflection on universal realities and collective values. We are committed to <em>bibliodiversity</em> and cultural exchange, presenting stories that transcend borders and resonate with readers of all ages.</p><p></p><p></p><p><strong>For inquiries, please email: </strong><a>rights@solisluna.com.br</a></p>",
             "text_style": "body"
           }
         }
