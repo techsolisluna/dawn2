@@ -19,30 +19,29 @@
             "heading_size": "h0"
           }
         },
-        "text_FpqDg8": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p><strong>Kin Guerra</strong><br/>kin@solisluna.com.br<br/><em>Rights manager</em></p>",
-            "left": true
-          }
-        },
         "button_xpnHNN": {
           "type": "button",
           "settings": {
-            "button_label": "Download the children's book catalogue 2024",
+            "button_label": "Download the children's book catalog",
             "button_link": "https://link.solisluna.com.br/foreign-rights-24",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_FpqDg8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>or view it on this page.</p>",
+            "left": false
+          }
         }
       },
       "block_order": [
         "heading_RqCdg8",
-        "text_FpqDg8",
-        "button_xpnHNN"
+        "button_xpnHNN",
+        "text_FpqDg8"
       ],
       "settings": {
         "desktop_content_position": "center",
