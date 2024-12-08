@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text_yqngX4": {
@@ -63,7 +63,7 @@
         "text_EgKWJb": {
           "type": "text",
           "settings": {
-            "text": "<p>Founded in 1993 in Bahia, Brazil, <strong>Solisluna Editora</strong> publishes a diverse range of books each year, including picture books, children’s fiction, and literary works that provoke reflection on universal realities and collective values. We are committed to <em>bibliodiversity</em> and cultural exchange, presenting stories that transcend borders and resonate with readers of all ages.</p>",
+            "text": "<p>Founded in 1993 in Bahia, Brazil, <strong>Solisluna Editora</strong> publishes a diverse range of books each year, including picture books, children’s fiction, and literary works that provoke reflection on universal realities and collective values. We are committed to <em>bibliodiversity</em> and cultural exchange, presenting stories that transcend borders and resonate with readers of all ages.</p><p></p><p></p><p><strong>For any inquires please write to the email below: <br/></strong>rights@solisluna.com.br</p>",
             "text_style": "body"
           }
         }
@@ -91,14 +91,6 @@
         "padding_bottom": 36
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "show_title": false,
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
-    },
     "custom_html_Gdtqay": {
       "type": "custom-html",
       "blocks": {
@@ -115,6 +107,14 @@
       "settings": {
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 48,
+        "padding_bottom": 56
       }
     },
     "image_banner_7iqWp3": {
@@ -291,8 +291,8 @@
   "order": [
     "rich_text_yqngX4",
     "image_with_text_rVfGTP",
-    "main",
     "custom_html_Gdtqay",
+    "main",
     "image_banner_7iqWp3",
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
