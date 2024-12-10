@@ -188,7 +188,7 @@
         "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
           "type": "button",
           "settings": {
-            "button_label": "Conheça",
+            "button_label": "Saiba mais",
             "button_link": "shopify://products/gambiarra"
           }
         }
@@ -363,9 +363,7 @@
     },
     "image_banner_9yeCej": {
       "type": "image-banner",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/antonino_peregrino_1.jpg",
         "image_overlay_opacity": 0,
@@ -590,9 +588,7 @@
     },
     "1635597573bd71be81": {
       "type": "featured-collection",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "História e memória",
         "heading_size": "h1",
@@ -767,8 +763,7 @@
         },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5": {
           "type": "buy_buttons",

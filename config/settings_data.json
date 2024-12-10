@@ -17,8 +17,8 @@
     "colors_outline_button_labels": "#0067ac",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#f6f6f5",
-    "type_header_font": "serif",
-    "heading_scale": 115,
+    "type_header_font": "libre_baskerville_n4",
+    "heading_scale": 110,
     "type_body_font": "sans-serif",
     "body_scale": 110,
     "page_width": 1200,
@@ -77,8 +77,7 @@
           "announcement-bar-0",
           "c8a7fcbd-2928-40ae-aac8-d89b26a797f0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -157,9 +156,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
@@ -176,26 +173,22 @@
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "13768625480086291342": {
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "11242429557760608184": {
         "type": "shopify://apps/referrly-affiliate/blocks/main-app-embed/75b5ccd5-af90-4f81-ab89-2c28499171fd",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "11735689235857492391": {
         "type": "shopify://apps/algolia-search-and-discovery/blocks/autocomplete/57bb7f86-d5fe-4d43-96ca-3953324494cf",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "4291333794791649201": {
         "type": "shopify://apps/loyalty-rewards-and-referrals/blocks/embed-sdk/6f172e67-4106-4ac0-89c5-b32a069b3101",
@@ -342,8 +335,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -356,8 +348,7 @@
           "blocks": {
             "footer-0": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "footer-1": {
               "type": "link_list",
@@ -390,13 +381,11 @@
         },
         "main-password-header": {
           "type": "main-password-header",
-          "settings": {
-          }
+          "settings": {}
         },
         "main-password-footer": {
           "type": "main-password-footer",
-          "settings": {
-          }
+          "settings": {}
         }
       }
     }
