@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "163621534324110d9f": {
@@ -57,6 +57,65 @@
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1656287947e32d56b3": {
+      "type": "image-banner",
+      "blocks": {
+        "e8dcddb2-b829-478b-a3c8-1c5426f7658f": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "COLEÇÃO",
+            "text_style": "subtitle"
+          }
+        },
+        "1656287947a4c56a88-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Ensaios para Educadores",
+            "heading_size": "h1"
+          }
+        },
+        "1656287947a4c56a88-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "COMPRAR",
+            "button_link_1": "shopify://products/kit-livros-para-educadores",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "e8dcddb2-b829-478b-a3c8-1c5426f7658f",
+        "1656287947a4c56a88-0",
+        "1656287947a4c56a88-2"
+      ],
+      "custom_css": [
+        "h2 {color: black;}",
+        "p {color: black;}",
+        ".subtitle {color: gray;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_8975-3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -227,14 +286,14 @@
     "6db561d9-2d88-4530-9b10-0ac14f8632ee": {
       "type": "featured-collection",
       "settings": {
-        "title": "Coleção de ensaios para educadores",
+        "title": "Coleção de ensaios para pensar a leitura",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "colecao-de-ensaios-para-pensar-a-leitura-selo-emilia-solisluna",
         "products_to_show": 10,
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -257,7 +316,7 @@
         "3250ac72-fc94-4ad8-8879-c5328ae0cf2d": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Lançamento!</strong></em></p>",
+            "text": "<p><em>As próprias crianças escreveram e desenharam os seus direitos</em></p>",
             "text_style": "subtitle"
           }
         },
@@ -338,7 +397,7 @@
         "description_style": "body",
         "collection": "livros-ilustrados-selo-emilia-solisluna",
         "products_to_show": 12,
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -380,33 +439,12 @@
     "c9749d1b-08db-45bf-8f85-91454ae0b7ea": {
       "type": "image-with-text",
       "blocks": {
-        "a2782e4c-3d3c-453b-b771-2c1f271d4ddd": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>Lançamento!</strong></em></p>",
-            "text_style": "subtitle"
-          }
-        },
         "ab06fcc6-6067-450b-a31b-69a46b11dd72": {
           "type": "caption",
           "settings": {
             "caption": "COLEÇÃO CANTEIRO DE OBRAS",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
-          }
-        },
-        "16ebd091-fd58-4110-b50f-578333f2dad1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Infâncias e escritas - produção de textos na escola",
-            "heading_size": "h2"
-          }
-        },
-        "f1129cd0-4012-49b5-b355-97d5b1a11676": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Andréa Luize<br/>Andréa Dias Tambelli<br/>Bárbara Franceli Passos</strong></p>",
-            "text_style": "body"
           }
         },
         "5e82f389-8370-4daa-8497-eaa3d1c828ec": {
@@ -418,85 +456,15 @@
         }
       },
       "block_order": [
-        "a2782e4c-3d3c-453b-b771-2c1f271d4ddd",
         "ab06fcc6-6067-450b-a31b-69a46b11dd72",
-        "16ebd091-fd58-4110-b50f-578333f2dad1",
-        "f1129cd0-4012-49b5-b355-97d5b1a11676",
         "5e82f389-8370-4daa-8497-eaa3d1c828ec"
       ],
       "settings": {
-        "image": "shopify://shop_images/infancias-escritas.jpg",
+        "image": "shopify://shop_images/IMG_8628-2.jpg",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_rVKp9h": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_WhqDjF": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>Lançamento!</strong></em></p>",
-            "text_style": "subtitle"
-          }
-        },
-        "caption_mQP9Yn": {
-          "type": "caption",
-          "settings": {
-            "caption": "SELO EMÍLIA E SOLISLUNA",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "heading_UNN3Pb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Clubes de leitura",
-            "heading_size": "h2"
-          }
-        },
-        "text_EAKgWH": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Janine Durand<br/>Luciana Gerbovic</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "button_m8neJm": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify://products/clubes-de-leitura"
-          }
-        }
-      },
-      "block_order": [
-        "text_WhqDjF",
-        "caption_mQP9Yn",
-        "heading_UNN3Pb",
-        "text_EAKgWH",
-        "button_m8neJm"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Clubes-de-leitura-fundo-transparente.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -578,8 +546,7 @@
         },
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-2": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-3": {
           "type": "variant_picker",
@@ -589,8 +556,7 @@
         },
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-4": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--14510716223569__faaa3300-3ebf-4284-92b6-4e7bad5abad7-1681235040ea6070fe-5": {
           "type": "buy_buttons",
@@ -625,65 +591,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1656287947e32d56b3": {
-      "type": "image-banner",
-      "blocks": {
-        "e8dcddb2-b829-478b-a3c8-1c5426f7658f": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "COLEÇÃO",
-            "text_style": "subtitle"
-          }
-        },
-        "1656287947a4c56a88-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Ensaios para Educadores",
-            "heading_size": "h1"
-          }
-        },
-        "1656287947a4c56a88-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "COMPRAR",
-            "button_link_1": "shopify://products/kit-livros-para-educadores",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "e8dcddb2-b829-478b-a3c8-1c5426f7658f",
-        "1656287947a4c56a88-0",
-        "1656287947a4c56a88-2"
-      ],
-      "custom_css": [
-        "h2 {color: black;}",
-        "p {color: black;}",
-        ".subtitle {color: gray;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_8975-3.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": false,
-        "link": "",
-        "desktop_content_position": "top-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "1636215496e6c0ddce": {
@@ -791,7 +698,6 @@
     "1641660934aba29122",
     "product-grid",
     "c9749d1b-08db-45bf-8f85-91454ae0b7ea",
-    "image_with_text_rVKp9h",
     "d870f608-81e9-4bc9-adb8-90fc8b53d36e",
     "faaa3300-3ebf-4284-92b6-4e7bad5abad7",
     "1636215496e6c0ddce",
