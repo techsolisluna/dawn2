@@ -14,8 +14,6 @@
               </div>
               <div class="aa-ItemContentBody">
                   <div class="aa-ItemContentBrand">
-                      ${item.product_type && components.Highlight({ hit: item, attribute: 'product_type' })}
-                      ${item.vendor && html`<span> by </span>`}
                       ${item.vendor && components.Highlight({ hit: item, attribute: 'vendor' })}
                   </div>
                   <div class="aa-ItemContentTitleWrapper">

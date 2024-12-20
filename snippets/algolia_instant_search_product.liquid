@@ -20,8 +20,6 @@
             </a>
           </p>
           <p class="ais-hit--subtitle" title="${hit.product_type}${algolia.translation_helpers.by(hit.vendor)}">
-            ${components.Highlight({ attribute: 'product_type', hit })}
-            ${hit.vendor && html`<span> by </span>`}
             ${hit.vendor && components.Highlight({ attribute: 'vendor', hit })}
           </p>
           <p class="ais-hit--price">
