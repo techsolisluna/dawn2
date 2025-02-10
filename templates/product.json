@@ -84,7 +84,7 @@
           "settings": {
             "heading": "Características",
             "icon": "ruler",
-            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}</p><p></p><p></p>",
+            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}</p><p></p><p></p>",
             "page": ""
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "heading": "Classificação",
             "icon": "clipboard",
-            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC:</strong> {{ product.metafields.custom.bisac | metafield_tag }}</p>",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC:</strong> {{ product.metafields.custom.bisac | metafield_tag }}</p>",
             "page": ""
           }
         },
