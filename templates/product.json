@@ -84,7 +84,16 @@
           "settings": {
             "heading": "Características",
             "icon": "ruler",
-            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC:</strong> {{ product.metafields.custom.bisac | metafield_tag }}</p><p></p><p></p>",
+            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}</p><p></p><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_4BgP3q": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Classificação",
+            "icon": "clipboard",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC:</strong> {{ product.metafields.custom.bisac | metafield_tag }}</p>",
             "page": ""
           }
         },
@@ -131,10 +140,14 @@
         "judge_me_reviews_preview_badge_nK4MER",
         "385c7754-4629-4dea-9dba-8cf1b306eafe",
         "ac5d2265-3446-44b4-9455-7d569c8114a4",
+        "collapsible_tab_4BgP3q",
         "description",
         "33ecc337-7a9c-469b-bc81-95ea779415f3",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
         "share"
+      ],
+      "custom_css": [
+        ".accordion__content {font-size: medium;}"
       ],
       "settings": {
         "enable_sticky_info": true,
