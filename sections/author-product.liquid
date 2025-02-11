@@ -73,7 +73,7 @@
       {% endif %}
   
 {% endif %}
-{% if displayillustrator == true %}
+{% if displayillustrator == true and coauthor != illustrator and author != illustrator %}
   {% for collection in collections %}
     {% if collection.title == illustrator %}
       <div class="grid grid--1-col grid--2-col-desktop justifydiv">
