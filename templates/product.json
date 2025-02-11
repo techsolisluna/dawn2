@@ -93,7 +93,7 @@
           "settings": {
             "heading": "Classificação",
             "icon": "clipboard",
-            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC:</strong> {{ product.metafields.custom.bisac | metafield_tag }}</p>",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
             "page": ""
           }
         },
