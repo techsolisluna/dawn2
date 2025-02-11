@@ -27,10 +27,10 @@
 
 <div class="page-width padding1">
 {% if displayauthor == true %}
-  
+    {% assign ordem_autoria = true %}
     {% for collection in collections %}
       {% if collection.title == author %}
-		{% assign ordem_autoria = true %}
+		
 
       <div class="grid grid--1-col grid--2-col-desktop justifydiv">
         <div class="grid__item authorphoto" id="{{ collection.title | handleize }}">
