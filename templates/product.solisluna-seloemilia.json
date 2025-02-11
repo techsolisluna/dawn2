@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -24,30 +24,28 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}<\/div>{% else %}{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}</div>{% else %}{% endif %}"
           }
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "a26a3e77-9691-4584-90e8-f138c0917db1": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h2>{{product.metafields.descriptors.subtitle}}<\/h2>"
+            "custom_liquid": "<h2>{{product.metafields.descriptors.subtitle}}</h2>"
           }
         },
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<\/span><\/a>\n\n{% if coauthor %}<span class=\"h3 author\"> e <\/span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}<\/span><\/a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}<\/span><\/a><\/div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}<\/span>\n          {% endif %}\n<\/div>"
+            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}</span></a>\n\n{% if coauthor %}<span class=\"h3 author\"> e </span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
           }
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -58,8 +56,7 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -70,7 +67,7 @@
         "385c7754-4629-4dea-9dba-8cf1b306eafe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br\/><\/b>\nShipping forecast:{% else %}Livro em pré-venda.<br\/><\/b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}<\/div>{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br/></b>\nShipping forecast:{% else %}Livro em pré-venda.<br/></b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}</div>{% endif %}"
           }
         },
         "ac5d2265-3446-44b4-9455-7d569c8114a4": {
@@ -78,14 +75,22 @@
           "settings": {
             "heading": "Características",
             "icon": "ruler",
-            "content": "<p>ISBN: {{ product.metafields.facts.isbn.value }}<br\/>{{ product.metafields.infotecnica.dados | metafield_tag }}<\/p><p><\/p><p><\/p>",
+            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}</p><p></p><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_iXaUE9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Classificação",
+            "icon": "clipboard",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
             "page": ""
           }
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "33ecc337-7a9c-469b-bc81-95ea779415f3": {
           "type": "collapsible_tab",
@@ -124,6 +129,7 @@
         "buy_buttons",
         "385c7754-4629-4dea-9dba-8cf1b306eafe",
         "ac5d2265-3446-44b4-9455-7d569c8114a4",
+        "collapsible_tab_iXaUE9",
         "description",
         "33ecc337-7a9c-469b-bc81-95ea779415f3",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
@@ -184,8 +190,7 @@
     },
     "author-product": {
       "type": "author-product",
-      "settings": {
-      }
+      "settings": {}
     },
     "1632621267a9cdb8f8": {
       "type": "image-with-text",
@@ -200,7 +205,7 @@
         "1632621267a9cdb8f8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}<\/strong><\/p>",
+            "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}</strong></p>",
             "text_style": "body"
           }
         },
@@ -241,7 +246,7 @@
     "91e4002a-752a-4872-a2a9-dc641e04c509": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% if product.metafields.custom.imprensa %}<div class=\"page-width\"><h2 class=\"title h2\">Saiu na mídia<\/h2><\/div>{% endif %}",
+        "custom_liquid": "{% if product.metafields.custom.imprensa %}<div class=\"page-width\"><h2 class=\"title h2\">Saiu na mídia</h2></div>{% endif %}",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -256,7 +261,7 @@
           "settings": {
             "image": "{{ block.repeater.imagem_capa.value }}",
             "title": "{{ block.repeater.veiculo.value }}",
-            "text": "<p>{{ block.repeater.descricao | metafield_tag }}<\/p>",
+            "text": "<p>{{ block.repeater.descricao | metafield_tag }}</p>",
             "link_label": "Saiba mais",
             "link": "{{ block.repeater.system.url }}",
             "image_link": true
@@ -304,7 +309,7 @@
     "163366161336322e5e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1201\/3280\/files\/Selo-Emilia-solisluna.jpg?v=1642348534\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"\/><\/div>",
+        "custom_liquid": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https://cdn.shopify.com/s/files/1/1201/3280/files/Selo-Emilia-solisluna.jpg?v=1642348534\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"/></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -316,14 +321,14 @@
         "1642348095014ff909-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.<\/p>",
+            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.</p>",
             "left": true
           }
         },
         "1642348095014ff909-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Conheça a coleção completa<\/p>",
+            "heading": "<p>Conheça a coleção completa</p>",
             "heading_size": "h2"
           }
         },
@@ -331,7 +336,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ver coleção",
-            "button_link": "shopify:\/\/collections\/livros-em-parceria-com-o-selo-emilia",
+            "button_link": "shopify://collections/livros-em-parceria-com-o-selo-emilia",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -449,7 +454,7 @@
         "1635821821b4bc362b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
+        "image": "shopify://shop_images/capa_catologo_1cd410fc-04fd-484e-a3fb-e7c57d298245.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
