@@ -23,25 +23,17 @@
           "type": "button",
           "settings": {
             "button_label": "Download the children's book catalog",
-            "button_link": "https://link.solisluna.com.br/foreign-rights-24",
+            "button_link": "https://link.solisluna.com.br/foreign-rights-2025-1",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "text_FpqDg8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>or view it on this page.</p>",
-            "left": false
-          }
         }
       },
       "block_order": [
         "heading_RqCdg8",
-        "button_xpnHNN",
-        "text_FpqDg8"
+        "button_xpnHNN"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -103,6 +95,7 @@
       "block_order": [
         "text_46GED4"
       ],
+      "disabled": true,
       "settings": {
         "padding_top": 40,
         "padding_bottom": 0
