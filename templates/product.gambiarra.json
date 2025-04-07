@@ -172,7 +172,7 @@
             "title": "{{ block.repeater.nome.value }}",
             "text": "<p>{{ block.repeater.descricao | metafield_tag }}</p>",
             "link_label": "",
-            "link": "{{ block.repeater.system.url }}",
+            "link": "{{ block.repeater.url.value }}",
             "image_link": true
           }
         }
