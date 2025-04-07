@@ -96,15 +96,6 @@
             "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br/></b>\nShipping forecast:{% else %}Livro em pré-venda.<br/></b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}</div>{% endif %}"
           }
         },
-        "collapsible_tab_7cAEF4": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Classificação",
-            "icon": "clipboard",
-            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
-            "page": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {}
@@ -132,6 +123,15 @@
           "settings": {
             "share_label": "Compartilhar"
           }
+        },
+        "collapsible_tab_7cAEF4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Classificação",
+            "icon": "clipboard",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -149,11 +149,11 @@
         "quantity_selector",
         "judge_me_reviews_preview_badge_nK4MER",
         "385c7754-4629-4dea-9dba-8cf1b306eafe",
-        "collapsible_tab_7cAEF4",
         "description",
         "33ecc337-7a9c-469b-bc81-95ea779415f3",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
-        "share"
+        "share",
+        "collapsible_tab_7cAEF4"
       ],
       "custom_css": [
         "@media screen and (min-width: 990px) {.product--stacked .product__media-item {width: 100%; max-width: 100%; }}"
