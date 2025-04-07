@@ -941,12 +941,38 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "174396548086c7b2be": {
+      "type": "apps",
+      "blocks": {
+        "algolia_ai_search_discovery_algolia_recommend_block_rLhKei": {
+          "type": "shopify://apps/algolia-ai-search-discovery/blocks/algolia_recommend_block/57bb7f86-d5fe-4d43-96ca-3953324494cf",
+          "settings": {
+            "heading": "Recommended Products",
+            "model": "related-products",
+            "maxRecommendations": 5,
+            "minRecommendations": 4,
+            "threshold": 0,
+            "showVendor": true,
+            "topPadding": 28,
+            "bottomPadding": 28,
+            "custom_class_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "algolia_ai_search_discovery_algolia_recommend_block_rLhKei"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "1658153573113a06df",
     "image_banner_gnVmnH",
     "1634603513b9058cec",
+    "174396548086c7b2be",
     "featured_products",
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
