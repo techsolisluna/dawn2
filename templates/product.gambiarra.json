@@ -172,8 +172,8 @@
             "title": "{{ block.repeater.nome.value }}",
             "text": "<p>{{ block.repeater.descricao | metafield_tag }}</p>",
             "link_label": "",
-            "link": "{{ block.repeater.system.url }}",
-            "image_link": false
+            "link": "",
+            "image_link": true
           }
         }
       },
@@ -187,8 +187,8 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -214,6 +214,7 @@
     },
     "premios": {
       "type": "premios",
+      "disabled": true,
       "settings": {
         "title": "Prêmios e reconhecimentos",
         "heading_size": "h2",
