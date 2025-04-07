@@ -12,14 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74": {
           "type": "custom_liquid",
           "disabled": true,
@@ -35,6 +27,13 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<h2>{{product.metafields.descriptors.subtitle}}</h2>"
+          }
+        },
+        "text_xY6WAN": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "body"
           }
         },
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
@@ -118,10 +117,10 @@
         }
       },
       "block_order": [
-        "vendor",
         "22236bf6-d32a-4c0d-8ec7-1333945b0a74",
         "title",
         "a26a3e77-9691-4584-90e8-f138c0917db1",
+        "text_xY6WAN",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "price",
         "variant_picker",
