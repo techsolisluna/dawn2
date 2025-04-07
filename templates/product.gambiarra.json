@@ -172,7 +172,7 @@
             "title": "{{ block.repeater.nome.value }}",
             "text": "<p>{{ block.repeater.descricao | metafield_tag }}</p>",
             "link_label": "",
-            "link": "",
+            "link": "{{ block.repeater.system.url }}",
             "image_link": true
           }
         }
@@ -183,7 +183,7 @@
       "settings": {
         "title": "Prêmios e reconhecimentos",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
