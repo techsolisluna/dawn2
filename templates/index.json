@@ -614,33 +614,6 @@
         "padding_bottom": 36
       }
     },
-    "163458532453df37e6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lançamentos",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "lancamentos",
-        "products_to_show": 10,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "163478366489eccf57": {
       "type": "image-banner",
       "blocks": {
@@ -941,38 +914,12 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "174396548086c7b2be": {
-      "type": "apps",
-      "blocks": {
-        "algolia_ai_search_discovery_algolia_recommend_block_rLhKei": {
-          "type": "shopify://apps/algolia-ai-search-discovery/blocks/algolia_recommend_block/57bb7f86-d5fe-4d43-96ca-3953324494cf",
-          "settings": {
-            "heading": "Recommended Products",
-            "model": "related-products",
-            "maxRecommendations": 5,
-            "minRecommendations": 4,
-            "threshold": 0,
-            "showVendor": true,
-            "topPadding": 28,
-            "bottomPadding": 28,
-            "custom_class_name": ""
-          }
-        }
-      },
-      "block_order": [
-        "algolia_ai_search_discovery_algolia_recommend_block_rLhKei"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "1658153573113a06df",
     "image_banner_gnVmnH",
     "1634603513b9058cec",
-    "174396548086c7b2be",
     "featured_products",
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
@@ -983,7 +930,6 @@
     "163259099574ea68ac",
     "1635818678cc429f25",
     "1635597573bd71be81",
-    "163458532453df37e6",
     "163478366489eccf57",
     "1634611538203a7608",
     "36d521d2-508c-4612-8183-a54392f57723",
