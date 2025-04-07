@@ -584,11 +584,13 @@
               </ul>
           {%- endcase -%}
         {%- endfor -%}
-        <div>
-          <button class="button button--secondary" onclick="openModal()">
-            {% if localization.language.iso_code == "en" %}Send an erratum{% else %}Envie uma errata{% endif %}
-          </button>
-        </div>
+        {%- if product.metafields.my_fields.prevenda != true -%}
+          <div>
+            <button class="button button--secondary" onclick="openModal()">
+              {% if localization.language.iso_code == "en" %}Send an erratum{% else %}Envie uma errata{% endif %}
+            </button>
+          </div>
+        {%- endif -%}
 
         <a href="{{ product.url }}" class="link product__view-details animate-arrow">
           {{ 'products.product.view_full_details' | t }}
