@@ -51,6 +51,14 @@
           "type": "price",
           "settings": {}
         },
+        "inventory_NhGrLA": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 100,
+            "show_inventory_quantity": false
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -134,6 +142,7 @@
         "a26a3e77-9691-4584-90e8-f138c0917db1",
         "fb062953-4d72-4753-92cc-17fdc5e598cd",
         "price",
+        "inventory_NhGrLA",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -191,8 +200,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
