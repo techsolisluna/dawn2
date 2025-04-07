@@ -31,6 +31,7 @@
         },
         "text_xY6WAN": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "body"
@@ -39,7 +40,7 @@
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}</span></a>\n\n{% if coauthor %}<span class=\"h3 author\"> e </span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
+            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}<br/></span></a>\n\n{% if coauthor %}<span class=\"h3 author\"></span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
           }
         },
         "price": {
@@ -78,15 +79,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_nQgQey": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Classificação",
-            "icon": "clipboard",
-            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
-            "page": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {}
@@ -114,6 +106,15 @@
           "settings": {
             "share_label": "Compartilhar"
           }
+        },
+        "collapsible_tab_nQgQey": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Classificação",
+            "icon": "clipboard",
+            "content": "<p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -128,11 +129,11 @@
         "buy_buttons",
         "385c7754-4629-4dea-9dba-8cf1b306eafe",
         "ac5d2265-3446-44b4-9455-7d569c8114a4",
-        "collapsible_tab_nQgQey",
         "description",
         "33ecc337-7a9c-469b-bc81-95ea779415f3",
         "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
-        "share"
+        "share",
+        "collapsible_tab_nQgQey"
       ],
       "settings": {
         "enable_sticky_info": true,
