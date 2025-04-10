@@ -12,6 +12,27 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner-site-Minha-natureza_B.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/tecelagem",
+            "button_style_secondary": true,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "left"
+          }
+        },
         "165815357365d8068c-1": {
           "type": "slide",
           "settings": {
@@ -75,28 +96,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Banner-site-Ugh-A.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://products/tecelagem",
-            "button_style_secondary": true,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "left"
-          }
-        },
         "f18a00a4-ade7-4915-a83c-c9f8cd242098": {
           "type": "slide",
           "settings": {
@@ -120,10 +119,10 @@
         }
       },
       "block_order": [
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "165815357365d8068c-1",
         "5f56aabc-1b36-465c-acdc-52bbde404672",
         "slide_tFPCgf",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "f18a00a4-ade7-4915-a83c-c9f8cd242098"
       ],
       "custom_css": [
