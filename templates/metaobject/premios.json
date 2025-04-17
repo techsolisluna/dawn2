@@ -72,16 +72,19 @@
     "featured_product_KwcDtG": {
       "type": "featured-product",
       "blocks": {
+        "judge_me_reviews_medals_yNGfPa": {
+          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "text_yrqTP3": {
           "type": "text",
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text_style": "subtitle"
           }
         },
         "title_Dczqka": {
           "type": "title",
-          "repeater": "{{ section.settings.product.metafields.custom.awards.value }}",
           "settings": {
             "heading_size": "h1"
           }
@@ -116,6 +119,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_medals_yNGfPa",
         "text_yrqTP3",
         "title_Dczqka",
         "price_Q4Kqzc",
