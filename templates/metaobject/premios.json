@@ -92,12 +92,14 @@
         },
         "variant_picker_hNLdUt": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "quantity_selector_nNYkx8": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons_ngpEge": {
