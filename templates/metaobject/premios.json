@@ -26,8 +26,17 @@
             "text_style": "body"
           }
         },
+        "caption_WjxjiE": {
+          "type": "caption",
+          "settings": {
+            "caption": "{{ metaobject.data | metafield_text }}",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "button_KyCwjD": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -37,6 +46,7 @@
       "block_order": [
         "heading_aA4jMU",
         "text_enxxRw",
+        "caption_WjxjiE",
         "button_KyCwjD"
       ],
       "settings": {
@@ -117,7 +127,7 @@
         "product": "{{ metaobject.livro_destaque.value }}",
         "color_scheme": "background-1",
         "secondary_background": false,
-        "media_position": "left",
+        "media_position": "right",
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
