@@ -72,10 +72,6 @@
     "featured_product_KwcDtG": {
       "type": "featured-product",
       "blocks": {
-        "judge_me_reviews_medals_yNGfPa": {
-          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
         "text_yrqTP3": {
           "type": "text",
           "settings": {
@@ -111,6 +107,18 @@
             "show_dynamic_checkout": true
           }
         },
+        "icon_with_text_icJ8Qw": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "Original",
+            "icon_2": "plant",
+            "heading_2": "Independente",
+            "icon_3": "leaf",
+            "heading_3": "Compre de quem faz!"
+          }
+        },
         "share_wH7HAH": {
           "type": "share",
           "settings": {
@@ -119,13 +127,13 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_medals_yNGfPa",
         "text_yrqTP3",
         "title_Dczqka",
         "price_Q4Kqzc",
         "variant_picker_hNLdUt",
         "quantity_selector_nNYkx8",
         "buy_buttons_ngpEge",
+        "icon_with_text_icJ8Qw",
         "share_wH7HAH"
       ],
       "name": "t:sections.featured-product.presets.name",
@@ -140,10 +148,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1744859525ab59f35d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_with_text_nRCcnT",
-    "featured_product_KwcDtG"
+    "featured_product_KwcDtG",
+    "1744859525ab59f35d"
   ]
 }
