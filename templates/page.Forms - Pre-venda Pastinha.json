@@ -9,28 +9,176 @@
  */
 {
   "sections": {
+    "f6b1df33-82d8-4f2c-a33f-4617d9954a4f": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_nziVdY": {
+      "type": "image-banner",
+      "name": "Banner 1",
+      "settings": {
+        "image": "shopify://shop_images/ilus_pastinha_cau03B_2025.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "forms": {
       "type": "apps",
       "blocks": {
         "012eca11-cbe9-4d5b-b6ea-c15efd71618b": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "446140"
+            "form_id": "446140",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "left",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
           }
         }
       },
       "block_order": [
         "012eca11-cbe9-4d5b-b6ea-c15efd71618b"
       ],
-      "settings": {}
+      "settings": {
+        "include_margins": true
+      }
     },
-    "f6b1df33-82d8-4f2c-a33f-4617d9954a4f": {
-      "type": "main-page",
-      "settings": {}
+    "multicolumn_7eBxr8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eJiCpp": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_8bJLnQ": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_7g4PQh": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_eJiCpp",
+        "column_8bJLnQ",
+        "column_7g4PQh"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_KktqQA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rpJGJL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Você faz parte da rede que apoia este livro nascer!",
+            "heading_size": "h1"
+          }
+        },
+        "text_6JqAf9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_tB7Tnj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rpJGJL",
+        "text_6JqAf9",
+        "button_tB7Tnj"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG-0205.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "f6b1df33-82d8-4f2c-a33f-4617d9954a4f",
-    "forms"
+    "image_banner_nziVdY",
+    "image_with_text_KktqQA",
+    "forms",
+    "multicolumn_7eBxr8"
   ]
 }
