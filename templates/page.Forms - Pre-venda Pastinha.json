@@ -11,10 +11,59 @@
   "sections": {
     "f6b1df33-82d8-4f2c-a33f-4617d9954a4f": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_DmgPg7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YgJKP3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nova edição de <em>Pastinha</em> vem aí – e você tem prioridade!</p>",
+            "heading_size": "h0"
+          }
+        },
+        "text_r4rNxe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Você demonstrou interesse e agora queremos te ouvir. Responda rapidinho e garanta acesso à pré-venda com vantagens exclusivas.</p>",
+            "left": false
+          }
+        },
+        "button_x4HdFg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Quero participar da pesquisa",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YgJKP3",
+        "text_r4rNxe",
+        "button_x4HdFg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner_nziVdY": {
@@ -37,6 +86,57 @@
         "show_text_below": true
       }
     },
+    "image_with_text_KktqQA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rpJGJL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Por que responder essa pesquisa?",
+            "heading_size": "h1"
+          }
+        },
+        "text_6JqAf9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🎁 Prioridade na pré-venda<br/>📦 Possibilidade de combos com desconto<br/>💌 Acesso a brindes e conteúdos exclusivos<br/>🤝 Participar ativamente do relançamento de um livro premiado</p>",
+            "text_style": "body"
+          }
+        },
+        "button_tB7Tnj": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rpJGJL",
+        "text_6JqAf9",
+        "button_tB7Tnj"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG-0205.png",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "forms": {
       "type": "apps",
       "blocks": {
@@ -46,9 +146,9 @@
             "form_id": "446140",
             "text_color": "#202020",
             "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "left",
             "form_alignment": "center",
             "padding_top": 0,
@@ -121,61 +221,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_KktqQA": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rpJGJL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Você faz parte da rede que apoia este livro nascer!",
-            "heading_size": "h1"
-          }
-        },
-        "text_6JqAf9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_tB7Tnj": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_rpJGJL",
-        "text_6JqAf9",
-        "button_tB7Tnj"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/IMG-0205.png",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "f6b1df33-82d8-4f2c-a33f-4617d9954a4f",
+    "rich_text_DmgPg7",
     "image_banner_nziVdY",
     "image_with_text_KktqQA",
     "forms",
