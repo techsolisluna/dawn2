@@ -1006,6 +1006,31 @@ class ProductRecommendations extends HTMLElement {
 
 customElements.define('product-recommendations', ProductRecommendations);
 
+document.addEventListener('DOMContentLoaded', () => {
+  const formContainer = document.querySelector('#app-embed');
+  console.log(formContainer)
+
+  const observer = new MutationObserver((mutationsList, observer) => {
+    const form = document.querySelector('#app-embed');
+
+    if (form) {
+      observer.disconnect();
+      const shadow = form.shadowRoot;
+
+      const sheet = new CSSStyleSheet();
+      sheet.insertRule(`
+        ._formFieldset_1nihh_63 {
+          gap: 20px !important;
+        }
+      `);
+
+      shadow.adoptedStyleSheets.push(sheet);
+      formContainer.classList.add('loaded');
+    }
+  });
+
+observer.observe(document.body, { childList: true, subtree: true });
+});
 
 var live_url = window.location.href;
 var result = live_url.includes('form_type=customer');
