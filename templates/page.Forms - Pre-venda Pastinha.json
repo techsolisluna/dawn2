@@ -243,55 +243,65 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_Xj8rpy": {
-      "type": "image-banner",
+    "slideshow_UFz6xD": {
+      "type": "slideshow",
       "blocks": {
-        "heading_rpqJjD": {
-          "type": "heading",
+        "slide_fzrWny": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "image": "shopify://shop_images/IMG-0201.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "image_link": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000",
+            "text_alignment_mobile": "center"
           }
         },
-        "text_k4R4Ue": {
-          "type": "text",
+        "slide_PAQXkH": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_3AmFen": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify://shop_images/Pastinha_-_o_menino_que_virou_mestre_de_capoeira.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "image_link": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading_rpqJjD",
-        "text_k4R4Ue",
-        "buttons_3AmFen"
+        "slide_fzrWny",
+        "slide_PAQXkH"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": false,
-        "image_link": false,
-        "link": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     }
   },
@@ -303,6 +313,6 @@
     "custom_html_KxBT8q",
     "forms",
     "multicolumn_7eBxr8",
-    "image_banner_Xj8rpy"
+    "slideshow_UFz6xD"
   ]
 }
