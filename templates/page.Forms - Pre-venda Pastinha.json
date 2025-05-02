@@ -9,35 +9,6 @@
  */
 {
   "sections": {
-    "image_banner_PwQYgA": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/ilus_pastinha_rodaB_2025.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": false,
-        "link": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "f6b1df33-82d8-4f2c-a33f-4617d9954a4f": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "show_title": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_DmgPg7": {
       "type": "rich-text",
       "blocks": {
@@ -84,6 +55,35 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_banner_PwQYgA": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ilus_pastinha_rodaB_2025.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f6b1df33-82d8-4f2c-a33f-4617d9954a4f": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_KktqQA": {
@@ -290,9 +290,9 @@
     }
   },
   "order": [
+    "rich_text_DmgPg7",
     "image_banner_PwQYgA",
     "f6b1df33-82d8-4f2c-a33f-4617d9954a4f",
-    "rich_text_DmgPg7",
     "image_with_text_KktqQA",
     "image_banner_nziVdY",
     "custom_html_KxBT8q",
