@@ -163,7 +163,7 @@
         "text_AJEpUm": {
           "type": "text",
           "settings": {
-            "section_html": "<span id=\"pesquisa\"></span>"
+            "section_html": "<span id=\"pesquisa\"></span>\n<style>\nfieldset {\n  margin: 20px 0 !important;\n}\n</style>"
           }
         }
       },
@@ -201,6 +201,7 @@
       "block_order": [
         "012eca11-cbe9-4d5b-b6ea-c15efd71618b"
       ],
+      "custom_css": [],
       "settings": {
         "include_margins": true
       }
@@ -225,7 +226,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         },
@@ -246,7 +247,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         },
@@ -267,7 +268,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "custom_color": false,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
         }
