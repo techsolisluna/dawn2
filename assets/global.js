@@ -1023,6 +1023,11 @@ document.addEventListener('DOMContentLoaded', () => {
           gap: 20px !important;
         }
       `);
+      sheet.insertRule(`
+        fieldset legend {
+          font-weight: bold !important;
+        }
+      `);
 
       shadow.adoptedStyleSheets.push(sheet);
       formContainer.classList.add('loaded');
