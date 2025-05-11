@@ -203,6 +203,11 @@
         "type": "shopify://apps/hextom-shipping-bar/blocks/fsb-embeded-block/7ef5d9af-75a2-45c7-9b1b-f9240ee488e9",
         "disabled": true,
         "settings": {}
+      },
+      "9249421972069982300": {
+        "type": "shopify://apps/ai-voice-agent/blocks/voice-widget/383f7fe8-3cc5-4659-9514-64a213b0ce80",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
