@@ -211,7 +211,7 @@
       },
       "6856046695513585962": {
         "type": "shopify://apps/siteagent-ai/blocks/chat/8d4aa8fc-4891-43e1-91e6-95a1fd8a1b36",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "invite_message": "You can simply speak to me and say what you want and I'll find it",
           "icon_color": "01",
