@@ -223,17 +223,17 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_MyjWJg": {
+    "rich_text_rC88yf": {
       "type": "rich-text",
       "blocks": {
-        "heading_wFBney": {
+        "heading_YYE9RY": {
           "type": "heading",
           "settings": {
             "heading": "<p>\"Um novo estilo narrativo para os quadrinhos — espirituoso, irônico e semelhante a um videoclipe com legendas.\"</p>",
             "heading_size": "h1"
           }
         },
-        "text_WmVtk6": {
+        "text_aL8kHE": {
           "type": "text",
           "settings": {
             "text": "<h2>The White Ravens </h2><p><em>Presented by Internationale Jugendbibliothek / International Youth Libra. Munique, Alemanha</em></p>",
@@ -242,8 +242,8 @@
         }
       },
       "block_order": [
-        "heading_wFBney",
-        "text_WmVtk6"
+        "heading_YYE9RY",
+        "text_aL8kHE"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -257,6 +257,49 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_qxBLHV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ewpjKq": {
+          "type": "heading",
+          "settings": {
+            "heading": "⭐ 4.1 no Goodreads",
+            "heading_size": "h2"
+          }
+        },
+        "text_737i8y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leitores elogiam o humor sutil, o estilo visual único e a originalidade da narrativa.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ewpjKq",
+        "text_737i8y"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_06_1_1.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_iHpxEF": {
@@ -483,6 +526,54 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_ekRrd3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ENQJjQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Compre na pré-venda e ganhe desconto, brindes exclusivos e o livro em primeira mão!</strong><br/><br/>Além disso, você apoia uma editora independente que há mais de 30 anos investe no poder dos livros para conectar histórias pessoas e inspirar novos olhares.</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_PaMRWw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "left": false
+          }
+        },
+        "button_YE8Vfk": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ENQJjQ",
+        "text_PaMRWw",
+        "button_YE8Vfk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1662423745bffef672": {
       "type": "image-banner",
       "blocks": {
@@ -587,12 +678,14 @@
   "order": [
     "main",
     "1632621267a9cdb8f8",
-    "rich_text_MyjWJg",
+    "rich_text_rC88yf",
+    "image_with_text_qxBLHV",
     "multicolumn_iHpxEF",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
     "16326202476377d29f",
     "multicolumn_j7wDRG",
     "featured_product_V4UbWf",
+    "rich_text_ekRrd3",
     "1662423745bffef672",
     "1631654167122d4539",
     "product-recommendations",
