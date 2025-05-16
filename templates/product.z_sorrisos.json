@@ -45,42 +45,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_zbhbEa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_9k7rH9": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️</p>",
-            "heading_size": "h1"
-          }
-        },
-        "text_GBYDRG": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>15 anos depois, o sorriso permanece</h1><h2>Nova edição de um livro inesquecível de Pierre Verger</h2>",
-            "left": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_9k7rH9",
-        "text_GBYDRG"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "schema_color": false,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -240,6 +204,42 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_zbhbEa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9k7rH9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_GBYDRG": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>15 anos depois, o sorriso permanece</h1><h2>Nova edição de um livro inesquecível de Pierre Verger</h2>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9k7rH9",
+        "text_GBYDRG"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1632621267a9cdb8f8": {
@@ -563,8 +563,8 @@
   },
   "order": [
     "rich_text_MpYVzq",
-    "rich_text_zbhbEa",
     "main",
+    "rich_text_zbhbEa",
     "1632621267a9cdb8f8",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
     "16326202476377d29f",
