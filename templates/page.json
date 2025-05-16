@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -164,6 +164,38 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "1747435070283b7763": {
+      "type": "apps",
+      "blocks": {
+        "store_locator_pasilobus_locator_zDBUHz": {
+          "type": "shopify://apps/store-locator-pasilobus/blocks/locator/cf82b725-72a0-4dcc-9b81-51607a874832",
+          "settings": {
+            "map_style": "standard",
+            "address_list_position": "left",
+            "marker_icon": "map-marker",
+            "marker_color": "#B70D0D",
+            "marker_highlight_color": "#CACAC1",
+            "marker_text_color": "#ffffff",
+            "text_color": "#404040",
+            "card_color": "#f8f8f8",
+            "background_color": "#ffffff",
+            "search_background_color": "#ffffff",
+            "search_placeholder_color": "#000000",
+            "border_color": "#dddddd",
+            "search_text_color": "#000000",
+            "padding_top": 30,
+            "padding_bottom": 30
+          }
+        }
+      },
+      "block_order": [
+        "store_locator_pasilobus_locator_zDBUHz"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -171,6 +203,7 @@
     "1659755087d5917cf5",
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
-    "ca9b5d23-61cf-4f90-8604-e5269e333ac6"
+    "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
+    "1747435070283b7763"
   ]
 }
