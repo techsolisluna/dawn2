@@ -31,6 +31,7 @@
         "heading_NQEmkf",
         "text_mfxfDK"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -259,133 +260,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_iHpxEF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3xin7C": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/william.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        },
-        "column_3h9hti": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/meriwether.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        }
-      },
-      "block_order": [
-        "column_3xin7C",
-        "column_3h9hti"
-      ],
-      "name": "robôs",
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_rC88yf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YYE9RY": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>\"Um novo estilo narrativo para os quadrinhos — espirituoso, irônico e semelhante a um videoclipe com legendas.\"</p>",
-            "heading_size": "h1"
-          }
-        },
-        "text_aL8kHE": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>The White Ravens </h2><p><em>Presented by Internationale Jugendbibliothek / International Youth Libra. Munique, Alemanha</em></p>",
-            "left": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_YYE9RY",
-        "text_aL8kHE"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_with_text_qxBLHV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_ewpjKq": {
-          "type": "heading",
-          "settings": {
-            "heading": "⭐ 4.1 no Goodreads",
-            "heading_size": "h2"
-          }
-        },
-        "text_737i8y": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Leitores elogiam o humor sutil, o estilo visual único e a originalidade da narrativa.</p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ewpjKq",
-        "text_737i8y"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_06_1_1.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": true,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#000000",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4847166f-3598-445f-9c0b-7ad837090fb7": {
       "type": "featured-blog",
       "disabled": true,
@@ -460,42 +334,10 @@
         "show_text_below": true
       }
     },
-    "multicolumn_j7wDRG": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jnddaa": {
-          "type": "column",
-          "repeater": "{{ product.metafields.custom.autor.value }}",
-          "settings": {
-            "image": "{{ block.repeater.foto.value }}",
-            "title": "{{ block.repeater.nome.value }}",
-            "text": "<p>{{ block.repeater.bio | metafield_tag }}</p>",
-            "link_label": "",
-            "link": "{{ block.repeater.system.url }}",
-            "image_link": false
-          }
-        }
-      },
-      "block_order": [
-        "column_jnddaa"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Sobre os Criadores",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
+    "author_product_itj4dw": {
+      "type": "author-product",
+      "name": "Author Product",
+      "settings": {}
     },
     "featured_product_V4UbWf": {
       "type": "featured-product",
@@ -610,61 +452,6 @@
         "padding_bottom": 52
       }
     },
-    "1662423745bffef672": {
-      "type": "image-banner",
-      "blocks": {
-        "1662423745af7cc26d-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "1662423745af7cc26d-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "1662423745af7cc26d-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1662423745af7cc26d-0",
-        "1662423745af7cc26d-1",
-        "1662423745af7cc26d-2"
-      ],
-      "name": "divisor",
-      "settings": {
-        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_04_77d0e455-265b-4d0b-86d4-0bee7cf7957a.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": false,
-        "link": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1631654167122d4539": {
       "type": "featured-blog",
       "settings": {
@@ -743,15 +530,11 @@
     "rich_text_MpYVzq",
     "main",
     "1632621267a9cdb8f8",
-    "multicolumn_iHpxEF",
-    "rich_text_rC88yf",
-    "image_with_text_qxBLHV",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
     "16326202476377d29f",
-    "multicolumn_j7wDRG",
+    "author_product_itj4dw",
     "featured_product_V4UbWf",
     "rich_text_ekRrd3",
-    "1662423745bffef672",
     "1631654167122d4539",
     "featured_collection_ALDr3y",
     "product-recommendations",
