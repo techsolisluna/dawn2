@@ -56,6 +56,7 @@
         },
         "165815357365d8068c-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/capa-gambiarra4.png",
             "heading": "",
@@ -77,6 +78,7 @@
         },
         "5f56aabc-1b36-465c-acdc-52bbde404672": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/capa-gambiarra_36692585-96f9-4bc7-aa2f-d0dacd6b3e51.png",
             "heading": "",
