@@ -146,6 +146,7 @@
     },
     "image_banner_gnVmnH": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
         "image_overlay_opacity": 0,
@@ -823,6 +824,7 @@
     "1658153573113a06df",
     "featured_collection_Mxwaja",
     "image_banner_gnVmnH",
+    "163259099574ea68ac",
     "featured_products",
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
@@ -830,7 +832,6 @@
     "image_banner_9yeCej",
     "image_with_text_Hq34DW",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
-    "163259099574ea68ac",
     "1635597573bd71be81",
     "163478366489eccf57",
     "1634611538203a7608",
