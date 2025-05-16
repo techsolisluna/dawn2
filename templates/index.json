@@ -267,6 +267,8 @@
         "caption_r77qPj",
         "text_ictwXx"
       ],
+      "disabled": true,
+      "name": "BOP24",
       "settings": {
         "image": "shopify://shop_images/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
         "product_img": false,
@@ -289,6 +291,7 @@
     },
     "image_banner_hg8NzU": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
         "image_overlay_opacity": 0,
@@ -308,6 +311,7 @@
     },
     "image_banner_9yeCej": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/antonino_peregrino_1.jpg",
@@ -331,7 +335,6 @@
       "blocks": {
         "text_ewCpDr": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>lançamento</p>",
             "text_style": "subtitle"
@@ -365,6 +368,7 @@
         "text_LXwjFP",
         "button_QhBYkb"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_2152.jpg",
         "product_img": false,
@@ -418,6 +422,7 @@
         "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1",
         "df611440-2fed-43c4-8057-72e4ed7c469a"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: 600;}"
       ],
@@ -482,57 +487,9 @@
         "padding_bottom": 36
       }
     },
-    "1635818678cc429f25": {
-      "type": "rich-text",
-      "blocks": {
-        "1635818678cc429f25-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Patrimônio cultural imaterial</p>",
-            "heading_size": "h0"
-          }
-        },
-        "1635818678cc429f25-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Livros sobre expressões artísticas, culturais e históricas; que tratam do patrimônio material e imaterial, e das questões relacionadas às mudanças sociais</p>",
-            "left": false
-          }
-        },
-        "1635818678cc429f25-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1635818678cc429f25-0",
-        "1635818678cc429f25-1",
-        "1635818678cc429f25-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#000000",
-        "gradient_back": "",
-        "color_text": "#ccd0d1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "1635597573bd71be81": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "História e memória",
@@ -596,6 +553,7 @@
         "163478366489eccf57-1",
         "163478366489eccf57-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
         "image_overlay_opacity": 0,
@@ -873,7 +831,6 @@
     "image_with_text_Hq34DW",
     "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "163259099574ea68ac",
-    "1635818678cc429f25",
     "1635597573bd71be81",
     "163478366489eccf57",
     "1634611538203a7608",
