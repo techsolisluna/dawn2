@@ -622,12 +622,13 @@
         "1634611538203a7608-1",
         "1634611538203a7608-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Coracoes_Uncoated.png",
         "product_img": false,
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -638,65 +639,6 @@
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "contain_image": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "36d521d2-508c-4612-8183-a54392f57723": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0": {
-          "type": "text",
-          "settings": {
-            "text": "Pierre Verger",
-            "text_style": "subtitle"
-          }
-        },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2": {
-          "type": "price",
-          "settings": {}
-        },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6": {
-          "type": "share",
-          "settings": {
-            "share_label": ""
-          }
-        },
-        "308534b2-96f8-4a8e-98d6-16f19dc68016": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-1",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5",
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6",
-        "308534b2-96f8-4a8e-98d6-16f19dc68016"
-      ],
-      "settings": {
-        "product": "sorrisos",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -856,7 +798,6 @@
     "collection_list_8MQQyG",
     "163478366489eccf57",
     "1634611538203a7608",
-    "36d521d2-508c-4612-8183-a54392f57723",
     "bd93f90f-6f61-4877-841b-d0290ef868d8",
     "16346078358d4cca17",
     "1635967873ffcf8009",
