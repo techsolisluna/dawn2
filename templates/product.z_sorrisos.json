@@ -1,0 +1,760 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_MpYVzq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NQEmkf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em>Chegou ao Brasil o HQ que está revolucionando o gênero na Europa</em></p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_mfxfDK": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NQEmkf",
+        "text_mfxfDK"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "22236bf6-d32a-4c0d-8ec7-1333945b0a74": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% if product.metafields.my_fields.lancamento %}<div style=\"border:1px solid green;border-radius:5px;display:inline;padding:5px 10px;color:green;\">{% if localization.language.iso_code == 'en' %}Release{% else %}Lançamento{% endif %}</div>{% else %}{% endif %}"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_QEkGz4": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "a26a3e77-9691-4584-90e8-f138c0917db1": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2>{{product.metafields.descriptors.subtitle}}</h2>"
+          }
+        },
+        "fb062953-4d72-4753-92cc-17fdc5e598cd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}</span></a>\n\n{% if coauthor %}<span class=\"h3 author\"> e </span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
+          }
+        },
+        "ac5d2265-3446-44b4-9455-7d569c8114a4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Características",
+            "icon": "ruler",
+            "content": "<p><strong>ISBN:</strong> {{ product.metafields.facts.isbn.value }}<br/><strong>Idioma:</strong> {{ product.metafields.custom.idiomas_do_produto.value }}<br/><strong>Formato:</strong> {{ product.metafields.custom.largura.value }} x {{ product.metafields.custom.altura.value }} x {{ product.metafields.custom.profundidade.value }} cm<br/><strong>N° de páginas:</strong> {{ product.metafields.custom.numero_de_paginas.value }}<br/><strong>Encadernação:</strong> {{ product.metafields.custom.formato.value }}<br/><strong>Ano de publicação:</strong> {{ product.metafields.my_fields.published_year.value }}</p><p></p><p></p>",
+            "page": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "inventory_NhGrLA": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 100,
+            "show_inventory_quantity": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_nK4MER": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        },
+        "385c7754-4629-4dea-9dba-8cf1b306eafe": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br/></b>\nShipping forecast:{% else %}Livro em pré-venda.<br/></b>\nPrevisão de envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}</div>{% endif %}"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "33ecc337-7a9c-469b-bc81-95ea779415f3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Versão digital",
+            "icon": "box",
+            "content": "",
+            "page": ""
+          }
+        },
+        "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Frete e prazos",
+            "page": "prazos-de-entrega"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartilhar"
+          }
+        },
+        "collapsible_tab_7cAEF4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Classificação",
+            "icon": "clipboard",
+            "content": "<p><strong>Informações utilizadas para classificação do livro em bibliotecas e livrarias.</strong></p><p><strong>Palavras-chave:</strong> {{ product.metafields.custom.palavra_chave.value }}<br/><strong>Público-alvo:</strong> {{ product.metafields.custom.publico_alvo.value }}<br/><strong>Classificação Thema: </strong>{{ product.metafields.custom.classificacao_thema | metafield_tag }}<br/><strong>BISAC: </strong><br/>{{ product.metafields.custom.bisac | metafield_tag }}</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "22236bf6-d32a-4c0d-8ec7-1333945b0a74",
+        "title",
+        "judge_me_reviews_preview_badge_QEkGz4",
+        "a26a3e77-9691-4584-90e8-f138c0917db1",
+        "fb062953-4d72-4753-92cc-17fdc5e598cd",
+        "ac5d2265-3446-44b4-9455-7d569c8114a4",
+        "price",
+        "buy_buttons",
+        "inventory_NhGrLA",
+        "variant_picker",
+        "quantity_selector",
+        "judge_me_reviews_preview_badge_nK4MER",
+        "385c7754-4629-4dea-9dba-8cf1b306eafe",
+        "description",
+        "33ecc337-7a9c-469b-bc81-95ea779415f3",
+        "eb6ed72b-494b-40c0-84d3-e22b1a5b20d8",
+        "share",
+        "collapsible_tab_7cAEF4"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 990px) {.product--stacked .product__media-item {width: 100%; max-width: 100%; }}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1632621267a9cdb8f8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632621267a9cdb8f8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Comece a ler",
+            "heading_size": "h1"
+          }
+        },
+        "1632621267a9cdb8f8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pode começar a ler agora. Clique no botão para ler o início do livro <strong>{{ product.title }}</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "1632621267a9cdb8f8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Ler agora",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632621267a9cdb8f8-0",
+        "1632621267a9cdb8f8-1",
+        "1632621267a9cdb8f8-2"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.my_fields.picture_on_hand.value }}",
+        "product_img": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_iHpxEF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3xin7C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/william.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_3h9hti": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/meriwether.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_3xin7C",
+        "column_3h9hti"
+      ],
+      "name": "robôs",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_rC88yf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YYE9RY": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>\"Um novo estilo narrativo para os quadrinhos — espirituoso, irônico e semelhante a um videoclipe com legendas.\"</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aL8kHE": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>The White Ravens </h2><p><em>Presented by Internationale Jugendbibliothek / International Youth Libra. Munique, Alemanha</em></p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YYE9RY",
+        "text_aL8kHE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_qxBLHV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ewpjKq": {
+          "type": "heading",
+          "settings": {
+            "heading": "⭐ 4.1 no Goodreads",
+            "heading_size": "h2"
+          }
+        },
+        "text_737i8y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leitores elogiam o humor sutil, o estilo visual único e a originalidade da narrativa.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ewpjKq",
+        "text_737i8y"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_06_1_1.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4847166f-3598-445f-9c0b-7ad837090fb7": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Saiu na imprensa",
+        "heading_size": "h1",
+        "blog": "saiu-na-midia",
+        "post_limit": 2,
+        "columns_desktop": 2,
+        "color_scheme": "background-2",
+        "show_image": true,
+        "show_date": true,
+        "show_related": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16326202476377d29f": {
+      "type": "image-banner",
+      "blocks": {
+        "16326202476377d29f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Leia antes de comprar {{ product.title }}.",
+            "heading_size": "large"
+          }
+        },
+        "16326202476377d29f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16326202476377d29f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Começar a ler",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16326202476377d29f-0",
+        "16326202476377d29f-1",
+        "16326202476377d29f-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "{{ product.metafields.my_fields.banner.value }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": true,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_j7wDRG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jnddaa": {
+          "type": "column",
+          "repeater": "{{ product.metafields.custom.autor.value }}",
+          "settings": {
+            "image": "{{ block.repeater.foto.value }}",
+            "title": "{{ block.repeater.nome.value }}",
+            "text": "<p>{{ block.repeater.bio | metafield_tag }}</p>",
+            "link_label": "",
+            "link": "{{ block.repeater.system.url }}",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_jnddaa"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Sobre os Criadores",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_V4UbWf": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Jpn8bN": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_hHPkqt": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_XXzLhf": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_aGbYNp": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_wNYGeN": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_KEE7k9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_fM4NLm": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_Jpn8bN",
+        "title_hHPkqt",
+        "price_XXzLhf",
+        "variant_picker_aGbYNp",
+        "quantity_selector_wNYGeN",
+        "buy_buttons_KEE7k9",
+        "share_fM4NLm"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_ekRrd3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ENQJjQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Compre na pré-venda e ganhe desconto, brindes exclusivos e o livro em primeira mão!</strong><br/><br/>Além disso, você apoia uma editora independente que, há mais de 30 anos, investe no poder dos livros para conectar histórias e pessoas, inspirar novos olhares e cultivar encontros — em roda, com afeto, sobre formas diversas de ver e viver o mundo.</p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_PaMRWw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "left": false
+          }
+        },
+        "button_YE8Vfk": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ENQJjQ",
+        "text_PaMRWw",
+        "button_YE8Vfk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1662423745bffef672": {
+      "type": "image-banner",
+      "blocks": {
+        "1662423745af7cc26d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1662423745af7cc26d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1662423745af7cc26d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1662423745af7cc26d-0",
+        "1662423745af7cc26d-1",
+        "1662423745af7cc26d-2"
+      ],
+      "name": "divisor",
+      "settings": {
+        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_04_77d0e455-265b-4d0b-86d4-0bee7cf7957a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1631654167122d4539": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Postagens no blog",
+        "heading_size": "h2",
+        "blog": "solisblogluna",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-2",
+        "show_image": true,
+        "show_date": true,
+        "show_related": true,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_ALDr3y": {
+      "type": "featured-collection",
+      "name": "pré-venda",
+      "settings": {
+        "title": "Lançamentos em pré-venda",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pre-venda",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Livros que você pode gostar",
+        "heading_size": "h2",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "163366161336322e5e": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "rich_text_MpYVzq",
+    "main",
+    "1632621267a9cdb8f8",
+    "multicolumn_iHpxEF",
+    "rich_text_rC88yf",
+    "image_with_text_qxBLHV",
+    "4847166f-3598-445f-9c0b-7ad837090fb7",
+    "16326202476377d29f",
+    "multicolumn_j7wDRG",
+    "featured_product_V4UbWf",
+    "rich_text_ekRrd3",
+    "1662423745bffef672",
+    "1631654167122d4539",
+    "featured_collection_ALDr3y",
+    "product-recommendations",
+    "163366161336322e5e"
+  ]
+}
