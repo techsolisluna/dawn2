@@ -128,10 +128,10 @@
         "collection": "pre-venda",
         "products_to_show": 4,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
@@ -146,7 +146,6 @@
     },
     "image_banner_gnVmnH": {
       "type": "image-banner",
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
         "image_overlay_opacity": 0,
@@ -162,66 +161,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "1634603513b9058cec": {
-      "type": "image-with-text",
-      "blocks": {
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a": {
-          "type": "caption",
-          "settings": {
-            "caption": "lançamento",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "1634603513b9058cec-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Gambiarra",
-            "heading_size": "h1"
-          }
-        },
-        "1634603513b9058cec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>Gambiarra</strong> é uma celebração à engenhosidade presente em todas as idades, capaz de transformar o olhar para encontrar novos mundos possíveis através das pequenas coisas que nos rodeiam.</h2>",
-            "text_style": "body"
-          }
-        },
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a": {
-          "type": "button",
-          "settings": {
-            "button_label": "Saiba mais",
-            "button_link": "shopify://products/gambiarra"
-          }
-        }
-      },
-      "block_order": [
-        "34c92e9a-c5a7-41b1-9aaa-b2c7d3630c5a",
-        "1634603513b9058cec-0",
-        "1634603513b9058cec-1",
-        "cac9ee1d-4299-488a-9ff7-82ba6c2f9d3a"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/gambiarra-01_1.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "schema_color": false,
-        "color_back": "#e03f03",
-        "gradient_back": "",
-        "color_text": "#ffffff",
-        "mobile_content_alignment": "left",
-        "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured_products": {
@@ -926,7 +865,6 @@
     "1658153573113a06df",
     "featured_collection_Mxwaja",
     "image_banner_gnVmnH",
-    "1634603513b9058cec",
     "featured_products",
     "1635001812716d45d4",
     "image_with_text_Kr6fEE",
