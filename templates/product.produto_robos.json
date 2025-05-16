@@ -236,7 +236,7 @@
         "text_WmVtk6": {
           "type": "text",
           "settings": {
-            "text": "<h2>The White Ravens </h2><p><em>Presented by Internationale Jugendbibliothek / International Youth Libra. Munique, Alemanha</em></p>",
+            "text": "<h2>The White Ravens Database</h2><p><em>Presented by Internationale Jugendbibliothek / International Youth Libra. Munique, Alemanha</em></p>",
             "left": false
           }
         }
@@ -486,7 +486,7 @@
       "disabled": true,
       "name": "divisor",
       "settings": {
-        "image": "shopify://shop_images/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image": "shopify://shop_images/A_incrivel_expedicao_dos_robos_04_77d0e455-265b-4d0b-86d4-0bee7cf7957a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "product_banner": false,
@@ -568,13 +568,13 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolumn{{ product.metafields.custom.autor | metafield_text: field: 'nome' }}",
+        "title": "Sobre os criadores",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
