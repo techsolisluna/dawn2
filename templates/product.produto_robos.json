@@ -223,6 +223,54 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_iHpxEF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3xin7C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/william.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_3h9hti": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/meriwether.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_3xin7C",
+        "column_3h9hti"
+      ],
+      "name": "robôs",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_rC88yf": {
       "type": "rich-text",
       "blocks": {
@@ -298,95 +346,6 @@
         "color_text": "#000000",
         "mobile_content_alignment": "left",
         "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_iHpxEF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3xin7C": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/william.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        },
-        "column_3h9hti": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/meriwether.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        }
-      },
-      "block_order": [
-        "column_3xin7C",
-        "column_3h9hti"
-      ],
-      "name": "robôs",
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collage_jznErY": {
-      "type": "collage",
-      "blocks": {
-        "image_i9hHm7": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "product_aT4yN7": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "show_vendor": true
-          }
-        },
-        "collection_bAUQ7w": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_i9hHm7",
-        "product_aT4yN7",
-        "collection_bAUQ7w"
-      ],
-      "name": "t:sections.collage.presets.name",
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -722,7 +681,6 @@
     "multicolumn_iHpxEF",
     "rich_text_rC88yf",
     "image_with_text_qxBLHV",
-    "collage_jznErY",
     "4847166f-3598-445f-9c0b-7ad837090fb7",
     "16326202476377d29f",
     "multicolumn_j7wDRG",
