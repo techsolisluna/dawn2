@@ -219,7 +219,7 @@
         "text_GBYDRG": {
           "type": "text",
           "settings": {
-            "text": "<h1>15 anos depois, o sorriso permanece</h1><h2>Nova edição de um livro inesquecível de Pierre Verger</h2>",
+            "text": "<h1>15 anos depois, o sorriso permanece</h1><h2>Nova edição de um livro inesquecível de Pierre Verger</h2><p>Publicado originalmente há 15 anos, o livro <em>Sorrisos</em>, de Pierre Verger rapidamente se tornou um dos títulos mais queridos da <strong>Solisluna</strong>. A edição esgotou-se em pouco tempo e, desde então, o livro passou a ser constantemente procurado por leitores, educadores e admiradores da obra de Verger. Esta nova edição celebra o legado do fotógrafo e sua sensível capacidade de capturar a alegria humana em diferentes culturas do mundo — um verdadeiro clássico que volta a sorrir para o público.<br/></p>",
             "left": false
           }
         }
