@@ -114,6 +114,7 @@
         "featured_collection_tRbcTP",
         "featured_collection_fapEAq"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Collections",
@@ -167,6 +168,7 @@
         "column_YGneCQ",
         "column_GKChXM"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Multicolumn",
