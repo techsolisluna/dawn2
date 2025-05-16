@@ -189,6 +189,7 @@
       "block_order": [
         "column_JjUgnL"
       ],
+      "disabled": true,
       "settings": {
         "title": "Prêmios e reconhecimentos",
         "heading_size": "h1",
@@ -217,6 +218,7 @@
       "block_order": [
         "judge_me_reviews_review_widget_qTk4KL"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -362,6 +364,26 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_E4nxdM": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Kintsugi_01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "16624694455604944e": {
       "type": "rich-text",
       "blocks": {
@@ -396,6 +418,7 @@
         "1662469445056e69ac-1",
         "1662469445056e69ac-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -628,6 +651,7 @@
     "4847166f-3598-445f-9c0b-7ad837090fb7",
     "3b80a4b1-8919-4fbf-931b-49628d0e9afa",
     "41f56357-3bf1-4266-b3f0-f8445387fbcb",
+    "image_banner_E4nxdM",
     "16624694455604944e",
     "16326202476377d29f",
     "1662423745bffef672",
