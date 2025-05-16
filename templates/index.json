@@ -218,6 +218,7 @@
         "163259099574ea68ac-1",
         "163259099574ea68ac-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/carrinho-de-livros.jpg",
         "product_img": false,
@@ -240,6 +241,8 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
+      "name": "Livros Ilustrados",
       "settings": {
         "title": "Livros ilustrados",
         "heading_size": "h1",
@@ -709,6 +712,7 @@
     },
     "bd93f90f-6f61-4877-841b-d0290ef868d8": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Coleção Selo Emília & Solisluna",
         "heading_size": "h1",
@@ -736,6 +740,7 @@
     },
     "16346078358d4cca17": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Projetos especiais que a Solisluna desenvolve",
         "heading_size": "h2",
@@ -789,6 +794,7 @@
         "1635967873ffcf8009-1",
         "1635967873ffcf8009-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/capa_catologo2_a43396c9-1d4b-4086-8192-d16c1de7ab0e.jpg",
         "image_overlay_opacity": 0,
