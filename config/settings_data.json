@@ -10,9 +10,9 @@
 {
   "current": {
     "colors_solid_button_labels": "#000000",
-    "colors_accent_1": "#e03f03",
-    "gradient_accent_1": "linear-gradient(37deg, rgba(255, 145, 66, 1), rgba(251, 102, 58, 1) 24%, rgba(240, 57, 72, 1) 49%, rgba(243, 35, 79, 1) 90%)",
-    "colors_accent_2": "#ffd700",
+    "colors_accent_1": "#ffd700",
+    "gradient_accent_1": "",
+    "colors_accent_2": "#0a76bf",
     "colors_text": "#181600",
     "colors_outline_button_labels": "#0067ac",
     "colors_background_1": "#FFFFFF",
@@ -25,6 +25,7 @@
     "spacing_grid_horizontal": 20,
     "spacing_grid_vertical": 40,
     "buttons_radius": 5,
+    "buttons_shadow_blur": 15,
     "variant_pills_border_opacity": 35,
     "variant_pills_radius": 2,
     "variant_pills_shadow_blur": 5,
@@ -37,6 +38,7 @@
     "text_boxes_shadow_opacity": 0,
     "media_border_thickness": 0,
     "badge_position": "bottom left",
+    "accent_icons": "text",
     "social_facebook_link": "https://facebook.com/solislunaeditora",
     "social_instagram_link": "http://instagram.com/solislunaeditora",
     "social_youtube_link": "https://www.youtube.com/solisluna",
@@ -82,7 +84,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "accent-2",
+          "color_scheme": "accent-1",
           "logo": "shopify://shop_images/Logo_Solisluna_header.png",
           "logo_width": 120,
           "logo_position": "middle-left",
@@ -116,8 +118,8 @@
           "8dbe1e14-2e12-4f76-b78d-a695f4a1ff71": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/logo_vertical_13___white.png",
-              "image_width": 200,
+              "image": "shopify://shop_images/Logo_Solisluna_header.png",
+              "image_width": 165,
               "alignment": "center"
             }
           }
@@ -128,7 +130,7 @@
           "8dbe1e14-2e12-4f76-b78d-a695f4a1ff71"
         ],
         "settings": {
-          "color_scheme": "accent-2",
+          "color_scheme": "accent-1",
           "newsletter_enable": false,
           "newsletter_heading": "A conversa segue por email",
           "show_social": true,
