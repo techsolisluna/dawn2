@@ -414,21 +414,21 @@
         "text_ewCpDr": {
           "type": "text",
           "settings": {
-            "text": "<p>lançamento</p>",
+            "text": "<h5>De volta ao catálogo em edição especial</h5>",
             "text_style": "subtitle"
           }
         },
         "heading_rVVAX9": {
           "type": "heading",
           "settings": {
-            "heading": "Lá fora, os fantasmas",
+            "heading": "Sorrisos, de Pierre Verger",
             "heading_size": "h1"
           }
         },
         "text_LXwjFP": {
           "type": "text",
           "settings": {
-            "text": "<p>Não existe escuridão que resista às risadas, <br/>não há tristeza que enfrente cosquinhas.<br/>Quando a mamãe está, <br/>as sombras descansam até o outro dia.</p>",
+            "text": "<p>Um livro de fotografias e palavras que celebram a alegria como linguagem universal.</p>",
             "text_style": "body"
           }
         },
@@ -436,7 +436,7 @@
           "type": "button",
           "settings": {
             "button_label": "Conheça",
-            "button_link": "shopify://products/la-fora-os-fantasmas"
+            "button_link": "shopify://products/sorrisos"
           }
         }
       },
@@ -446,9 +446,8 @@
         "text_LXwjFP",
         "button_QhBYkb"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/IMG_2152.jpg",
+        "image": "shopify://shop_images/Sorrisos_capa2nd_1.png",
         "product_img": false,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -458,59 +457,11 @@
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
         "schema_color": false,
-        "color_back": "#334fb4",
+        "color_back": "#000000",
         "gradient_back": "",
-        "color_text": "#ffffff",
+        "color_text": "#ffd700",
         "mobile_content_alignment": "left",
         "contain_image": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8": {
-      "type": "collage",
-      "blocks": {
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify://shop_images/IMG_0225-Edit.jpg",
-            "video_url": "https://www.youtube.com/watch?v=fM7J4priGjU",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1": {
-          "type": "product",
-          "settings": {
-            "product": "roma-negra",
-            "second_image": true,
-            "show_vendor": true
-          }
-        },
-        "df611440-2fed-43c4-8057-72e4ed7c469a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_0178-Edit.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-0",
-        "template--14510716256337__9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8-16814278289ab49b1e-1",
-        "df611440-2fed-43c4-8057-72e4ed7c469a"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-weight: 600;}"
-      ],
-      "settings": {
-        "heading": "HQ Roma Negra de Esteban Vivaldi",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -540,6 +491,48 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_8MQQyG": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_jRk9km": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "historia-e-memoria"
+          }
+        },
+        "featured_collection_k7Rpgx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_FxGVFq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_jRk9km",
+        "featured_collection_k7Rpgx",
+        "featured_collection_FxGVFq"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Coleções",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -652,17 +645,17 @@
     "36d521d2-508c-4612-8183-a54392f57723": {
       "type": "featured-product",
       "blocks": {
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0": {
-          "type": "text",
-          "settings": {
-            "text": "Selo Emília & Solisluna",
-            "text_style": "uppercase"
-          }
-        },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-1": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
+          }
+        },
+        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0": {
+          "type": "text",
+          "settings": {
+            "text": "Pierre Verger",
+            "text_style": "subtitle"
           }
         },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2": {
@@ -677,9 +670,8 @@
         },
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6": {
           "type": "share",
-          "disabled": true,
           "settings": {
-            "share_label": "Share"
+            "share_label": ""
           }
         },
         "308534b2-96f8-4a8e-98d6-16f19dc68016": {
@@ -690,16 +682,15 @@
         }
       },
       "block_order": [
-        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-1",
+        "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-0",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-2",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-5",
         "template--14510716256337__36d521d2-508c-4612-8183-a54392f57723-1681429400160d03fe-6",
         "308534b2-96f8-4a8e-98d6-16f19dc68016"
       ],
-      "disabled": true,
       "settings": {
-        "product": "kit-livros-para-educadores",
+        "product": "sorrisos",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
@@ -861,8 +852,8 @@
     "image_banner_hg8NzU",
     "image_banner_9yeCej",
     "image_with_text_Hq34DW",
-    "9be60e2f-c27f-4a2c-b6c8-b9a0f16340d8",
     "1635597573bd71be81",
+    "collection_list_8MQQyG",
     "163478366489eccf57",
     "1634611538203a7608",
     "36d521d2-508c-4612-8183-a54392f57723",
