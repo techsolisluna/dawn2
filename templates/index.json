@@ -168,26 +168,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_gnVmnH": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/5efd41d88b54f877e2448250_Infantil-Solisluna_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": false,
-        "link": "",
-        "desktop_content_position": "middle-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "163259099574ea68ac": {
       "type": "image-with-text",
       "blocks": {
@@ -457,6 +437,57 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "mobile_content_alignment": "left",
+        "contain_image": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_MKRj68": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q6BeRr": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_NzRWiJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Um clássico da Solisluna, esgotado há mais de 15 anos, <em>Sorrisos</em> volta a emocionar leitores com imagens inesquecíveis de Pierre Verger e textos que celebram a alegria cotidiana. Um livro para sentir, lembrar e sorrir com a alma.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_LX4FDa": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_q6BeRr",
+        "text_NzRWiJ",
+        "button_LX4FDa"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1821_P_B2.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": true,
         "color_back": "#ffffff",
         "gradient_back": "",
         "color_text": "#000000",
@@ -786,7 +817,6 @@
   "order": [
     "1658153573113a06df",
     "featured_collection_Mxwaja",
-    "image_banner_gnVmnH",
     "163259099574ea68ac",
     "featured_products",
     "1635001812716d45d4",
@@ -794,6 +824,7 @@
     "image_banner_hg8NzU",
     "image_banner_9yeCej",
     "image_with_text_Hq34DW",
+    "image_with_text_MKRj68",
     "1635597573bd71be81",
     "collection_list_8MQQyG",
     "163478366489eccf57",
