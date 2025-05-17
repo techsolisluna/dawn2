@@ -76,7 +76,7 @@
         "1664378903bada78b1-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Você encontra os livros da Solisluna Editora em muitos lugares. </strong><br/>Nesta página listamos os pontos de venda e parceiros que comercializam os livros da Solisluna. <br/>Caso você busque um livro em específico, aconselhamos que confira a disponibilidade dele diretamente com a livraria de sua preferência.</p>",
+            "text": "<p>Você encontra os livros da <strong>Solisluna Editora</strong> em diversos pontos de venda espalhados pelo Brasil e também em livrarias online.</p><p>Nesta página, listamos os <strong>parceiros e revendedores</strong> que comercializam nossas publicações.<br/><br/>Se estiver buscando um título específico, recomendamos <strong>verificar diretamente com a livraria escolhida</strong> a disponibilidade do exemplar.</p><p>Agradecemos por apoiar o livro independente!</p>",
             "left": true
           }
         },
@@ -99,8 +99,8 @@
         "1664378903bada78b1-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
@@ -109,12 +109,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "174743535265b347b9": {
-      "type": "apps",
-      "settings": {
-        "include_margins": false
       }
     },
     "1664379138bf3a219f": {
@@ -170,6 +164,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": false,
         "padding_top": 28,
@@ -239,14 +234,33 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_html_7YTcBy": {
+      "type": "custom-html",
+      "blocks": {
+        "text_J6aEFE": {
+          "type": "text",
+          "settings": {
+            "section_html": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/app6bZ2RMvgu1Jasw/shru55vQaqDiz9Iv7\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>"
+          }
+        }
+      },
+      "block_order": [
+        "text_J6aEFE"
+      ],
+      "name": "HTML Customizado",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "166437903426c9d452",
     "16643789031a18886c",
-    "174743535265b347b9",
     "1664379138bf3a219f",
     "main",
-    "1659755087d5917cf5"
+    "1659755087d5917cf5",
+    "custom_html_7YTcBy"
   ]
 }
