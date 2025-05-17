@@ -111,6 +111,34 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_HmQcLL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_cRyXF7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Distribuidor nacional: </strong>WMF Martins Fontes vendas@wmfmartinsfontes.com.br</p>",
+            "left": false
+          }
+        }
+      },
+      "block_order": [
+        "text_cRyXF7"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1664379138bf3a219f": {
       "type": "image-with-text",
       "blocks": {
@@ -258,6 +286,7 @@
   "order": [
     "166437903426c9d452",
     "16643789031a18886c",
+    "rich_text_HmQcLL",
     "1664379138bf3a219f",
     "main",
     "1659755087d5917cf5",
