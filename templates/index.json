@@ -302,92 +302,6 @@
         "show_text_below": false
       }
     },
-    "image_with_text_Kr6fEE": {
-      "type": "image-with-text",
-      "blocks": {
-        "caption_r77qPj": {
-          "type": "caption",
-          "settings": {
-            "caption": "",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "text_ictwXx": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Solisluna Editora </strong>indicada ao BOP 2024 - Bologna Prize for the Best Children's Publishers of the Year -, prêmio internacional atribuído anualmente para distinguir editoras de excelência. Uma das cinco editoras infantis mais recomendadas por editores, associações de editores e instituições dedicadas à promoção da leitura no mundo.</p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "caption_r77qPj",
-        "text_ictwXx"
-      ],
-      "disabled": true,
-      "name": "BOP24",
-      "settings": {
-        "image": "shopify://shop_images/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
-        "product_img": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "schema_color": false,
-        "color_back": "#ffffff",
-        "gradient_back": "",
-        "color_text": "#181600",
-        "mobile_content_alignment": "left",
-        "contain_image": true,
-        "padding_top": 8,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_hg8NzU": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/conselheiro_20a7929d-96d0-44e0-9cad-4e798c2e086a.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": true,
-        "link": "shopify://products/antonino-peregrino",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_9yeCej": {
-      "type": "image-banner",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "image": "shopify://shop_images/antonino_peregrino_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "product_banner": false,
-        "adapt_height_first_image": true,
-        "image_link": true,
-        "link": "shopify://products/antonino-peregrino",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image_with_text_Hq34DW": {
       "type": "image-with-text",
       "blocks": {
@@ -497,9 +411,184 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_7GbG8A": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_T64RcR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/capa-gambiarra4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "image_link": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_yHTBT7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/capa-gambiarra_36692585-96f9-4bc7-aa2f-d0dacd6b3e51.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/gambiarra",
+            "button_style_secondary": false,
+            "image_link": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "custom_color": false,
+            "text_color": "#000",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_T64RcR",
+        "slide_yHTBT7"
+      ],
+      "name": "Slides, Gambiarra",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Livro Gambiarra de Bruno de Almeida"
+      }
+    },
+    "image_with_text_Kr6fEE": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_r77qPj": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_ictwXx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Solisluna Editora </strong>indicada ao BOP 2024 - Bologna Prize for the Best Children's Publishers of the Year -, prêmio internacional atribuído anualmente para distinguir editoras de excelência. Uma das cinco editoras infantis mais recomendadas por editores, associações de editores e instituições dedicadas à promoção da leitura no mundo.</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "caption_r77qPj",
+        "text_ictwXx"
+      ],
+      "disabled": true,
+      "name": "BOP24",
+      "settings": {
+        "image": "shopify://shop_images/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
+        "product_img": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "schema_color": false,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#181600",
+        "mobile_content_alignment": "left",
+        "contain_image": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_GWLdjM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xGztxC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BCBF24-bop-rosettes-shortlist.png",
+            "title": "Finalista BOP 2024",
+            "text": "<p>Entre as cinco melhores editoras de livros para as infâncias da região. </p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_xNfFyP": {
+          "type": "column",
+          "settings": {
+            "title": "IPL Retratos da Leitura",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_VQhk6D": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_PRcN4B": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_xGztxC",
+        "column_xNfFyP",
+        "column_VQhk6D",
+        "column_PRcN4B"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Premiações",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1635597573bd71be81": {
       "type": "featured-collection",
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "História e memória",
@@ -532,7 +621,7 @@
         "featured_collection_jRk9km": {
           "type": "featured_collection",
           "settings": {
-            "collection": "historia-e-memoria"
+            "collection": "livros_para_criancas"
           }
         },
         "featured_collection_k7Rpgx": {
@@ -560,9 +649,9 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -820,11 +909,11 @@
     "163259099574ea68ac",
     "featured_products",
     "1635001812716d45d4",
-    "image_with_text_Kr6fEE",
-    "image_banner_hg8NzU",
-    "image_banner_9yeCej",
     "image_with_text_Hq34DW",
     "image_with_text_MKRj68",
+    "slideshow_7GbG8A",
+    "image_with_text_Kr6fEE",
+    "multicolumn_GWLdjM",
     "1635597573bd71be81",
     "collection_list_8MQQyG",
     "163478366489eccf57",
