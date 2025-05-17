@@ -221,7 +221,6 @@
     },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "Livros Ilustrados",
       "settings": {
         "title": "Livros ilustrados",
@@ -907,13 +906,13 @@
     "1658153573113a06df",
     "featured_collection_Mxwaja",
     "163259099574ea68ac",
-    "featured_products",
     "1635001812716d45d4",
     "image_with_text_Hq34DW",
     "image_with_text_MKRj68",
     "slideshow_7GbG8A",
     "image_with_text_Kr6fEE",
     "multicolumn_GWLdjM",
+    "featured_products",
     "1635597573bd71be81",
     "collection_list_8MQQyG",
     "163478366489eccf57",
