@@ -533,6 +533,65 @@
         "show_text_below": true
       }
     },
+    "custom_html_arn4Mm": {
+      "type": "custom-html",
+      "blocks": {
+        "text_mPHigM": {
+          "type": "text",
+          "settings": {
+            "section_html": "<div style=\"display:flex;justify-content:center;\"><img style=\"max-width:450px\" src=\"https://cdn.shopify.com/s/files/1/1201/3280/files/Selo-Emilia-solisluna.jpg?v=1642348534\" alt=\"Parceria com Instituto Emília e Solisluna Editora\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "text_mPHigM"
+      ],
+      "name": "HTML Customizado",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_XbN7m4": {
+      "type": "rich-text",
+      "blocks": {
+        "text_QKCqeT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Solisluna Editora e Selo Emília se uniram com o propósito de juntar forças e trazer para o Brasil importantes títulos destinados a educadores, mediadores de leitura, professores, bibliotecários e todos que estudam, pesquisam e trabalham com literatura para crianças e jovens.</p>",
+            "left": true
+          }
+        },
+        "button_g3EgPG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conheça a coleção completa",
+            "button_link": "shopify://collections/livros-em-parceria-com-o-selo-emilia",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_QKCqeT",
+        "button_g3EgPG"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1631654167122d4539": {
       "type": "featured-blog",
       "settings": {
@@ -647,6 +706,8 @@
     "16624694455604944e",
     "16326202476377d29f",
     "1662423745bffef672",
+    "custom_html_arn4Mm",
+    "rich_text_XbN7m4",
     "1631654167122d4539",
     "product-recommendations",
     "163366161336322e5e",
