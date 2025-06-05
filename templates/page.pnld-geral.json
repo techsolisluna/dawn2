@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": false,
+        "show_title": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
@@ -171,6 +171,52 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "multicolumn_fFTkxz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N4PXG6": {
+          "type": "column",
+          "settings": {
+            "title": "PNLD 2023",
+            "text": "",
+            "link_label": "Conheça as obras aprovadas",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_xga4Ti": {
+          "type": "column",
+          "settings": {
+            "title": "PNLD 2022",
+            "text": "",
+            "link_label": "Conheça as obras aprovadas",
+            "link": "shopify://pages/pnld-2022",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_N4PXG6",
+        "column_xga4Ti"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Conheça as obras da Solisluna aprovadas e selecionadas para distribuição gratuita pelo PNLD literário",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -179,6 +225,7 @@
     "8d6b8709-76e4-4785-816e-3dfe8f07cd53",
     "8e79cbdf-1b96-463a-9e05-c75965bb290a",
     "ca9b5d23-61cf-4f90-8604-e5269e333ac6",
-    "1747435070283b7763"
+    "1747435070283b7763",
+    "multicolumn_fFTkxz"
   ]
 }
