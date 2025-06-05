@@ -323,6 +323,15 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_hRjDy8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "502d0db3-67f2-49a8-977e-2584a4ff2dfd": {
       "type": "image-banner",
       "blocks": {
@@ -473,6 +482,7 @@
     "main",
     "8caddc07-d2dc-48b5-9b18-06aa925306ef",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
+    "custom_liquid_hRjDy8",
     "multicolumn_8fftct",
     "multicolumn_hCnh7q",
     "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
