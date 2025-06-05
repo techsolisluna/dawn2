@@ -24,7 +24,7 @@
         "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>PNLD 2023 - 1º ao 3º ano do ensino fundamental</p>",
+            "heading": "<p>PNLD 2023 - 4º e 5º ano do ensino fundamental</p>",
             "heading_size": "h2"
           }
         },
@@ -63,7 +63,7 @@
         "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Tecelagem-capa-mockup.png",
+            "image": "shopify://shop_images/Antonino-Peregrino_1_4a3606d1-3f5e-4593-9c8b-65110502d2de.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,7 +75,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h1><strong>Tecelagem</strong></h1><p></p><p><strong>Texto e Ilustrações:</strong> <a href=\"/collections/goya-lopes\" target=\"_blank\" title=\"Goya Lopes\">Goya Lopes<br/></a><strong>Código da obra: </strong>1051P230301000000</p><p><strong>Categoria: </strong>Obras Literárias do 1º ao 3º ano do ensino fundamental</p><p><strong>Gênero: </strong>Conto, crônica, novela<strong><br/>ACERVO: </strong>6</p><p><br/></p><p>Um conto que apresenta a narrativa dos irmãos Loom e Axó, contando a história da tecelagem na África. </p><p><strong>É uma obra direcionada ao 1º, 2º e 3º ano do Ensino Fundamental </strong>- Anos Iniciais, com abordagens sobre a descoberta de si; família, amigos e escola; o mundo natural e social, ressaltando a importância da ancestralidade na forma de tecer e confeccionar roupas.</p><p>O conto apresenta duas crianças como narradores-personagens: a menina Loom e seu irmão Axó. </p><p>Ambos acompanham, junto à família, todo o processo do ofício. Além das crianças e seus familiares, a natureza também é uma personagem da trama, já que vem dela toda a matéria prima para realizar essa arte ancestral.<br/>A narrativa conta desde quando o algodão é semente nas plantações até se tornar uma vestimenta. Todo o processo é explicado pelas crianças narradoras. Primeiro, a colheita das sementes e separação das fibras; depois, a transformação em fios e tingimento, para, finalmente, esses fios serem esticados no tear de madeira e se tornarem tecidos. No desfecho da história, Loom e Axó voltam para reforçar que a tecelagem é um trabalho desenvolvido pelos seus antepassados e é transmitido dos pais para os filhos - informação valiosa para toda história de origem africana.</p><p></p>",
+            "text": "<h1><strong>Antonino Peregrino</strong></h1><p></p><p><strong>Texto:</strong> <a href=\"/collections/osvaldo-costa-martins\" target=\"_blank\" title=\"Osvaldo Costa Martins\">Osvaldo Costa Martins</a></p><p><strong> Ilustrações:</strong> Luci Sacoleira</p><p><strong>Código da obra: </strong>1052P230302000000</p><p><strong>Categoria: </strong>Obras Literárias do 4º ao 5º ano do ensino fundamental</p><p><strong>Gênero: </strong>Memória, diário, biografia<strong><br/>ACERVO: </strong>11</p><p><br/></p><p>Um conto que apresenta a narrativa dos irmãos Loom e Axó, contando a história da tecelagem na África. </p><p><strong>É uma obra direcionada ao 1º, 2º e 3º ano do Ensino Fundamental </strong>- Anos Iniciais, com abordagens sobre a descoberta de si; família, amigos e escola; o mundo natural e social, ressaltando a importância da ancestralidade na forma de tecer e confeccionar roupas.</p><p>O conto apresenta duas crianças como narradores-personagens: a menina Loom e seu irmão Axó. </p><p>Ambos acompanham, junto à família, todo o processo do ofício. Além das crianças e seus familiares, a natureza também é uma personagem da trama, já que vem dela toda a matéria prima para realizar essa arte ancestral.<br/>A narrativa conta desde quando o algodão é semente nas plantações até se tornar uma vestimenta. Todo o processo é explicado pelas crianças narradoras. Primeiro, a colheita das sementes e separação das fibras; depois, a transformação em fios e tingimento, para, finalmente, esses fios serem esticados no tear de madeira e se tornarem tecidos. No desfecho da história, Loom e Axó voltam para reforçar que a tecelagem é um trabalho desenvolvido pelos seus antepassados e é transmitido dos pais para os filhos - informação valiosa para toda história de origem africana.</p><p><strong> e Ilustrações:</strong></p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -105,6 +105,15 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "custom_liquid_hRjDy8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_8fftct": {
@@ -316,15 +325,6 @@
     "b910ec60-de6f-4b9b-8b5c-fc535b385fca": {
       "type": "custom-liquid",
       "custom_css": [],
-      "settings": {
-        "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "custom_liquid_hRjDy8": {
-      "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
         "color_scheme": "background-1",
