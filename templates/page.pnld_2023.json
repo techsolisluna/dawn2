@@ -1,0 +1,326 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "strong {color: black; font-size: 1.7rem;}"
+      ],
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PNLD 2022 - Educação Infantil</p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Conheça as obras da Solisluna Editora aprovadas no PNLD 2022 para a Educação Infantil</p>",
+            "left": false
+          }
+        },
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-0",
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-1",
+        "template--18206351982871__8e8bf2dd-e294-4353-a1db-83b3fe3ec63c-16789616249f46b53b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "schema_color": true,
+        "color_back": "#e03f03",
+        "gradient_back": "",
+        "color_text": "#ffffff",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9fe2cdff-2a92-4805-b54d-944f9dfa9f59": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Que-bicho-doido-PNDL.png",
+            "title": "",
+            "text": "<p><strong>Texto e ilustrações<br/></strong>Enéas Guerra</p><p>-<strong><br/>Educação infantil - Creche I</strong></p><p>-</p><h3><strong>ACERVOS 09 e 13 </strong></h3><p>-</p><p><strong>TEMA</strong> Animais da fauna local, nacional e mundial</p><p>-</p><p><strong>CÓDIGO </strong>0715P220201000000</p><p></p>",
+            "link_label": "SAIBA MAIS",
+            "link": "shopify://pages/pnld-2022-que-bicho-doido",
+            "image_link": true
+          }
+        },
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/A-uniao-faz-a-colcha-PNDL.png",
+            "title": "",
+            "text": "<p><strong>Texto </strong>Antonio Miranda e Enéas Guerra</p><p><strong>Ilustrações </strong>Enéas Guerra</p><p> -</p><p><strong>Educação infantil - Pré-escola</strong></p><p>-</p><h3><strong>ACERVOS 04 e 23 </strong></h3><p>-</p><p><strong>TEMA</strong> Profissões urbanas e rurais</p><p>-</p><p> </p><p><strong> </strong></p><p></p><p><strong>CÓDIGO<br/></strong>0716P220203000000</p>",
+            "link_label": "SAIBA MAIS",
+            "link": "shopify://pages/pnld-2022-a-uniao-faz-a-colcha",
+            "image_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-0",
+        "template--18206351982871__9fe2cdff-2a92-4805-b54d-944f9dfa9f59-1678734255f77019b3-1"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: auto; max-width: 800px; font-size: 0.9em;}",
+        ".link span {display: none;}",
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 5px; margin: 20px auto 0; padding: 0.5rem 0; display: block;}",
+        ".link:hover {background: #c13400;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a3284f09-fa01-479c-82ff-155eb5891877": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Receba atualizações por email",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Seja o primeira(o) a saber sobre lançamentos e ofertas exclusivas</p>"
+          }
+        },
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "pnld2022"
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-heading-1",
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-paragraph-1",
+        "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "79b652c5-3244-45a8-9bb4-247e6089747e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-0",
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1",
+        "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner-PNDL-2022.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "9856ed00-92e9-422e-b1b5-646820db6b6a": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e301b06e-d3c1-4e86-9a6f-c38a846d33f5": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-0",
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-1",
+        "template--18206351982871__e301b06e-d3c1-4e86-9a6f-c38a846d33f5-167917993762f3d448-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "57e5cc1d-6938-4f2d-845e-c72307bfddd5": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossos emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-1": {
+          "type": "paragraph",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-2": {
+          "type": "email_form",
+          "settings": {
+            "tag": "pnld2022"
+          }
+        }
+      },
+      "block_order": [
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-0",
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-1",
+        "template--18206351982871__57e5cc1d-6938-4f2d-845e-c72307bfddd5-1679179838e3b402af-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "custom_background": false,
+        "background_color": "#000000",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8e8bf2dd-e294-4353-a1db-83b3fe3ec63c",
+    "9fe2cdff-2a92-4805-b54d-944f9dfa9f59",
+    "a3284f09-fa01-479c-82ff-155eb5891877",
+    "79b652c5-3244-45a8-9bb4-247e6089747e",
+    "9856ed00-92e9-422e-b1b5-646820db6b6a",
+    "e301b06e-d3c1-4e86-9a6f-c38a846d33f5",
+    "57e5cc1d-6938-4f2d-845e-c72307bfddd5"
+  ]
+}
