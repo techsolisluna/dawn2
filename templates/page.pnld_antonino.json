@@ -1,0 +1,495 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8caddc07-d2dc-48b5-9b18-06aa925306ef": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PNLD 2023 - 1º ao 3º ano do ensino fundamental</p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Todas as obras",
+            "button_link": "shopify://pages/pnld-2023",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-0",
+        "template--18218433904919__8caddc07-d2dc-48b5-9b18-06aa925306ef-167918007254ce44ae-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c949b8b6-2559-4093-b9f5-b3279c92b1a8": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Tecelagem-capa-mockup.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h1><strong>Tecelagem</strong></h1><p></p><p><strong>Texto e Ilustrações:</strong> <a href=\"/collections/goya-lopes\" target=\"_blank\" title=\"Goya Lopes\">Goya Lopes<br/></a><strong>Código da obra: </strong>1051P230301000000</p><p><strong>Categoria: </strong>Obras Literárias do 1º ao 3º ano do ensino fundamental</p><p><strong>Gênero: </strong>Conto, crônica, novela<strong><br/>ACERVO: </strong>6</p><p><br/></p><p>Um conto que apresenta a narrativa dos irmãos Loom e Axó, contando a história da tecelagem na África. </p><p><strong>É uma obra direcionada ao 1º, 2º e 3º ano do Ensino Fundamental </strong>- Anos Iniciais, com abordagens sobre a descoberta de si; família, amigos e escola; o mundo natural e social, ressaltando a importância da ancestralidade na forma de tecer e confeccionar roupas.</p><p>O conto apresenta duas crianças como narradores-personagens: a menina Loom e seu irmão Axó. </p><p>Ambos acompanham, junto à família, todo o processo do ofício. Além das crianças e seus familiares, a natureza também é uma personagem da trama, já que vem dela toda a matéria prima para realizar essa arte ancestral.<br/>A narrativa conta desde quando o algodão é semente nas plantações até se tornar uma vestimenta. Todo o processo é explicado pelas crianças narradoras. Primeiro, a colheita das sementes e separação das fibras; depois, a transformação em fios e tingimento, para, finalmente, esses fios serem esticados no tear de madeira e se tornarem tecidos. No desfecho da história, Loom e Axó voltam para reforçar que a tecelagem é um trabalho desenvolvido pelos seus antepassados e é transmitido dos pais para os filhos - informação valiosa para toda história de origem africana.</p><p></p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-0",
+        "template--18207618138391__c949b8b6-2559-4093-b9f5-b3279c92b1a8-1678734255f77019b3-1"
+      ],
+      "custom_css": [
+        "/*.title {font-weight: 600; background: #f7d8b2; padding: 1rem; font-size: 1.7rem;}",
+        "*/a {text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_8fftct": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_D8PWPQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_Tecelagem01.jpg",
+            "title": "",
+            "text": "<p>Os temas que essa narrativa explora é a “descoberta de si”, ao dar às personagens a percepção do seu corpo e seus sentimentos.  Como é uma história vivida no âmbito familiar, o tema “família, amigos e escola” se evidencia nas relações interpessoais que se constroem entre si e o outro. Também se encontra na obra a temática de “o mundo natural e social”, ao verem ampliadas as experiências pessoais para o âmbito escolar, social e ambiental, pois a tecelagem é uma manifestação cultural africana e, como tal, toda a comunidade é envolvida nessa atividade colaborativa, que estimula a diversidade e o respeito pelo outro.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "column_HxFymF": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "<h1><strong>Tecelagem</strong></h1><p></p><p><strong>Texto e Ilustrações:</strong> <a href=\"/collections/goya-lopes\" target=\"_blank\" title=\"Goya Lopes\">Goya Lopes<br/></a><strong>Código da obra: </strong>1051P230301000000</p><p><strong>Categoria: </strong>Obras Literárias do 1º ao 3º ano do ensino fundamental</p><p><strong>Gênero: </strong>Conto, crônica, novela<strong><br/>ACERVO: </strong>6</p><p><br/></p><p>Um conto que apresenta a narrativa dos irmãos Loom e Axó, contando a história da tecelagem na África. </p><p><strong>É uma obra direcionada ao 1º, 2º e 3º ano do Ensino Fundamental </strong>- Anos Iniciais, com abordagens sobre a descoberta de si; família, amigos e escola; o mundo natural e social, ressaltando a importância da ancestralidade na forma de tecer e confeccionar roupas.</p><p>O conto apresenta duas crianças como narradores-personagens: a menina Loom e seu irmão Axó. </p><p>Ambos acompanham, junto à família, todo o processo do ofício. Além das crianças e seus familiares, a natureza também é uma personagem da trama, já que vem dela toda a matéria prima para realizar essa arte ancestral.<br/>A narrativa conta desde quando o algodão é semente nas plantações até se tornar uma vestimenta. Todo o processo é explicado pelas crianças narradoras. Primeiro, a colheita das sementes e separação das fibras; depois, a transformação em fios e tingimento, para, finalmente, esses fios serem esticados no tear de madeira e se tornarem tecidos. No desfecho da história, Loom e Axó voltam para reforçar que a tecelagem é um trabalho desenvolvido pelos seus antepassados e é transmitido dos pais para os filhos - informação valiosa para toda história de origem africana.</p><p></p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_D8PWPQ",
+        "column_HxFymF"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_hCnh7q": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UkVjRj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_Tecelagem02.jpg",
+            "title": "",
+            "text": "<p><strong>Esse conto ilustrado - sem estereótipos nem preconceitos – tem em seu clímax os flocos de algodão se transformarem em tecidos coloridos, que vestem as personagens que os produzem.</strong> Por isso, pode contribuir para a construção, na criança, de uma consciência ecológica e um respeito para com a natureza. </p><p><strong>Valorizar o trabalho comunitário feito no convívio familiar, cuidar da Terra e pensar no presente e futuro do planeta é um ato de humanidade, tanto da própria existência pessoal como da coletiva.</strong></p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_UkVjRj"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Faça o download</p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "left": false
+          }
+        },
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Trecho da obra",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "Manual do Professor",
+            "button_link_2": "https://cdn.shopify.com/s/files/1/1201/3280/files/MANUAL_DO_PROFESSOR_Tecelagem_2024.pdf?v=1749151429",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-0",
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-1",
+        "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>ACERVO</strong></p><p>6</p><p> </p><p><strong>CÓDIGO DA OBRA</strong></p><p>1051P230301000000</p><p> </p><p><strong>CATEGORIA</strong></p><p>Obras Literárias do 1º ao 3º ano do ensino fundamental</p><p></p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>GÊNERO LITERÁRIO</strong></p><p>Conto, crônica, novela</p><p> </p><p><strong>FORMATO</strong></p><p>20,5cm x 27,5cm | 28 páginas</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        },
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "TRECHO DA OBRA",
+            "link": "https://link.solisluna.com.br/pnld22_trecho_quebichodoido",
+            "image_link": false
+          }
+        },
+        "8c9a9138-eaec-4115-8087-f8734f4a254e": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "MANUAL DO PROFESSOR",
+            "link": "https://link.solisluna.com.br/pnld22_mdp_quebichodoido",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-0",
+        "template--18207618138391__b4f2feff-85bd-4621-abd7-f8f0fb57bf25-1678734255f77019b3-1",
+        "00eab0ad-d5b4-4d04-a8df-90488fec72c9",
+        "8c9a9138-eaec-4115-8087-f8734f4a254e"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: 2rem auto 5rem;}",
+        ".multicolumn {background: #f7d8b2; width: 90%;}",
+        ".link span {display: none;}",
+        ".link {color: white; font-weight: 600; width: 100%; background: #e03f03; text-align: center; border-radius: 10px; margin: 0 auto 0; padding: 0.5rem 0; display: block;}",
+        ".link:hover {background: #c13400;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b910ec60-de6f-4b9b-8b5c-fc535b385fca": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_hRjDy8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"button-pnld-code\"><h3>1051P230301000000</h3><button id=\"btn-copy\"> copiar código da obra <i class=\"fas fa-copy\"></i></button></div>\n\n\n<script>\n  var btnCopy = document.getElementById(\"btn-copy\");\n  var contentToCopy = \"1051P230301000000\";\n\n  btnCopy.addEventListener(\"click\", function() {\n    navigator.clipboard.writeText(contentToCopy)\n      .then(function() {\n        btnCopy.textContent = \"código copiado!\";\n        console.log(\"Conteúdo copiado para o clipboard\");\n      })\n      .catch(function() {\n        console.log(\"Não foi possível copiar o conteúdo para o clipboard\");\n      });\n  });\n</script>\n<style>\n#btn-copy {\n  background-color: #007bc8;\n  border: none;\n  color: white;\n  cursor: pointer;\n  font-size: 22px;\n  padding: 10px 25px;\n  border-radius: 5px;\n  -webkit-transition: all 0.5s ease-out;\n  -moz-transition: all 0.5s ease-out;\n  -ms-transition: all 0.5s ease-out;\n  -o-transition: all 0.5s ease-out;\n  transition: all 0.5s ease-out;\n}\n#btn-copy:hover {\n  background-color: #0065a4;\n  cursor: pointer;\n  padding: 10px 35px;\n-webkit-filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n  filter: drop-shadow(5px 2px 5px rgba(0, 0, 0, 0.3));\n}\n.button-pnld-code {\n  text-align: center;\n  margin-bottom: 3em;\n}\n</style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "502d0db3-67f2-49a8-977e-2584a4ff2dfd": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-0",
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-1",
+        "template--18218433904919__502d0db3-67f2-49a8-977e-2584a4ff2dfd-167917993762f3d448-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner-site-Tecelagem.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "product_banner": false,
+        "adapt_height_first_image": true,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "b960f13f-7aae-4e97-ae9a-e0c23c57cdb4": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Inscreva-se em nossos emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Receba informações atualizadas sobre os lançamentos mais recentes e tenha acesso a conteúdos exclusivos para educadores.</p>"
+          }
+        },
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-email_form-1": {
+          "type": "email_form",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-heading-1",
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-paragraph-1",
+        "template--18218433904919__b960f13f-7aae-4e97-ae9a-e0c23c57cdb4-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "custom_background": true,
+        "background_color": "#ffd700",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8325b38b-a2a2-4cee-9a37-7cd8e582e759": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-0",
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-1",
+        "template--18218433904919__8325b38b-a2a2-4cee-9a37-7cd8e582e759-167917993762f3d448-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/capa_catologo2_07e6e76e-6473-4f9b-a319-91518cf8f1a9.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "product_banner": false,
+        "adapt_height_first_image": false,
+        "image_link": false,
+        "link": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8caddc07-d2dc-48b5-9b18-06aa925306ef",
+    "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
+    "custom_liquid_hRjDy8",
+    "multicolumn_8fftct",
+    "multicolumn_hCnh7q",
+    "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
+    "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
+    "b910ec60-de6f-4b9b-8b5c-fc535b385fca",
+    "502d0db3-67f2-49a8-977e-2584a4ff2dfd",
+    "b960f13f-7aae-4e97-ae9a-e0c23c57cdb4",
+    "8325b38b-a2a2-4cee-9a37-7cd8e582e759"
+  ]
+}
