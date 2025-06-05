@@ -150,11 +150,12 @@
         "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-paragraph-1",
         "template--18206351982871__a3284f09-fa01-479c-82ff-155eb5891877-email_form-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "custom_background": false,
-        "background_color": "#000000",
+        "custom_background": true,
+        "background_color": "#ffd700",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -196,6 +197,7 @@
         "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1",
         "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Banner-PNDL-2022.jpg",
         "image_overlay_opacity": 0,
