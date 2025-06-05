@@ -197,9 +197,8 @@
         "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-1",
         "template--18206351982871__79b652c5-3244-45a8-9bb4-247e6089747e-1679234918044a454c-2"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Banner-PNDL-2022.jpg",
+        "image": "shopify://shop_images/A2_Banner-site-PNLD-2023.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "product_banner": false,
