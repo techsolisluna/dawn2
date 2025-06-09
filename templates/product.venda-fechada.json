@@ -15,14 +15,14 @@
         "heading_yU9aKx": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Nova edição do livro disponível!</p>",
+            "heading": "<p>Nova edição disponível!</p>",
             "heading_size": "h1"
           }
         },
         "text_iAgqbc": {
           "type": "text",
           "settings": {
-            "text": "<p>Uma nova edição atualizada e revisada chegou para encantar.</p>",
+            "text": "<p>A nova edição, atualizada ampliada e revisada deste importante título chegou.</p>",
             "left": false
           }
         },
