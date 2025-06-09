@@ -9,6 +9,54 @@
  */
 {
   "sections": {
+    "rich_text_DJhCMi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yU9aKx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nova edição do livro disponível!</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_iAgqbc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Uma nova edição atualizada e revisada chegou para encantar.</p>",
+            "left": false
+          }
+        },
+        "button_36bMYr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Conheça",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yU9aKx",
+        "text_iAgqbc",
+        "button_36bMYr"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -45,6 +93,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "variant_picker": {
@@ -60,6 +109,7 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
           }
@@ -538,6 +588,7 @@
     }
   },
   "order": [
+    "rich_text_DJhCMi",
     "main",
     "premios",
     "16336611696633b6c2",
