@@ -75,7 +75,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h1><strong>Antonino Peregrino</strong></h1><p></p><p><strong>Texto:</strong> <a href=\"/collections/osvaldo-costa-martins\" target=\"_blank\" title=\"Osvaldo Costa Martins\">Osvaldo Costa Martins</a></p><p><strong> Ilustrações:</strong> <a href=\"/collections/luci-sacoleira\" target=\"_blank\" title=\"Luci Sacoleira\">Luci Sacoleira</a></p><p><strong>Código da obra: </strong>1052P230302000000</p><p><strong>Categoria: </strong>Obras Literárias do 4º ao 5º ano do ensino fundamental</p><p><strong>Gênero: </strong>Memória, diário, biografia<strong><br/>ACERVO: </strong>11</p><p><br/></p><p></p>",
+            "text": "<h1><strong>Antonino Peregrino</strong></h1><p></p><p><strong>Texto:</strong> <a href=\"/collections/osvaldo-costa-martins\" target=\"_blank\" title=\"Osvaldo Costa Martins\">Osvaldo Costa Martins</a></p><p><strong> Ilustrações:</strong> <a href=\"/collections/luci-sacoleira\" target=\"_blank\" title=\"Luci Sacoleira\">Luci Sacoleira</a></p><p><strong>Código da obra: </strong>1052P230302000000</p><p><strong>Categoria: </strong>Obras Literárias do 4º ao 5º ano do ensino fundamental</p><p><strong>Gênero: </strong>Memória, diário, biografia<strong><br/>ACERVO: </strong>11</p><p>-</p><p><strong>A obra é uma biografia narrada pelo personagem central, de sua infância até seus últimos dias, passando por importantes fatos históricos do país. </strong></p><p>A ilustração cumpre mais do que acompanhar o texto narrativo, com um estilo que nos remete ao sertão nordestino, cada página mostra paisagens das cidades narradas e as cenas históricas que são descritas. A ilustradora apresenta sua percepção da história com cores fortes, mas muito próximas às paisagens áridas, com muitos tons do marrom em contraste com o colorido das casas e roupas, entre outros elementos.</p><p><br/></p><p></p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -116,6 +116,54 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_q8PDXC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CqCafd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Faça o download dos Materiais<strong> </strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_AYhm4U": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "left": false
+          }
+        },
+        "button_GWdzga": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "Manual do Professor",
+            "button_link_2": "https://cdn.shopify.com/s/files/1/1201/3280/files/MANUAL_DO_PROFESSOR_Antonino_13maio.pdf?v=1749151428",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CqCafd",
+        "text_AYhm4U",
+        "button_GWdzga"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "schema_color": true,
+        "color_back": "#ffffff",
+        "gradient_back": "",
+        "color_text": "#000000",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_8fftct": {
       "type": "multicolumn",
       "blocks": {
@@ -124,18 +172,7 @@
           "settings": {
             "image": "shopify://shop_images/Mockup-Antonino-02_1.png",
             "title": "",
-            "text": "<p>A obra é uma biografia narrada pelo personagem central, de sua infância até seus últimos dias, passando por importantes fatos históricos do país.A ilustração cumpre mais do que acompanhar o texto narrativo, com um estilo que nos remete ao sertão nordestino, cada página mostra paisagens das cidades narradas e as cenas históricas que são descritas. A ilustradora apresenta sua percepção da história com cores fortes, mas muito próximas às paisagens áridas, com muitos tons do marrom em contraste com o colorido das casas e roupas, entre outros elementos.</p>",
-            "link_label": "",
-            "link": "",
-            "image_link": false
-          }
-        },
-        "column_HxFymF": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "<h1><strong>Tecelagem</strong></h1><p></p><p><strong>Texto e Ilustrações:</strong> <a href=\"/collections/goya-lopes\" target=\"_blank\" title=\"Goya Lopes\">Goya Lopes<br/></a><strong>Código da obra: </strong>1051P230301000000</p><p><strong>Categoria: </strong>Obras Literárias do 1º ao 3º ano do ensino fundamental</p><p><strong>Gênero: </strong>Conto, crônica, novela<strong><br/>ACERVO: </strong>6</p><p><br/></p><p>Um conto que apresenta a narrativa dos irmãos Loom e Axó, contando a história da tecelagem na África. </p><p><strong>É uma obra direcionada ao 1º, 2º e 3º ano do Ensino Fundamental </strong>- Anos Iniciais, com abordagens sobre a descoberta de si; família, amigos e escola; o mundo natural e social, ressaltando a importância da ancestralidade na forma de tecer e confeccionar roupas.</p><p>O conto apresenta duas crianças como narradores-personagens: a menina Loom e seu irmão Axó. </p><p>Ambos acompanham, junto à família, todo o processo do ofício. Além das crianças e seus familiares, a natureza também é uma personagem da trama, já que vem dela toda a matéria prima para realizar essa arte ancestral.<br/>A narrativa conta desde quando o algodão é semente nas plantações até se tornar uma vestimenta. Todo o processo é explicado pelas crianças narradoras. Primeiro, a colheita das sementes e separação das fibras; depois, a transformação em fios e tingimento, para, finalmente, esses fios serem esticados no tear de madeira e se tornarem tecidos. No desfecho da história, Loom e Axó voltam para reforçar que a tecelagem é um trabalho desenvolvido pelos seus antepassados e é transmitido dos pais para os filhos - informação valiosa para toda história de origem africana.</p><p></p>",
+            "text": "<p>A história começa com o contexto do nascimento de Antônio Conselheiro e aborda questões de sua infância cheia de ausências e seu início precoce na vida adulta, no qual já expressam sensibilidade com a dor do outro, diante de sua própria dor. As peregrinações compõem um importante aspecto da história, com a nomeação de cidades do sertão que foram percorridas pelo personagem-título da história.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -143,8 +180,7 @@
         }
       },
       "block_order": [
-        "column_D8PWPQ",
-        "column_HxFymF"
+        "column_D8PWPQ"
       ],
       "settings": {
         "title": "",
@@ -152,6 +188,41 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_e4iYEA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tHUQhB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ilustracao_Antonino_Peregrino_02_f43ba2b2-d5be-4500-bd3c-9a2e76e927d3.jpg",
+            "title": "",
+            "text": "<p>Também há destaque para as percepções e sentimentos do narrador-personagem, que vão compondo as motivações para os acontecimentos narrados, relacionando elementos da infância com elementos da vida adulta, assim como pessoas importantes que se tornam personagens ao acompanharem o Conselheiro Peregrino. Porém, a história acaba nas últimas reflexões do personagem-narrador, antes do combate final em defesa da comunidade que construiu, neste ponto, toda a narrativa mostra-se como uma carta que ressalta a memória e configura-se como uma despedida.</p>",
+            "link_label": "",
+            "link": "",
+            "image_link": false
+          }
+        }
+      },
+      "block_order": [
+        "column_tHUQhB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -171,7 +242,7 @@
           "settings": {
             "image": "shopify://shop_images/Mockup-Antonino-01_1.png",
             "title": "",
-            "text": "",
+            "text": "<p>Desta forma, a obra aborda uma variedade de temas, enquanto o personagem-título vai contando sua história: autoconhecimento, sentimentos e emoções na narrativa biográfica; família, amigos e escola, nos fatos contados; o mundo natural e social, percebido nas peregrinações; encontros com a diferença, na postura de amorosidade e acolhimento até a construção de uma comunidade inclusiva; e, também, diversão e aventura, na trajetória narrada, mesmo que o final não seja concluído pelo narrador, ele está completo na história do país.</p>",
             "link_label": "",
             "link": "",
             "image_link": false
@@ -186,7 +257,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -204,15 +275,14 @@
         "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Faça o download</p>",
+            "heading": "<p>A variedade de temas está impregnada de aspectos da complexidade humana, que os jovens leitores podem estranhar em seu conjunto, mas que ao serem expressos de forma poética e lúdica, possibilita muitas reflexões individuais e coletivas.</p>",
             "heading_size": "h2"
           }
         },
         "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>Acesse o manual do professor para mais informações</p>",
             "left": false
           }
         },
@@ -235,7 +305,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "schema_color": true,
         "color_back": "#ffffff",
@@ -483,7 +553,9 @@
     "8caddc07-d2dc-48b5-9b18-06aa925306ef",
     "c949b8b6-2559-4093-b9f5-b3279c92b1a8",
     "custom_liquid_hRjDy8",
+    "rich_text_q8PDXC",
     "multicolumn_8fftct",
+    "multicolumn_e4iYEA",
     "multicolumn_hCnh7q",
     "02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde",
     "b4f2feff-85bd-4621-abd7-f8f0fb57bf25",
