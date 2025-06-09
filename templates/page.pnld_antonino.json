@@ -219,7 +219,7 @@
         "template--18218433904919__02b60b6f-9202-4ecf-bfbc-0d8ec7f4adde-167918007254ce44ae-2": {
           "type": "button",
           "settings": {
-            "button_label": "Trecho da obra",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": true,
             "button_label_2": "Manual do Professor",
