@@ -84,7 +84,7 @@
         "385c7754-4629-4dea-9dba-8cf1b306eafe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br/></b>\nEstimated release and shipping date:{% else %}Livro em pré-venda.<br/></b>\nPrevisão de lançamento e envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}</div>{% endif %}"
+            "custom_liquid": "{% if product.metafields.my_fields.prevenda_data and product.metafields.my_fields.prevenda %}<div style=\"font-size:14px;\"><b>{% if localization.language.iso_code == 'en' %}This book is in pre-order.<br/></b>\nEstimated release and shipping date:{% else %}Livro em pré-venda.<br/></b>\nPrevisão de lançamento e envio:{% endif %} {{product.metafields.my_fields.prevenda_data}}</div>{% endif %}"
           }
         },
         "description": {
