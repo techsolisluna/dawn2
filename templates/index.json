@@ -142,15 +142,14 @@
     },
     "featured_collection_Mxwaja": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Lançamentos saindo do forno",
         "heading_size": "h1",
-        "description": "<p><strong>Garanta o seu na pré-venda e receba o livro em primeira mão</strong>, com mimos especiais — direto da nossa casa para a sua.</p>",
+        "description": "",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "pre-venda",
-        "products_to_show": 4,
+        "collection": "lancamentos-1",
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": false,
@@ -361,7 +360,6 @@
         "text_NzRWiJ",
         "button_LX4FDa"
       ],
-      "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/1821_P_B2.jpg",
         "product_img": false,
@@ -432,7 +430,6 @@
         "slide_T64RcR",
         "slide_yHTBT7"
       ],
-      "name": "Slides, Gambiarra",
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -467,7 +464,6 @@
         "text_ictwXx"
       ],
       "disabled": true,
-      "name": "BOP24",
       "settings": {
         "image": "shopify://shop_images/BOP_c_e887b7df-ba63-4b6f-8020-06a41ebf262c.jpg",
         "product_img": false,
@@ -540,7 +536,6 @@
         "column_PRcN4B"
       ],
       "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Premiações",
         "heading_size": "h1",
@@ -560,7 +555,6 @@
     },
     "featured_products": {
       "type": "featured-collection",
-      "name": "Livros Ilustrados",
       "settings": {
         "title": "Livros ilustrados",
         "heading_size": "h1",
@@ -642,7 +636,6 @@
         "featured_collection_FxGVFq"
       ],
       "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Coleções",
         "heading_size": "h1",
