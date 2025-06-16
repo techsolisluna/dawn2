@@ -12,6 +12,27 @@
     "1658153573113a06df": {
       "type": "slideshow",
       "blocks": {
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/A2_Banner-site-PNLD-2023.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://pages/pnld-2023",
+            "button_style_secondary": true,
+            "image_link": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "custom_color": false,
+            "text_color": "#000000",
+            "text_alignment_mobile": "left"
+          }
+        },
         "slide_W7AUbz": {
           "type": "slide",
           "settings": {
@@ -95,35 +116,14 @@
             "text_color": "#000000",
             "text_alignment_mobile": "center"
           }
-        },
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banner-site-Minha-natureza_B.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://products/minha-natureza",
-            "button_style_secondary": true,
-            "image_link": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "custom_color": false,
-            "text_color": "#000000",
-            "text_alignment_mobile": "left"
-          }
         }
       },
       "block_order": [
+        "202cff2a-592d-4334-9c1c-e1f339cf33e9",
         "slide_W7AUbz",
         "slide_wkyntr",
         "slide_iaC3Mk",
-        "slide_cX7dN3",
-        "202cff2a-592d-4334-9c1c-e1f339cf33e9"
+        "slide_cX7dN3"
       ],
       "custom_css": [
         "a {text-decoration: none;}"
