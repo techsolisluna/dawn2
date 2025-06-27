@@ -50,7 +50,7 @@
         "text_xiMrRN": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ metaobject.bio | metafield_tag }}</p>",
+            "text": "{{ metaobject.biografia | metafield_tag }}",
             "text_style": "subtitle"
           }
         }
@@ -63,7 +63,7 @@
       "settings": {
         "image": "{{ metaobject.foto.value }}",
         "product_img": false,
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
