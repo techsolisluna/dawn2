@@ -99,6 +99,7 @@
         "16347613382e251593-1",
         "16347613382e251593-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
