@@ -23,6 +23,7 @@
       "blocks": {
         "5d063f83-3e84-41cd-af4c-c58526c4e0a1": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
           "settings": {
             "form_id": "566242",
             "text_color": "#202020",
@@ -45,10 +46,30 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "custom_html_w4zEGG": {
+      "type": "custom-html",
+      "blocks": {
+        "text_WdGWHD": {
+          "type": "text",
+          "settings": {
+            "section_html": "<script src=\"https://js.hsforms.net/forms/embed/21154981.js\" defer></script>\n<div class=\"hs-form-frame\" data-region=\"na1\" data-form-id=\"f7c6751c-db11-41b5-89ad-e6e1c22776b0\" data-portal-id=\"21154981\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "text_WdGWHD"
+      ],
+      "name": "HTML Customizado",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "25900573-24ac-45f0-b9d4-28f1549d661a",
-    "forms"
+    "forms",
+    "custom_html_w4zEGG"
   ]
 }
