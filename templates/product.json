@@ -44,7 +44,7 @@
         "fb062953-4d72-4753-92cc-17fdc5e598cd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}</span></a>\n\n{% if coauthor %}<span class=\"h3 author\"> e </span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
+            "custom_liquid": "<div style=\"margin-top:2rem;\">{% if product.vendor contains ' e ' %}\n  {% assign authors = product.vendor | split: ' e ' %} \n  {% assign author = authors[0] %}\n  {% assign coauthor = authors[1] %}\n{% else %}\n  {% assign author = product.vendor %}\n{% endif %}\n\n{% if author contains ', ' %}\n  {% assign authors1 = author | split: ', ' %} \n  {% assign author = authors1[0] %}\n  {% assign coauthor2 = authors1[1] %}\n{% endif %}\n\n{% assign illustrator = product.metafields.autor.ilustrador %}\n{% assign editor = product.metafields.colaborador.editor %}\n{% assign inspired = product.metafields.infotecnica.inspirado %}\n\n{% assign authorurl = author | handleize %}\n{% assign coauthorurl = coauthor | handleize %}\n{% assign coauthor2url = coauthor2 | handleize %}\n{% assign illustratorurl = illustrator | handleize %}\n{% assign inspiredourl = inspired | handleize %}\n{% assign dados = product.metafields.infotecnica.dados %}\n\n{% unless author == \"§\" or author == \"Solisluna Editora\" %}\n<a href=\"#{{ authorurl }}\" class=\"author-link\"><span class=\"h3\">{{ author }}</span></a>\n\n{% if coauthor2 %}<span class=\"h3 author\">, </span><a href=\"#{{ coauthor2url }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor2 }}</span></a>{% endif %}\n\n{% if coauthor %}<span class=\"h3 author\"> e </span><a href=\"#{{ coauthorurl }}\"class=\"author-link\" ><span class=\"h3\">{{ coauthor }}</span></a>{% endif %}\n          {% endunless %}\n\n{% if product.metafields.autor.ilustrador and illustrator %}\n<br><div class=\"h4 author illustrator\" itemprop=\"illustrator\">{% if localization.language.iso_code == 'en' %}Illustrated by{% else %}Ilustrado por{% endif %} <a class=\"author-link\" href=\"#{{ illustratorurl }}\"><span class=\"h3\"> {{ illustrator }}</span></a></div>\n{% endif %}\n\n          {% if product.metafields.autor.editor and editor %}\n            <span class=\"h4 author illustrator\" itemprop=\"editor\">{% if localization.language.iso_code == 'en' %}Created and edited by{% else %}Criado e editado por{% endif %} {{ editor }}</span>\n          {% endif %}\n</div>"
           }
         },
         "price": {
@@ -166,7 +166,12 @@
       "blocks": {
         "judge_me_reviews_review_widget_qTk4KL": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
         }
       },
       "block_order": [
