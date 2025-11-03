@@ -91,7 +91,7 @@
                 <a href="{{ collection.url }}" class="author-link">
                   <h2 class="autor-title">{{ collection.title }}</h2>
                 </a>
-                <div class="autor-description">{% if collection.description.size > 503 %}<p>{{ collection.description | truncate: 503 }} <br><a class="leiamais" href="{{ collection.url }}"><b>{% if localization.language.iso_code == "en" %}Read more{% else %}Leia mais{% endif %}</b></a></p>{% else %}<p>{{ collection.description }}</p>{% endif %}</div>
+                <div class="autor-description">{% if collection.description.size > 510 %}<p>{{ collection.description | truncate: 510 }} <br><a class="leiamais" href="{{ collection.url }}"><b>{% if localization.language.iso_code == "en" %}Read more{% else %}Leia mais{% endif %}</b></a></p>{% else %}<p>{{ collection.description }}</p>{% endif %}</div>
 
             </div>
           </div>
