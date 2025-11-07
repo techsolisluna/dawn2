@@ -147,7 +147,8 @@
         "share"
       ],
       "custom_css": [
-        ".accordion__content {font-size: medium;}"
+        ".accordion__content {font-size: medium;}",
+        "pickup-availability {display:none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
