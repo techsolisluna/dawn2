@@ -507,6 +507,7 @@
     },
     "featured_collection_ALDr3y": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "pré-venda",
       "settings": {
         "title": "Lançamentos em pré-venda",
